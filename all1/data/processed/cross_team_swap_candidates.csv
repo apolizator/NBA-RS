@@ -1,0 +1,1312 @@
+team_a,team_b,from_a_player,from_a_position,from_a_fit_score,from_b_player,from_b_position,from_b_fit_score
+BOS,BRK,Al Horford,C,1.1671,Armoni Brooks,PG,1.3794
+BOS,BRK,Kristaps Porziņģis,C,1.3696,Armoni Brooks,PG,1.3794
+BOS,BRK,Payton Pritchard,PG,1.2691,Armoni Brooks,PG,1.3794
+BOS,BRK,Sam Hauser,SF,1.6467,Armoni Brooks,PG,1.3794
+BOS,CHO,Al Horford,C,1.1671,James Bouknight,SG,1.3715
+BOS,CHO,Kristaps Porziņģis,C,1.3696,James Bouknight,SG,1.3715
+BOS,CHO,Payton Pritchard,PG,1.2691,James Bouknight,SG,1.3715
+BOS,CHO,Sam Hauser,SF,1.6467,James Bouknight,SG,1.3715
+BOS,CLE,Al Horford,C,1.1671,Sam Merrill,SG,1.4809
+BOS,CLE,Kristaps Porziņģis,C,1.3696,Sam Merrill,SG,1.4809
+BOS,CLE,Payton Pritchard,PG,1.2691,Sam Merrill,SG,1.4809
+BOS,CLE,Sam Hauser,SF,1.6467,Sam Merrill,SG,1.4809
+BOS,DEN,Al Horford,C,1.1671,Hunter Tyson,PF,1.4267
+BOS,DEN,Al Horford,C,1.1671,Jay Huff,C,1.181
+BOS,DEN,Al Horford,C,1.1671,Michael Porter Jr.,SF,1.3439
+BOS,DEN,Drew Peterson,PF,1.305,Hunter Tyson,PF,1.4267
+BOS,DEN,Drew Peterson,PF,1.305,Jay Huff,C,1.181
+BOS,DEN,Drew Peterson,PF,1.305,Michael Porter Jr.,SF,1.3439
+BOS,DEN,Kristaps Porziņģis,C,1.3696,Hunter Tyson,PF,1.4267
+BOS,DEN,Kristaps Porziņģis,C,1.3696,Jay Huff,C,1.181
+BOS,DEN,Kristaps Porziņģis,C,1.3696,Michael Porter Jr.,SF,1.3439
+BOS,DEN,Payton Pritchard,PG,1.2691,Hunter Tyson,PF,1.4267
+BOS,DEN,Payton Pritchard,PG,1.2691,Jay Huff,C,1.181
+BOS,DEN,Payton Pritchard,PG,1.2691,Michael Porter Jr.,SF,1.3439
+BOS,DEN,Sam Hauser,SF,1.6467,Hunter Tyson,PF,1.4267
+BOS,DEN,Sam Hauser,SF,1.6467,Jay Huff,C,1.181
+BOS,DEN,Sam Hauser,SF,1.6467,Michael Porter Jr.,SF,1.3439
+BOS,DET,Al Horford,C,1.1671,Stanley Umude,SG,1.5849
+BOS,DET,Kristaps Porziņģis,C,1.3696,Stanley Umude,SG,1.5849
+BOS,DET,Payton Pritchard,PG,1.2691,Stanley Umude,SG,1.5849
+BOS,DET,Sam Hauser,SF,1.6467,Stanley Umude,SG,1.5849
+BOS,GSW,Al Horford,C,1.1671,Dario Šarić,C,1.2169
+BOS,GSW,Al Horford,C,1.1671,Klay Thompson,SF,1.5375
+BOS,GSW,Kristaps Porziņģis,C,1.3696,Dario Šarić,C,1.2169
+BOS,GSW,Kristaps Porziņģis,C,1.3696,Klay Thompson,SF,1.5375
+BOS,GSW,Payton Pritchard,PG,1.2691,Dario Šarić,C,1.2169
+BOS,GSW,Payton Pritchard,PG,1.2691,Klay Thompson,SF,1.5375
+BOS,GSW,Sam Hauser,SF,1.6467,Dario Šarić,C,1.2169
+BOS,GSW,Sam Hauser,SF,1.6467,Klay Thompson,SF,1.5375
+BOS,HOU,Al Horford,C,1.1671,Cam Whitmore,SF,1.4505
+BOS,HOU,Al Horford,C,1.1671,Nate Hinton,SG,1.5014
+BOS,HOU,Kristaps Porziņģis,C,1.3696,Cam Whitmore,SF,1.4505
+BOS,HOU,Kristaps Porziņģis,C,1.3696,Nate Hinton,SG,1.5014
+BOS,HOU,Payton Pritchard,PG,1.2691,Cam Whitmore,SF,1.4505
+BOS,HOU,Payton Pritchard,PG,1.2691,Nate Hinton,SG,1.5014
+BOS,HOU,Sam Hauser,SF,1.6467,Cam Whitmore,SF,1.4505
+BOS,HOU,Sam Hauser,SF,1.6467,Nate Hinton,SG,1.5014
+BOS,IND,Al Horford,C,1.1671,Buddy Hield,SF,1.4266
+BOS,IND,Al Horford,C,1.1671,Jalen Smith,C,1.1515
+BOS,IND,Al Horford,C,1.1671,Myles Turner,C,1.1682
+BOS,IND,Kristaps Porziņģis,C,1.3696,Buddy Hield,SF,1.4266
+BOS,IND,Kristaps Porziņģis,C,1.3696,Jalen Smith,C,1.1515
+BOS,IND,Kristaps Porziņģis,C,1.3696,Myles Turner,C,1.1682
+BOS,IND,Payton Pritchard,PG,1.2691,Buddy Hield,SF,1.4266
+BOS,IND,Payton Pritchard,PG,1.2691,Jalen Smith,C,1.1515
+BOS,IND,Payton Pritchard,PG,1.2691,Myles Turner,C,1.1682
+BOS,IND,Sam Hauser,SF,1.6467,Buddy Hield,SF,1.4266
+BOS,IND,Sam Hauser,SF,1.6467,Jalen Smith,C,1.1515
+BOS,IND,Sam Hauser,SF,1.6467,Myles Turner,C,1.1682
+BOS,LAC,Al Horford,C,1.1671,Bones Hyland,PG,1.4453
+BOS,LAC,Al Horford,C,1.1671,Paul George,PF,1.5025
+BOS,LAC,Drew Peterson,PF,1.305,Bones Hyland,PG,1.4453
+BOS,LAC,Drew Peterson,PF,1.305,Paul George,PF,1.5025
+BOS,LAC,Kristaps Porziņģis,C,1.3696,Bones Hyland,PG,1.4453
+BOS,LAC,Kristaps Porziņģis,C,1.3696,Paul George,PF,1.5025
+BOS,LAC,Payton Pritchard,PG,1.2691,Bones Hyland,PG,1.4453
+BOS,LAC,Payton Pritchard,PG,1.2691,Paul George,PF,1.5025
+BOS,LAC,Sam Hauser,SF,1.6467,Bones Hyland,PG,1.4453
+BOS,LAC,Sam Hauser,SF,1.6467,Paul George,PF,1.5025
+BOS,LAL,Al Horford,C,1.1671,D'Angelo Russell,PG,1.338
+BOS,LAL,Kristaps Porziņģis,C,1.3696,D'Angelo Russell,PG,1.338
+BOS,LAL,Payton Pritchard,PG,1.2691,D'Angelo Russell,PG,1.338
+BOS,LAL,Sam Hauser,SF,1.6467,D'Angelo Russell,PG,1.338
+BOS,MIA,Al Horford,C,1.1671,Cole Swider,SF,1.3083
+BOS,MIA,Al Horford,C,1.1671,Duncan Robinson,SF,1.3519
+BOS,MIA,Al Horford,C,1.1671,Kevin Love,PF,1.6032
+BOS,MIA,Drew Peterson,PF,1.305,Cole Swider,SF,1.3083
+BOS,MIA,Drew Peterson,PF,1.305,Duncan Robinson,SF,1.3519
+BOS,MIA,Drew Peterson,PF,1.305,Kevin Love,PF,1.6032
+BOS,MIA,Kristaps Porziņģis,C,1.3696,Cole Swider,SF,1.3083
+BOS,MIA,Kristaps Porziņģis,C,1.3696,Duncan Robinson,SF,1.3519
+BOS,MIA,Kristaps Porziņģis,C,1.3696,Kevin Love,PF,1.6032
+BOS,MIA,Payton Pritchard,PG,1.2691,Cole Swider,SF,1.3083
+BOS,MIA,Payton Pritchard,PG,1.2691,Duncan Robinson,SF,1.3519
+BOS,MIA,Payton Pritchard,PG,1.2691,Kevin Love,PF,1.6032
+BOS,MIA,Sam Hauser,SF,1.6467,Cole Swider,SF,1.3083
+BOS,MIA,Sam Hauser,SF,1.6467,Duncan Robinson,SF,1.3519
+BOS,MIA,Sam Hauser,SF,1.6467,Kevin Love,PF,1.6032
+BOS,MIL,Al Horford,C,1.1671,Damian Lillard,PG,1.5511
+BOS,MIL,Kristaps Porziņģis,C,1.3696,Damian Lillard,PG,1.5511
+BOS,MIL,Payton Pritchard,PG,1.2691,Damian Lillard,PG,1.5511
+BOS,MIL,Sam Hauser,SF,1.6467,Damian Lillard,PG,1.5511
+BOS,MIN,Al Horford,C,1.1671,Karl-Anthony Towns,PF,1.3651
+BOS,MIN,Al Horford,C,1.1671,Luka Garza,C,1.2829
+BOS,MIN,Drew Peterson,PF,1.305,Karl-Anthony Towns,PF,1.3651
+BOS,MIN,Drew Peterson,PF,1.305,Luka Garza,C,1.2829
+BOS,MIN,Kristaps Porziņģis,C,1.3696,Karl-Anthony Towns,PF,1.3651
+BOS,MIN,Kristaps Porziņģis,C,1.3696,Luka Garza,C,1.2829
+BOS,MIN,Payton Pritchard,PG,1.2691,Karl-Anthony Towns,PF,1.3651
+BOS,MIN,Payton Pritchard,PG,1.2691,Luka Garza,C,1.2829
+BOS,MIN,Sam Hauser,SF,1.6467,Karl-Anthony Towns,PF,1.3651
+BOS,MIN,Sam Hauser,SF,1.6467,Luka Garza,C,1.2829
+BOS,NYK,Al Horford,C,1.1671,Julius Randle,PF,1.385
+BOS,NYK,Drew Peterson,PF,1.305,Julius Randle,PF,1.385
+BOS,NYK,Kristaps Porziņģis,C,1.3696,Julius Randle,PF,1.385
+BOS,NYK,Payton Pritchard,PG,1.2691,Julius Randle,PF,1.385
+BOS,NYK,Sam Hauser,SF,1.6467,Julius Randle,PF,1.385
+BOS,OKC,Al Horford,C,1.1671,Adam Flagler,SG,1.3991
+BOS,OKC,Al Horford,C,1.1671,Dāvis Bertāns,PF,1.3816
+BOS,OKC,Al Horford,C,1.1671,Lindy Waters III,SG,1.4594
+BOS,OKC,Drew Peterson,PF,1.305,Adam Flagler,SG,1.3991
+BOS,OKC,Drew Peterson,PF,1.305,Dāvis Bertāns,PF,1.3816
+BOS,OKC,Drew Peterson,PF,1.305,Lindy Waters III,SG,1.4594
+BOS,OKC,Kristaps Porziņģis,C,1.3696,Adam Flagler,SG,1.3991
+BOS,OKC,Kristaps Porziņģis,C,1.3696,Dāvis Bertāns,PF,1.3816
+BOS,OKC,Kristaps Porziņģis,C,1.3696,Lindy Waters III,SG,1.4594
+BOS,OKC,Payton Pritchard,PG,1.2691,Adam Flagler,SG,1.3991
+BOS,OKC,Payton Pritchard,PG,1.2691,Dāvis Bertāns,PF,1.3816
+BOS,OKC,Payton Pritchard,PG,1.2691,Lindy Waters III,SG,1.4594
+BOS,OKC,Sam Hauser,SF,1.6467,Adam Flagler,SG,1.3991
+BOS,OKC,Sam Hauser,SF,1.6467,Dāvis Bertāns,PF,1.3816
+BOS,OKC,Sam Hauser,SF,1.6467,Lindy Waters III,SG,1.4594
+BOS,ORL,Al Horford,C,1.1671,Jett Howard,SF,1.5514
+BOS,ORL,Al Horford,C,1.1671,Moritz Wagner,C,1.1462
+BOS,ORL,Kristaps Porziņģis,C,1.3696,Jett Howard,SF,1.5514
+BOS,ORL,Kristaps Porziņģis,C,1.3696,Moritz Wagner,C,1.1462
+BOS,ORL,Payton Pritchard,PG,1.2691,Jett Howard,SF,1.5514
+BOS,ORL,Payton Pritchard,PG,1.2691,Moritz Wagner,C,1.1462
+BOS,ORL,Sam Hauser,SF,1.6467,Jett Howard,SF,1.5514
+BOS,ORL,Sam Hauser,SF,1.6467,Moritz Wagner,C,1.1462
+BOS,PHO,Al Horford,C,1.1671,Kevin Durant,PF,1.3258
+BOS,PHO,Drew Peterson,PF,1.305,Kevin Durant,PF,1.3258
+BOS,PHO,Kristaps Porziņģis,C,1.3696,Kevin Durant,PF,1.3258
+BOS,PHO,Payton Pritchard,PG,1.2691,Kevin Durant,PF,1.3258
+BOS,PHO,Sam Hauser,SF,1.6467,Kevin Durant,PF,1.3258
+BOS,POR,Al Horford,C,1.1671,Anfernee Simons,SG,1.3698
+BOS,POR,Al Horford,C,1.1671,Duop Reath,C,1.2603
+BOS,POR,Kristaps Porziņģis,C,1.3696,Anfernee Simons,SG,1.3698
+BOS,POR,Kristaps Porziņģis,C,1.3696,Duop Reath,C,1.2603
+BOS,POR,Payton Pritchard,PG,1.2691,Anfernee Simons,SG,1.3698
+BOS,POR,Payton Pritchard,PG,1.2691,Duop Reath,C,1.2603
+BOS,POR,Sam Hauser,SF,1.6467,Anfernee Simons,SG,1.3698
+BOS,POR,Sam Hauser,SF,1.6467,Duop Reath,C,1.2603
+BOS,SAC,Al Horford,C,1.1671,De'Aaron Fox,PG,1.2557
+BOS,SAC,Kristaps Porziņģis,C,1.3696,De'Aaron Fox,PG,1.2557
+BOS,SAC,Payton Pritchard,PG,1.2691,De'Aaron Fox,PG,1.2557
+BOS,SAC,Sam Hauser,SF,1.6467,De'Aaron Fox,PG,1.2557
+BOS,SAS,Al Horford,C,1.1671,Devonte' Graham,PG,1.314
+BOS,SAS,Kristaps Porziņģis,C,1.3696,Devonte' Graham,PG,1.314
+BOS,SAS,Payton Pritchard,PG,1.2691,Devonte' Graham,PG,1.314
+BOS,SAS,Sam Hauser,SF,1.6467,Devonte' Graham,PG,1.314
+BOS,UTA,Al Horford,C,1.1671,Lauri Markkanen,PF,1.4075
+BOS,UTA,Drew Peterson,PF,1.305,Lauri Markkanen,PF,1.4075
+BOS,UTA,Kristaps Porziņģis,C,1.3696,Lauri Markkanen,PF,1.4075
+BOS,UTA,Payton Pritchard,PG,1.2691,Lauri Markkanen,PF,1.4075
+BOS,UTA,Sam Hauser,SF,1.6467,Lauri Markkanen,PF,1.4075
+BOS,WAS,Al Horford,C,1.1671,Kyle Kuzma,PF,1.3121
+BOS,WAS,Al Horford,C,1.1671,Mike Muscala,C,1.2661
+BOS,WAS,Al Horford,C,1.1671,Patrick Baldwin Jr.,SF,1.4218
+BOS,WAS,Al Horford,C,1.1671,Tristan Vukcevic,C,1.365
+BOS,WAS,Drew Peterson,PF,1.305,Kyle Kuzma,PF,1.3121
+BOS,WAS,Drew Peterson,PF,1.305,Mike Muscala,C,1.2661
+BOS,WAS,Drew Peterson,PF,1.305,Patrick Baldwin Jr.,SF,1.4218
+BOS,WAS,Drew Peterson,PF,1.305,Tristan Vukcevic,C,1.365
+BOS,WAS,Kristaps Porziņģis,C,1.3696,Kyle Kuzma,PF,1.3121
+BOS,WAS,Kristaps Porziņģis,C,1.3696,Mike Muscala,C,1.2661
+BOS,WAS,Kristaps Porziņģis,C,1.3696,Patrick Baldwin Jr.,SF,1.4218
+BOS,WAS,Kristaps Porziņģis,C,1.3696,Tristan Vukcevic,C,1.365
+BOS,WAS,Payton Pritchard,PG,1.2691,Kyle Kuzma,PF,1.3121
+BOS,WAS,Payton Pritchard,PG,1.2691,Mike Muscala,C,1.2661
+BOS,WAS,Payton Pritchard,PG,1.2691,Patrick Baldwin Jr.,SF,1.4218
+BOS,WAS,Payton Pritchard,PG,1.2691,Tristan Vukcevic,C,1.365
+BOS,WAS,Sam Hauser,SF,1.6467,Kyle Kuzma,PF,1.3121
+BOS,WAS,Sam Hauser,SF,1.6467,Mike Muscala,C,1.2661
+BOS,WAS,Sam Hauser,SF,1.6467,Patrick Baldwin Jr.,SF,1.4218
+BOS,WAS,Sam Hauser,SF,1.6467,Tristan Vukcevic,C,1.365
+BRK,CHO,Armoni Brooks,PG,1.3794,James Bouknight,SG,1.3715
+BRK,LAL,Armoni Brooks,PG,1.3794,D'Angelo Russell,PG,1.338
+BRK,MIN,Armoni Brooks,PG,1.3794,Karl-Anthony Towns,PF,1.3651
+BRK,MIN,Armoni Brooks,PG,1.3794,Luka Garza,C,1.2829
+BRK,PHO,Armoni Brooks,PG,1.3794,Kevin Durant,PF,1.3258
+BRK,POR,Armoni Brooks,PG,1.3794,Anfernee Simons,SG,1.3698
+BRK,POR,Armoni Brooks,PG,1.3794,Duop Reath,C,1.2603
+BRK,SAC,Armoni Brooks,PG,1.3794,De'Aaron Fox,PG,1.2557
+BRK,SAS,Armoni Brooks,PG,1.3794,Devonte' Graham,PG,1.314
+CHO,ATL,James Bouknight,SG,1.3715,Bogdan Bogdanović,SG,1.3674
+CHO,LAL,James Bouknight,SG,1.3715,D'Angelo Russell,PG,1.338
+CHO,MIN,James Bouknight,SG,1.3715,Karl-Anthony Towns,PF,1.3651
+CHO,MIN,James Bouknight,SG,1.3715,Luka Garza,C,1.2829
+CHO,PHO,James Bouknight,SG,1.3715,Kevin Durant,PF,1.3258
+CHO,POR,James Bouknight,SG,1.3715,Anfernee Simons,SG,1.3698
+CHO,POR,James Bouknight,SG,1.3715,Duop Reath,C,1.2603
+CHO,SAS,James Bouknight,SG,1.3715,Devonte' Graham,PG,1.314
+CLE,ATL,Sam Merrill,SG,1.4809,Bogdan Bogdanović,SG,1.3674
+CLE,BRK,Sam Merrill,SG,1.4809,Armoni Brooks,PG,1.3794
+CLE,CHO,Sam Merrill,SG,1.4809,James Bouknight,SG,1.3715
+CLE,DEN,Sam Merrill,SG,1.4809,Hunter Tyson,PF,1.4267
+CLE,DEN,Sam Merrill,SG,1.4809,Jay Huff,C,1.181
+CLE,DEN,Sam Merrill,SG,1.4809,Michael Porter Jr.,SF,1.3439
+CLE,IND,Sam Merrill,SG,1.4809,Buddy Hield,SF,1.4266
+CLE,IND,Sam Merrill,SG,1.4809,Myles Turner,C,1.1682
+CLE,LAL,Sam Merrill,SG,1.4809,D'Angelo Russell,PG,1.338
+CLE,MIN,Sam Merrill,SG,1.4809,Karl-Anthony Towns,PF,1.3651
+CLE,MIN,Sam Merrill,SG,1.4809,Luka Garza,C,1.2829
+CLE,NYK,Sam Merrill,SG,1.4809,Julius Randle,PF,1.385
+CLE,OKC,Sam Merrill,SG,1.4809,Adam Flagler,SG,1.3991
+CLE,OKC,Sam Merrill,SG,1.4809,Dāvis Bertāns,PF,1.3816
+CLE,OKC,Sam Merrill,SG,1.4809,Lindy Waters III,SG,1.4594
+CLE,PHO,Sam Merrill,SG,1.4809,Kevin Durant,PF,1.3258
+CLE,POR,Sam Merrill,SG,1.4809,Anfernee Simons,SG,1.3698
+CLE,POR,Sam Merrill,SG,1.4809,Duop Reath,C,1.2603
+CLE,SAS,Sam Merrill,SG,1.4809,Devonte' Graham,PG,1.314
+CLE,UTA,Sam Merrill,SG,1.4809,Lauri Markkanen,PF,1.4075
+CLE,WAS,Sam Merrill,SG,1.4809,Kyle Kuzma,PF,1.3121
+CLE,WAS,Sam Merrill,SG,1.4809,Mike Muscala,C,1.2661
+CLE,WAS,Sam Merrill,SG,1.4809,Patrick Baldwin Jr.,SF,1.4218
+CLE,WAS,Sam Merrill,SG,1.4809,Tristan Vukcevic,C,1.365
+DAL,ATL,Dexter Dennis,SG,1.5418,Bogdan Bogdanović,SG,1.3674
+DAL,ATL,Luka Dončić,PG,1.7383,Bogdan Bogdanović,SG,1.3674
+DAL,ATL,Tim Hardaway Jr.,SF,1.3672,Bogdan Bogdanović,SG,1.3674
+DAL,BOS,Dexter Dennis,SG,1.5418,Al Horford,C,1.1671
+DAL,BOS,Dexter Dennis,SG,1.5418,Kristaps Porziņģis,C,1.3696
+DAL,BOS,Dexter Dennis,SG,1.5418,Payton Pritchard,PG,1.2691
+DAL,BOS,Dexter Dennis,SG,1.5418,Sam Hauser,SF,1.6467
+DAL,BOS,Luka Dončić,PG,1.7383,Al Horford,C,1.1671
+DAL,BOS,Luka Dončić,PG,1.7383,Kristaps Porziņģis,C,1.3696
+DAL,BOS,Luka Dončić,PG,1.7383,Payton Pritchard,PG,1.2691
+DAL,BOS,Luka Dončić,PG,1.7383,Sam Hauser,SF,1.6467
+DAL,BOS,Tim Hardaway Jr.,SF,1.3672,Al Horford,C,1.1671
+DAL,BOS,Tim Hardaway Jr.,SF,1.3672,Kristaps Porziņģis,C,1.3696
+DAL,BOS,Tim Hardaway Jr.,SF,1.3672,Payton Pritchard,PG,1.2691
+DAL,BOS,Tim Hardaway Jr.,SF,1.3672,Sam Hauser,SF,1.6467
+DAL,BRK,Dexter Dennis,SG,1.5418,Armoni Brooks,PG,1.3794
+DAL,BRK,Luka Dončić,PG,1.7383,Armoni Brooks,PG,1.3794
+DAL,BRK,Tim Hardaway Jr.,SF,1.3672,Armoni Brooks,PG,1.3794
+DAL,CHO,Dexter Dennis,SG,1.5418,James Bouknight,SG,1.3715
+DAL,CHO,Luka Dončić,PG,1.7383,James Bouknight,SG,1.3715
+DAL,CHO,Tim Hardaway Jr.,SF,1.3672,James Bouknight,SG,1.3715
+DAL,CLE,Dexter Dennis,SG,1.5418,Sam Merrill,SG,1.4809
+DAL,CLE,Luka Dončić,PG,1.7383,Sam Merrill,SG,1.4809
+DAL,CLE,Tim Hardaway Jr.,SF,1.3672,Sam Merrill,SG,1.4809
+DAL,DEN,Dexter Dennis,SG,1.5418,Hunter Tyson,PF,1.4267
+DAL,DEN,Dexter Dennis,SG,1.5418,Jay Huff,C,1.181
+DAL,DEN,Dexter Dennis,SG,1.5418,Michael Porter Jr.,SF,1.3439
+DAL,DEN,Luka Dončić,PG,1.7383,Hunter Tyson,PF,1.4267
+DAL,DEN,Luka Dončić,PG,1.7383,Jay Huff,C,1.181
+DAL,DEN,Luka Dončić,PG,1.7383,Michael Porter Jr.,SF,1.3439
+DAL,DEN,Tim Hardaway Jr.,SF,1.3672,Hunter Tyson,PF,1.4267
+DAL,DEN,Tim Hardaway Jr.,SF,1.3672,Jay Huff,C,1.181
+DAL,DEN,Tim Hardaway Jr.,SF,1.3672,Michael Porter Jr.,SF,1.3439
+DAL,DET,Dexter Dennis,SG,1.5418,Stanley Umude,SG,1.5849
+DAL,DET,Luka Dončić,PG,1.7383,Stanley Umude,SG,1.5849
+DAL,DET,Tim Hardaway Jr.,SF,1.3672,Stanley Umude,SG,1.5849
+DAL,GSW,Dexter Dennis,SG,1.5418,Dario Šarić,C,1.2169
+DAL,GSW,Dexter Dennis,SG,1.5418,Klay Thompson,SF,1.5375
+DAL,GSW,Luka Dončić,PG,1.7383,Dario Šarić,C,1.2169
+DAL,GSW,Luka Dončić,PG,1.7383,Klay Thompson,SF,1.5375
+DAL,GSW,Tim Hardaway Jr.,SF,1.3672,Dario Šarić,C,1.2169
+DAL,GSW,Tim Hardaway Jr.,SF,1.3672,Klay Thompson,SF,1.5375
+DAL,HOU,Dexter Dennis,SG,1.5418,Cam Whitmore,SF,1.4505
+DAL,HOU,Dexter Dennis,SG,1.5418,Nate Hinton,SG,1.5014
+DAL,HOU,Luka Dončić,PG,1.7383,Cam Whitmore,SF,1.4505
+DAL,HOU,Luka Dončić,PG,1.7383,Nate Hinton,SG,1.5014
+DAL,HOU,Tim Hardaway Jr.,SF,1.3672,Cam Whitmore,SF,1.4505
+DAL,HOU,Tim Hardaway Jr.,SF,1.3672,Nate Hinton,SG,1.5014
+DAL,IND,Dexter Dennis,SG,1.5418,Buddy Hield,SF,1.4266
+DAL,IND,Dexter Dennis,SG,1.5418,Myles Turner,C,1.1682
+DAL,IND,Luka Dončić,PG,1.7383,Buddy Hield,SF,1.4266
+DAL,IND,Luka Dončić,PG,1.7383,Myles Turner,C,1.1682
+DAL,IND,Tim Hardaway Jr.,SF,1.3672,Buddy Hield,SF,1.4266
+DAL,IND,Tim Hardaway Jr.,SF,1.3672,Myles Turner,C,1.1682
+DAL,LAC,Dexter Dennis,SG,1.5418,Bones Hyland,PG,1.4453
+DAL,LAC,Dexter Dennis,SG,1.5418,Paul George,PF,1.5025
+DAL,LAC,Luka Dončić,PG,1.7383,Bones Hyland,PG,1.4453
+DAL,LAC,Luka Dončić,PG,1.7383,Paul George,PF,1.5025
+DAL,LAC,Tim Hardaway Jr.,SF,1.3672,Bones Hyland,PG,1.4453
+DAL,LAC,Tim Hardaway Jr.,SF,1.3672,Paul George,PF,1.5025
+DAL,LAL,Dexter Dennis,SG,1.5418,D'Angelo Russell,PG,1.338
+DAL,LAL,Luka Dončić,PG,1.7383,D'Angelo Russell,PG,1.338
+DAL,LAL,Tim Hardaway Jr.,SF,1.3672,D'Angelo Russell,PG,1.338
+DAL,MIA,Dexter Dennis,SG,1.5418,Cole Swider,SF,1.3083
+DAL,MIA,Dexter Dennis,SG,1.5418,Duncan Robinson,SF,1.3519
+DAL,MIA,Dexter Dennis,SG,1.5418,Kevin Love,PF,1.6032
+DAL,MIA,Luka Dončić,PG,1.7383,Cole Swider,SF,1.3083
+DAL,MIA,Luka Dončić,PG,1.7383,Duncan Robinson,SF,1.3519
+DAL,MIA,Luka Dončić,PG,1.7383,Kevin Love,PF,1.6032
+DAL,MIA,Tim Hardaway Jr.,SF,1.3672,Cole Swider,SF,1.3083
+DAL,MIA,Tim Hardaway Jr.,SF,1.3672,Duncan Robinson,SF,1.3519
+DAL,MIA,Tim Hardaway Jr.,SF,1.3672,Kevin Love,PF,1.6032
+DAL,MIL,Dexter Dennis,SG,1.5418,Damian Lillard,PG,1.5511
+DAL,MIL,Luka Dončić,PG,1.7383,Damian Lillard,PG,1.5511
+DAL,MIL,Tim Hardaway Jr.,SF,1.3672,Damian Lillard,PG,1.5511
+DAL,MIN,Dexter Dennis,SG,1.5418,Karl-Anthony Towns,PF,1.3651
+DAL,MIN,Dexter Dennis,SG,1.5418,Luka Garza,C,1.2829
+DAL,MIN,Luka Dončić,PG,1.7383,Karl-Anthony Towns,PF,1.3651
+DAL,MIN,Luka Dončić,PG,1.7383,Luka Garza,C,1.2829
+DAL,MIN,Tim Hardaway Jr.,SF,1.3672,Karl-Anthony Towns,PF,1.3651
+DAL,MIN,Tim Hardaway Jr.,SF,1.3672,Luka Garza,C,1.2829
+DAL,NYK,Dexter Dennis,SG,1.5418,Julius Randle,PF,1.385
+DAL,NYK,Luka Dončić,PG,1.7383,Julius Randle,PF,1.385
+DAL,NYK,Tim Hardaway Jr.,SF,1.3672,Julius Randle,PF,1.385
+DAL,OKC,Dexter Dennis,SG,1.5418,Adam Flagler,SG,1.3991
+DAL,OKC,Dexter Dennis,SG,1.5418,Dāvis Bertāns,PF,1.3816
+DAL,OKC,Dexter Dennis,SG,1.5418,Lindy Waters III,SG,1.4594
+DAL,OKC,Luka Dončić,PG,1.7383,Adam Flagler,SG,1.3991
+DAL,OKC,Luka Dončić,PG,1.7383,Dāvis Bertāns,PF,1.3816
+DAL,OKC,Luka Dončić,PG,1.7383,Lindy Waters III,SG,1.4594
+DAL,OKC,Tim Hardaway Jr.,SF,1.3672,Adam Flagler,SG,1.3991
+DAL,OKC,Tim Hardaway Jr.,SF,1.3672,Dāvis Bertāns,PF,1.3816
+DAL,OKC,Tim Hardaway Jr.,SF,1.3672,Lindy Waters III,SG,1.4594
+DAL,ORL,Dexter Dennis,SG,1.5418,Jett Howard,SF,1.5514
+DAL,ORL,Luka Dončić,PG,1.7383,Jett Howard,SF,1.5514
+DAL,ORL,Tim Hardaway Jr.,SF,1.3672,Jett Howard,SF,1.5514
+DAL,PHO,Dexter Dennis,SG,1.5418,Kevin Durant,PF,1.3258
+DAL,PHO,Luka Dončić,PG,1.7383,Kevin Durant,PF,1.3258
+DAL,PHO,Tim Hardaway Jr.,SF,1.3672,Kevin Durant,PF,1.3258
+DAL,POR,Dexter Dennis,SG,1.5418,Anfernee Simons,SG,1.3698
+DAL,POR,Dexter Dennis,SG,1.5418,Duop Reath,C,1.2603
+DAL,POR,Luka Dončić,PG,1.7383,Anfernee Simons,SG,1.3698
+DAL,POR,Luka Dončić,PG,1.7383,Duop Reath,C,1.2603
+DAL,POR,Tim Hardaway Jr.,SF,1.3672,Anfernee Simons,SG,1.3698
+DAL,POR,Tim Hardaway Jr.,SF,1.3672,Duop Reath,C,1.2603
+DAL,SAC,Dexter Dennis,SG,1.5418,De'Aaron Fox,PG,1.2557
+DAL,SAC,Luka Dončić,PG,1.7383,De'Aaron Fox,PG,1.2557
+DAL,SAC,Tim Hardaway Jr.,SF,1.3672,De'Aaron Fox,PG,1.2557
+DAL,SAS,Dexter Dennis,SG,1.5418,Devonte' Graham,PG,1.314
+DAL,SAS,Luka Dončić,PG,1.7383,Devonte' Graham,PG,1.314
+DAL,SAS,Tim Hardaway Jr.,SF,1.3672,Devonte' Graham,PG,1.314
+DAL,UTA,Dexter Dennis,SG,1.5418,Lauri Markkanen,PF,1.4075
+DAL,UTA,Luka Dončić,PG,1.7383,Lauri Markkanen,PF,1.4075
+DAL,UTA,Tim Hardaway Jr.,SF,1.3672,Lauri Markkanen,PF,1.4075
+DAL,WAS,Dexter Dennis,SG,1.5418,Kyle Kuzma,PF,1.3121
+DAL,WAS,Dexter Dennis,SG,1.5418,Mike Muscala,C,1.2661
+DAL,WAS,Dexter Dennis,SG,1.5418,Patrick Baldwin Jr.,SF,1.4218
+DAL,WAS,Dexter Dennis,SG,1.5418,Tristan Vukcevic,C,1.365
+DAL,WAS,Luka Dončić,PG,1.7383,Kyle Kuzma,PF,1.3121
+DAL,WAS,Luka Dončić,PG,1.7383,Mike Muscala,C,1.2661
+DAL,WAS,Luka Dončić,PG,1.7383,Patrick Baldwin Jr.,SF,1.4218
+DAL,WAS,Luka Dončić,PG,1.7383,Tristan Vukcevic,C,1.365
+DAL,WAS,Tim Hardaway Jr.,SF,1.3672,Kyle Kuzma,PF,1.3121
+DAL,WAS,Tim Hardaway Jr.,SF,1.3672,Mike Muscala,C,1.2661
+DAL,WAS,Tim Hardaway Jr.,SF,1.3672,Patrick Baldwin Jr.,SF,1.4218
+DAL,WAS,Tim Hardaway Jr.,SF,1.3672,Tristan Vukcevic,C,1.365
+DEN,BRK,Hunter Tyson,PF,1.4267,Armoni Brooks,PG,1.3794
+DEN,BRK,Jay Huff,C,1.181,Armoni Brooks,PG,1.3794
+DEN,BRK,Michael Porter Jr.,SF,1.3439,Armoni Brooks,PG,1.3794
+DEN,CHO,Hunter Tyson,PF,1.4267,James Bouknight,SG,1.3715
+DEN,CHO,Jay Huff,C,1.181,James Bouknight,SG,1.3715
+DEN,CHO,Michael Porter Jr.,SF,1.3439,James Bouknight,SG,1.3715
+DEN,IND,Hunter Tyson,PF,1.4267,Buddy Hield,SF,1.4266
+DEN,IND,Hunter Tyson,PF,1.4267,Jalen Smith,C,1.1515
+DEN,IND,Hunter Tyson,PF,1.4267,Myles Turner,C,1.1682
+DEN,IND,Jay Huff,C,1.181,Buddy Hield,SF,1.4266
+DEN,IND,Jay Huff,C,1.181,Jalen Smith,C,1.1515
+DEN,IND,Jay Huff,C,1.181,Myles Turner,C,1.1682
+DEN,IND,Michael Porter Jr.,SF,1.3439,Buddy Hield,SF,1.4266
+DEN,IND,Michael Porter Jr.,SF,1.3439,Jalen Smith,C,1.1515
+DEN,IND,Michael Porter Jr.,SF,1.3439,Myles Turner,C,1.1682
+DEN,LAL,Hunter Tyson,PF,1.4267,D'Angelo Russell,PG,1.338
+DEN,LAL,Jay Huff,C,1.181,D'Angelo Russell,PG,1.338
+DEN,LAL,Michael Porter Jr.,SF,1.3439,D'Angelo Russell,PG,1.338
+DEN,MIN,Hunter Tyson,PF,1.4267,Karl-Anthony Towns,PF,1.3651
+DEN,MIN,Hunter Tyson,PF,1.4267,Luka Garza,C,1.2829
+DEN,MIN,Jay Huff,C,1.181,Karl-Anthony Towns,PF,1.3651
+DEN,MIN,Jay Huff,C,1.181,Luka Garza,C,1.2829
+DEN,MIN,Michael Porter Jr.,SF,1.3439,Karl-Anthony Towns,PF,1.3651
+DEN,MIN,Michael Porter Jr.,SF,1.3439,Luka Garza,C,1.2829
+DEN,NYK,Hunter Tyson,PF,1.4267,Julius Randle,PF,1.385
+DEN,NYK,Jay Huff,C,1.181,Julius Randle,PF,1.385
+DEN,NYK,Michael Porter Jr.,SF,1.3439,Julius Randle,PF,1.385
+DEN,PHO,Hunter Tyson,PF,1.4267,Kevin Durant,PF,1.3258
+DEN,PHO,Jay Huff,C,1.181,Kevin Durant,PF,1.3258
+DEN,PHO,Michael Porter Jr.,SF,1.3439,Kevin Durant,PF,1.3258
+DEN,POR,Hunter Tyson,PF,1.4267,Anfernee Simons,SG,1.3698
+DEN,POR,Hunter Tyson,PF,1.4267,Duop Reath,C,1.2603
+DEN,POR,Jay Huff,C,1.181,Anfernee Simons,SG,1.3698
+DEN,POR,Jay Huff,C,1.181,Duop Reath,C,1.2603
+DEN,POR,Michael Porter Jr.,SF,1.3439,Anfernee Simons,SG,1.3698
+DEN,POR,Michael Porter Jr.,SF,1.3439,Duop Reath,C,1.2603
+DEN,SAS,Hunter Tyson,PF,1.4267,Devonte' Graham,PG,1.314
+DEN,SAS,Jay Huff,C,1.181,Devonte' Graham,PG,1.314
+DEN,SAS,Michael Porter Jr.,SF,1.3439,Devonte' Graham,PG,1.314
+DEN,UTA,Hunter Tyson,PF,1.4267,Lauri Markkanen,PF,1.4075
+DEN,UTA,Jay Huff,C,1.181,Lauri Markkanen,PF,1.4075
+DEN,UTA,Michael Porter Jr.,SF,1.3439,Lauri Markkanen,PF,1.4075
+DEN,WAS,Hunter Tyson,PF,1.4267,Kyle Kuzma,PF,1.3121
+DEN,WAS,Hunter Tyson,PF,1.4267,Mike Muscala,C,1.2661
+DEN,WAS,Hunter Tyson,PF,1.4267,Patrick Baldwin Jr.,SF,1.4218
+DEN,WAS,Hunter Tyson,PF,1.4267,Tristan Vukcevic,C,1.365
+DEN,WAS,Jay Huff,C,1.181,Kyle Kuzma,PF,1.3121
+DEN,WAS,Jay Huff,C,1.181,Mike Muscala,C,1.2661
+DEN,WAS,Jay Huff,C,1.181,Patrick Baldwin Jr.,SF,1.4218
+DEN,WAS,Jay Huff,C,1.181,Tristan Vukcevic,C,1.365
+DEN,WAS,Michael Porter Jr.,SF,1.3439,Kyle Kuzma,PF,1.3121
+DEN,WAS,Michael Porter Jr.,SF,1.3439,Mike Muscala,C,1.2661
+DEN,WAS,Michael Porter Jr.,SF,1.3439,Patrick Baldwin Jr.,SF,1.4218
+DEN,WAS,Michael Porter Jr.,SF,1.3439,Tristan Vukcevic,C,1.365
+DET,ATL,Stanley Umude,SG,1.5849,Bogdan Bogdanović,SG,1.3674
+DET,BRK,Stanley Umude,SG,1.5849,Armoni Brooks,PG,1.3794
+DET,CHO,Stanley Umude,SG,1.5849,James Bouknight,SG,1.3715
+DET,CLE,Stanley Umude,SG,1.5849,Sam Merrill,SG,1.4809
+DET,DEN,Stanley Umude,SG,1.5849,Hunter Tyson,PF,1.4267
+DET,DEN,Stanley Umude,SG,1.5849,Jay Huff,C,1.181
+DET,DEN,Stanley Umude,SG,1.5849,Michael Porter Jr.,SF,1.3439
+DET,GSW,Stanley Umude,SG,1.5849,Dario Šarić,C,1.2169
+DET,GSW,Stanley Umude,SG,1.5849,Klay Thompson,SF,1.5375
+DET,HOU,Stanley Umude,SG,1.5849,Cam Whitmore,SF,1.4505
+DET,HOU,Stanley Umude,SG,1.5849,Nate Hinton,SG,1.5014
+DET,IND,Stanley Umude,SG,1.5849,Buddy Hield,SF,1.4266
+DET,IND,Stanley Umude,SG,1.5849,Myles Turner,C,1.1682
+DET,LAC,Stanley Umude,SG,1.5849,Bones Hyland,PG,1.4453
+DET,LAC,Stanley Umude,SG,1.5849,Paul George,PF,1.5025
+DET,LAL,Stanley Umude,SG,1.5849,D'Angelo Russell,PG,1.338
+DET,MIL,Stanley Umude,SG,1.5849,Damian Lillard,PG,1.5511
+DET,MIN,Stanley Umude,SG,1.5849,Karl-Anthony Towns,PF,1.3651
+DET,MIN,Stanley Umude,SG,1.5849,Luka Garza,C,1.2829
+DET,NYK,Stanley Umude,SG,1.5849,Julius Randle,PF,1.385
+DET,OKC,Stanley Umude,SG,1.5849,Adam Flagler,SG,1.3991
+DET,OKC,Stanley Umude,SG,1.5849,Dāvis Bertāns,PF,1.3816
+DET,OKC,Stanley Umude,SG,1.5849,Lindy Waters III,SG,1.4594
+DET,ORL,Stanley Umude,SG,1.5849,Jett Howard,SF,1.5514
+DET,PHO,Stanley Umude,SG,1.5849,Kevin Durant,PF,1.3258
+DET,POR,Stanley Umude,SG,1.5849,Anfernee Simons,SG,1.3698
+DET,POR,Stanley Umude,SG,1.5849,Duop Reath,C,1.2603
+DET,SAS,Stanley Umude,SG,1.5849,Devonte' Graham,PG,1.314
+DET,UTA,Stanley Umude,SG,1.5849,Lauri Markkanen,PF,1.4075
+DET,WAS,Stanley Umude,SG,1.5849,Kyle Kuzma,PF,1.3121
+DET,WAS,Stanley Umude,SG,1.5849,Mike Muscala,C,1.2661
+DET,WAS,Stanley Umude,SG,1.5849,Patrick Baldwin Jr.,SF,1.4218
+DET,WAS,Stanley Umude,SG,1.5849,Tristan Vukcevic,C,1.365
+GSW,BRK,Dario Šarić,C,1.2169,Armoni Brooks,PG,1.3794
+GSW,BRK,Klay Thompson,SF,1.5375,Armoni Brooks,PG,1.3794
+GSW,CHO,Dario Šarić,C,1.2169,James Bouknight,SG,1.3715
+GSW,CHO,Klay Thompson,SF,1.5375,James Bouknight,SG,1.3715
+GSW,CLE,Dario Šarić,C,1.2169,Sam Merrill,SG,1.4809
+GSW,CLE,Klay Thompson,SF,1.5375,Sam Merrill,SG,1.4809
+GSW,DEN,Dario Šarić,C,1.2169,Hunter Tyson,PF,1.4267
+GSW,DEN,Dario Šarić,C,1.2169,Jay Huff,C,1.181
+GSW,DEN,Dario Šarić,C,1.2169,Michael Porter Jr.,SF,1.3439
+GSW,DEN,Klay Thompson,SF,1.5375,Hunter Tyson,PF,1.4267
+GSW,DEN,Klay Thompson,SF,1.5375,Jay Huff,C,1.181
+GSW,DEN,Klay Thompson,SF,1.5375,Michael Porter Jr.,SF,1.3439
+GSW,HOU,Dario Šarić,C,1.2169,Cam Whitmore,SF,1.4505
+GSW,HOU,Dario Šarić,C,1.2169,Nate Hinton,SG,1.5014
+GSW,HOU,Klay Thompson,SF,1.5375,Cam Whitmore,SF,1.4505
+GSW,HOU,Klay Thompson,SF,1.5375,Nate Hinton,SG,1.5014
+GSW,IND,Dario Šarić,C,1.2169,Buddy Hield,SF,1.4266
+GSW,IND,Dario Šarić,C,1.2169,Jalen Smith,C,1.1515
+GSW,IND,Dario Šarić,C,1.2169,Myles Turner,C,1.1682
+GSW,IND,Klay Thompson,SF,1.5375,Buddy Hield,SF,1.4266
+GSW,IND,Klay Thompson,SF,1.5375,Jalen Smith,C,1.1515
+GSW,IND,Klay Thompson,SF,1.5375,Myles Turner,C,1.1682
+GSW,LAC,Dario Šarić,C,1.2169,Bones Hyland,PG,1.4453
+GSW,LAC,Dario Šarić,C,1.2169,Paul George,PF,1.5025
+GSW,LAC,Klay Thompson,SF,1.5375,Bones Hyland,PG,1.4453
+GSW,LAC,Klay Thompson,SF,1.5375,Paul George,PF,1.5025
+GSW,LAL,Dario Šarić,C,1.2169,D'Angelo Russell,PG,1.338
+GSW,LAL,Klay Thompson,SF,1.5375,D'Angelo Russell,PG,1.338
+GSW,MIN,Dario Šarić,C,1.2169,Karl-Anthony Towns,PF,1.3651
+GSW,MIN,Dario Šarić,C,1.2169,Luka Garza,C,1.2829
+GSW,MIN,Klay Thompson,SF,1.5375,Karl-Anthony Towns,PF,1.3651
+GSW,MIN,Klay Thompson,SF,1.5375,Luka Garza,C,1.2829
+GSW,NYK,Dario Šarić,C,1.2169,Julius Randle,PF,1.385
+GSW,NYK,Klay Thompson,SF,1.5375,Julius Randle,PF,1.385
+GSW,OKC,Dario Šarić,C,1.2169,Adam Flagler,SG,1.3991
+GSW,OKC,Dario Šarić,C,1.2169,Dāvis Bertāns,PF,1.3816
+GSW,OKC,Dario Šarić,C,1.2169,Lindy Waters III,SG,1.4594
+GSW,OKC,Klay Thompson,SF,1.5375,Adam Flagler,SG,1.3991
+GSW,OKC,Klay Thompson,SF,1.5375,Dāvis Bertāns,PF,1.3816
+GSW,OKC,Klay Thompson,SF,1.5375,Lindy Waters III,SG,1.4594
+GSW,PHO,Dario Šarić,C,1.2169,Kevin Durant,PF,1.3258
+GSW,PHO,Klay Thompson,SF,1.5375,Kevin Durant,PF,1.3258
+GSW,POR,Dario Šarić,C,1.2169,Anfernee Simons,SG,1.3698
+GSW,POR,Dario Šarić,C,1.2169,Duop Reath,C,1.2603
+GSW,POR,Klay Thompson,SF,1.5375,Anfernee Simons,SG,1.3698
+GSW,POR,Klay Thompson,SF,1.5375,Duop Reath,C,1.2603
+GSW,SAS,Dario Šarić,C,1.2169,Devonte' Graham,PG,1.314
+GSW,SAS,Klay Thompson,SF,1.5375,Devonte' Graham,PG,1.314
+GSW,UTA,Dario Šarić,C,1.2169,Lauri Markkanen,PF,1.4075
+GSW,UTA,Klay Thompson,SF,1.5375,Lauri Markkanen,PF,1.4075
+GSW,WAS,Dario Šarić,C,1.2169,Kyle Kuzma,PF,1.3121
+GSW,WAS,Dario Šarić,C,1.2169,Mike Muscala,C,1.2661
+GSW,WAS,Dario Šarić,C,1.2169,Patrick Baldwin Jr.,SF,1.4218
+GSW,WAS,Dario Šarić,C,1.2169,Tristan Vukcevic,C,1.365
+GSW,WAS,Klay Thompson,SF,1.5375,Kyle Kuzma,PF,1.3121
+GSW,WAS,Klay Thompson,SF,1.5375,Mike Muscala,C,1.2661
+GSW,WAS,Klay Thompson,SF,1.5375,Patrick Baldwin Jr.,SF,1.4218
+GSW,WAS,Klay Thompson,SF,1.5375,Tristan Vukcevic,C,1.365
+HOU,ATL,Cam Whitmore,SF,1.4505,Bogdan Bogdanović,SG,1.3674
+HOU,ATL,Nate Hinton,SG,1.5014,Bogdan Bogdanović,SG,1.3674
+HOU,BRK,Cam Whitmore,SF,1.4505,Armoni Brooks,PG,1.3794
+HOU,BRK,Nate Hinton,SG,1.5014,Armoni Brooks,PG,1.3794
+HOU,CHO,Cam Whitmore,SF,1.4505,James Bouknight,SG,1.3715
+HOU,CHO,Nate Hinton,SG,1.5014,James Bouknight,SG,1.3715
+HOU,CLE,Cam Whitmore,SF,1.4505,Sam Merrill,SG,1.4809
+HOU,CLE,Nate Hinton,SG,1.5014,Sam Merrill,SG,1.4809
+HOU,DEN,Cam Whitmore,SF,1.4505,Hunter Tyson,PF,1.4267
+HOU,DEN,Cam Whitmore,SF,1.4505,Jay Huff,C,1.181
+HOU,DEN,Cam Whitmore,SF,1.4505,Michael Porter Jr.,SF,1.3439
+HOU,DEN,Nate Hinton,SG,1.5014,Hunter Tyson,PF,1.4267
+HOU,DEN,Nate Hinton,SG,1.5014,Jay Huff,C,1.181
+HOU,DEN,Nate Hinton,SG,1.5014,Michael Porter Jr.,SF,1.3439
+HOU,IND,Cam Whitmore,SF,1.4505,Buddy Hield,SF,1.4266
+HOU,IND,Cam Whitmore,SF,1.4505,Myles Turner,C,1.1682
+HOU,IND,Nate Hinton,SG,1.5014,Buddy Hield,SF,1.4266
+HOU,IND,Nate Hinton,SG,1.5014,Myles Turner,C,1.1682
+HOU,LAL,Cam Whitmore,SF,1.4505,D'Angelo Russell,PG,1.338
+HOU,LAL,Nate Hinton,SG,1.5014,D'Angelo Russell,PG,1.338
+HOU,MIN,Cam Whitmore,SF,1.4505,Karl-Anthony Towns,PF,1.3651
+HOU,MIN,Cam Whitmore,SF,1.4505,Luka Garza,C,1.2829
+HOU,MIN,Nate Hinton,SG,1.5014,Karl-Anthony Towns,PF,1.3651
+HOU,MIN,Nate Hinton,SG,1.5014,Luka Garza,C,1.2829
+HOU,NYK,Cam Whitmore,SF,1.4505,Julius Randle,PF,1.385
+HOU,NYK,Nate Hinton,SG,1.5014,Julius Randle,PF,1.385
+HOU,OKC,Cam Whitmore,SF,1.4505,Adam Flagler,SG,1.3991
+HOU,OKC,Cam Whitmore,SF,1.4505,Dāvis Bertāns,PF,1.3816
+HOU,OKC,Cam Whitmore,SF,1.4505,Lindy Waters III,SG,1.4594
+HOU,OKC,Nate Hinton,SG,1.5014,Adam Flagler,SG,1.3991
+HOU,OKC,Nate Hinton,SG,1.5014,Dāvis Bertāns,PF,1.3816
+HOU,OKC,Nate Hinton,SG,1.5014,Lindy Waters III,SG,1.4594
+HOU,PHO,Cam Whitmore,SF,1.4505,Kevin Durant,PF,1.3258
+HOU,PHO,Nate Hinton,SG,1.5014,Kevin Durant,PF,1.3258
+HOU,POR,Cam Whitmore,SF,1.4505,Anfernee Simons,SG,1.3698
+HOU,POR,Cam Whitmore,SF,1.4505,Duop Reath,C,1.2603
+HOU,POR,Nate Hinton,SG,1.5014,Anfernee Simons,SG,1.3698
+HOU,POR,Nate Hinton,SG,1.5014,Duop Reath,C,1.2603
+HOU,SAS,Cam Whitmore,SF,1.4505,Devonte' Graham,PG,1.314
+HOU,SAS,Nate Hinton,SG,1.5014,Devonte' Graham,PG,1.314
+HOU,UTA,Cam Whitmore,SF,1.4505,Lauri Markkanen,PF,1.4075
+HOU,UTA,Nate Hinton,SG,1.5014,Lauri Markkanen,PF,1.4075
+HOU,WAS,Cam Whitmore,SF,1.4505,Kyle Kuzma,PF,1.3121
+HOU,WAS,Cam Whitmore,SF,1.4505,Mike Muscala,C,1.2661
+HOU,WAS,Cam Whitmore,SF,1.4505,Patrick Baldwin Jr.,SF,1.4218
+HOU,WAS,Cam Whitmore,SF,1.4505,Tristan Vukcevic,C,1.365
+HOU,WAS,Nate Hinton,SG,1.5014,Kyle Kuzma,PF,1.3121
+HOU,WAS,Nate Hinton,SG,1.5014,Mike Muscala,C,1.2661
+HOU,WAS,Nate Hinton,SG,1.5014,Patrick Baldwin Jr.,SF,1.4218
+HOU,WAS,Nate Hinton,SG,1.5014,Tristan Vukcevic,C,1.365
+IND,BRK,Buddy Hield,SF,1.4266,Armoni Brooks,PG,1.3794
+IND,BRK,Myles Turner,C,1.1682,Armoni Brooks,PG,1.3794
+IND,CHO,Buddy Hield,SF,1.4266,James Bouknight,SG,1.3715
+IND,CHO,Myles Turner,C,1.1682,James Bouknight,SG,1.3715
+IND,LAL,Buddy Hield,SF,1.4266,D'Angelo Russell,PG,1.338
+IND,LAL,Myles Turner,C,1.1682,D'Angelo Russell,PG,1.338
+IND,MIN,Buddy Hield,SF,1.4266,Karl-Anthony Towns,PF,1.3651
+IND,MIN,Buddy Hield,SF,1.4266,Luka Garza,C,1.2829
+IND,MIN,Jalen Smith,C,1.1515,Karl-Anthony Towns,PF,1.3651
+IND,MIN,Jalen Smith,C,1.1515,Luka Garza,C,1.2829
+IND,MIN,Myles Turner,C,1.1682,Karl-Anthony Towns,PF,1.3651
+IND,MIN,Myles Turner,C,1.1682,Luka Garza,C,1.2829
+IND,NYK,Buddy Hield,SF,1.4266,Julius Randle,PF,1.385
+IND,NYK,Myles Turner,C,1.1682,Julius Randle,PF,1.385
+IND,PHO,Buddy Hield,SF,1.4266,Kevin Durant,PF,1.3258
+IND,PHO,Myles Turner,C,1.1682,Kevin Durant,PF,1.3258
+IND,POR,Buddy Hield,SF,1.4266,Anfernee Simons,SG,1.3698
+IND,POR,Buddy Hield,SF,1.4266,Duop Reath,C,1.2603
+IND,POR,Jalen Smith,C,1.1515,Anfernee Simons,SG,1.3698
+IND,POR,Jalen Smith,C,1.1515,Duop Reath,C,1.2603
+IND,POR,Myles Turner,C,1.1682,Anfernee Simons,SG,1.3698
+IND,POR,Myles Turner,C,1.1682,Duop Reath,C,1.2603
+IND,SAS,Buddy Hield,SF,1.4266,Devonte' Graham,PG,1.314
+IND,SAS,Myles Turner,C,1.1682,Devonte' Graham,PG,1.314
+IND,UTA,Buddy Hield,SF,1.4266,Lauri Markkanen,PF,1.4075
+IND,UTA,Myles Turner,C,1.1682,Lauri Markkanen,PF,1.4075
+IND,WAS,Buddy Hield,SF,1.4266,Kyle Kuzma,PF,1.3121
+IND,WAS,Buddy Hield,SF,1.4266,Mike Muscala,C,1.2661
+IND,WAS,Buddy Hield,SF,1.4266,Patrick Baldwin Jr.,SF,1.4218
+IND,WAS,Buddy Hield,SF,1.4266,Tristan Vukcevic,C,1.365
+IND,WAS,Jalen Smith,C,1.1515,Kyle Kuzma,PF,1.3121
+IND,WAS,Jalen Smith,C,1.1515,Mike Muscala,C,1.2661
+IND,WAS,Jalen Smith,C,1.1515,Patrick Baldwin Jr.,SF,1.4218
+IND,WAS,Jalen Smith,C,1.1515,Tristan Vukcevic,C,1.365
+IND,WAS,Myles Turner,C,1.1682,Kyle Kuzma,PF,1.3121
+IND,WAS,Myles Turner,C,1.1682,Mike Muscala,C,1.2661
+IND,WAS,Myles Turner,C,1.1682,Patrick Baldwin Jr.,SF,1.4218
+IND,WAS,Myles Turner,C,1.1682,Tristan Vukcevic,C,1.365
+LAC,BRK,Bones Hyland,PG,1.4453,Armoni Brooks,PG,1.3794
+LAC,BRK,Paul George,PF,1.5025,Armoni Brooks,PG,1.3794
+LAC,CHO,Bones Hyland,PG,1.4453,James Bouknight,SG,1.3715
+LAC,CHO,Paul George,PF,1.5025,James Bouknight,SG,1.3715
+LAC,CLE,Bones Hyland,PG,1.4453,Sam Merrill,SG,1.4809
+LAC,CLE,Paul George,PF,1.5025,Sam Merrill,SG,1.4809
+LAC,DEN,Bones Hyland,PG,1.4453,Hunter Tyson,PF,1.4267
+LAC,DEN,Bones Hyland,PG,1.4453,Jay Huff,C,1.181
+LAC,DEN,Bones Hyland,PG,1.4453,Michael Porter Jr.,SF,1.3439
+LAC,DEN,Paul George,PF,1.5025,Hunter Tyson,PF,1.4267
+LAC,DEN,Paul George,PF,1.5025,Jay Huff,C,1.181
+LAC,DEN,Paul George,PF,1.5025,Michael Porter Jr.,SF,1.3439
+LAC,HOU,Bones Hyland,PG,1.4453,Cam Whitmore,SF,1.4505
+LAC,HOU,Bones Hyland,PG,1.4453,Nate Hinton,SG,1.5014
+LAC,HOU,Paul George,PF,1.5025,Cam Whitmore,SF,1.4505
+LAC,HOU,Paul George,PF,1.5025,Nate Hinton,SG,1.5014
+LAC,IND,Bones Hyland,PG,1.4453,Buddy Hield,SF,1.4266
+LAC,IND,Bones Hyland,PG,1.4453,Myles Turner,C,1.1682
+LAC,IND,Paul George,PF,1.5025,Buddy Hield,SF,1.4266
+LAC,IND,Paul George,PF,1.5025,Myles Turner,C,1.1682
+LAC,LAL,Bones Hyland,PG,1.4453,D'Angelo Russell,PG,1.338
+LAC,LAL,Paul George,PF,1.5025,D'Angelo Russell,PG,1.338
+LAC,MIN,Bones Hyland,PG,1.4453,Karl-Anthony Towns,PF,1.3651
+LAC,MIN,Bones Hyland,PG,1.4453,Luka Garza,C,1.2829
+LAC,MIN,Paul George,PF,1.5025,Karl-Anthony Towns,PF,1.3651
+LAC,MIN,Paul George,PF,1.5025,Luka Garza,C,1.2829
+LAC,NYK,Bones Hyland,PG,1.4453,Julius Randle,PF,1.385
+LAC,NYK,Paul George,PF,1.5025,Julius Randle,PF,1.385
+LAC,OKC,Bones Hyland,PG,1.4453,Adam Flagler,SG,1.3991
+LAC,OKC,Bones Hyland,PG,1.4453,Dāvis Bertāns,PF,1.3816
+LAC,OKC,Bones Hyland,PG,1.4453,Lindy Waters III,SG,1.4594
+LAC,OKC,Paul George,PF,1.5025,Adam Flagler,SG,1.3991
+LAC,OKC,Paul George,PF,1.5025,Dāvis Bertāns,PF,1.3816
+LAC,OKC,Paul George,PF,1.5025,Lindy Waters III,SG,1.4594
+LAC,PHO,Bones Hyland,PG,1.4453,Kevin Durant,PF,1.3258
+LAC,PHO,Paul George,PF,1.5025,Kevin Durant,PF,1.3258
+LAC,POR,Bones Hyland,PG,1.4453,Anfernee Simons,SG,1.3698
+LAC,POR,Bones Hyland,PG,1.4453,Duop Reath,C,1.2603
+LAC,POR,Paul George,PF,1.5025,Anfernee Simons,SG,1.3698
+LAC,POR,Paul George,PF,1.5025,Duop Reath,C,1.2603
+LAC,SAC,Bones Hyland,PG,1.4453,De'Aaron Fox,PG,1.2557
+LAC,SAC,Paul George,PF,1.5025,De'Aaron Fox,PG,1.2557
+LAC,SAS,Bones Hyland,PG,1.4453,Devonte' Graham,PG,1.314
+LAC,SAS,Paul George,PF,1.5025,Devonte' Graham,PG,1.314
+LAC,UTA,Bones Hyland,PG,1.4453,Lauri Markkanen,PF,1.4075
+LAC,UTA,Paul George,PF,1.5025,Lauri Markkanen,PF,1.4075
+LAC,WAS,Bones Hyland,PG,1.4453,Kyle Kuzma,PF,1.3121
+LAC,WAS,Bones Hyland,PG,1.4453,Mike Muscala,C,1.2661
+LAC,WAS,Bones Hyland,PG,1.4453,Patrick Baldwin Jr.,SF,1.4218
+LAC,WAS,Bones Hyland,PG,1.4453,Tristan Vukcevic,C,1.365
+LAC,WAS,Paul George,PF,1.5025,Kyle Kuzma,PF,1.3121
+LAC,WAS,Paul George,PF,1.5025,Mike Muscala,C,1.2661
+LAC,WAS,Paul George,PF,1.5025,Patrick Baldwin Jr.,SF,1.4218
+LAC,WAS,Paul George,PF,1.5025,Tristan Vukcevic,C,1.365
+LAL,PHO,D'Angelo Russell,PG,1.338,Kevin Durant,PF,1.3258
+LAL,SAC,D'Angelo Russell,PG,1.338,De'Aaron Fox,PG,1.2557
+LAL,SAS,D'Angelo Russell,PG,1.338,Devonte' Graham,PG,1.314
+MEM,ATL,DeJon Jarreau,SG,1.7504,Bogdan Bogdanović,SG,1.3674
+MEM,ATL,Desmond Bane,SG,1.3797,Bogdan Bogdanović,SG,1.3674
+MEM,ATL,GG Jackson II,PF,1.313,Bogdan Bogdanović,SG,1.3674
+MEM,BOS,DeJon Jarreau,SG,1.7504,Al Horford,C,1.1671
+MEM,BOS,DeJon Jarreau,SG,1.7504,Drew Peterson,PF,1.305
+MEM,BOS,DeJon Jarreau,SG,1.7504,Kristaps Porziņģis,C,1.3696
+MEM,BOS,DeJon Jarreau,SG,1.7504,Payton Pritchard,PG,1.2691
+MEM,BOS,DeJon Jarreau,SG,1.7504,Sam Hauser,SF,1.6467
+MEM,BOS,Desmond Bane,SG,1.3797,Al Horford,C,1.1671
+MEM,BOS,Desmond Bane,SG,1.3797,Drew Peterson,PF,1.305
+MEM,BOS,Desmond Bane,SG,1.3797,Kristaps Porziņģis,C,1.3696
+MEM,BOS,Desmond Bane,SG,1.3797,Payton Pritchard,PG,1.2691
+MEM,BOS,Desmond Bane,SG,1.3797,Sam Hauser,SF,1.6467
+MEM,BOS,GG Jackson II,PF,1.313,Al Horford,C,1.1671
+MEM,BOS,GG Jackson II,PF,1.313,Drew Peterson,PF,1.305
+MEM,BOS,GG Jackson II,PF,1.313,Kristaps Porziņģis,C,1.3696
+MEM,BOS,GG Jackson II,PF,1.313,Payton Pritchard,PG,1.2691
+MEM,BOS,GG Jackson II,PF,1.313,Sam Hauser,SF,1.6467
+MEM,BRK,DeJon Jarreau,SG,1.7504,Armoni Brooks,PG,1.3794
+MEM,BRK,Desmond Bane,SG,1.3797,Armoni Brooks,PG,1.3794
+MEM,BRK,GG Jackson II,PF,1.313,Armoni Brooks,PG,1.3794
+MEM,CHO,DeJon Jarreau,SG,1.7504,James Bouknight,SG,1.3715
+MEM,CHO,Desmond Bane,SG,1.3797,James Bouknight,SG,1.3715
+MEM,CHO,GG Jackson II,PF,1.313,James Bouknight,SG,1.3715
+MEM,CLE,DeJon Jarreau,SG,1.7504,Sam Merrill,SG,1.4809
+MEM,CLE,Desmond Bane,SG,1.3797,Sam Merrill,SG,1.4809
+MEM,CLE,GG Jackson II,PF,1.313,Sam Merrill,SG,1.4809
+MEM,DAL,DeJon Jarreau,SG,1.7504,Dexter Dennis,SG,1.5418
+MEM,DAL,DeJon Jarreau,SG,1.7504,Luka Dončić,PG,1.7383
+MEM,DAL,DeJon Jarreau,SG,1.7504,Tim Hardaway Jr.,SF,1.3672
+MEM,DAL,Desmond Bane,SG,1.3797,Dexter Dennis,SG,1.5418
+MEM,DAL,Desmond Bane,SG,1.3797,Luka Dončić,PG,1.7383
+MEM,DAL,Desmond Bane,SG,1.3797,Tim Hardaway Jr.,SF,1.3672
+MEM,DAL,GG Jackson II,PF,1.313,Dexter Dennis,SG,1.5418
+MEM,DAL,GG Jackson II,PF,1.313,Luka Dončić,PG,1.7383
+MEM,DAL,GG Jackson II,PF,1.313,Tim Hardaway Jr.,SF,1.3672
+MEM,DEN,DeJon Jarreau,SG,1.7504,Hunter Tyson,PF,1.4267
+MEM,DEN,DeJon Jarreau,SG,1.7504,Jay Huff,C,1.181
+MEM,DEN,DeJon Jarreau,SG,1.7504,Michael Porter Jr.,SF,1.3439
+MEM,DEN,Desmond Bane,SG,1.3797,Hunter Tyson,PF,1.4267
+MEM,DEN,Desmond Bane,SG,1.3797,Jay Huff,C,1.181
+MEM,DEN,Desmond Bane,SG,1.3797,Michael Porter Jr.,SF,1.3439
+MEM,DEN,GG Jackson II,PF,1.313,Hunter Tyson,PF,1.4267
+MEM,DEN,GG Jackson II,PF,1.313,Jay Huff,C,1.181
+MEM,DEN,GG Jackson II,PF,1.313,Michael Porter Jr.,SF,1.3439
+MEM,DET,DeJon Jarreau,SG,1.7504,Stanley Umude,SG,1.5849
+MEM,DET,Desmond Bane,SG,1.3797,Stanley Umude,SG,1.5849
+MEM,DET,GG Jackson II,PF,1.313,Stanley Umude,SG,1.5849
+MEM,GSW,DeJon Jarreau,SG,1.7504,Dario Šarić,C,1.2169
+MEM,GSW,DeJon Jarreau,SG,1.7504,Klay Thompson,SF,1.5375
+MEM,GSW,Desmond Bane,SG,1.3797,Dario Šarić,C,1.2169
+MEM,GSW,Desmond Bane,SG,1.3797,Klay Thompson,SF,1.5375
+MEM,GSW,GG Jackson II,PF,1.313,Dario Šarić,C,1.2169
+MEM,GSW,GG Jackson II,PF,1.313,Klay Thompson,SF,1.5375
+MEM,HOU,DeJon Jarreau,SG,1.7504,Cam Whitmore,SF,1.4505
+MEM,HOU,DeJon Jarreau,SG,1.7504,Nate Hinton,SG,1.5014
+MEM,HOU,Desmond Bane,SG,1.3797,Cam Whitmore,SF,1.4505
+MEM,HOU,Desmond Bane,SG,1.3797,Nate Hinton,SG,1.5014
+MEM,HOU,GG Jackson II,PF,1.313,Cam Whitmore,SF,1.4505
+MEM,HOU,GG Jackson II,PF,1.313,Nate Hinton,SG,1.5014
+MEM,IND,DeJon Jarreau,SG,1.7504,Buddy Hield,SF,1.4266
+MEM,IND,DeJon Jarreau,SG,1.7504,Myles Turner,C,1.1682
+MEM,IND,Desmond Bane,SG,1.3797,Buddy Hield,SF,1.4266
+MEM,IND,Desmond Bane,SG,1.3797,Myles Turner,C,1.1682
+MEM,IND,GG Jackson II,PF,1.313,Buddy Hield,SF,1.4266
+MEM,IND,GG Jackson II,PF,1.313,Myles Turner,C,1.1682
+MEM,LAC,DeJon Jarreau,SG,1.7504,Bones Hyland,PG,1.4453
+MEM,LAC,DeJon Jarreau,SG,1.7504,Paul George,PF,1.5025
+MEM,LAC,Desmond Bane,SG,1.3797,Bones Hyland,PG,1.4453
+MEM,LAC,Desmond Bane,SG,1.3797,Paul George,PF,1.5025
+MEM,LAC,GG Jackson II,PF,1.313,Bones Hyland,PG,1.4453
+MEM,LAC,GG Jackson II,PF,1.313,Paul George,PF,1.5025
+MEM,LAL,DeJon Jarreau,SG,1.7504,D'Angelo Russell,PG,1.338
+MEM,LAL,Desmond Bane,SG,1.3797,D'Angelo Russell,PG,1.338
+MEM,LAL,GG Jackson II,PF,1.313,D'Angelo Russell,PG,1.338
+MEM,MIA,DeJon Jarreau,SG,1.7504,Duncan Robinson,SF,1.3519
+MEM,MIA,DeJon Jarreau,SG,1.7504,Kevin Love,PF,1.6032
+MEM,MIA,Desmond Bane,SG,1.3797,Duncan Robinson,SF,1.3519
+MEM,MIA,Desmond Bane,SG,1.3797,Kevin Love,PF,1.6032
+MEM,MIA,GG Jackson II,PF,1.313,Duncan Robinson,SF,1.3519
+MEM,MIA,GG Jackson II,PF,1.313,Kevin Love,PF,1.6032
+MEM,MIL,DeJon Jarreau,SG,1.7504,A.J. Green,SG,1.3656
+MEM,MIL,DeJon Jarreau,SG,1.7504,Damian Lillard,PG,1.5511
+MEM,MIL,Desmond Bane,SG,1.3797,A.J. Green,SG,1.3656
+MEM,MIL,Desmond Bane,SG,1.3797,Damian Lillard,PG,1.5511
+MEM,MIL,GG Jackson II,PF,1.313,A.J. Green,SG,1.3656
+MEM,MIL,GG Jackson II,PF,1.313,Damian Lillard,PG,1.5511
+MEM,MIN,DeJon Jarreau,SG,1.7504,Karl-Anthony Towns,PF,1.3651
+MEM,MIN,DeJon Jarreau,SG,1.7504,Luka Garza,C,1.2829
+MEM,MIN,Desmond Bane,SG,1.3797,Karl-Anthony Towns,PF,1.3651
+MEM,MIN,Desmond Bane,SG,1.3797,Luka Garza,C,1.2829
+MEM,MIN,GG Jackson II,PF,1.313,Karl-Anthony Towns,PF,1.3651
+MEM,MIN,GG Jackson II,PF,1.313,Luka Garza,C,1.2829
+MEM,NYK,DeJon Jarreau,SG,1.7504,Julius Randle,PF,1.385
+MEM,NYK,Desmond Bane,SG,1.3797,Julius Randle,PF,1.385
+MEM,NYK,GG Jackson II,PF,1.313,Julius Randle,PF,1.385
+MEM,OKC,DeJon Jarreau,SG,1.7504,Adam Flagler,SG,1.3991
+MEM,OKC,DeJon Jarreau,SG,1.7504,Dāvis Bertāns,PF,1.3816
+MEM,OKC,DeJon Jarreau,SG,1.7504,Lindy Waters III,SG,1.4594
+MEM,OKC,Desmond Bane,SG,1.3797,Adam Flagler,SG,1.3991
+MEM,OKC,Desmond Bane,SG,1.3797,Dāvis Bertāns,PF,1.3816
+MEM,OKC,Desmond Bane,SG,1.3797,Lindy Waters III,SG,1.4594
+MEM,OKC,GG Jackson II,PF,1.313,Adam Flagler,SG,1.3991
+MEM,OKC,GG Jackson II,PF,1.313,Dāvis Bertāns,PF,1.3816
+MEM,OKC,GG Jackson II,PF,1.313,Lindy Waters III,SG,1.4594
+MEM,ORL,DeJon Jarreau,SG,1.7504,Jett Howard,SF,1.5514
+MEM,ORL,Desmond Bane,SG,1.3797,Jett Howard,SF,1.5514
+MEM,ORL,GG Jackson II,PF,1.313,Jett Howard,SF,1.5514
+MEM,PHO,DeJon Jarreau,SG,1.7504,Kevin Durant,PF,1.3258
+MEM,PHO,Desmond Bane,SG,1.3797,Kevin Durant,PF,1.3258
+MEM,PHO,GG Jackson II,PF,1.313,Kevin Durant,PF,1.3258
+MEM,POR,DeJon Jarreau,SG,1.7504,Anfernee Simons,SG,1.3698
+MEM,POR,DeJon Jarreau,SG,1.7504,Duop Reath,C,1.2603
+MEM,POR,Desmond Bane,SG,1.3797,Anfernee Simons,SG,1.3698
+MEM,POR,Desmond Bane,SG,1.3797,Duop Reath,C,1.2603
+MEM,POR,GG Jackson II,PF,1.313,Anfernee Simons,SG,1.3698
+MEM,POR,GG Jackson II,PF,1.313,Duop Reath,C,1.2603
+MEM,SAS,DeJon Jarreau,SG,1.7504,Devonte' Graham,PG,1.314
+MEM,SAS,Desmond Bane,SG,1.3797,Devonte' Graham,PG,1.314
+MEM,SAS,GG Jackson II,PF,1.313,Devonte' Graham,PG,1.314
+MEM,UTA,DeJon Jarreau,SG,1.7504,Lauri Markkanen,PF,1.4075
+MEM,UTA,Desmond Bane,SG,1.3797,Lauri Markkanen,PF,1.4075
+MEM,UTA,GG Jackson II,PF,1.313,Lauri Markkanen,PF,1.4075
+MEM,WAS,DeJon Jarreau,SG,1.7504,Kyle Kuzma,PF,1.3121
+MEM,WAS,DeJon Jarreau,SG,1.7504,Mike Muscala,C,1.2661
+MEM,WAS,DeJon Jarreau,SG,1.7504,Patrick Baldwin Jr.,SF,1.4218
+MEM,WAS,DeJon Jarreau,SG,1.7504,Tristan Vukcevic,C,1.365
+MEM,WAS,Desmond Bane,SG,1.3797,Kyle Kuzma,PF,1.3121
+MEM,WAS,Desmond Bane,SG,1.3797,Mike Muscala,C,1.2661
+MEM,WAS,Desmond Bane,SG,1.3797,Patrick Baldwin Jr.,SF,1.4218
+MEM,WAS,Desmond Bane,SG,1.3797,Tristan Vukcevic,C,1.365
+MEM,WAS,GG Jackson II,PF,1.313,Kyle Kuzma,PF,1.3121
+MEM,WAS,GG Jackson II,PF,1.313,Mike Muscala,C,1.2661
+MEM,WAS,GG Jackson II,PF,1.313,Patrick Baldwin Jr.,SF,1.4218
+MEM,WAS,GG Jackson II,PF,1.313,Tristan Vukcevic,C,1.365
+MIA,BRK,Duncan Robinson,SF,1.3519,Armoni Brooks,PG,1.3794
+MIA,BRK,Kevin Love,PF,1.6032,Armoni Brooks,PG,1.3794
+MIA,CHO,Duncan Robinson,SF,1.3519,James Bouknight,SG,1.3715
+MIA,CHO,Kevin Love,PF,1.6032,James Bouknight,SG,1.3715
+MIA,CLE,Duncan Robinson,SF,1.3519,Sam Merrill,SG,1.4809
+MIA,CLE,Kevin Love,PF,1.6032,Sam Merrill,SG,1.4809
+MIA,DEN,Cole Swider,SF,1.3083,Hunter Tyson,PF,1.4267
+MIA,DEN,Cole Swider,SF,1.3083,Jay Huff,C,1.181
+MIA,DEN,Cole Swider,SF,1.3083,Michael Porter Jr.,SF,1.3439
+MIA,DEN,Duncan Robinson,SF,1.3519,Hunter Tyson,PF,1.4267
+MIA,DEN,Duncan Robinson,SF,1.3519,Jay Huff,C,1.181
+MIA,DEN,Duncan Robinson,SF,1.3519,Michael Porter Jr.,SF,1.3439
+MIA,DEN,Kevin Love,PF,1.6032,Hunter Tyson,PF,1.4267
+MIA,DEN,Kevin Love,PF,1.6032,Jay Huff,C,1.181
+MIA,DEN,Kevin Love,PF,1.6032,Michael Porter Jr.,SF,1.3439
+MIA,DET,Duncan Robinson,SF,1.3519,Stanley Umude,SG,1.5849
+MIA,DET,Kevin Love,PF,1.6032,Stanley Umude,SG,1.5849
+MIA,GSW,Cole Swider,SF,1.3083,Dario Šarić,C,1.2169
+MIA,GSW,Cole Swider,SF,1.3083,Klay Thompson,SF,1.5375
+MIA,GSW,Duncan Robinson,SF,1.3519,Dario Šarić,C,1.2169
+MIA,GSW,Duncan Robinson,SF,1.3519,Klay Thompson,SF,1.5375
+MIA,GSW,Kevin Love,PF,1.6032,Dario Šarić,C,1.2169
+MIA,GSW,Kevin Love,PF,1.6032,Klay Thompson,SF,1.5375
+MIA,HOU,Cole Swider,SF,1.3083,Cam Whitmore,SF,1.4505
+MIA,HOU,Cole Swider,SF,1.3083,Nate Hinton,SG,1.5014
+MIA,HOU,Duncan Robinson,SF,1.3519,Cam Whitmore,SF,1.4505
+MIA,HOU,Duncan Robinson,SF,1.3519,Nate Hinton,SG,1.5014
+MIA,HOU,Kevin Love,PF,1.6032,Cam Whitmore,SF,1.4505
+MIA,HOU,Kevin Love,PF,1.6032,Nate Hinton,SG,1.5014
+MIA,IND,Cole Swider,SF,1.3083,Buddy Hield,SF,1.4266
+MIA,IND,Cole Swider,SF,1.3083,Myles Turner,C,1.1682
+MIA,IND,Duncan Robinson,SF,1.3519,Buddy Hield,SF,1.4266
+MIA,IND,Duncan Robinson,SF,1.3519,Myles Turner,C,1.1682
+MIA,IND,Kevin Love,PF,1.6032,Buddy Hield,SF,1.4266
+MIA,IND,Kevin Love,PF,1.6032,Myles Turner,C,1.1682
+MIA,LAC,Duncan Robinson,SF,1.3519,Bones Hyland,PG,1.4453
+MIA,LAC,Duncan Robinson,SF,1.3519,Paul George,PF,1.5025
+MIA,LAC,Kevin Love,PF,1.6032,Bones Hyland,PG,1.4453
+MIA,LAC,Kevin Love,PF,1.6032,Paul George,PF,1.5025
+MIA,LAL,Duncan Robinson,SF,1.3519,D'Angelo Russell,PG,1.338
+MIA,LAL,Kevin Love,PF,1.6032,D'Angelo Russell,PG,1.338
+MIA,MIL,Duncan Robinson,SF,1.3519,Damian Lillard,PG,1.5511
+MIA,MIL,Duncan Robinson,SF,1.3519,Khris Middleton,SF,1.2995
+MIA,MIL,Kevin Love,PF,1.6032,Damian Lillard,PG,1.5511
+MIA,MIL,Kevin Love,PF,1.6032,Khris Middleton,SF,1.2995
+MIA,MIN,Duncan Robinson,SF,1.3519,Karl-Anthony Towns,PF,1.3651
+MIA,MIN,Duncan Robinson,SF,1.3519,Luka Garza,C,1.2829
+MIA,MIN,Kevin Love,PF,1.6032,Karl-Anthony Towns,PF,1.3651
+MIA,MIN,Kevin Love,PF,1.6032,Luka Garza,C,1.2829
+MIA,NYK,Duncan Robinson,SF,1.3519,Julius Randle,PF,1.385
+MIA,NYK,Kevin Love,PF,1.6032,Julius Randle,PF,1.385
+MIA,OKC,Duncan Robinson,SF,1.3519,Adam Flagler,SG,1.3991
+MIA,OKC,Duncan Robinson,SF,1.3519,Dāvis Bertāns,PF,1.3816
+MIA,OKC,Duncan Robinson,SF,1.3519,Lindy Waters III,SG,1.4594
+MIA,OKC,Kevin Love,PF,1.6032,Adam Flagler,SG,1.3991
+MIA,OKC,Kevin Love,PF,1.6032,Dāvis Bertāns,PF,1.3816
+MIA,OKC,Kevin Love,PF,1.6032,Lindy Waters III,SG,1.4594
+MIA,ORL,Cole Swider,SF,1.3083,Jett Howard,SF,1.5514
+MIA,ORL,Duncan Robinson,SF,1.3519,Jett Howard,SF,1.5514
+MIA,ORL,Kevin Love,PF,1.6032,Jett Howard,SF,1.5514
+MIA,PHO,Duncan Robinson,SF,1.3519,Kevin Durant,PF,1.3258
+MIA,PHO,Kevin Love,PF,1.6032,Kevin Durant,PF,1.3258
+MIA,POR,Duncan Robinson,SF,1.3519,Anfernee Simons,SG,1.3698
+MIA,POR,Duncan Robinson,SF,1.3519,Duop Reath,C,1.2603
+MIA,POR,Kevin Love,PF,1.6032,Anfernee Simons,SG,1.3698
+MIA,POR,Kevin Love,PF,1.6032,Duop Reath,C,1.2603
+MIA,SAS,Duncan Robinson,SF,1.3519,Devonte' Graham,PG,1.314
+MIA,SAS,Kevin Love,PF,1.6032,Devonte' Graham,PG,1.314
+MIA,UTA,Duncan Robinson,SF,1.3519,Lauri Markkanen,PF,1.4075
+MIA,UTA,Kevin Love,PF,1.6032,Lauri Markkanen,PF,1.4075
+MIA,WAS,Cole Swider,SF,1.3083,Kyle Kuzma,PF,1.3121
+MIA,WAS,Cole Swider,SF,1.3083,Mike Muscala,C,1.2661
+MIA,WAS,Cole Swider,SF,1.3083,Patrick Baldwin Jr.,SF,1.4218
+MIA,WAS,Cole Swider,SF,1.3083,Tristan Vukcevic,C,1.365
+MIA,WAS,Duncan Robinson,SF,1.3519,Kyle Kuzma,PF,1.3121
+MIA,WAS,Duncan Robinson,SF,1.3519,Mike Muscala,C,1.2661
+MIA,WAS,Duncan Robinson,SF,1.3519,Patrick Baldwin Jr.,SF,1.4218
+MIA,WAS,Duncan Robinson,SF,1.3519,Tristan Vukcevic,C,1.365
+MIA,WAS,Kevin Love,PF,1.6032,Kyle Kuzma,PF,1.3121
+MIA,WAS,Kevin Love,PF,1.6032,Mike Muscala,C,1.2661
+MIA,WAS,Kevin Love,PF,1.6032,Patrick Baldwin Jr.,SF,1.4218
+MIA,WAS,Kevin Love,PF,1.6032,Tristan Vukcevic,C,1.365
+MIL,BRK,Damian Lillard,PG,1.5511,Armoni Brooks,PG,1.3794
+MIL,CHO,Damian Lillard,PG,1.5511,James Bouknight,SG,1.3715
+MIL,CLE,Damian Lillard,PG,1.5511,Sam Merrill,SG,1.4809
+MIL,DEN,Damian Lillard,PG,1.5511,Hunter Tyson,PF,1.4267
+MIL,DEN,Damian Lillard,PG,1.5511,Jay Huff,C,1.181
+MIL,DEN,Damian Lillard,PG,1.5511,Michael Porter Jr.,SF,1.3439
+MIL,GSW,Damian Lillard,PG,1.5511,Dario Šarić,C,1.2169
+MIL,GSW,Damian Lillard,PG,1.5511,Klay Thompson,SF,1.5375
+MIL,HOU,Damian Lillard,PG,1.5511,Cam Whitmore,SF,1.4505
+MIL,HOU,Damian Lillard,PG,1.5511,Nate Hinton,SG,1.5014
+MIL,IND,Damian Lillard,PG,1.5511,Buddy Hield,SF,1.4266
+MIL,IND,Damian Lillard,PG,1.5511,Myles Turner,C,1.1682
+MIL,LAC,Damian Lillard,PG,1.5511,Bones Hyland,PG,1.4453
+MIL,LAC,Damian Lillard,PG,1.5511,Paul George,PF,1.5025
+MIL,LAL,Damian Lillard,PG,1.5511,D'Angelo Russell,PG,1.338
+MIL,MIN,Damian Lillard,PG,1.5511,Karl-Anthony Towns,PF,1.3651
+MIL,MIN,Damian Lillard,PG,1.5511,Luka Garza,C,1.2829
+MIL,NYK,Damian Lillard,PG,1.5511,Julius Randle,PF,1.385
+MIL,OKC,A.J. Green,SG,1.3656,Adam Flagler,SG,1.3991
+MIL,OKC,A.J. Green,SG,1.3656,Dāvis Bertāns,PF,1.3816
+MIL,OKC,A.J. Green,SG,1.3656,Lindy Waters III,SG,1.4594
+MIL,OKC,Damian Lillard,PG,1.5511,Adam Flagler,SG,1.3991
+MIL,OKC,Damian Lillard,PG,1.5511,Dāvis Bertāns,PF,1.3816
+MIL,OKC,Damian Lillard,PG,1.5511,Lindy Waters III,SG,1.4594
+MIL,PHO,Damian Lillard,PG,1.5511,Kevin Durant,PF,1.3258
+MIL,POR,Damian Lillard,PG,1.5511,Anfernee Simons,SG,1.3698
+MIL,POR,Damian Lillard,PG,1.5511,Duop Reath,C,1.2603
+MIL,SAC,Damian Lillard,PG,1.5511,De'Aaron Fox,PG,1.2557
+MIL,SAS,Damian Lillard,PG,1.5511,Devonte' Graham,PG,1.314
+MIL,UTA,Damian Lillard,PG,1.5511,Lauri Markkanen,PF,1.4075
+MIL,WAS,Damian Lillard,PG,1.5511,Kyle Kuzma,PF,1.3121
+MIL,WAS,Damian Lillard,PG,1.5511,Mike Muscala,C,1.2661
+MIL,WAS,Damian Lillard,PG,1.5511,Patrick Baldwin Jr.,SF,1.4218
+MIL,WAS,Damian Lillard,PG,1.5511,Tristan Vukcevic,C,1.365
+MIN,LAL,Karl-Anthony Towns,PF,1.3651,D'Angelo Russell,PG,1.338
+MIN,LAL,Luka Garza,C,1.2829,D'Angelo Russell,PG,1.338
+MIN,PHO,Karl-Anthony Towns,PF,1.3651,Kevin Durant,PF,1.3258
+MIN,PHO,Luka Garza,C,1.2829,Kevin Durant,PF,1.3258
+MIN,SAS,Karl-Anthony Towns,PF,1.3651,Devonte' Graham,PG,1.314
+MIN,SAS,Luka Garza,C,1.2829,Devonte' Graham,PG,1.314
+NOP,BOS,CJ McCollum,PG,1.3898,Al Horford,C,1.1671
+NOP,BOS,CJ McCollum,PG,1.3898,Kristaps Porziņģis,C,1.3696
+NOP,BOS,CJ McCollum,PG,1.3898,Payton Pritchard,PG,1.2691
+NOP,BOS,CJ McCollum,PG,1.3898,Sam Hauser,SF,1.6467
+NOP,BOS,Izaiah Brockington,PG,1.9867,Al Horford,C,1.1671
+NOP,BOS,Izaiah Brockington,PG,1.9867,Kristaps Porziņģis,C,1.3696
+NOP,BOS,Izaiah Brockington,PG,1.9867,Payton Pritchard,PG,1.2691
+NOP,BOS,Izaiah Brockington,PG,1.9867,Sam Hauser,SF,1.6467
+NOP,BOS,Matt Ryan,SF,1.7787,Al Horford,C,1.1671
+NOP,BOS,Matt Ryan,SF,1.7787,Kristaps Porziņģis,C,1.3696
+NOP,BOS,Matt Ryan,SF,1.7787,Payton Pritchard,PG,1.2691
+NOP,BOS,Matt Ryan,SF,1.7787,Sam Hauser,SF,1.6467
+NOP,BRK,CJ McCollum,PG,1.3898,Armoni Brooks,PG,1.3794
+NOP,BRK,Izaiah Brockington,PG,1.9867,Armoni Brooks,PG,1.3794
+NOP,BRK,Matt Ryan,SF,1.7787,Armoni Brooks,PG,1.3794
+NOP,CHO,CJ McCollum,PG,1.3898,James Bouknight,SG,1.3715
+NOP,CHO,Izaiah Brockington,PG,1.9867,James Bouknight,SG,1.3715
+NOP,CHO,Matt Ryan,SF,1.7787,James Bouknight,SG,1.3715
+NOP,CLE,CJ McCollum,PG,1.3898,Sam Merrill,SG,1.4809
+NOP,CLE,Izaiah Brockington,PG,1.9867,Sam Merrill,SG,1.4809
+NOP,CLE,Matt Ryan,SF,1.7787,Sam Merrill,SG,1.4809
+NOP,DAL,CJ McCollum,PG,1.3898,Dexter Dennis,SG,1.5418
+NOP,DAL,CJ McCollum,PG,1.3898,Luka Dončić,PG,1.7383
+NOP,DAL,CJ McCollum,PG,1.3898,Tim Hardaway Jr.,SF,1.3672
+NOP,DAL,Izaiah Brockington,PG,1.9867,Dexter Dennis,SG,1.5418
+NOP,DAL,Izaiah Brockington,PG,1.9867,Luka Dončić,PG,1.7383
+NOP,DAL,Izaiah Brockington,PG,1.9867,Tim Hardaway Jr.,SF,1.3672
+NOP,DAL,Matt Ryan,SF,1.7787,Dexter Dennis,SG,1.5418
+NOP,DAL,Matt Ryan,SF,1.7787,Luka Dončić,PG,1.7383
+NOP,DAL,Matt Ryan,SF,1.7787,Tim Hardaway Jr.,SF,1.3672
+NOP,DEN,CJ McCollum,PG,1.3898,Hunter Tyson,PF,1.4267
+NOP,DEN,CJ McCollum,PG,1.3898,Jay Huff,C,1.181
+NOP,DEN,CJ McCollum,PG,1.3898,Michael Porter Jr.,SF,1.3439
+NOP,DEN,Izaiah Brockington,PG,1.9867,Hunter Tyson,PF,1.4267
+NOP,DEN,Izaiah Brockington,PG,1.9867,Jay Huff,C,1.181
+NOP,DEN,Izaiah Brockington,PG,1.9867,Michael Porter Jr.,SF,1.3439
+NOP,DEN,Matt Ryan,SF,1.7787,Hunter Tyson,PF,1.4267
+NOP,DEN,Matt Ryan,SF,1.7787,Jay Huff,C,1.181
+NOP,DEN,Matt Ryan,SF,1.7787,Michael Porter Jr.,SF,1.3439
+NOP,DET,CJ McCollum,PG,1.3898,Stanley Umude,SG,1.5849
+NOP,DET,Izaiah Brockington,PG,1.9867,Stanley Umude,SG,1.5849
+NOP,DET,Matt Ryan,SF,1.7787,Stanley Umude,SG,1.5849
+NOP,GSW,CJ McCollum,PG,1.3898,Dario Šarić,C,1.2169
+NOP,GSW,CJ McCollum,PG,1.3898,Klay Thompson,SF,1.5375
+NOP,GSW,Izaiah Brockington,PG,1.9867,Dario Šarić,C,1.2169
+NOP,GSW,Izaiah Brockington,PG,1.9867,Klay Thompson,SF,1.5375
+NOP,GSW,Matt Ryan,SF,1.7787,Dario Šarić,C,1.2169
+NOP,GSW,Matt Ryan,SF,1.7787,Klay Thompson,SF,1.5375
+NOP,HOU,CJ McCollum,PG,1.3898,Cam Whitmore,SF,1.4505
+NOP,HOU,CJ McCollum,PG,1.3898,Nate Hinton,SG,1.5014
+NOP,HOU,Izaiah Brockington,PG,1.9867,Cam Whitmore,SF,1.4505
+NOP,HOU,Izaiah Brockington,PG,1.9867,Nate Hinton,SG,1.5014
+NOP,HOU,Matt Ryan,SF,1.7787,Cam Whitmore,SF,1.4505
+NOP,HOU,Matt Ryan,SF,1.7787,Nate Hinton,SG,1.5014
+NOP,IND,CJ McCollum,PG,1.3898,Buddy Hield,SF,1.4266
+NOP,IND,CJ McCollum,PG,1.3898,Myles Turner,C,1.1682
+NOP,IND,Izaiah Brockington,PG,1.9867,Buddy Hield,SF,1.4266
+NOP,IND,Izaiah Brockington,PG,1.9867,Myles Turner,C,1.1682
+NOP,IND,Matt Ryan,SF,1.7787,Buddy Hield,SF,1.4266
+NOP,IND,Matt Ryan,SF,1.7787,Myles Turner,C,1.1682
+NOP,LAC,CJ McCollum,PG,1.3898,Bones Hyland,PG,1.4453
+NOP,LAC,CJ McCollum,PG,1.3898,Paul George,PF,1.5025
+NOP,LAC,Izaiah Brockington,PG,1.9867,Bones Hyland,PG,1.4453
+NOP,LAC,Izaiah Brockington,PG,1.9867,Paul George,PF,1.5025
+NOP,LAC,Matt Ryan,SF,1.7787,Bones Hyland,PG,1.4453
+NOP,LAC,Matt Ryan,SF,1.7787,Paul George,PF,1.5025
+NOP,LAL,CJ McCollum,PG,1.3898,D'Angelo Russell,PG,1.338
+NOP,LAL,Izaiah Brockington,PG,1.9867,D'Angelo Russell,PG,1.338
+NOP,LAL,Matt Ryan,SF,1.7787,D'Angelo Russell,PG,1.338
+NOP,MEM,CJ McCollum,PG,1.3898,DeJon Jarreau,SG,1.7504
+NOP,MEM,CJ McCollum,PG,1.3898,Desmond Bane,SG,1.3797
+NOP,MEM,CJ McCollum,PG,1.3898,GG Jackson II,PF,1.313
+NOP,MEM,Izaiah Brockington,PG,1.9867,DeJon Jarreau,SG,1.7504
+NOP,MEM,Izaiah Brockington,PG,1.9867,Desmond Bane,SG,1.3797
+NOP,MEM,Izaiah Brockington,PG,1.9867,GG Jackson II,PF,1.313
+NOP,MEM,Matt Ryan,SF,1.7787,DeJon Jarreau,SG,1.7504
+NOP,MEM,Matt Ryan,SF,1.7787,Desmond Bane,SG,1.3797
+NOP,MEM,Matt Ryan,SF,1.7787,GG Jackson II,PF,1.313
+NOP,MIA,CJ McCollum,PG,1.3898,Cole Swider,SF,1.3083
+NOP,MIA,CJ McCollum,PG,1.3898,Duncan Robinson,SF,1.3519
+NOP,MIA,CJ McCollum,PG,1.3898,Kevin Love,PF,1.6032
+NOP,MIA,Izaiah Brockington,PG,1.9867,Cole Swider,SF,1.3083
+NOP,MIA,Izaiah Brockington,PG,1.9867,Duncan Robinson,SF,1.3519
+NOP,MIA,Izaiah Brockington,PG,1.9867,Kevin Love,PF,1.6032
+NOP,MIA,Matt Ryan,SF,1.7787,Cole Swider,SF,1.3083
+NOP,MIA,Matt Ryan,SF,1.7787,Duncan Robinson,SF,1.3519
+NOP,MIA,Matt Ryan,SF,1.7787,Kevin Love,PF,1.6032
+NOP,MIL,CJ McCollum,PG,1.3898,Damian Lillard,PG,1.5511
+NOP,MIL,Izaiah Brockington,PG,1.9867,Damian Lillard,PG,1.5511
+NOP,MIL,Matt Ryan,SF,1.7787,Damian Lillard,PG,1.5511
+NOP,MIN,CJ McCollum,PG,1.3898,Karl-Anthony Towns,PF,1.3651
+NOP,MIN,CJ McCollum,PG,1.3898,Luka Garza,C,1.2829
+NOP,MIN,Izaiah Brockington,PG,1.9867,Karl-Anthony Towns,PF,1.3651
+NOP,MIN,Izaiah Brockington,PG,1.9867,Luka Garza,C,1.2829
+NOP,MIN,Matt Ryan,SF,1.7787,Karl-Anthony Towns,PF,1.3651
+NOP,MIN,Matt Ryan,SF,1.7787,Luka Garza,C,1.2829
+NOP,NYK,CJ McCollum,PG,1.3898,Julius Randle,PF,1.385
+NOP,NYK,Izaiah Brockington,PG,1.9867,Julius Randle,PF,1.385
+NOP,NYK,Matt Ryan,SF,1.7787,Julius Randle,PF,1.385
+NOP,OKC,CJ McCollum,PG,1.3898,Adam Flagler,SG,1.3991
+NOP,OKC,CJ McCollum,PG,1.3898,Dāvis Bertāns,PF,1.3816
+NOP,OKC,CJ McCollum,PG,1.3898,Lindy Waters III,SG,1.4594
+NOP,OKC,Izaiah Brockington,PG,1.9867,Adam Flagler,SG,1.3991
+NOP,OKC,Izaiah Brockington,PG,1.9867,Dāvis Bertāns,PF,1.3816
+NOP,OKC,Izaiah Brockington,PG,1.9867,Lindy Waters III,SG,1.4594
+NOP,OKC,Matt Ryan,SF,1.7787,Adam Flagler,SG,1.3991
+NOP,OKC,Matt Ryan,SF,1.7787,Dāvis Bertāns,PF,1.3816
+NOP,OKC,Matt Ryan,SF,1.7787,Lindy Waters III,SG,1.4594
+NOP,ORL,CJ McCollum,PG,1.3898,Jett Howard,SF,1.5514
+NOP,ORL,Izaiah Brockington,PG,1.9867,Jett Howard,SF,1.5514
+NOP,ORL,Matt Ryan,SF,1.7787,Jett Howard,SF,1.5514
+NOP,PHI,CJ McCollum,PG,1.3898,Mo Bamba,C,1.1526
+NOP,PHI,CJ McCollum,PG,1.3898,Terquavion Smith,PG,1.8295
+NOP,PHI,Izaiah Brockington,PG,1.9867,Mo Bamba,C,1.1526
+NOP,PHI,Izaiah Brockington,PG,1.9867,Terquavion Smith,PG,1.8295
+NOP,PHI,Matt Ryan,SF,1.7787,Mo Bamba,C,1.1526
+NOP,PHI,Matt Ryan,SF,1.7787,Terquavion Smith,PG,1.8295
+NOP,PHO,CJ McCollum,PG,1.3898,Kevin Durant,PF,1.3258
+NOP,PHO,Izaiah Brockington,PG,1.9867,Kevin Durant,PF,1.3258
+NOP,PHO,Matt Ryan,SF,1.7787,Kevin Durant,PF,1.3258
+NOP,POR,CJ McCollum,PG,1.3898,Anfernee Simons,SG,1.3698
+NOP,POR,CJ McCollum,PG,1.3898,Duop Reath,C,1.2603
+NOP,POR,CJ McCollum,PG,1.3898,Malcolm Brogdon,PG,1.2409
+NOP,POR,Izaiah Brockington,PG,1.9867,Anfernee Simons,SG,1.3698
+NOP,POR,Izaiah Brockington,PG,1.9867,Duop Reath,C,1.2603
+NOP,POR,Izaiah Brockington,PG,1.9867,Malcolm Brogdon,PG,1.2409
+NOP,POR,Matt Ryan,SF,1.7787,Anfernee Simons,SG,1.3698
+NOP,POR,Matt Ryan,SF,1.7787,Duop Reath,C,1.2603
+NOP,POR,Matt Ryan,SF,1.7787,Malcolm Brogdon,PG,1.2409
+NOP,SAC,CJ McCollum,PG,1.3898,De'Aaron Fox,PG,1.2557
+NOP,SAC,Izaiah Brockington,PG,1.9867,De'Aaron Fox,PG,1.2557
+NOP,SAC,Matt Ryan,SF,1.7787,De'Aaron Fox,PG,1.2557
+NOP,SAS,CJ McCollum,PG,1.3898,Devonte' Graham,PG,1.314
+NOP,SAS,Izaiah Brockington,PG,1.9867,Devonte' Graham,PG,1.314
+NOP,SAS,Matt Ryan,SF,1.7787,Devonte' Graham,PG,1.314
+NOP,UTA,CJ McCollum,PG,1.3898,Lauri Markkanen,PF,1.4075
+NOP,UTA,Izaiah Brockington,PG,1.9867,Lauri Markkanen,PF,1.4075
+NOP,UTA,Matt Ryan,SF,1.7787,Lauri Markkanen,PF,1.4075
+NOP,WAS,CJ McCollum,PG,1.3898,Kyle Kuzma,PF,1.3121
+NOP,WAS,CJ McCollum,PG,1.3898,Mike Muscala,C,1.2661
+NOP,WAS,CJ McCollum,PG,1.3898,Patrick Baldwin Jr.,SF,1.4218
+NOP,WAS,CJ McCollum,PG,1.3898,Tristan Vukcevic,C,1.365
+NOP,WAS,Izaiah Brockington,PG,1.9867,Kyle Kuzma,PF,1.3121
+NOP,WAS,Izaiah Brockington,PG,1.9867,Mike Muscala,C,1.2661
+NOP,WAS,Izaiah Brockington,PG,1.9867,Patrick Baldwin Jr.,SF,1.4218
+NOP,WAS,Izaiah Brockington,PG,1.9867,Tristan Vukcevic,C,1.365
+NOP,WAS,Matt Ryan,SF,1.7787,Kyle Kuzma,PF,1.3121
+NOP,WAS,Matt Ryan,SF,1.7787,Mike Muscala,C,1.2661
+NOP,WAS,Matt Ryan,SF,1.7787,Patrick Baldwin Jr.,SF,1.4218
+NOP,WAS,Matt Ryan,SF,1.7787,Tristan Vukcevic,C,1.365
+NYK,BRK,Julius Randle,PF,1.385,Armoni Brooks,PG,1.3794
+NYK,CHO,Julius Randle,PF,1.385,James Bouknight,SG,1.3715
+NYK,LAL,Julius Randle,PF,1.385,D'Angelo Russell,PG,1.338
+NYK,MIN,Julius Randle,PF,1.385,Karl-Anthony Towns,PF,1.3651
+NYK,MIN,Julius Randle,PF,1.385,Luka Garza,C,1.2829
+NYK,PHO,Julius Randle,PF,1.385,Kevin Durant,PF,1.3258
+NYK,POR,Julius Randle,PF,1.385,Anfernee Simons,SG,1.3698
+NYK,POR,Julius Randle,PF,1.385,Duop Reath,C,1.2603
+NYK,SAS,Julius Randle,PF,1.385,Devonte' Graham,PG,1.314
+OKC,ATL,Adam Flagler,SG,1.3991,Bogdan Bogdanović,SG,1.3674
+OKC,ATL,Dāvis Bertāns,PF,1.3816,Bogdan Bogdanović,SG,1.3674
+OKC,ATL,Lindy Waters III,SG,1.4594,Bogdan Bogdanović,SG,1.3674
+OKC,BRK,Adam Flagler,SG,1.3991,Armoni Brooks,PG,1.3794
+OKC,BRK,Dāvis Bertāns,PF,1.3816,Armoni Brooks,PG,1.3794
+OKC,BRK,Lindy Waters III,SG,1.4594,Armoni Brooks,PG,1.3794
+OKC,CHO,Adam Flagler,SG,1.3991,James Bouknight,SG,1.3715
+OKC,CHO,Dāvis Bertāns,PF,1.3816,James Bouknight,SG,1.3715
+OKC,CHO,Lindy Waters III,SG,1.4594,James Bouknight,SG,1.3715
+OKC,DEN,Adam Flagler,SG,1.3991,Hunter Tyson,PF,1.4267
+OKC,DEN,Adam Flagler,SG,1.3991,Jay Huff,C,1.181
+OKC,DEN,Adam Flagler,SG,1.3991,Michael Porter Jr.,SF,1.3439
+OKC,DEN,Dāvis Bertāns,PF,1.3816,Hunter Tyson,PF,1.4267
+OKC,DEN,Dāvis Bertāns,PF,1.3816,Jay Huff,C,1.181
+OKC,DEN,Dāvis Bertāns,PF,1.3816,Michael Porter Jr.,SF,1.3439
+OKC,DEN,Lindy Waters III,SG,1.4594,Hunter Tyson,PF,1.4267
+OKC,DEN,Lindy Waters III,SG,1.4594,Jay Huff,C,1.181
+OKC,DEN,Lindy Waters III,SG,1.4594,Michael Porter Jr.,SF,1.3439
+OKC,IND,Adam Flagler,SG,1.3991,Buddy Hield,SF,1.4266
+OKC,IND,Adam Flagler,SG,1.3991,Myles Turner,C,1.1682
+OKC,IND,Dāvis Bertāns,PF,1.3816,Buddy Hield,SF,1.4266
+OKC,IND,Dāvis Bertāns,PF,1.3816,Myles Turner,C,1.1682
+OKC,IND,Lindy Waters III,SG,1.4594,Buddy Hield,SF,1.4266
+OKC,IND,Lindy Waters III,SG,1.4594,Myles Turner,C,1.1682
+OKC,LAL,Adam Flagler,SG,1.3991,D'Angelo Russell,PG,1.338
+OKC,LAL,Dāvis Bertāns,PF,1.3816,D'Angelo Russell,PG,1.338
+OKC,LAL,Lindy Waters III,SG,1.4594,D'Angelo Russell,PG,1.338
+OKC,MIN,Adam Flagler,SG,1.3991,Karl-Anthony Towns,PF,1.3651
+OKC,MIN,Adam Flagler,SG,1.3991,Luka Garza,C,1.2829
+OKC,MIN,Dāvis Bertāns,PF,1.3816,Karl-Anthony Towns,PF,1.3651
+OKC,MIN,Dāvis Bertāns,PF,1.3816,Luka Garza,C,1.2829
+OKC,MIN,Lindy Waters III,SG,1.4594,Karl-Anthony Towns,PF,1.3651
+OKC,MIN,Lindy Waters III,SG,1.4594,Luka Garza,C,1.2829
+OKC,NYK,Adam Flagler,SG,1.3991,Julius Randle,PF,1.385
+OKC,NYK,Dāvis Bertāns,PF,1.3816,Julius Randle,PF,1.385
+OKC,NYK,Lindy Waters III,SG,1.4594,Julius Randle,PF,1.385
+OKC,PHO,Adam Flagler,SG,1.3991,Kevin Durant,PF,1.3258
+OKC,PHO,Dāvis Bertāns,PF,1.3816,Kevin Durant,PF,1.3258
+OKC,PHO,Lindy Waters III,SG,1.4594,Kevin Durant,PF,1.3258
+OKC,POR,Adam Flagler,SG,1.3991,Anfernee Simons,SG,1.3698
+OKC,POR,Adam Flagler,SG,1.3991,Duop Reath,C,1.2603
+OKC,POR,Dāvis Bertāns,PF,1.3816,Anfernee Simons,SG,1.3698
+OKC,POR,Dāvis Bertāns,PF,1.3816,Duop Reath,C,1.2603
+OKC,POR,Lindy Waters III,SG,1.4594,Anfernee Simons,SG,1.3698
+OKC,POR,Lindy Waters III,SG,1.4594,Duop Reath,C,1.2603
+OKC,SAS,Adam Flagler,SG,1.3991,Devonte' Graham,PG,1.314
+OKC,SAS,Dāvis Bertāns,PF,1.3816,Devonte' Graham,PG,1.314
+OKC,SAS,Lindy Waters III,SG,1.4594,Devonte' Graham,PG,1.314
+OKC,UTA,Adam Flagler,SG,1.3991,Lauri Markkanen,PF,1.4075
+OKC,UTA,Dāvis Bertāns,PF,1.3816,Lauri Markkanen,PF,1.4075
+OKC,UTA,Lindy Waters III,SG,1.4594,Lauri Markkanen,PF,1.4075
+OKC,WAS,Adam Flagler,SG,1.3991,Kyle Kuzma,PF,1.3121
+OKC,WAS,Adam Flagler,SG,1.3991,Mike Muscala,C,1.2661
+OKC,WAS,Adam Flagler,SG,1.3991,Patrick Baldwin Jr.,SF,1.4218
+OKC,WAS,Adam Flagler,SG,1.3991,Tristan Vukcevic,C,1.365
+OKC,WAS,Dāvis Bertāns,PF,1.3816,Kyle Kuzma,PF,1.3121
+OKC,WAS,Dāvis Bertāns,PF,1.3816,Mike Muscala,C,1.2661
+OKC,WAS,Dāvis Bertāns,PF,1.3816,Patrick Baldwin Jr.,SF,1.4218
+OKC,WAS,Dāvis Bertāns,PF,1.3816,Tristan Vukcevic,C,1.365
+OKC,WAS,Lindy Waters III,SG,1.4594,Kyle Kuzma,PF,1.3121
+OKC,WAS,Lindy Waters III,SG,1.4594,Mike Muscala,C,1.2661
+OKC,WAS,Lindy Waters III,SG,1.4594,Patrick Baldwin Jr.,SF,1.4218
+OKC,WAS,Lindy Waters III,SG,1.4594,Tristan Vukcevic,C,1.365
+ORL,BRK,Jett Howard,SF,1.5514,Armoni Brooks,PG,1.3794
+ORL,CHO,Jett Howard,SF,1.5514,James Bouknight,SG,1.3715
+ORL,CLE,Jett Howard,SF,1.5514,Sam Merrill,SG,1.4809
+ORL,DEN,Jett Howard,SF,1.5514,Hunter Tyson,PF,1.4267
+ORL,DEN,Jett Howard,SF,1.5514,Jay Huff,C,1.181
+ORL,DEN,Jett Howard,SF,1.5514,Michael Porter Jr.,SF,1.3439
+ORL,GSW,Jett Howard,SF,1.5514,Dario Šarić,C,1.2169
+ORL,GSW,Jett Howard,SF,1.5514,Klay Thompson,SF,1.5375
+ORL,HOU,Jett Howard,SF,1.5514,Cam Whitmore,SF,1.4505
+ORL,HOU,Jett Howard,SF,1.5514,Nate Hinton,SG,1.5014
+ORL,IND,Jett Howard,SF,1.5514,Buddy Hield,SF,1.4266
+ORL,IND,Jett Howard,SF,1.5514,Myles Turner,C,1.1682
+ORL,IND,Moritz Wagner,C,1.1462,Buddy Hield,SF,1.4266
+ORL,IND,Moritz Wagner,C,1.1462,Myles Turner,C,1.1682
+ORL,LAC,Jett Howard,SF,1.5514,Bones Hyland,PG,1.4453
+ORL,LAC,Jett Howard,SF,1.5514,Paul George,PF,1.5025
+ORL,LAL,Jett Howard,SF,1.5514,D'Angelo Russell,PG,1.338
+ORL,MIL,Jett Howard,SF,1.5514,Damian Lillard,PG,1.5511
+ORL,MIN,Jett Howard,SF,1.5514,Karl-Anthony Towns,PF,1.3651
+ORL,MIN,Jett Howard,SF,1.5514,Luka Garza,C,1.2829
+ORL,NYK,Jett Howard,SF,1.5514,Julius Randle,PF,1.385
+ORL,OKC,Jett Howard,SF,1.5514,Adam Flagler,SG,1.3991
+ORL,OKC,Jett Howard,SF,1.5514,Dāvis Bertāns,PF,1.3816
+ORL,OKC,Jett Howard,SF,1.5514,Lindy Waters III,SG,1.4594
+ORL,PHO,Jett Howard,SF,1.5514,Kevin Durant,PF,1.3258
+ORL,POR,Jett Howard,SF,1.5514,Anfernee Simons,SG,1.3698
+ORL,POR,Jett Howard,SF,1.5514,Duop Reath,C,1.2603
+ORL,SAS,Jett Howard,SF,1.5514,Devonte' Graham,PG,1.314
+ORL,UTA,Jett Howard,SF,1.5514,Lauri Markkanen,PF,1.4075
+ORL,WAS,Jett Howard,SF,1.5514,Kyle Kuzma,PF,1.3121
+ORL,WAS,Jett Howard,SF,1.5514,Mike Muscala,C,1.2661
+ORL,WAS,Jett Howard,SF,1.5514,Patrick Baldwin Jr.,SF,1.4218
+ORL,WAS,Jett Howard,SF,1.5514,Tristan Vukcevic,C,1.365
+ORL,WAS,Moritz Wagner,C,1.1462,Kyle Kuzma,PF,1.3121
+ORL,WAS,Moritz Wagner,C,1.1462,Mike Muscala,C,1.2661
+ORL,WAS,Moritz Wagner,C,1.1462,Patrick Baldwin Jr.,SF,1.4218
+ORL,WAS,Moritz Wagner,C,1.1462,Tristan Vukcevic,C,1.365
+PHI,BOS,Mo Bamba,C,1.1526,Al Horford,C,1.1671
+PHI,BOS,Mo Bamba,C,1.1526,Kristaps Porziņģis,C,1.3696
+PHI,BOS,Mo Bamba,C,1.1526,Payton Pritchard,PG,1.2691
+PHI,BOS,Mo Bamba,C,1.1526,Sam Hauser,SF,1.6467
+PHI,BOS,Terquavion Smith,PG,1.8295,Al Horford,C,1.1671
+PHI,BOS,Terquavion Smith,PG,1.8295,Kristaps Porziņģis,C,1.3696
+PHI,BOS,Terquavion Smith,PG,1.8295,Payton Pritchard,PG,1.2691
+PHI,BOS,Terquavion Smith,PG,1.8295,Sam Hauser,SF,1.6467
+PHI,BRK,Mo Bamba,C,1.1526,Armoni Brooks,PG,1.3794
+PHI,BRK,Terquavion Smith,PG,1.8295,Armoni Brooks,PG,1.3794
+PHI,CHO,Mo Bamba,C,1.1526,James Bouknight,SG,1.3715
+PHI,CHO,Terquavion Smith,PG,1.8295,James Bouknight,SG,1.3715
+PHI,CLE,Mo Bamba,C,1.1526,Sam Merrill,SG,1.4809
+PHI,CLE,Terquavion Smith,PG,1.8295,Sam Merrill,SG,1.4809
+PHI,DAL,Mo Bamba,C,1.1526,Dexter Dennis,SG,1.5418
+PHI,DAL,Mo Bamba,C,1.1526,Luka Dončić,PG,1.7383
+PHI,DAL,Mo Bamba,C,1.1526,Tim Hardaway Jr.,SF,1.3672
+PHI,DAL,Terquavion Smith,PG,1.8295,Dexter Dennis,SG,1.5418
+PHI,DAL,Terquavion Smith,PG,1.8295,Luka Dončić,PG,1.7383
+PHI,DAL,Terquavion Smith,PG,1.8295,Tim Hardaway Jr.,SF,1.3672
+PHI,DEN,Mo Bamba,C,1.1526,Hunter Tyson,PF,1.4267
+PHI,DEN,Mo Bamba,C,1.1526,Jay Huff,C,1.181
+PHI,DEN,Mo Bamba,C,1.1526,Michael Porter Jr.,SF,1.3439
+PHI,DEN,Terquavion Smith,PG,1.8295,Hunter Tyson,PF,1.4267
+PHI,DEN,Terquavion Smith,PG,1.8295,Jay Huff,C,1.181
+PHI,DEN,Terquavion Smith,PG,1.8295,Michael Porter Jr.,SF,1.3439
+PHI,DET,Mo Bamba,C,1.1526,Stanley Umude,SG,1.5849
+PHI,DET,Terquavion Smith,PG,1.8295,Stanley Umude,SG,1.5849
+PHI,GSW,Mo Bamba,C,1.1526,Dario Šarić,C,1.2169
+PHI,GSW,Mo Bamba,C,1.1526,Klay Thompson,SF,1.5375
+PHI,GSW,Terquavion Smith,PG,1.8295,Dario Šarić,C,1.2169
+PHI,GSW,Terquavion Smith,PG,1.8295,Klay Thompson,SF,1.5375
+PHI,HOU,Mo Bamba,C,1.1526,Cam Whitmore,SF,1.4505
+PHI,HOU,Mo Bamba,C,1.1526,Nate Hinton,SG,1.5014
+PHI,HOU,Terquavion Smith,PG,1.8295,Cam Whitmore,SF,1.4505
+PHI,HOU,Terquavion Smith,PG,1.8295,Nate Hinton,SG,1.5014
+PHI,IND,Mo Bamba,C,1.1526,Buddy Hield,SF,1.4266
+PHI,IND,Mo Bamba,C,1.1526,Jalen Smith,C,1.1515
+PHI,IND,Mo Bamba,C,1.1526,Myles Turner,C,1.1682
+PHI,IND,Terquavion Smith,PG,1.8295,Buddy Hield,SF,1.4266
+PHI,IND,Terquavion Smith,PG,1.8295,Jalen Smith,C,1.1515
+PHI,IND,Terquavion Smith,PG,1.8295,Myles Turner,C,1.1682
+PHI,LAC,Mo Bamba,C,1.1526,Bones Hyland,PG,1.4453
+PHI,LAC,Mo Bamba,C,1.1526,Paul George,PF,1.5025
+PHI,LAC,Terquavion Smith,PG,1.8295,Bones Hyland,PG,1.4453
+PHI,LAC,Terquavion Smith,PG,1.8295,Paul George,PF,1.5025
+PHI,LAL,Mo Bamba,C,1.1526,D'Angelo Russell,PG,1.338
+PHI,LAL,Terquavion Smith,PG,1.8295,D'Angelo Russell,PG,1.338
+PHI,MEM,Mo Bamba,C,1.1526,DeJon Jarreau,SG,1.7504
+PHI,MEM,Mo Bamba,C,1.1526,Desmond Bane,SG,1.3797
+PHI,MEM,Mo Bamba,C,1.1526,GG Jackson II,PF,1.313
+PHI,MEM,Terquavion Smith,PG,1.8295,DeJon Jarreau,SG,1.7504
+PHI,MEM,Terquavion Smith,PG,1.8295,Desmond Bane,SG,1.3797
+PHI,MEM,Terquavion Smith,PG,1.8295,GG Jackson II,PF,1.313
+PHI,MIA,Mo Bamba,C,1.1526,Duncan Robinson,SF,1.3519
+PHI,MIA,Mo Bamba,C,1.1526,Kevin Love,PF,1.6032
+PHI,MIA,Terquavion Smith,PG,1.8295,Duncan Robinson,SF,1.3519
+PHI,MIA,Terquavion Smith,PG,1.8295,Kevin Love,PF,1.6032
+PHI,MIL,Mo Bamba,C,1.1526,Damian Lillard,PG,1.5511
+PHI,MIL,Terquavion Smith,PG,1.8295,Damian Lillard,PG,1.5511
+PHI,MIN,Mo Bamba,C,1.1526,Karl-Anthony Towns,PF,1.3651
+PHI,MIN,Mo Bamba,C,1.1526,Luka Garza,C,1.2829
+PHI,MIN,Terquavion Smith,PG,1.8295,Karl-Anthony Towns,PF,1.3651
+PHI,MIN,Terquavion Smith,PG,1.8295,Luka Garza,C,1.2829
+PHI,NYK,Mo Bamba,C,1.1526,Julius Randle,PF,1.385
+PHI,NYK,Terquavion Smith,PG,1.8295,Julius Randle,PF,1.385
+PHI,OKC,Mo Bamba,C,1.1526,Adam Flagler,SG,1.3991
+PHI,OKC,Mo Bamba,C,1.1526,Dāvis Bertāns,PF,1.3816
+PHI,OKC,Mo Bamba,C,1.1526,Lindy Waters III,SG,1.4594
+PHI,OKC,Terquavion Smith,PG,1.8295,Adam Flagler,SG,1.3991
+PHI,OKC,Terquavion Smith,PG,1.8295,Dāvis Bertāns,PF,1.3816
+PHI,OKC,Terquavion Smith,PG,1.8295,Lindy Waters III,SG,1.4594
+PHI,ORL,Mo Bamba,C,1.1526,Jett Howard,SF,1.5514
+PHI,ORL,Terquavion Smith,PG,1.8295,Jett Howard,SF,1.5514
+PHI,PHO,Mo Bamba,C,1.1526,Kevin Durant,PF,1.3258
+PHI,PHO,Terquavion Smith,PG,1.8295,Kevin Durant,PF,1.3258
+PHI,POR,Mo Bamba,C,1.1526,Anfernee Simons,SG,1.3698
+PHI,POR,Mo Bamba,C,1.1526,Duop Reath,C,1.2603
+PHI,POR,Terquavion Smith,PG,1.8295,Anfernee Simons,SG,1.3698
+PHI,POR,Terquavion Smith,PG,1.8295,Duop Reath,C,1.2603
+PHI,SAC,Mo Bamba,C,1.1526,De'Aaron Fox,PG,1.2557
+PHI,SAC,Terquavion Smith,PG,1.8295,De'Aaron Fox,PG,1.2557
+PHI,SAS,Mo Bamba,C,1.1526,Devonte' Graham,PG,1.314
+PHI,SAS,Terquavion Smith,PG,1.8295,Devonte' Graham,PG,1.314
+PHI,UTA,Mo Bamba,C,1.1526,Lauri Markkanen,PF,1.4075
+PHI,UTA,Terquavion Smith,PG,1.8295,Lauri Markkanen,PF,1.4075
+PHI,WAS,Mo Bamba,C,1.1526,Kyle Kuzma,PF,1.3121
+PHI,WAS,Mo Bamba,C,1.1526,Mike Muscala,C,1.2661
+PHI,WAS,Mo Bamba,C,1.1526,Patrick Baldwin Jr.,SF,1.4218
+PHI,WAS,Mo Bamba,C,1.1526,Tristan Vukcevic,C,1.365
+PHI,WAS,Terquavion Smith,PG,1.8295,Kyle Kuzma,PF,1.3121
+PHI,WAS,Terquavion Smith,PG,1.8295,Mike Muscala,C,1.2661
+PHI,WAS,Terquavion Smith,PG,1.8295,Patrick Baldwin Jr.,SF,1.4218
+PHI,WAS,Terquavion Smith,PG,1.8295,Tristan Vukcevic,C,1.365
+PHO,SAS,Kevin Durant,PF,1.3258,Devonte' Graham,PG,1.314
+POR,ATL,Anfernee Simons,SG,1.3698,Bogdan Bogdanović,SG,1.3674
+POR,ATL,Duop Reath,C,1.2603,Bogdan Bogdanović,SG,1.3674
+POR,LAL,Anfernee Simons,SG,1.3698,D'Angelo Russell,PG,1.338
+POR,LAL,Duop Reath,C,1.2603,D'Angelo Russell,PG,1.338
+POR,MIN,Anfernee Simons,SG,1.3698,Karl-Anthony Towns,PF,1.3651
+POR,MIN,Anfernee Simons,SG,1.3698,Luka Garza,C,1.2829
+POR,MIN,Duop Reath,C,1.2603,Karl-Anthony Towns,PF,1.3651
+POR,MIN,Duop Reath,C,1.2603,Luka Garza,C,1.2829
+POR,PHO,Anfernee Simons,SG,1.3698,Kevin Durant,PF,1.3258
+POR,PHO,Duop Reath,C,1.2603,Kevin Durant,PF,1.3258
+POR,SAS,Anfernee Simons,SG,1.3698,Devonte' Graham,PG,1.314
+POR,SAS,Duop Reath,C,1.2603,Devonte' Graham,PG,1.314
+SAS,SAC,Devonte' Graham,PG,1.314,De'Aaron Fox,PG,1.2557
+UTA,BRK,Lauri Markkanen,PF,1.4075,Armoni Brooks,PG,1.3794
+UTA,CHO,Lauri Markkanen,PF,1.4075,James Bouknight,SG,1.3715
+UTA,LAL,Lauri Markkanen,PF,1.4075,D'Angelo Russell,PG,1.338
+UTA,MIN,Lauri Markkanen,PF,1.4075,Karl-Anthony Towns,PF,1.3651
+UTA,MIN,Lauri Markkanen,PF,1.4075,Luka Garza,C,1.2829
+UTA,NYK,Lauri Markkanen,PF,1.4075,Julius Randle,PF,1.385
+UTA,PHO,Lauri Markkanen,PF,1.4075,Kevin Durant,PF,1.3258
+UTA,POR,Lauri Markkanen,PF,1.4075,Anfernee Simons,SG,1.3698
+UTA,POR,Lauri Markkanen,PF,1.4075,Duop Reath,C,1.2603
+UTA,SAS,Lauri Markkanen,PF,1.4075,Devonte' Graham,PG,1.314
+WAS,BRK,Kyle Kuzma,PF,1.3121,Armoni Brooks,PG,1.3794
+WAS,BRK,Mike Muscala,C,1.2661,Armoni Brooks,PG,1.3794
+WAS,BRK,Patrick Baldwin Jr.,SF,1.4218,Armoni Brooks,PG,1.3794
+WAS,BRK,Tristan Vukcevic,C,1.365,Armoni Brooks,PG,1.3794
+WAS,CHO,Kyle Kuzma,PF,1.3121,James Bouknight,SG,1.3715
+WAS,CHO,Mike Muscala,C,1.2661,James Bouknight,SG,1.3715
+WAS,CHO,Patrick Baldwin Jr.,SF,1.4218,James Bouknight,SG,1.3715
+WAS,CHO,Tristan Vukcevic,C,1.365,James Bouknight,SG,1.3715
+WAS,LAL,Kyle Kuzma,PF,1.3121,D'Angelo Russell,PG,1.338
+WAS,LAL,Mike Muscala,C,1.2661,D'Angelo Russell,PG,1.338
+WAS,LAL,Patrick Baldwin Jr.,SF,1.4218,D'Angelo Russell,PG,1.338
+WAS,LAL,Tristan Vukcevic,C,1.365,D'Angelo Russell,PG,1.338
+WAS,MIN,Kyle Kuzma,PF,1.3121,Karl-Anthony Towns,PF,1.3651
+WAS,MIN,Kyle Kuzma,PF,1.3121,Luka Garza,C,1.2829
+WAS,MIN,Mike Muscala,C,1.2661,Karl-Anthony Towns,PF,1.3651
+WAS,MIN,Mike Muscala,C,1.2661,Luka Garza,C,1.2829
+WAS,MIN,Patrick Baldwin Jr.,SF,1.4218,Karl-Anthony Towns,PF,1.3651
+WAS,MIN,Patrick Baldwin Jr.,SF,1.4218,Luka Garza,C,1.2829
+WAS,MIN,Tristan Vukcevic,C,1.365,Karl-Anthony Towns,PF,1.3651
+WAS,MIN,Tristan Vukcevic,C,1.365,Luka Garza,C,1.2829
+WAS,NYK,Kyle Kuzma,PF,1.3121,Julius Randle,PF,1.385
+WAS,NYK,Mike Muscala,C,1.2661,Julius Randle,PF,1.385
+WAS,NYK,Patrick Baldwin Jr.,SF,1.4218,Julius Randle,PF,1.385
+WAS,NYK,Tristan Vukcevic,C,1.365,Julius Randle,PF,1.385
+WAS,PHO,Kyle Kuzma,PF,1.3121,Kevin Durant,PF,1.3258
+WAS,PHO,Mike Muscala,C,1.2661,Kevin Durant,PF,1.3258
+WAS,PHO,Patrick Baldwin Jr.,SF,1.4218,Kevin Durant,PF,1.3258
+WAS,PHO,Tristan Vukcevic,C,1.365,Kevin Durant,PF,1.3258
+WAS,POR,Kyle Kuzma,PF,1.3121,Anfernee Simons,SG,1.3698
+WAS,POR,Kyle Kuzma,PF,1.3121,Duop Reath,C,1.2603
+WAS,POR,Mike Muscala,C,1.2661,Anfernee Simons,SG,1.3698
+WAS,POR,Mike Muscala,C,1.2661,Duop Reath,C,1.2603
+WAS,POR,Patrick Baldwin Jr.,SF,1.4218,Anfernee Simons,SG,1.3698
+WAS,POR,Patrick Baldwin Jr.,SF,1.4218,Duop Reath,C,1.2603
+WAS,POR,Tristan Vukcevic,C,1.365,Anfernee Simons,SG,1.3698
+WAS,POR,Tristan Vukcevic,C,1.365,Duop Reath,C,1.2603
+WAS,SAS,Kyle Kuzma,PF,1.3121,Devonte' Graham,PG,1.314
+WAS,SAS,Mike Muscala,C,1.2661,Devonte' Graham,PG,1.314
+WAS,SAS,Patrick Baldwin Jr.,SF,1.4218,Devonte' Graham,PG,1.314
+WAS,SAS,Tristan Vukcevic,C,1.365,Devonte' Graham,PG,1.314
+WAS,UTA,Kyle Kuzma,PF,1.3121,Lauri Markkanen,PF,1.4075
+WAS,UTA,Mike Muscala,C,1.2661,Lauri Markkanen,PF,1.4075
+WAS,UTA,Patrick Baldwin Jr.,SF,1.4218,Lauri Markkanen,PF,1.4075
+WAS,UTA,Tristan Vukcevic,C,1.365,Lauri Markkanen,PF,1.4075

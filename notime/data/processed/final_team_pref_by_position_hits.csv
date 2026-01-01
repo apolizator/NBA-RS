@@ -1,0 +1,39 @@
+team_abbr,target_position,player_name,pos_rank,fit_score,last_team,analysis_note
+ATL,C,Kristaps Porziņģis,6,0.8927,BOS,
+BRK,SF,Michael Porter Jr.,9,0.7483,DEN,
+DAL,C,Anthony Davis,8,0.7795,LAL,LAL ↔ DAL arasında çoklu hareket senaryosu; LAL → DAL yönünde model isabetli öneri üretmiş.
+DAL,PG,D'Angelo Russell,10,0.7329,LAL,LAL ↔ DAL arasında çoklu hareket senaryosu; LAL → DAL yönünde model isabetli öneri üretmiş.
+DAL,SF,Klay Thompson,6,0.6897,GSW,
+DEN,SF,Tim Hardaway Jr.,10,0.496,DAL,
+GSW,PF,Jimmy Butler,6,0.8071,MIA,
+GSW,SF,Buddy Hield,7,0.6572,IND,
+GSW,SG,De'Anthony Melton,9,0.6997,PHI,
+HOU,PF,Kevin Durant,2,0.9515,PHO,"Öne çıkan isabet: PHO → HOU, pozisyon PF için model bu oyuncuyu 2. sırada önermiş (fit_score=0.952)."
+IND,PF,Pascal Siakam,10,0.7387,TOR,
+LAC,PG,Chris Paul,9,0.6056,GSW,
+LAC,SG,Bradley Beal,2,0.628,PHO,
+LAL,PG,Luka Dončić,1,1.0833,DAL,"LAL ↔ DAL arasında çoklu hareket senaryosu; DAL → LAL yönünde model isabetli öneri üretmiş. | Öne çıkan isabet: DAL → LAL, pozisyon PG için model bu oyuncuyu 1. sırada önermiş (fit_score=1.083)."
+MIA,SG,Terry Rozier,5,0.8575,CHO,
+MIN,PF,Julius Randle,3,0.6501,NYK,"Karşılıklı takas senaryosu: NYK → MIN (Julius Randle), MIN → NYK (Karl-Anthony Towns)."
+MIN,PG,Bones Hyland,9,0.6286,LAC,
+NOP,C,DeAndre Jordan,5,0.6626,DEN,
+NOP,SG,Dejounte Murray,2,0.701,ATL,"Öne çıkan isabet: ATL → NOP, pozisyon SG için model bu oyuncuyu 2. sırada önermiş (fit_score=0.701)."
+NOP,SG,Jordan Poole,8,0.6251,WAS,"Karşılıklı takas senaryosu: WAS → NOP (Jordan Poole), NOP → WAS (CJ McCollum)."
+NYK,PF,Karl-Anthony Towns,3,0.8024,MIN,"Karşılıklı takas senaryosu: NYK → MIN (Julius Randle), MIN → NYK (Karl-Anthony Towns). | Öne çıkan isabet: MIN → NYK, pozisyon PF için model bu oyuncuyu 3. sırada önermiş (fit_score=0.802)."
+NYK,SG,Jordan Clarkson,9,0.7027,UTA,
+ORL,SG,Desmond Bane,1,0.8337,MEM,"Öne çıkan isabet: MEM → ORL, pozisyon SG için model bu oyuncuyu 1. sırada önermiş (fit_score=0.834)."
+PHI,PF,Paul George,1,0.8983,LAC,"Öne çıkan isabet: LAC → PHI, pozisyon PF için model bu oyuncuyu 1. sırada önermiş (fit_score=0.898)."
+PHO,C,Nick Richards,10,0.5483,CHO,
+POR,PG,Damian Lillard,2,1.6905,MIL,"Öne çıkan isabet: MIL → POR, pozisyon PG için model bu oyuncuyu 2. sırada önermiş (fit_score=1.690)."
+SAC,PG,Russell Westbrook,3,0.7791,LAC,"Öne çıkan isabet: LAC → SAC, pozisyon PG için model bu oyuncuyu 3. sırada önermiş (fit_score=0.779)."
+SAC,SF,DeMar DeRozan,6,0.6721,CHI,
+SAC,SG,Zach LaVine,4,0.7194,CHI,
+SAS,C,Kelly Olynyk,5,0.7986,UTA,
+SAS,PG,De'Aaron Fox,6,1.0485,SAC,
+SAS,SG,Lindy Waters III,4,1.0397,OKC,
+TOR,SF,Brandon Ingram,7,0.9011,NOP,
+TOR,SG,Immanuel Quickley,7,0.9527,NYK,
+UTA,PF,Kevin Love,3,0.9898,MIA,"Öne çıkan isabet: MIA → UTA, pozisyon PF için model bu oyuncuyu 3. sırada önermiş (fit_score=0.990)."
+WAS,PG,CJ McCollum,5,1.1233,NOP,"Karşılıklı takas senaryosu: WAS → NOP (Jordan Poole), NOP → WAS (CJ McCollum)."
+WAS,SF,Cam Whitmore,3,1.1404,HOU,"Öne çıkan isabet: HOU → WAS, pozisyon SF için model bu oyuncuyu 3. sırada önermiş (fit_score=1.140)."
+WAS,SF,Khris Middleton,4,1.0896,MIL,

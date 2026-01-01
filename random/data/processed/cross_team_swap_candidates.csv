@@ -1,0 +1,1342 @@
+team_a,team_b,from_a_player,from_a_position,from_a_fit_score,from_b_player,from_b_position,from_b_fit_score
+ATL,BOS,De'Andre Hunter,SF,9.0428,JD Davison,SG,9.2512
+ATL,BOS,De'Andre Hunter,SF,9.0428,Jaylen Brown,SF,9.8497
+ATL,BOS,De'Andre Hunter,SF,9.0428,Oshae Brissett,SF,9.116
+ATL,BOS,Jalen Johnson,SF,9.2927,JD Davison,SG,9.2512
+ATL,BOS,Jalen Johnson,SF,9.2927,Jaylen Brown,SF,9.8497
+ATL,BOS,Jalen Johnson,SF,9.2927,Oshae Brissett,SF,9.116
+ATL,BOS,Vit Krejci,PG,9.9236,JD Davison,SG,9.2512
+ATL,BOS,Vit Krejci,PG,9.9236,Jaylen Brown,SF,9.8497
+ATL,BOS,Vit Krejci,PG,9.9236,Oshae Brissett,SF,9.116
+ATL,DET,Clint Capela,C,8.8843,Stanley Umude,SG,9.7824
+ATL,DET,Patty Mills,PG,9.8534,Stanley Umude,SG,9.7824
+ATL,DET,Vit Krejci,PG,9.1457,Stanley Umude,SG,9.7824
+ATL,GSW,Clint Capela,C,9.1162,Klay Thompson,SF,9.3005
+ATL,GSW,Onyeka Okongwu,C,9.9019,Klay Thompson,SF,9.3005
+ATL,IND,De'Andre Hunter,SF,9.6092,James Johnson,PF,9.3353
+ATL,IND,De'Andre Hunter,SF,9.6092,T.J. McConnell,PG,8.7902
+ATL,IND,Saddiq Bey,SF,9.0714,James Johnson,PF,9.3353
+ATL,IND,Saddiq Bey,SF,9.0714,T.J. McConnell,PG,8.7902
+ATL,IND,Trae Young,PG,8.963,James Johnson,PF,9.3353
+ATL,IND,Trae Young,PG,8.963,T.J. McConnell,PG,8.7902
+ATL,LAC,Bogdan Bogdanović,SG,9.8887,James Harden,PG,9.1196
+ATL,LAC,Bogdan Bogdanović,SG,9.8887,Robert Covington,PF,9.4874
+ATL,LAC,Bogdan Bogdanović,SG,9.8887,Terance Mann,SG,9.8145
+ATL,LAC,De'Andre Hunter,SF,9.8001,James Harden,PG,9.1196
+ATL,LAC,De'Andre Hunter,SF,9.8001,Robert Covington,PF,9.4874
+ATL,LAC,De'Andre Hunter,SF,9.8001,Terance Mann,SG,9.8145
+ATL,LAC,Mouhamed Gueye,PF,9.8185,James Harden,PG,9.1196
+ATL,LAC,Mouhamed Gueye,PF,9.8185,Robert Covington,PF,9.4874
+ATL,LAC,Mouhamed Gueye,PF,9.8185,Terance Mann,SG,9.8145
+ATL,LAL,Clint Capela,C,9.1131,Christian Wood,PF,9.4552
+ATL,LAL,Clint Capela,C,9.1131,Colin Castleton,C,9.4157
+ATL,LAL,Onyeka Okongwu,C,9.983,Christian Wood,PF,9.4552
+ATL,LAL,Onyeka Okongwu,C,9.983,Colin Castleton,C,9.4157
+ATL,MIL,Patty Mills,PG,9.7843,Marques Bolden,C,9.7164
+ATL,MIL,Patty Mills,PG,9.7843,Robin Lopez,C,9.5683
+ATL,MIL,Seth Lundy,SF,9.6495,Marques Bolden,C,9.7164
+ATL,MIL,Seth Lundy,SF,9.6495,Robin Lopez,C,9.5683
+ATL,MIL,Trae Young,PG,9.4646,Marques Bolden,C,9.7164
+ATL,MIL,Trae Young,PG,9.4646,Robin Lopez,C,9.5683
+ATL,MIN,Bogdan Bogdanović,SG,9.8509,T.J. Warren,SF,9.7679
+ATL,MIN,Bogdan Bogdanović,SG,9.8509,Wendell Moore Jr.,SG,9.8108
+ATL,MIN,Seth Lundy,SF,9.2635,T.J. Warren,SF,9.7679
+ATL,MIN,Seth Lundy,SF,9.2635,Wendell Moore Jr.,SG,9.8108
+ATL,MIN,Vit Krejci,PG,9.3796,T.J. Warren,SF,9.7679
+ATL,MIN,Vit Krejci,PG,9.3796,Wendell Moore Jr.,SG,9.8108
+ATL,OKC,De'Andre Hunter,SF,9.7204,Isaiah Joe,SG,9.5804
+ATL,OKC,De'Andre Hunter,SF,9.7204,Luguentz Dort,SF,9.0667
+ATL,OKC,Onyeka Okongwu,C,9.0799,Isaiah Joe,SG,9.5804
+ATL,OKC,Onyeka Okongwu,C,9.0799,Luguentz Dort,SF,9.0667
+ATL,OKC,Trae Young,PG,9.8671,Isaiah Joe,SG,9.5804
+ATL,OKC,Trae Young,PG,9.8671,Luguentz Dort,SF,9.0667
+ATL,OKC,Vit Krejci,PG,9.6108,Isaiah Joe,SG,9.5804
+ATL,OKC,Vit Krejci,PG,9.6108,Luguentz Dort,SF,9.0667
+ATL,PHI,Garrison Mathews,SG,9.5943,Terquavion Smith,PG,9.3458
+ATL,PHI,Onyeka Okongwu,C,9.3582,Terquavion Smith,PG,9.3458
+ATL,PHI,Wesley Matthews,SG,9.863,Terquavion Smith,PG,9.3458
+ATL,PHO,Onyeka Okongwu,C,9.3455,Eric Gordon,SG,9.3012
+ATL,POR,Kobe Bufkin,SG,9.9612,Deandre Ayton,C,9.7219
+ATL,POR,Kobe Bufkin,SG,9.9612,Jabari Walker,PF,9.4068
+ATL,POR,Kobe Bufkin,SG,9.9612,Kris Murray,SF,9.1497
+ATL,POR,Kobe Bufkin,SG,9.9612,Moses Brown,C,9.531
+ATL,POR,Onyeka Okongwu,C,9.4868,Deandre Ayton,C,9.7219
+ATL,POR,Onyeka Okongwu,C,9.4868,Jabari Walker,PF,9.4068
+ATL,POR,Onyeka Okongwu,C,9.4868,Kris Murray,SF,9.1497
+ATL,POR,Onyeka Okongwu,C,9.4868,Moses Brown,C,9.531
+BOS,DEN,Luke Kornet,C,9.9647,Julian Strawther,SF,9.7289
+BOS,DEN,Oshae Brissett,SF,9.9642,Julian Strawther,SF,9.7289
+BOS,DEN,Sam Hauser,SF,9.7923,Julian Strawther,SF,9.7289
+BOS,IND,Lamar Stevens,PF,9.9648,Aaron Nesmith,SF,9.4017
+BOS,IND,Lamar Stevens,PF,9.9648,T.J. McConnell,PG,9.5594
+BOS,IND,Sam Hauser,SF,9.231,Aaron Nesmith,SF,9.4017
+BOS,IND,Sam Hauser,SF,9.231,T.J. McConnell,PG,9.5594
+BOS,MIL,Al Horford,C,9.9517,Chris Livingston,SF,9.821
+BOS,MIL,Al Horford,C,9.9517,Giannis Antetokounmpo,PF,9.4014
+BOS,MIL,Al Horford,C,9.9517,Jae Crowder,PF,9.7782
+BOS,MIL,Al Horford,C,9.9517,Pat Connaughton,SF,9.5127
+BOS,MIL,Al Horford,C,9.9517,Robin Lopez,C,9.4283
+BOS,MIL,Jaylen Brown,SF,9.49,Chris Livingston,SF,9.821
+BOS,MIL,Jaylen Brown,SF,9.49,Giannis Antetokounmpo,PF,9.4014
+BOS,MIL,Jaylen Brown,SF,9.49,Jae Crowder,PF,9.7782
+BOS,MIL,Jaylen Brown,SF,9.49,Pat Connaughton,SF,9.5127
+BOS,MIL,Jaylen Brown,SF,9.49,Robin Lopez,C,9.4283
+BOS,NYK,Al Horford,C,9.2449,Quentin Grimes,SG,9.5471
+BOS,NYK,JD Davison,SG,9.3149,Quentin Grimes,SG,9.5471
+BOS,NYK,Luke Kornet,C,9.8031,Quentin Grimes,SG,9.5471
+BOS,OKC,Derrick White,SG,9.4944,Olivier Sarr,C,9.5011
+BOS,OKC,JD Davison,SG,9.9139,Olivier Sarr,C,9.5011
+BOS,ORL,Lamar Stevens,PF,9.502,Jett Howard,SF,9.0234
+BOS,ORL,Luke Kornet,C,9.239,Jett Howard,SF,9.0234
+BOS,PHI,Dalano Banton,PG,9.5103,Danny Green,SG,9.6153
+BOS,PHI,JD Davison,SG,9.8147,Danny Green,SG,9.6153
+BOS,PHI,Luke Kornet,C,9.4195,Danny Green,SG,9.6153
+BOS,PHI,Oshae Brissett,SF,8.8694,Danny Green,SG,9.6153
+BOS,POR,Jayson Tatum,PF,9.8433,Deandre Ayton,C,9.5601
+BOS,POR,Kristaps Porziņģis,C,9.5883,Deandre Ayton,C,9.5601
+BOS,SAC,Derrick White,SG,9.7327,Alex Len,C,9.4294
+BOS,SAC,Derrick White,SG,9.7327,Colby Jones,SG,9.7016
+BOS,SAC,Svi Mykhailiuk,SF,9.5388,Alex Len,C,9.4294
+BOS,SAC,Svi Mykhailiuk,SF,9.5388,Colby Jones,SG,9.7016
+BRK,CHO,Cameron Johnson,PF,9.4864,Nathan Mensah,C,9.2403
+BRK,CLE,Armoni Brooks,PG,9.2791,Jarrett Allen,C,9.2841
+BRK,CLE,Trendon Watford,PF,9.7259,Jarrett Allen,C,9.2841
+BRK,GSW,Cam Thomas,SG,9.9936,Kevon Looney,C,9.9415
+BRK,GSW,Cam Thomas,SG,9.9936,Usman Garuba,PF,9.7728
+BRK,GSW,Dennis Smith Jr.,PG,9.8786,Kevon Looney,C,9.9415
+BRK,GSW,Dennis Smith Jr.,PG,9.8786,Usman Garuba,PF,9.7728
+BRK,GSW,Dorian Finney-Smith,PF,9.861,Kevon Looney,C,9.9415
+BRK,GSW,Dorian Finney-Smith,PF,9.861,Usman Garuba,PF,9.7728
+BRK,GSW,Royce O'Neale,SF,9.6443,Kevon Looney,C,9.9415
+BRK,GSW,Royce O'Neale,SF,9.6443,Usman Garuba,PF,9.7728
+BRK,IND,Day'Ron Sharpe,C,9.5984,Buddy Hield,SF,9.8262
+BRK,IND,Day'Ron Sharpe,C,9.5984,Isaiah Wong,SG,9.3201
+BRK,IND,Day'Ron Sharpe,C,9.5984,Oscar Tshiebwe,PF,9.4656
+BRK,IND,Dorian Finney-Smith,PF,9.8848,Buddy Hield,SF,9.8262
+BRK,IND,Dorian Finney-Smith,PF,9.8848,Isaiah Wong,SG,9.3201
+BRK,IND,Dorian Finney-Smith,PF,9.8848,Oscar Tshiebwe,PF,9.4656
+BRK,LAC,Mikal Bridges,SF,9.6957,Moussa Diabaté,C,9.4828
+BRK,LAC,Trendon Watford,PF,9.4553,Moussa Diabaté,C,9.4828
+BRK,LAL,Day'Ron Sharpe,C,9.1512,Colin Castleton,C,9.378
+BRK,LAL,Day'Ron Sharpe,C,9.1512,Gabe Vincent,PG,9.4901
+BRK,LAL,Spencer Dinwiddie,PG,9.7664,Colin Castleton,C,9.378
+BRK,LAL,Spencer Dinwiddie,PG,9.7664,Gabe Vincent,PG,9.4901
+BRK,NYK,Armoni Brooks,PG,9.9516,Donte DiVincenzo,SG,9.6089
+BRK,NYK,Dorian Finney-Smith,PF,9.9413,Donte DiVincenzo,SG,9.6089
+BRK,NYK,Keon Johnson,SG,9.5432,Donte DiVincenzo,SG,9.6089
+BRK,NYK,Spencer Dinwiddie,PG,8.2804,Donte DiVincenzo,SG,9.6089
+BRK,TOR,Royce O'Neale,SF,9.3072,Dennis Schröder,PG,9.1002
+BRK,UTA,Day'Ron Sharpe,C,9.9164,John Collins,PF,9.6024
+BRK,UTA,Dennis Smith Jr.,PG,9.9793,John Collins,PF,9.6024
+CHI,BOS,Ayo Dosunmu,SG,9.9025,Luke Kornet,C,9.6924
+CHI,BOS,Ayo Dosunmu,SG,9.9025,Payton Pritchard,PG,9.5502
+CHI,BOS,Terry Taylor,PF,9.8157,Luke Kornet,C,9.6924
+CHI,BOS,Terry Taylor,PF,9.8157,Payton Pritchard,PG,9.5502
+CHI,BRK,DeMar DeRozan,SF,9.5463,Nic Claxton,C,9.3486
+CHI,BRK,Torrey Craig,SF,9.5925,Nic Claxton,C,9.3486
+CHI,BRK,Zach LaVine,SG,9.9442,Nic Claxton,C,9.3486
+CHI,DAL,Ayo Dosunmu,SG,9.7715,Dante Exum,PG,9.302
+CHI,DAL,Ayo Dosunmu,SG,9.7715,Josh Green,SG,9.1999
+CHI,DAL,Ayo Dosunmu,SG,9.7715,Markieff Morris,PF,9.3696
+CHI,MEM,Nikola Vučević,C,9.957,John Konchar,SF,9.3206
+CHI,MEM,Nikola Vučević,C,9.957,Vince Williams Jr.,SG,9.2452
+CHI,MIL,Andre Drummond,C,9.6965,Brook Lopez,C,9.2179
+CHI,MIL,Andre Drummond,C,9.6965,Robin Lopez,C,8.6581
+CHI,NOP,Dalen Terry,SG,9.7388,Matt Ryan,SF,9.2787
+CHI,NOP,Javonte Green,SF,9.1794,Matt Ryan,SF,9.2787
+CHI,ORL,Ayo Dosunmu,SG,9.7664,Cole Anthony,PG,9.6135
+CHI,ORL,Javonte Green,SF,9.4958,Cole Anthony,PG,9.6135
+CHI,ORL,Nikola Vučević,C,9.5605,Cole Anthony,PG,9.6135
+CHI,SAC,Adama Sanogo,PF,9.5184,De'Aaron Fox,PG,9.2001
+CHI,SAC,Andre Drummond,C,9.4708,De'Aaron Fox,PG,9.2001
+CHI,SAC,DeMar DeRozan,SF,9.5526,De'Aaron Fox,PG,9.2001
+CHI,UTA,Coby White,PG,9.7816,Simone Fontecchio,SF,9.1722
+CHO,CHI,Amari Bailey,PG,9.6876,Zach LaVine,SG,9.4361
+CHO,CLE,James Bouknight,SG,9.7098,Craig Porter Jr.,PG,9.5917
+CHO,CLE,James Bouknight,SG,9.7098,Dean Wade,PF,9.607
+CHO,CLE,Leaky Black,SF,9.9551,Craig Porter Jr.,PG,9.5917
+CHO,CLE,Leaky Black,SF,9.9551,Dean Wade,PF,9.607
+CHO,CLE,Nathan Mensah,C,9.1331,Craig Porter Jr.,PG,9.5917
+CHO,CLE,Nathan Mensah,C,9.1331,Dean Wade,PF,9.607
+CHO,DAL,Frank Ntilikina,PG,9.4288,Markieff Morris,PF,9.2918
+CHO,DAL,Frank Ntilikina,PG,9.4288,Tim Hardaway Jr.,SF,9.4058
+CHO,DAL,Leaky Black,SF,8.9673,Markieff Morris,PF,9.2918
+CHO,DAL,Leaky Black,SF,8.9673,Tim Hardaway Jr.,SF,9.4058
+CHO,DET,JT Thor,PF,9.9632,Malcolm Cazalon,SG,9.322
+CHO,HOU,Gordon Hayward,SF,9.5393,Tari Eason,PF,9.1418
+CHO,MEM,Miles Bridges,SF,9.8932,Luke Kennard,SG,9.3433
+CHO,OKC,Frank Ntilikina,PG,9.9808,Josh Giddey,SG,9.2817
+CHO,OKC,Nathan Mensah,C,9.0354,Josh Giddey,SG,9.2817
+CHO,ORL,Ish Smith,PG,9.099,Goga Bitadze,C,9.5332
+CHO,ORL,James Bouknight,SG,9.7719,Goga Bitadze,C,9.5332
+CHO,ORL,Nick Richards,C,9.1011,Goga Bitadze,C,9.5332
+CHO,SAC,Ish Smith,PG,9.195,Alex Len,C,9.6233
+CHO,SAC,Ish Smith,PG,9.195,De'Aaron Fox,PG,9.5468
+CHO,SAC,Ish Smith,PG,9.195,Kevin Huerter,SG,9.7211
+CHO,SAC,JT Thor,PF,9.4518,Alex Len,C,9.6233
+CHO,SAC,JT Thor,PF,9.4518,De'Aaron Fox,PG,9.5468
+CHO,SAC,JT Thor,PF,9.4518,Kevin Huerter,SG,9.7211
+CHO,SAC,Mark Williams,C,9.9923,Alex Len,C,9.6233
+CHO,SAC,Mark Williams,C,9.9923,De'Aaron Fox,PG,9.5468
+CHO,SAC,Mark Williams,C,9.9923,Kevin Huerter,SG,9.7211
+CHO,SAC,Nick Smith Jr.,SG,9.8412,Alex Len,C,9.6233
+CHO,SAC,Nick Smith Jr.,SG,9.8412,De'Aaron Fox,PG,9.5468
+CHO,SAC,Nick Smith Jr.,SG,9.8412,Kevin Huerter,SG,9.7211
+CHO,SAC,P.J. Washington,PF,9.2628,Alex Len,C,9.6233
+CHO,SAC,P.J. Washington,PF,9.2628,De'Aaron Fox,PG,9.5468
+CHO,SAC,P.J. Washington,PF,9.2628,Kevin Huerter,SG,9.7211
+CHO,SAC,Théo Maledon,PG,9.6919,Alex Len,C,9.6233
+CHO,SAC,Théo Maledon,PG,9.6919,De'Aaron Fox,PG,9.5468
+CHO,SAC,Théo Maledon,PG,9.6919,Kevin Huerter,SG,9.7211
+CHO,SAS,Bryce McGowens,SG,9.4603,Julian Champagnie,SF,9.3504
+CHO,SAS,Bryce McGowens,SG,9.4603,Malaki Branham,PG,9.9648
+CHO,SAS,Bryce McGowens,SG,9.4603,Tre Jones,PG,9.6079
+CHO,SAS,Cody Martin,SF,9.2367,Julian Champagnie,SF,9.3504
+CHO,SAS,Cody Martin,SF,9.2367,Malaki Branham,PG,9.9648
+CHO,SAS,Cody Martin,SF,9.2367,Tre Jones,PG,9.6079
+CHO,SAS,Frank Ntilikina,PG,9.973,Julian Champagnie,SF,9.3504
+CHO,SAS,Frank Ntilikina,PG,9.973,Malaki Branham,PG,9.9648
+CHO,SAS,Frank Ntilikina,PG,9.973,Tre Jones,PG,9.6079
+CHO,SAS,Ish Smith,PG,9.8231,Julian Champagnie,SF,9.3504
+CHO,SAS,Ish Smith,PG,9.8231,Malaki Branham,PG,9.9648
+CHO,SAS,Ish Smith,PG,9.8231,Tre Jones,PG,9.6079
+CHO,SAS,Nathan Mensah,C,9.1149,Julian Champagnie,SF,9.3504
+CHO,SAS,Nathan Mensah,C,9.1149,Malaki Branham,PG,9.9648
+CHO,SAS,Nathan Mensah,C,9.1149,Tre Jones,PG,9.6079
+CHO,UTA,Leaky Black,SF,9.9538,Keyonte George,PG,9.7022
+CHO,UTA,Leaky Black,SF,9.9538,Micah Potter,PF,9.6985
+CHO,UTA,Miles Bridges,SF,9.5967,Keyonte George,PG,9.7022
+CHO,UTA,Miles Bridges,SF,9.5967,Micah Potter,PF,9.6985
+CHO,UTA,Terry Rozier,SG,9.5911,Keyonte George,PG,9.7022
+CHO,UTA,Terry Rozier,SG,9.5911,Micah Potter,PF,9.6985
+CLE,ATL,Donovan Mitchell,SG,9.5669,Jalen Johnson,SF,9.499
+CLE,ATL,Donovan Mitchell,SG,9.5669,Mouhamed Gueye,PF,9.4227
+CLE,ATL,Evan Mobley,PF,9.9086,Jalen Johnson,SF,9.499
+CLE,ATL,Evan Mobley,PF,9.9086,Mouhamed Gueye,PF,9.4227
+CLE,CHI,Georges Niang,PF,9.7931,Jevon Carter,PG,9.5759
+CLE,GSW,Isaac Okoro,SF,9.7945,Gary Payton II,SG,9.6935
+CLE,GSW,Isaac Okoro,SF,9.7945,Trayce Jackson-Davis,PF,9.5363
+CLE,HOU,Emoni Bates,SF,9.6203,Jae'Sean Tate,SF,9.6577
+CLE,HOU,Isaac Okoro,SF,9.9314,Jae'Sean Tate,SF,9.6577
+CLE,IND,Dean Wade,PF,9.8148,Andrew Nembhard,PG,8.8626
+CLE,IND,Dean Wade,PF,9.8148,Jordan Nwora,SF,9.709
+CLE,MEM,Evan Mobley,PF,9.4237,Desmond Bane,SG,9.3001
+CLE,MEM,Evan Mobley,PF,9.4237,John Konchar,SF,9.3257
+CLE,MEM,Evan Mobley,PF,9.4237,Ziaire Williams,SF,9.6437
+CLE,MEM,Isaac Okoro,SF,9.9225,Desmond Bane,SG,9.3001
+CLE,MEM,Isaac Okoro,SF,9.9225,John Konchar,SF,9.3257
+CLE,MEM,Isaac Okoro,SF,9.9225,Ziaire Williams,SF,9.6437
+CLE,MIA,Craig Porter Jr.,PG,9.9332,Kyle Lowry,PG,9.7174
+CLE,NOP,Emoni Bates,SF,9.6506,Cody Zeller,C,9.2977
+CLE,NOP,Emoni Bates,SF,9.6506,Dyson Daniels,PG,8.8986
+CLE,NOP,Emoni Bates,SF,9.6506,Jeremiah Robinson-Earl,PF,9.4967
+CLE,NOP,Emoni Bates,SF,9.6506,Naji Marshall,SF,9.4235
+CLE,NOP,Georges Niang,PF,9.9364,Cody Zeller,C,9.2977
+CLE,NOP,Georges Niang,PF,9.9364,Dyson Daniels,PG,8.8986
+CLE,NOP,Georges Niang,PF,9.9364,Jeremiah Robinson-Earl,PF,9.4967
+CLE,NOP,Georges Niang,PF,9.9364,Naji Marshall,SF,9.4235
+CLE,PHO,Dean Wade,PF,9.5023,Jusuf Nurkić,C,9.2534
+CLE,PHO,Evan Mobley,PF,9.4017,Jusuf Nurkić,C,9.2534
+CLE,SAC,Damian Jones,C,9.3221,Domantas Sabonis,C,9.189
+CLE,SAC,Emoni Bates,SF,9.9672,Domantas Sabonis,C,9.189
+CLE,UTA,Damian Jones,C,9.9487,Kris Dunn,PG,9.7473
+CLE,UTA,Damian Jones,C,9.9487,Micah Potter,PF,9.2742
+CLE,UTA,Darius Garland,PG,9.8053,Kris Dunn,PG,9.7473
+CLE,UTA,Darius Garland,PG,9.8053,Micah Potter,PF,9.2742
+CLE,UTA,Tristan Thompson,C,9.186,Kris Dunn,PG,9.7473
+CLE,UTA,Tristan Thompson,C,9.186,Micah Potter,PF,9.2742
+DAL,ATL,A.J. Lawson,SG,9.9125,Patty Mills,PG,9.3011
+DAL,BRK,Dante Exum,PG,9.5938,Dennis Smith Jr.,PG,9.7054
+DAL,BRK,Dante Exum,PG,9.5938,Nic Claxton,C,9.2295
+DAL,BRK,Grant Williams,PF,9.7177,Dennis Smith Jr.,PG,9.7054
+DAL,BRK,Grant Williams,PF,9.7177,Nic Claxton,C,9.2295
+DAL,DEN,Markieff Morris,PF,9.9395,Jalen Pickett,SG,9.4482
+DAL,DEN,Markieff Morris,PF,9.9395,Jay Huff,C,9.4199
+DAL,DEN,Markieff Morris,PF,9.9395,Peyton Watson,SF,9.4971
+DAL,DEN,Richaun Holmes,C,8.6753,Jalen Pickett,SG,9.4482
+DAL,DEN,Richaun Holmes,C,8.6753,Jay Huff,C,9.4199
+DAL,DEN,Richaun Holmes,C,8.6753,Peyton Watson,SF,9.4971
+DAL,MIA,Dwight Powell,C,9.0294,Orlando Robinson,C,8.8482
+DAL,MIA,Tim Hardaway Jr.,SF,9.8909,Orlando Robinson,C,8.8482
+DAL,MIN,Jaden Hardy,SG,9.6584,Nickeil Alexander-Walker,SG,9.5731
+DAL,NOP,Derrick Jones Jr.,SF,9.0561,CJ McCollum,PG,9.4953
+DAL,NOP,Derrick Jones Jr.,SF,9.0561,Cody Zeller,C,9.8299
+DAL,NOP,Derrick Jones Jr.,SF,9.0561,Dereon Seabron,SG,9.6645
+DAL,NOP,Derrick Jones Jr.,SF,9.0561,Herbert Jones,SF,9.1692
+DAL,NOP,Luka Dončić,PG,9.9062,CJ McCollum,PG,9.4953
+DAL,NOP,Luka Dončić,PG,9.9062,Cody Zeller,C,9.8299
+DAL,NOP,Luka Dončić,PG,9.9062,Dereon Seabron,SG,9.6645
+DAL,NOP,Luka Dončić,PG,9.9062,Herbert Jones,SF,9.1692
+DAL,NOP,Olivier-Maxence Prosper,PF,9.7466,CJ McCollum,PG,9.4953
+DAL,NOP,Olivier-Maxence Prosper,PF,9.7466,Cody Zeller,C,9.8299
+DAL,NOP,Olivier-Maxence Prosper,PF,9.7466,Dereon Seabron,SG,9.6645
+DAL,NOP,Olivier-Maxence Prosper,PF,9.7466,Herbert Jones,SF,9.1692
+DAL,OKC,Josh Green,SG,9.7495,Aleksej Pokusevski,PF,9.5588
+DAL,OKC,Josh Green,SG,9.7495,Jaylin Williams,C,9.021
+DAL,OKC,Richaun Holmes,C,9.8087,Aleksej Pokusevski,PF,9.5588
+DAL,OKC,Richaun Holmes,C,9.8087,Jaylin Williams,C,9.021
+DAL,OKC,Seth Curry,SG,9.7848,Aleksej Pokusevski,PF,9.5588
+DAL,OKC,Seth Curry,SG,9.7848,Jaylin Williams,C,9.021
+DAL,PHO,Dante Exum,PG,9.8322,Bol Bol,PF,9.4444
+DAL,PHO,Dante Exum,PG,9.8322,Drew Eubanks,C,9.4556
+DAL,PHO,Dante Exum,PG,9.8322,Isaiah Thomas,PG,9.1968
+DAL,PHO,Dante Exum,PG,9.8322,Saben Lee,PG,9.5156
+DAL,SAS,Dexter Dennis,SG,9.7286,Devin Vassell,SG,9.7449
+DAL,SAS,Dexter Dennis,SG,9.7286,RaiQuan Gray,PF,9.4881
+DAL,SAS,Dexter Dennis,SG,9.7286,Sidy Cissoko,SF,8.8345
+DAL,SAS,Dexter Dennis,SG,9.7286,Victor Wembanyama,C,9.694
+DAL,SAS,Luka Dončić,PG,9.954,Devin Vassell,SG,9.7449
+DAL,SAS,Luka Dončić,PG,9.954,RaiQuan Gray,PF,9.4881
+DAL,SAS,Luka Dončić,PG,9.954,Sidy Cissoko,SF,8.8345
+DAL,SAS,Luka Dončić,PG,9.954,Victor Wembanyama,C,9.694
+DAL,UTA,Dexter Dennis,SG,9.8554,Keyonte George,PG,9.432
+DAL,UTA,Dexter Dennis,SG,9.8554,Luka Šamanić,PF,9.6093
+DEN,ATL,Jay Huff,C,9.9428,Clint Capela,C,8.8996
+DEN,ATL,Jay Huff,C,9.9428,Saddiq Bey,SF,9.3074
+DEN,ATL,Jay Huff,C,9.9428,Wesley Matthews,SG,9.7291
+DEN,BRK,Christian Braun,SG,9.6974,Cam Thomas,SG,9.5633
+DEN,BRK,Christian Braun,SG,9.6974,Trendon Watford,PF,9.2463
+DEN,CLE,Justin Holiday,SG,9.847,Georges Niang,PF,9.5865
+DEN,DET,Julian Strawther,SF,9.4822,Isaiah Livers,PF,9.3142
+DEN,DET,Julian Strawther,SF,9.4822,Killian Hayes,PG,9.4018
+DEN,IND,Aaron Gordon,PF,9.7605,Isaiah Jackson,C,9.274
+DEN,IND,Kentavious Caldwell-Pope,SG,9.2947,Isaiah Jackson,C,9.274
+DEN,IND,Peyton Watson,SF,9.1784,Isaiah Jackson,C,9.274
+DEN,IND,Reggie Jackson,PG,8.979,Isaiah Jackson,C,9.274
+DEN,IND,Zeke Nnaji,PF,9.9658,Isaiah Jackson,C,9.274
+DEN,LAC,Julian Strawther,SF,9.6746,Bones Hyland,PG,9.4619
+DEN,LAC,Julian Strawther,SF,9.6746,Kawhi Leonard,SF,9.448
+DEN,LAC,Julian Strawther,SF,9.6746,Mason Plumlee,C,9.0167
+DEN,LAC,Julian Strawther,SF,9.6746,Nicolas Batum,PF,9.8436
+DEN,LAC,Michael Porter Jr.,SF,9.8936,Bones Hyland,PG,9.4619
+DEN,LAC,Michael Porter Jr.,SF,9.8936,Kawhi Leonard,SF,9.448
+DEN,LAC,Michael Porter Jr.,SF,9.8936,Mason Plumlee,C,9.0167
+DEN,LAC,Michael Porter Jr.,SF,9.8936,Nicolas Batum,PF,9.8436
+DEN,LAC,Peyton Watson,SF,9.9903,Bones Hyland,PG,9.4619
+DEN,LAC,Peyton Watson,SF,9.9903,Kawhi Leonard,SF,9.448
+DEN,LAC,Peyton Watson,SF,9.9903,Mason Plumlee,C,9.0167
+DEN,LAC,Peyton Watson,SF,9.9903,Nicolas Batum,PF,9.8436
+DEN,MIA,DeAndre Jordan,C,9.3812,Caleb Martin,SF,9.6806
+DEN,MIA,Jamal Murray,PG,9.8286,Caleb Martin,SF,9.6806
+DEN,MIA,Michael Porter Jr.,SF,9.7831,Caleb Martin,SF,9.6806
+DEN,NOP,Reggie Jackson,PG,9.8314,Jalen Crutcher,PG,9.6697
+DEN,NOP,Reggie Jackson,PG,9.8314,Larry Nance Jr.,C,9.5691
+DEN,NYK,Julian Strawther,SF,9.6064,DaQuan Jeffries,SG,9.7612
+DEN,NYK,Julian Strawther,SF,9.6064,Josh Hart,SF,9.4574
+DEN,NYK,Peyton Watson,SF,9.7633,DaQuan Jeffries,SG,9.7612
+DEN,NYK,Peyton Watson,SF,9.7633,Josh Hart,SF,9.4574
+DEN,PHI,Reggie Jackson,PG,9.7728,Tyrese Maxey,PG,9.7651
+DEN,PHI,Zeke Nnaji,PF,9.443,Tyrese Maxey,PG,9.7651
+DEN,TOR,Jay Huff,C,9.9485,Jakob Poeltl,C,9.5319
+DEN,TOR,Nikola Jokić,C,9.6132,Jakob Poeltl,C,9.5319
+DEN,UTA,Braxton Key,SF,9.4923,Collin Sexton,SG,9.6049
+DEN,UTA,Christian Braun,SG,9.569,Collin Sexton,SG,9.6049
+DEN,UTA,Jamal Murray,PG,9.349,Collin Sexton,SG,9.6049
+DEN,UTA,Julian Strawther,SF,9.8688,Collin Sexton,SG,9.6049
+DEN,WAS,DeAndre Jordan,C,9.4724,Patrick Baldwin Jr.,SF,9.234
+DET,BOS,Cade Cunningham,PG,9.6891,Jayson Tatum,PF,9.5421
+DET,BOS,Cade Cunningham,PG,9.6891,Oshae Brissett,SF,9.6355
+DET,BOS,Cade Cunningham,PG,9.6891,Sam Hauser,SF,9.2416
+DET,BOS,Cade Cunningham,PG,9.6891,Svi Mykhailiuk,SF,9.1285
+DET,BOS,Isaiah Livers,PF,9.7746,Jayson Tatum,PF,9.5421
+DET,BOS,Isaiah Livers,PF,9.7746,Oshae Brissett,SF,9.6355
+DET,BOS,Isaiah Livers,PF,9.7746,Sam Hauser,SF,9.2416
+DET,BOS,Isaiah Livers,PF,9.7746,Svi Mykhailiuk,SF,9.1285
+DET,BOS,Jaden Ivey,SG,9.6791,Jayson Tatum,PF,9.5421
+DET,BOS,Jaden Ivey,SG,9.6791,Oshae Brissett,SF,9.6355
+DET,BOS,Jaden Ivey,SG,9.6791,Sam Hauser,SF,9.2416
+DET,BOS,Jaden Ivey,SG,9.6791,Svi Mykhailiuk,SF,9.1285
+DET,BOS,Jared Rhoden,SG,9.9195,Jayson Tatum,PF,9.5421
+DET,BOS,Jared Rhoden,SG,9.9195,Oshae Brissett,SF,9.6355
+DET,BOS,Jared Rhoden,SG,9.9195,Sam Hauser,SF,9.2416
+DET,BOS,Jared Rhoden,SG,9.9195,Svi Mykhailiuk,SF,9.1285
+DET,BOS,Monte Morris,PG,9.7692,Jayson Tatum,PF,9.5421
+DET,BOS,Monte Morris,PG,9.7692,Oshae Brissett,SF,9.6355
+DET,BOS,Monte Morris,PG,9.7692,Sam Hauser,SF,9.2416
+DET,BOS,Monte Morris,PG,9.7692,Svi Mykhailiuk,SF,9.1285
+DET,BRK,Jalen Duren,C,9.8147,Armoni Brooks,PG,9.3781
+DET,BRK,Jalen Duren,C,9.8147,Dennis Smith Jr.,PG,9.5695
+DET,BRK,Jalen Duren,C,9.8147,Noah Clowney,PF,9.7239
+DET,BRK,Marcus Sasser,PG,9.0412,Armoni Brooks,PG,9.3781
+DET,BRK,Marcus Sasser,PG,9.0412,Dennis Smith Jr.,PG,9.5695
+DET,BRK,Marcus Sasser,PG,9.0412,Noah Clowney,PF,9.7239
+DET,CHI,James Wiseman,C,9.0857,DeMar DeRozan,SF,9.3343
+DET,CHI,Malcolm Cazalon,SG,9.8959,DeMar DeRozan,SF,9.3343
+DET,LAL,James Wiseman,C,9.2805,Austin Reaves,SG,9.4318
+DET,LAL,James Wiseman,C,9.2805,Christian Wood,PF,9.4806
+DET,LAL,James Wiseman,C,9.2805,Colin Castleton,C,8.9597
+DET,LAL,Monte Morris,PG,9.6064,Austin Reaves,SG,9.4318
+DET,LAL,Monte Morris,PG,9.6064,Christian Wood,PF,9.4806
+DET,LAL,Monte Morris,PG,9.6064,Colin Castleton,C,8.9597
+DET,MEM,Cade Cunningham,PG,9.2426,DeJon Jarreau,SG,8.9369
+DET,MEM,Jalen Duren,C,8.7624,DeJon Jarreau,SG,8.9369
+DET,MIA,James Wiseman,C,9.4837,Alondes Williams,SG,9.4665
+DET,MIA,James Wiseman,C,9.4837,Nikola Jović,PF,9.2661
+DET,MIA,James Wiseman,C,9.4837,Thomas Bryant,C,9.7941
+DET,MIA,Jared Rhoden,SG,9.8961,Alondes Williams,SG,9.4665
+DET,MIA,Jared Rhoden,SG,9.8961,Nikola Jović,PF,9.2661
+DET,MIA,Jared Rhoden,SG,9.8961,Thomas Bryant,C,9.7941
+DET,MIA,Monte Morris,PG,8.7667,Alondes Williams,SG,9.4665
+DET,MIA,Monte Morris,PG,8.7667,Nikola Jović,PF,9.2661
+DET,MIA,Monte Morris,PG,8.7667,Thomas Bryant,C,9.7941
+DET,OKC,Jaden Ivey,SG,9.3868,Isaiah Joe,SG,8.9406
+DET,OKC,James Wiseman,C,9.42,Isaiah Joe,SG,8.9406
+DET,POR,Ausar Thompson,SF,9.5984,Duop Reath,C,9.5687
+DET,POR,Ausar Thompson,SF,9.5984,Skylar Mays,PG,9.2977
+DET,SAC,Cade Cunningham,PG,9.2602,Keegan Murray,SF,9.672
+DET,SAC,Joe Harris,SG,9.7687,Keegan Murray,SF,9.672
+DET,TOR,Bojan Bogdanović,PF,9.2796,Otto Porter Jr.,SF,8.9385
+GSW,CHI,Draymond Green,PF,9.4702,Patrick Williams,PF,9.4338
+GSW,CHO,Dario Šarić,C,9.5097,Frank Ntilikina,PG,8.7962
+GSW,CHO,Dario Šarić,C,9.5097,Mark Williams,C,9.5873
+GSW,CHO,Draymond Green,PF,9.9278,Frank Ntilikina,PG,8.7962
+GSW,CHO,Draymond Green,PF,9.9278,Mark Williams,C,9.5873
+GSW,DAL,Gui Santos,PF,9.8975,Josh Green,SG,9.6751
+GSW,DEN,Moses Moody,SG,9.9207,Jalen Pickett,SG,9.7057
+GSW,DEN,Moses Moody,SG,9.9207,Jay Huff,C,9.6836
+GSW,DEN,Moses Moody,SG,9.9207,Michael Porter Jr.,SF,9.4495
+GSW,DET,Chris Paul,PG,9.6512,Isaiah Livers,PF,8.762
+GSW,DET,Dario Šarić,C,9.8805,Isaiah Livers,PF,8.762
+GSW,DET,Gary Payton II,SG,9.6068,Isaiah Livers,PF,8.762
+GSW,LAL,Draymond Green,PF,9.3026,Colin Castleton,C,9.836
+GSW,LAL,Draymond Green,PF,9.3026,Jaxson Hayes,C,9.6558
+GSW,LAL,Gary Payton II,SG,9.9853,Colin Castleton,C,9.836
+GSW,LAL,Gary Payton II,SG,9.9853,Jaxson Hayes,C,9.6558
+GSW,LAL,Gui Santos,PF,9.5373,Colin Castleton,C,9.836
+GSW,LAL,Gui Santos,PF,9.5373,Jaxson Hayes,C,9.6558
+GSW,LAL,Jerome Robinson,SG,9.2006,Colin Castleton,C,9.836
+GSW,LAL,Jerome Robinson,SG,9.2006,Jaxson Hayes,C,9.6558
+GSW,LAL,Stephen Curry,PG,8.9505,Colin Castleton,C,9.836
+GSW,LAL,Stephen Curry,PG,8.9505,Jaxson Hayes,C,9.6558
+GSW,LAL,Usman Garuba,PF,8.9444,Colin Castleton,C,9.836
+GSW,LAL,Usman Garuba,PF,8.9444,Jaxson Hayes,C,9.6558
+GSW,POR,Chris Paul,PG,9.0472,Ibou Badji,C,9.5189
+GSW,POR,Kevon Looney,C,9.3533,Ibou Badji,C,9.5189
+GSW,POR,Klay Thompson,SF,9.9559,Ibou Badji,C,9.5189
+HOU,BOS,Cam Whitmore,SF,9.7807,Dalano Banton,PG,8.6478
+HOU,BOS,Cam Whitmore,SF,9.7807,Kristaps Porziņģis,C,9.4646
+HOU,BOS,Cam Whitmore,SF,9.7807,Luke Kornet,C,9.3907
+HOU,BOS,Cam Whitmore,SF,9.7807,Payton Pritchard,PG,9.7769
+HOU,BOS,Jock Landale,C,9.3164,Dalano Banton,PG,8.6478
+HOU,BOS,Jock Landale,C,9.3164,Kristaps Porziņģis,C,9.4646
+HOU,BOS,Jock Landale,C,9.3164,Luke Kornet,C,9.3907
+HOU,BOS,Jock Landale,C,9.3164,Payton Pritchard,PG,9.7769
+HOU,CHI,Fred VanVleet,PG,9.0746,Andre Drummond,C,9.1362
+HOU,CHI,Jeenathan Williams,SG,9.6118,Andre Drummond,C,9.1362
+HOU,DAL,Dillon Brooks,SF,9.7279,Olivier-Maxence Prosper,PF,9.1629
+HOU,DEN,Cam Whitmore,SF,9.9006,Nikola Jokić,C,9.7578
+HOU,DEN,Jalen Green,SG,9.8535,Nikola Jokić,C,9.7578
+HOU,IND,Nate Hinton,SG,9.9846,Jalen Smith,C,9.8395
+HOU,MIL,Jae'Sean Tate,SF,9.8774,TyTy Washington Jr.,PG,9.7253
+HOU,MIL,Jeff Green,PF,9.9356,TyTy Washington Jr.,PG,9.7253
+HOU,SAC,Nate Hinton,SG,9.6246,Chris Duarte,SF,9.522
+HOU,SAC,Nate Hinton,SG,9.6246,Davion Mitchell,PG,9.0993
+HOU,TOR,Alperen Şengün,C,9.7771,Chris Boucher,PF,9.1416
+IND,CHI,Bruce Brown,SG,9.8672,Alex Caruso,SG,9.8547
+IND,CHI,Bruce Brown,SG,9.8672,Andrew Funk,SG,9.6279
+IND,CHI,Isaiah Wong,SG,9.5178,Alex Caruso,SG,9.8547
+IND,CHI,Isaiah Wong,SG,9.5178,Andrew Funk,SG,9.6279
+IND,CHI,Jalen Smith,C,8.8785,Alex Caruso,SG,9.8547
+IND,CHI,Jalen Smith,C,8.8785,Andrew Funk,SG,9.6279
+IND,CHI,Jarace Walker,PF,9.9103,Alex Caruso,SG,9.8547
+IND,CHI,Jarace Walker,PF,9.9103,Andrew Funk,SG,9.6279
+IND,CHI,Jordan Nwora,SF,9.1334,Alex Caruso,SG,9.8547
+IND,CHI,Jordan Nwora,SF,9.1334,Andrew Funk,SG,9.6279
+IND,CHO,Buddy Hield,SF,9.9289,Brandon Miller,SF,9.7437
+IND,CHO,Isaiah Wong,SG,9.7339,Brandon Miller,SF,9.7437
+IND,CHO,Jarace Walker,PF,9.8937,Brandon Miller,SF,9.7437
+IND,CHO,Myles Turner,C,9.8918,Brandon Miller,SF,9.7437
+IND,GSW,Buddy Hield,SF,9.6519,Cory Joseph,PG,8.7608
+IND,GSW,Buddy Hield,SF,9.6519,Gary Payton II,SG,9.5057
+IND,GSW,James Johnson,PF,9.1513,Cory Joseph,PG,8.7608
+IND,GSW,James Johnson,PF,9.1513,Gary Payton II,SG,9.5057
+IND,GSW,Quenton Jackson,PG,8.8189,Cory Joseph,PG,8.7608
+IND,GSW,Quenton Jackson,PG,8.8189,Gary Payton II,SG,9.5057
+IND,MIA,Jordan Nwora,SF,9.8957,Orlando Robinson,C,9.671
+IND,MIL,Jordan Nwora,SF,9.9058,Robin Lopez,C,9.8475
+IND,ORL,Andrew Nembhard,PG,9.0895,Markelle Fultz,PG,9.9121
+IND,ORL,Ben Sheppard,SG,9.6852,Markelle Fultz,PG,9.9121
+IND,ORL,Bennedict Mathurin,SF,9.2169,Markelle Fultz,PG,9.9121
+IND,ORL,Daniel Theis,C,9.9435,Markelle Fultz,PG,9.9121
+IND,ORL,Oscar Tshiebwe,PF,9.5723,Markelle Fultz,PG,9.9121
+IND,PHO,Isaiah Jackson,C,9.8584,Jusuf Nurkić,C,9.4194
+IND,PHO,Kendall Brown,SG,9.2186,Jusuf Nurkić,C,9.4194
+IND,POR,Myles Turner,C,9.7693,Robert Williams,C,9.6913
+IND,POR,Myles Turner,C,9.7693,Scoot Henderson,PG,9.5823
+IND,SAS,Aaron Nesmith,SF,9.4659,Devonte' Graham,PG,9.2526
+IND,SAS,Aaron Nesmith,SF,9.4659,Doug McDermott,SF,9.5444
+IND,SAS,Daniel Theis,C,8.7938,Devonte' Graham,PG,9.2526
+IND,SAS,Daniel Theis,C,8.7938,Doug McDermott,SF,9.5444
+IND,SAS,Jordan Nwora,SF,9.9339,Devonte' Graham,PG,9.2526
+IND,SAS,Jordan Nwora,SF,9.9339,Doug McDermott,SF,9.5444
+IND,WAS,Oscar Tshiebwe,PF,9.6851,Daniel Gafford,C,9.4445
+IND,WAS,Oscar Tshiebwe,PF,9.6851,Tristan Vukcevic,C,9.6214
+LAC,BOS,Ivica Zubac,C,9.9934,Dalano Banton,PG,9.184
+LAC,BOS,Ivica Zubac,C,9.9934,Jaylen Brown,SF,9.8207
+LAC,BOS,Ivica Zubac,C,9.9934,Luke Kornet,C,9.2706
+LAC,BOS,Moussa Diabaté,C,9.7321,Dalano Banton,PG,9.184
+LAC,BOS,Moussa Diabaté,C,9.7321,Jaylen Brown,SF,9.8207
+LAC,BOS,Moussa Diabaté,C,9.7321,Luke Kornet,C,9.2706
+LAC,BOS,Terance Mann,SG,9.799,Dalano Banton,PG,9.184
+LAC,BOS,Terance Mann,SG,9.799,Jaylen Brown,SF,9.8207
+LAC,BOS,Terance Mann,SG,9.799,Luke Kornet,C,9.2706
+LAC,CLE,Norman Powell,SG,9.7403,Darius Garland,PG,9.2537
+LAC,CLE,Paul George,PF,9.6953,Darius Garland,PG,9.2537
+LAC,CLE,Xavier Moon,SG,9.4035,Darius Garland,PG,9.2537
+LAC,GSW,KJ Martin,SF,9.4389,Andrew Wiggins,SF,9.2789
+LAC,GSW,KJ Martin,SF,9.4389,Kevon Looney,C,9.6899
+LAC,GSW,Russell Westbrook,PG,9.739,Andrew Wiggins,SF,9.2789
+LAC,GSW,Russell Westbrook,PG,9.739,Kevon Looney,C,9.6899
+LAC,HOU,Jordan Miller,SF,9.7253,Jock Landale,C,9.3883
+LAC,HOU,Kawhi Leonard,SF,9.9287,Jock Landale,C,9.3883
+LAC,HOU,Mason Plumlee,C,9.1507,Jock Landale,C,9.3883
+LAC,HOU,Xavier Moon,SG,9.6939,Jock Landale,C,9.3883
+LAC,IND,Ivica Zubac,C,9.7387,Myles Turner,C,9.0504
+LAC,IND,Ivica Zubac,C,9.7387,Obi Toppin,PF,9.6552
+LAC,IND,Jordan Miller,SF,9.8229,Myles Turner,C,9.0504
+LAC,IND,Jordan Miller,SF,9.8229,Obi Toppin,PF,9.6552
+LAC,IND,Robert Covington,PF,9.8897,Myles Turner,C,9.0504
+LAC,IND,Robert Covington,PF,9.8897,Obi Toppin,PF,9.6552
+LAC,PHI,Jordan Miller,SF,9.8418,Tyrese Maxey,PG,9.5531
+LAC,PHI,KJ Martin,SF,9.4165,Tyrese Maxey,PG,9.5531
+LAC,POR,Bones Hyland,PG,8.9586,Jamaree Bouyea,PG,8.8613
+LAC,POR,Kobe Brown,PF,9.1694,Jamaree Bouyea,PG,8.8613
+LAC,POR,Norman Powell,SG,9.8371,Jamaree Bouyea,PG,8.8613
+LAC,SAS,Amir Coffey,SF,9.5725,Devonte' Graham,PG,9.4496
+LAC,SAS,Ivica Zubac,C,9.5817,Devonte' Graham,PG,9.4496
+LAC,SAS,Moussa Diabaté,C,9.9601,Devonte' Graham,PG,9.4496
+LAC,SAS,Nicolas Batum,PF,9.9164,Devonte' Graham,PG,9.4496
+LAC,UTA,Joshua Primo,SG,9.7336,Jordan Clarkson,SG,9.6859
+LAC,UTA,Joshua Primo,SG,9.7336,Luka Šamanić,PF,9.7191
+LAC,UTA,Joshua Primo,SG,9.7336,Omer Yurtseven,C,8.5851
+LAL,BOS,Christian Wood,PF,9.5826,Jordan Walsh,SF,9.5459
+LAL,CLE,Christian Wood,PF,9.171,Damian Jones,C,9.7986
+LAL,CLE,Gabe Vincent,PG,9.8369,Damian Jones,C,9.7986
+LAL,CLE,Jaxson Hayes,C,9.8654,Damian Jones,C,9.7986
+LAL,CLE,LeBron James,PF,9.7279,Damian Jones,C,9.7986
+LAL,DEN,Alex Fudge,SF,9.4308,Collin Gillespie,PG,8.9038
+LAL,DEN,D'Moi Hodge,SG,9.631,Collin Gillespie,PG,8.9038
+LAL,HOU,D'Angelo Russell,PG,9.5793,Jock Landale,C,9.2949
+LAL,HOU,Max Christie,SG,9.675,Jock Landale,C,9.2949
+LAL,MIL,Anthony Davis,C,9.9925,A.J. Green,SG,9.9824
+LAL,MIL,Anthony Davis,C,9.9925,Pat Connaughton,SF,9.733
+LAL,MIL,Anthony Davis,C,9.9925,Robin Lopez,C,9.9751
+LAL,MIL,Cam Reddish,SF,9.5239,A.J. Green,SG,9.9824
+LAL,MIL,Cam Reddish,SF,9.5239,Pat Connaughton,SF,9.733
+LAL,MIL,Cam Reddish,SF,9.5239,Robin Lopez,C,9.9751
+LAL,MIL,D'Moi Hodge,SG,9.2007,A.J. Green,SG,9.9824
+LAL,MIL,D'Moi Hodge,SG,9.2007,Pat Connaughton,SF,9.733
+LAL,MIL,D'Moi Hodge,SG,9.2007,Robin Lopez,C,9.9751
+LAL,NOP,Anthony Davis,C,9.3701,Naji Marshall,SF,9.0756
+LAL,OKC,Taurean Prince,PF,9.5072,Aleksej Pokusevski,PF,9.3633
+LAL,OKC,Taurean Prince,PF,9.5072,Ousmane Dieng,PF,9.4516
+LAL,PHO,Gabe Vincent,PG,9.9523,Kevin Durant,PF,9.3816
+LAL,PHO,Rui Hachimura,PF,9.5063,Kevin Durant,PF,9.3816
+LAL,SAS,Gabe Vincent,PG,9.6972,Blake Wesley,SG,9.0773
+LAL,SAS,Gabe Vincent,PG,9.6972,Doug McDermott,SF,9.4298
+LAL,SAS,Gabe Vincent,PG,9.6972,Jeremy Sochan,PF,8.9619
+LAL,SAS,Gabe Vincent,PG,9.6972,Victor Wembanyama,C,9.2242
+LAL,SAS,Jalen Hood-Schifino,SG,9.9962,Blake Wesley,SG,9.0773
+LAL,SAS,Jalen Hood-Schifino,SG,9.9962,Doug McDermott,SF,9.4298
+LAL,SAS,Jalen Hood-Schifino,SG,9.9962,Jeremy Sochan,PF,8.9619
+LAL,SAS,Jalen Hood-Schifino,SG,9.9962,Victor Wembanyama,C,9.2242
+LAL,SAS,Jarred Vanderbilt,PF,9.5674,Blake Wesley,SG,9.0773
+LAL,SAS,Jarred Vanderbilt,PF,9.5674,Doug McDermott,SF,9.4298
+LAL,SAS,Jarred Vanderbilt,PF,9.5674,Jeremy Sochan,PF,8.9619
+LAL,SAS,Jarred Vanderbilt,PF,9.5674,Victor Wembanyama,C,9.2242
+LAL,SAS,Maxwell Lewis,SF,9.8378,Blake Wesley,SG,9.0773
+LAL,SAS,Maxwell Lewis,SF,9.8378,Doug McDermott,SF,9.4298
+LAL,SAS,Maxwell Lewis,SF,9.8378,Jeremy Sochan,PF,8.9619
+LAL,SAS,Maxwell Lewis,SF,9.8378,Victor Wembanyama,C,9.2242
+LAL,UTA,Maxwell Lewis,SF,9.8994,Keyonte George,PG,9.7972
+LAL,UTA,Maxwell Lewis,SF,9.8994,Talen Horton-Tucker,PG,9.7188
+LAL,WAS,Christian Wood,PF,9.8914,Corey Kispert,SF,9.2661
+LAL,WAS,Christian Wood,PF,9.8914,Eugene Omoruyi,SF,9.302
+LAL,WAS,D'Angelo Russell,PG,9.2117,Corey Kispert,SF,9.2661
+LAL,WAS,D'Angelo Russell,PG,9.2117,Eugene Omoruyi,SF,9.302
+LAL,WAS,Maxwell Lewis,SF,9.3759,Corey Kispert,SF,9.2661
+LAL,WAS,Maxwell Lewis,SF,9.3759,Eugene Omoruyi,SF,9.302
+MEM,ATL,Derrick Rose,PG,9.1116,Jalen Johnson,SF,9.2873
+MEM,ATL,Scotty Pippen Jr.,PG,9.3343,Jalen Johnson,SF,9.2873
+MEM,ATL,Timmy Allen,SF,9.7094,Jalen Johnson,SF,9.2873
+MEM,DAL,John Konchar,SF,9.323,Brandon Williams,PG,9.4767
+MEM,DAL,John Konchar,SF,9.323,Markieff Morris,PF,9.0364
+MEM,DAL,John Konchar,SF,9.323,Olivier-Maxence Prosper,PF,9.0961
+MEM,DAL,Scotty Pippen Jr.,PG,9.6019,Brandon Williams,PG,9.4767
+MEM,DAL,Scotty Pippen Jr.,PG,9.6019,Markieff Morris,PF,9.0364
+MEM,DAL,Scotty Pippen Jr.,PG,9.6019,Olivier-Maxence Prosper,PF,9.0961
+MEM,DAL,Vince Williams Jr.,SG,9.6953,Brandon Williams,PG,9.4767
+MEM,DAL,Vince Williams Jr.,SG,9.6953,Markieff Morris,PF,9.0364
+MEM,DAL,Vince Williams Jr.,SG,9.6953,Olivier-Maxence Prosper,PF,9.0961
+MEM,DAL,Wenyen Gabriel,PF,9.9231,Brandon Williams,PG,9.4767
+MEM,DAL,Wenyen Gabriel,PF,9.9231,Markieff Morris,PF,9.0364
+MEM,DAL,Wenyen Gabriel,PF,9.9231,Olivier-Maxence Prosper,PF,9.0961
+MEM,DAL,Ziaire Williams,SF,8.772,Brandon Williams,PG,9.4767
+MEM,DAL,Ziaire Williams,SF,8.772,Markieff Morris,PF,9.0364
+MEM,DAL,Ziaire Williams,SF,8.772,Olivier-Maxence Prosper,PF,9.0961
+MEM,DEN,Ja Morant,PG,9.0692,Collin Gillespie,PG,9.5931
+MEM,DEN,Ja Morant,PG,9.0692,DeAndre Jordan,C,9.4654
+MEM,DEN,Ja Morant,PG,9.0692,Jay Huff,C,9.392
+MEM,DEN,Jaylen Nowell,SG,9.8248,Collin Gillespie,PG,9.5931
+MEM,DEN,Jaylen Nowell,SG,9.8248,DeAndre Jordan,C,9.4654
+MEM,DEN,Jaylen Nowell,SG,9.8248,Jay Huff,C,9.392
+MEM,DEN,Wenyen Gabriel,PF,9.2569,Collin Gillespie,PG,9.5931
+MEM,DEN,Wenyen Gabriel,PF,9.2569,DeAndre Jordan,C,9.4654
+MEM,DEN,Wenyen Gabriel,PF,9.2569,Jay Huff,C,9.392
+MEM,DEN,Xavier Tillman Sr.,C,9.9931,Collin Gillespie,PG,9.5931
+MEM,DEN,Xavier Tillman Sr.,C,9.9931,DeAndre Jordan,C,9.4654
+MEM,DEN,Xavier Tillman Sr.,C,9.9931,Jay Huff,C,9.392
+MEM,GSW,Mãozinha Pereira,SF,9.7329,Draymond Green,PF,8.9819
+MEM,GSW,Mãozinha Pereira,SF,9.7329,Gui Santos,PF,9.7204
+MEM,GSW,Mãozinha Pereira,SF,9.7329,Usman Garuba,PF,9.5941
+MEM,HOU,Jacob Gilyard,PG,8.9624,Boban Marjanović,C,8.9282
+MEM,HOU,Jacob Gilyard,PG,8.9624,Fred VanVleet,PG,9.4188
+MEM,HOU,Jake LaRavia,PF,9.7099,Boban Marjanović,C,8.9282
+MEM,HOU,Jake LaRavia,PF,9.7099,Fred VanVleet,PG,9.4188
+MEM,HOU,Jaylen Nowell,SG,9.9218,Boban Marjanović,C,8.9282
+MEM,HOU,Jaylen Nowell,SG,9.9218,Fred VanVleet,PG,9.4188
+MEM,HOU,Zavier Simpson,PG,9.6521,Boban Marjanović,C,8.9282
+MEM,HOU,Zavier Simpson,PG,9.6521,Fred VanVleet,PG,9.4188
+MEM,LAC,Scotty Pippen Jr.,PG,9.4839,Brandon Boston Jr.,SF,9.3797
+MEM,LAC,Scotty Pippen Jr.,PG,9.4839,Mason Plumlee,C,9.4011
+MEM,MIA,Bismack Biyombo,C,9.7373,Haywood Highsmith,PF,9.1016
+MEM,MIA,Bismack Biyombo,C,9.7373,Nikola Jović,PF,9.5914
+MEM,MIA,Derrick Rose,PG,8.5336,Haywood Highsmith,PF,9.1016
+MEM,MIA,Derrick Rose,PG,8.5336,Nikola Jović,PF,9.5914
+MEM,MIA,Timmy Allen,SF,9.6513,Haywood Highsmith,PF,9.1016
+MEM,MIA,Timmy Allen,SF,9.6513,Nikola Jović,PF,9.5914
+MEM,MIL,Bismack Biyombo,C,9.4642,Brook Lopez,C,9.7257
+MEM,MIL,Bismack Biyombo,C,9.4642,Marques Bolden,C,9.4156
+MEM,MIL,Brandon Clarke,PF,9.1072,Brook Lopez,C,9.7257
+MEM,MIL,Brandon Clarke,PF,9.1072,Marques Bolden,C,9.4156
+MEM,MIL,Jaylen Nowell,SG,9.954,Brook Lopez,C,9.7257
+MEM,MIL,Jaylen Nowell,SG,9.954,Marques Bolden,C,9.4156
+MEM,MIL,Marcus Smart,PG,9.5978,Brook Lopez,C,9.7257
+MEM,MIL,Marcus Smart,PG,9.5978,Marques Bolden,C,9.4156
+MEM,MIL,Matthew Hurt,PF,9.3254,Brook Lopez,C,9.7257
+MEM,MIL,Matthew Hurt,PF,9.3254,Marques Bolden,C,9.4156
+MEM,MIN,Kenneth Lofton Jr.,PF,9.6459,Leonard Miller,SF,9.114
+MEM,MIN,Kenneth Lofton Jr.,PF,9.6459,Mike Conley,PG,9.3157
+MEM,MIN,Scotty Pippen Jr.,PG,9.3803,Leonard Miller,SF,9.114
+MEM,MIN,Scotty Pippen Jr.,PG,9.3803,Mike Conley,PG,9.3157
+MEM,PHO,Luke Kennard,SG,9.8663,Grayson Allen,SG,9.7529
+MEM,TOR,Jaylen Nowell,SG,9.9076,OG Anunoby,SF,9.2557
+MIA,BRK,Jamal Cain,PF,9.6498,Cameron Johnson,PF,9.2656
+MIA,BRK,Kevin Love,PF,9.9316,Cameron Johnson,PF,9.2656
+MIA,BRK,R.J. Hampton,PG,8.9848,Cameron Johnson,PF,9.2656
+MIA,CHI,Cole Swider,SF,9.8536,Adama Sanogo,PF,8.8856
+MIA,CHI,Cole Swider,SF,9.8536,Dalen Terry,SG,9.3524
+MIA,CHI,Cole Swider,SF,9.8536,Patrick Williams,PF,9.7489
+MIA,HOU,Caleb Martin,SF,9.7175,Jeff Green,PF,9.6958
+MIA,HOU,Caleb Martin,SF,9.7175,Tari Eason,PF,8.823
+MIA,HOU,Jimmy Butler,PF,9.2717,Jeff Green,PF,9.6958
+MIA,HOU,Jimmy Butler,PF,9.2717,Tari Eason,PF,8.823
+MIA,HOU,Thomas Bryant,C,9.1732,Jeff Green,PF,9.6958
+MIA,HOU,Thomas Bryant,C,9.1732,Tari Eason,PF,8.823
+MIA,LAC,Caleb Martin,SF,9.7016,KJ Martin,SF,9.6856
+MIA,LAC,Caleb Martin,SF,9.7016,Norman Powell,SG,9.4504
+MIA,LAC,Jaime Jaquez Jr.,SF,9.2627,KJ Martin,SF,9.6856
+MIA,LAC,Jaime Jaquez Jr.,SF,9.2627,Norman Powell,SG,9.4504
+MIA,LAC,Jamal Cain,PF,9.9688,KJ Martin,SF,9.6856
+MIA,LAC,Jamal Cain,PF,9.9688,Norman Powell,SG,9.4504
+MIA,LAL,Caleb Martin,SF,9.5018,LeBron James,PF,9.7097
+MIA,LAL,Cole Swider,SF,9.7986,LeBron James,PF,9.7097
+MIA,MIL,Alondes Williams,SG,9.8771,A.J. Green,SG,9.2939
+MIA,NOP,Jaime Jaquez Jr.,SF,9.9635,Dereon Seabron,SG,9.6079
+MIA,NOP,Jaime Jaquez Jr.,SF,9.9635,Jalen Crutcher,PG,8.5378
+MIA,NOP,Jimmy Butler,PF,8.9452,Dereon Seabron,SG,9.6079
+MIA,NOP,Jimmy Butler,PF,8.9452,Jalen Crutcher,PG,8.5378
+MIA,NOP,Orlando Robinson,C,9.8189,Dereon Seabron,SG,9.6079
+MIA,NOP,Orlando Robinson,C,9.8189,Jalen Crutcher,PG,8.5378
+MIA,OKC,Nikola Jović,PF,9.6972,Aaron Wiggins,SG,9.5352
+MIA,OKC,Nikola Jović,PF,9.6972,Jalen Williams,PF,9.0058
+MIA,OKC,Nikola Jović,PF,9.6972,Shai Gilgeous-Alexander,PG,9.6402
+MIA,OKC,Tyler Herro,SG,9.4713,Aaron Wiggins,SG,9.5352
+MIA,OKC,Tyler Herro,SG,9.4713,Jalen Williams,PF,9.0058
+MIA,OKC,Tyler Herro,SG,9.4713,Shai Gilgeous-Alexander,PG,9.6402
+MIA,ORL,Duncan Robinson,SF,9.2054,Anthony Black,PG,8.5652
+MIA,ORL,Duncan Robinson,SF,9.2054,Wendell Carter Jr.,C,8.2838
+MIA,PHO,Jamal Cain,PF,9.5783,Chimezie Metu,C,8.858
+MIA,SAC,Jimmy Butler,PF,9.7947,De'Aaron Fox,PG,9.5635
+MIA,SAC,Orlando Robinson,C,9.4703,De'Aaron Fox,PG,9.5635
+MIA,SAS,Alondes Williams,SG,8.5225,Cedi Osman,SF,9.7509
+MIA,SAS,Alondes Williams,SG,8.5225,David Duke Jr.,SG,9.2911
+MIA,SAS,Bam Adebayo,C,9.8495,Cedi Osman,SF,9.7509
+MIA,SAS,Bam Adebayo,C,9.8495,David Duke Jr.,SG,9.2911
+MIA,SAS,Dru Smith,SG,9.7434,Cedi Osman,SF,9.7509
+MIA,SAS,Dru Smith,SG,9.7434,David Duke Jr.,SG,9.2911
+MIA,SAS,Kyle Lowry,PG,9.9194,Cedi Osman,SF,9.7509
+MIA,SAS,Kyle Lowry,PG,9.9194,David Duke Jr.,SG,9.2911
+MIA,SAS,Thomas Bryant,C,9.4326,Cedi Osman,SF,9.7509
+MIA,SAS,Thomas Bryant,C,9.4326,David Duke Jr.,SG,9.2911
+MIA,TOR,Caleb Martin,SF,9.6715,Jontay Porter,PF,9.8913
+MIA,TOR,Caleb Martin,SF,9.6715,Kobi Simmons,PG,9.2148
+MIA,TOR,Caleb Martin,SF,9.6715,Pascal Siakam,PF,9.7458
+MIA,TOR,Duncan Robinson,SF,9.4321,Jontay Porter,PF,9.8913
+MIA,TOR,Duncan Robinson,SF,9.4321,Kobi Simmons,PG,9.2148
+MIA,TOR,Duncan Robinson,SF,9.4321,Pascal Siakam,PF,9.7458
+MIA,TOR,Josh Richardson,SG,9.5182,Jontay Porter,PF,9.8913
+MIA,TOR,Josh Richardson,SG,9.5182,Kobi Simmons,PG,9.2148
+MIA,TOR,Josh Richardson,SG,9.5182,Pascal Siakam,PF,9.7458
+MIA,TOR,Kevin Love,PF,8.7954,Jontay Porter,PF,9.8913
+MIA,TOR,Kevin Love,PF,8.7954,Kobi Simmons,PG,9.2148
+MIA,TOR,Kevin Love,PF,8.7954,Pascal Siakam,PF,9.7458
+MIA,TOR,Orlando Robinson,C,9.6578,Jontay Porter,PF,9.8913
+MIA,TOR,Orlando Robinson,C,9.6578,Kobi Simmons,PG,9.2148
+MIA,TOR,Orlando Robinson,C,9.6578,Pascal Siakam,PF,9.7458
+MIA,TOR,R.J. Hampton,PG,9.9674,Jontay Porter,PF,9.8913
+MIA,TOR,R.J. Hampton,PG,9.9674,Kobi Simmons,PG,9.2148
+MIA,TOR,R.J. Hampton,PG,9.9674,Pascal Siakam,PF,9.7458
+MIA,WAS,Jimmy Butler,PF,9.7442,Landry Shamet,SG,9.4799
+MIA,WAS,Orlando Robinson,C,9.1641,Landry Shamet,SG,9.4799
+MIL,BRK,A.J. Green,SG,9.6789,Day'Ron Sharpe,C,9.4697
+MIL,BRK,A.J. Green,SG,9.6789,Lonnie Walker IV,SG,8.9466
+MIL,BRK,Damian Lillard,PG,9.8577,Day'Ron Sharpe,C,9.4697
+MIL,BRK,Damian Lillard,PG,9.8577,Lonnie Walker IV,SG,8.9466
+MIL,BRK,Giannis Antetokounmpo,PF,9.5716,Day'Ron Sharpe,C,9.4697
+MIL,BRK,Giannis Antetokounmpo,PF,9.5716,Lonnie Walker IV,SG,8.9466
+MIL,BRK,Pat Connaughton,SF,9.8112,Day'Ron Sharpe,C,9.4697
+MIL,BRK,Pat Connaughton,SF,9.8112,Lonnie Walker IV,SG,8.9466
+MIL,CHO,Lindell Wigginton,PG,9.7035,Gordon Hayward,SF,9.5894
+MIL,CHO,Thanasis Antetokounmpo,PF,9.5348,Gordon Hayward,SF,9.5894
+MIL,DET,A.J. Green,SG,9.9926,Killian Hayes,PG,9.8632
+MIL,DET,A.J. Green,SG,9.9926,Marcus Sasser,PG,9.8542
+MIL,DET,A.J. Green,SG,9.9926,Marvin Bagley III,C,9.5225
+MIL,DET,A.J. Green,SG,9.9926,Monte Morris,PG,9.5836
+MIL,DET,Thanasis Antetokounmpo,PF,9.0277,Killian Hayes,PG,9.8632
+MIL,DET,Thanasis Antetokounmpo,PF,9.0277,Marcus Sasser,PG,9.8542
+MIL,DET,Thanasis Antetokounmpo,PF,9.0277,Marvin Bagley III,C,9.5225
+MIL,DET,Thanasis Antetokounmpo,PF,9.0277,Monte Morris,PG,9.5836
+MIL,GSW,Chris Livingston,SF,9.8874,Dario Šarić,C,9.7673
+MIL,GSW,Chris Livingston,SF,9.8874,Draymond Green,PF,9.3657
+MIL,NYK,Brook Lopez,C,9.6717,Quentin Grimes,SG,9.6768
+MIL,NYK,Khris Middleton,SF,9.8443,Quentin Grimes,SG,9.6768
+MIL,OKC,Lindell Wigginton,PG,9.7456,Lindy Waters III,SG,8.9649
+MIL,OKC,Pat Connaughton,SF,9.0031,Lindy Waters III,SG,8.9649
+MIL,ORL,Bobby Portis,PF,8.9686,Caleb Houstan,SF,9.6674
+MIL,ORL,Bobby Portis,PF,8.9686,Joe Ingles,SF,9.4629
+MIL,ORL,Bobby Portis,PF,8.9686,Moritz Wagner,C,9.6322
+MIL,ORL,Bobby Portis,PF,8.9686,Paolo Banchero,PF,9.156
+MIL,ORL,Pat Connaughton,SF,9.6884,Caleb Houstan,SF,9.6674
+MIL,ORL,Pat Connaughton,SF,9.6884,Joe Ingles,SF,9.4629
+MIL,ORL,Pat Connaughton,SF,9.6884,Moritz Wagner,C,9.6322
+MIL,ORL,Pat Connaughton,SF,9.6884,Paolo Banchero,PF,9.156
+MIN,BRK,Leonard Miller,SF,9.5347,Cameron Johnson,PF,9.6271
+MIN,BRK,Luka Garza,C,9.6878,Cameron Johnson,PF,9.6271
+MIN,BRK,Shake Milton,SG,9.9236,Cameron Johnson,PF,9.6271
+MIN,CHI,Jaden McDaniels,SF,9.9274,Nikola Vučević,C,9.5515
+MIN,DET,Jordan McLaughlin,PG,9.8225,Isaiah Livers,PF,9.4796
+MIN,GSW,Karl-Anthony Towns,PF,9.8328,Cory Joseph,PG,8.9749
+MIN,GSW,Troy Brown Jr.,SF,9.5404,Cory Joseph,PG,8.9749
+MIN,HOU,Luka Garza,C,9.2963,Jermaine Samuels,SF,9.4427
+MIN,HOU,Troy Brown Jr.,SF,9.53,Jermaine Samuels,SF,9.4427
+MIN,LAC,Anthony Edwards,SG,9.9685,Brandon Boston Jr.,SF,9.7532
+MIN,LAC,Anthony Edwards,SG,9.9685,Moussa Diabaté,C,9.5069
+MIN,LAC,Kyle Anderson,PF,9.4935,Brandon Boston Jr.,SF,9.7532
+MIN,LAC,Kyle Anderson,PF,9.4935,Moussa Diabaté,C,9.5069
+MIN,LAL,Naz Reid,PF,9.5072,Alex Fudge,SF,9.1669
+MIN,LAL,Naz Reid,PF,9.5072,Max Christie,SG,9.3389
+MIN,MIL,Mike Conley,PG,9.8065,Khris Middleton,SF,9.5007
+MIN,MIL,Mike Conley,PG,9.8065,Robin Lopez,C,9.4842
+MIN,NYK,Daishen Nix,PG,9.4894,Mitchell Robinson,C,9.5569
+MIN,NYK,Daishen Nix,PG,9.4894,Ryan Arcidiacono,PG,9.4997
+MIN,NYK,Josh Minott,SF,9.7273,Mitchell Robinson,C,9.5569
+MIN,NYK,Josh Minott,SF,9.7273,Ryan Arcidiacono,PG,9.4997
+MIN,NYK,Kyle Anderson,PF,9.0257,Mitchell Robinson,C,9.5569
+MIN,NYK,Kyle Anderson,PF,9.0257,Ryan Arcidiacono,PG,9.4997
+MIN,PHO,Anthony Edwards,SG,9.8963,Eric Gordon,SG,9.8036
+MIN,PHO,Jordan McLaughlin,PG,9.0485,Eric Gordon,SG,9.8036
+MIN,SAC,Jordan McLaughlin,PG,9.934,Harrison Barnes,PF,9.7605
+MIN,SAC,Jordan McLaughlin,PG,9.934,Jalen Slawson,SF,9.5704
+MIN,SAC,Jordan McLaughlin,PG,9.934,Juan Toscano-Anderson,SF,9.8095
+MIN,TOR,Jordan McLaughlin,PG,9.5263,Jakob Poeltl,C,9.2404
+MIN,TOR,Nickeil Alexander-Walker,SG,9.813,Jakob Poeltl,C,9.2404
+MIN,TOR,Rudy Gobert,C,9.3186,Jakob Poeltl,C,9.2404
+NOP,BOS,Izaiah Brockington,PG,9.7152,Derrick White,SG,9.3646
+NOP,BOS,Izaiah Brockington,PG,9.7152,Luke Kornet,C,8.946
+NOP,BRK,Brandon Ingram,SF,9.4244,Spencer Dinwiddie,PG,9.1844
+NOP,BRK,Jeremiah Robinson-Earl,PF,9.3557,Spencer Dinwiddie,PG,9.1844
+NOP,DET,Herbert Jones,SF,9.6926,Isaiah Livers,PF,9.4662
+NOP,DET,Herbert Jones,SF,9.6926,Isaiah Stewart,PF,9.0345
+NOP,DET,Kaiser Gates,SF,8.7917,Isaiah Livers,PF,9.4662
+NOP,DET,Kaiser Gates,SF,8.7917,Isaiah Stewart,PF,9.0345
+NOP,IND,Jeremiah Robinson-Earl,PF,9.474,Aaron Nesmith,SF,8.7342
+NOP,IND,Jeremiah Robinson-Earl,PF,9.474,Quenton Jackson,PG,9.7193
+NOP,IND,Kira Lewis Jr.,PG,9.8683,Aaron Nesmith,SF,8.7342
+NOP,IND,Kira Lewis Jr.,PG,9.8683,Quenton Jackson,PG,9.7193
+NOP,LAC,Jordan Hawkins,SG,9.8083,Amir Coffey,SF,9.0605
+NOP,MIL,Jeremiah Robinson-Earl,PF,9.1324,TyTy Washington Jr.,PG,9.1739
+NOP,MIL,Jose Alvarado,PG,9.4386,TyTy Washington Jr.,PG,9.1739
+NOP,SAC,E.J. Liddell,PF,9.6919,De'Aaron Fox,PG,9.5858
+NOP,SAC,E.J. Liddell,PF,9.6919,Harrison Barnes,PF,9.5805
+NOP,SAC,E.J. Liddell,PF,9.6919,Keegan Murray,SF,9.1725
+NOP,SAC,Jonas Valančiūnas,C,9.7911,De'Aaron Fox,PG,9.5858
+NOP,SAC,Jonas Valančiūnas,C,9.7911,Harrison Barnes,PF,9.5805
+NOP,SAC,Jonas Valančiūnas,C,9.7911,Keegan Murray,SF,9.1725
+NOP,SAC,Trey Murphy III,SF,9.1116,De'Aaron Fox,PG,9.5858
+NOP,SAC,Trey Murphy III,SF,9.1116,Harrison Barnes,PF,9.5805
+NOP,SAC,Trey Murphy III,SF,9.1116,Keegan Murray,SF,9.1725
+NOP,SAS,Trey Murphy III,SF,9.4286,Blake Wesley,SG,8.8775
+NOP,SAS,Trey Murphy III,SF,9.4286,Jeremy Sochan,PF,9.3736
+NOP,TOR,Kira Lewis Jr.,PG,9.7732,Jahmi'us Ramsey,SG,9.4203
+NOP,TOR,Kira Lewis Jr.,PG,9.7732,OG Anunoby,SF,8.5884
+NOP,UTA,Zion Williamson,PF,9.6271,Brice Sensabaugh,SF,9.23
+NOP,WAS,Jonas Valančiūnas,C,9.1588,Jordan Poole,SG,9.2746
+NOP,WAS,Jonas Valančiūnas,C,9.1588,Kyle Kuzma,PF,9.0523
+NOP,WAS,Naji Marshall,SF,9.3724,Jordan Poole,SG,9.2746
+NOP,WAS,Naji Marshall,SF,9.3724,Kyle Kuzma,PF,9.0523
+NYK,CHI,Dmytro Skapintsev,C,9.5857,Andrew Funk,SG,9.2627
+NYK,CHI,Josh Hart,SF,9.5753,Andrew Funk,SG,9.2627
+NYK,CHI,Ryan Arcidiacono,PG,9.7062,Andrew Funk,SG,9.2627
+NYK,CHI,Taj Gibson,PF,9.4473,Andrew Funk,SG,9.2627
+NYK,CLE,Donte DiVincenzo,SG,9.4652,Damian Jones,C,8.5386
+NYK,CLE,Jacob Toppin,SF,9.6069,Damian Jones,C,8.5386
+NYK,DAL,Evan Fournier,SG,9.8603,Markieff Morris,PF,9.1777
+NYK,DAL,Evan Fournier,SG,9.8603,Richaun Holmes,C,9.012
+NYK,DAL,Isaiah Hartenstein,C,8.7457,Markieff Morris,PF,9.1777
+NYK,DAL,Isaiah Hartenstein,C,8.7457,Richaun Holmes,C,9.012
+NYK,DET,Evan Fournier,SG,9.155,James Wiseman,C,9.5078
+NYK,DET,RJ Barrett,SG,9.5387,James Wiseman,C,9.5078
+NYK,HOU,Mitchell Robinson,C,9.0202,Amen Thompson,SF,9.3293
+NYK,HOU,Mitchell Robinson,C,9.0202,Fred VanVleet,PG,8.5269
+NYK,HOU,Mitchell Robinson,C,9.0202,Jock Landale,C,9.5535
+NYK,HOU,Quentin Grimes,SG,9.9554,Amen Thompson,SF,9.3293
+NYK,HOU,Quentin Grimes,SG,9.9554,Fred VanVleet,PG,8.5269
+NYK,HOU,Quentin Grimes,SG,9.9554,Jock Landale,C,9.5535
+NYK,HOU,Taj Gibson,PF,9.6139,Amen Thompson,SF,9.3293
+NYK,HOU,Taj Gibson,PF,9.6139,Fred VanVleet,PG,8.5269
+NYK,HOU,Taj Gibson,PF,9.6139,Jock Landale,C,9.5535
+NYK,IND,Evan Fournier,SG,9.6667,Buddy Hield,SF,9.2133
+NYK,IND,Jericho Sims,C,9.5975,Buddy Hield,SF,9.2133
+NYK,LAC,Isaiah Hartenstein,C,9.5194,Kobe Brown,PF,8.9929
+NYK,LAC,RJ Barrett,SG,9.7244,Kobe Brown,PF,8.9929
+NYK,LAC,Taj Gibson,PF,9.6398,Kobe Brown,PF,8.9929
+NYK,MEM,Dmytro Skapintsev,C,9.4276,Kenneth Lofton Jr.,PF,9.1159
+NYK,MEM,Dmytro Skapintsev,C,9.4276,Shaquille Harrison,SG,9.0946
+NYK,MEM,Dmytro Skapintsev,C,9.4276,Ziaire Williams,SF,9.8247
+NYK,MEM,Immanuel Quickley,SG,9.9471,Kenneth Lofton Jr.,PF,9.1159
+NYK,MEM,Immanuel Quickley,SG,9.9471,Shaquille Harrison,SG,9.0946
+NYK,MEM,Immanuel Quickley,SG,9.9471,Ziaire Williams,SF,9.8247
+NYK,MEM,Miles McBride,PG,9.2527,Kenneth Lofton Jr.,PF,9.1159
+NYK,MEM,Miles McBride,PG,9.2527,Shaquille Harrison,SG,9.0946
+NYK,MEM,Miles McBride,PG,9.2527,Ziaire Williams,SF,9.8247
+NYK,MEM,Taj Gibson,PF,9.0699,Kenneth Lofton Jr.,PF,9.1159
+NYK,MEM,Taj Gibson,PF,9.0699,Shaquille Harrison,SG,9.0946
+NYK,MEM,Taj Gibson,PF,9.0699,Ziaire Williams,SF,9.8247
+NYK,NOP,Julius Randle,PF,9.9562,CJ McCollum,PG,9.8193
+NYK,NOP,Miles McBride,PG,9.6552,CJ McCollum,PG,9.8193
+NYK,ORL,DaQuan Jeffries,SG,9.9415,Markelle Fultz,PG,8.4111
+NYK,ORL,Donte DiVincenzo,SG,9.5998,Markelle Fultz,PG,8.4111
+NYK,ORL,Evan Fournier,SG,9.3446,Markelle Fultz,PG,8.4111
+NYK,ORL,Julius Randle,PF,9.661,Markelle Fultz,PG,8.4111
+NYK,PHI,Jacob Toppin,SF,9.3596,Mo Bamba,C,9.6986
+NYK,PHI,Jalen Brunson,PG,9.7495,Mo Bamba,C,9.6986
+NYK,PHO,Jalen Brunson,PG,9.6835,Isaiah Thomas,PG,8.4881
+NYK,PHO,Jalen Brunson,PG,9.6835,Josh Okogie,SG,9.1348
+NYK,PHO,Quentin Grimes,SG,9.248,Isaiah Thomas,PG,8.4881
+NYK,PHO,Quentin Grimes,SG,9.248,Josh Okogie,SG,9.1348
+NYK,PHO,RJ Barrett,SG,9.0708,Isaiah Thomas,PG,8.4881
+NYK,PHO,RJ Barrett,SG,9.0708,Josh Okogie,SG,9.1348
+NYK,PHO,Ryan Arcidiacono,PG,9.0199,Isaiah Thomas,PG,8.4881
+NYK,PHO,Ryan Arcidiacono,PG,9.0199,Josh Okogie,SG,9.1348
+NYK,POR,Dmytro Skapintsev,C,9.6785,Ashton Hagans,PG,9.3809
+NYK,POR,Dmytro Skapintsev,C,9.6785,Skylar Mays,PG,8.3967
+NYK,POR,Jacob Toppin,SF,9.3221,Ashton Hagans,PG,9.3809
+NYK,POR,Jacob Toppin,SF,9.3221,Skylar Mays,PG,8.3967
+NYK,POR,Mitchell Robinson,C,9.7865,Ashton Hagans,PG,9.3809
+NYK,POR,Mitchell Robinson,C,9.7865,Skylar Mays,PG,8.3967
+NYK,SAC,Charlie Brown Jr.,SG,9.823,Colby Jones,SG,9.8909
+NYK,SAC,Charlie Brown Jr.,SG,9.823,Jalen Slawson,SF,9.4675
+NYK,SAC,Charlie Brown Jr.,SG,9.823,Kevin Huerter,SG,9.6115
+NYK,SAC,Jacob Toppin,SF,9.1001,Colby Jones,SG,9.8909
+NYK,SAC,Jacob Toppin,SF,9.1001,Jalen Slawson,SF,9.4675
+NYK,SAC,Jacob Toppin,SF,9.1001,Kevin Huerter,SG,9.6115
+NYK,SAC,Josh Hart,SF,9.6492,Colby Jones,SG,9.8909
+NYK,SAC,Josh Hart,SF,9.6492,Jalen Slawson,SF,9.4675
+NYK,SAC,Josh Hart,SF,9.6492,Kevin Huerter,SG,9.6115
+NYK,SAC,Julius Randle,PF,9.9581,Colby Jones,SG,9.8909
+NYK,SAC,Julius Randle,PF,9.9581,Jalen Slawson,SF,9.4675
+NYK,SAC,Julius Randle,PF,9.9581,Kevin Huerter,SG,9.6115
+NYK,UTA,Charlie Brown Jr.,SG,9.6259,Taylor Hendricks,PF,9.5489
+NYK,UTA,Immanuel Quickley,SG,9.5492,Taylor Hendricks,PF,9.5489
+OKC,CHI,Isaiah Joe,SG,9.5339,Torrey Craig,SF,9.5884
+OKC,CHI,Jalen Williams,PF,9.4153,Torrey Craig,SF,9.5884
+OKC,CHI,Josh Giddey,SG,9.6867,Torrey Craig,SF,9.5884
+OKC,CHI,Kenrich Williams,PF,9.4466,Torrey Craig,SF,9.5884
+OKC,DEN,Aleksej Pokusevski,PF,9.823,Collin Gillespie,PG,9.6555
+OKC,DEN,Aleksej Pokusevski,PF,9.823,Hunter Tyson,PF,9.6302
+OKC,DEN,Aleksej Pokusevski,PF,9.823,Michael Porter Jr.,SF,9.3423
+OKC,DEN,Dāvis Bertāns,PF,9.3257,Collin Gillespie,PG,9.6555
+OKC,DEN,Dāvis Bertāns,PF,9.3257,Hunter Tyson,PF,9.6302
+OKC,DEN,Dāvis Bertāns,PF,9.3257,Michael Porter Jr.,SF,9.3423
+OKC,DEN,Jalen Williams,PF,9.2968,Collin Gillespie,PG,9.6555
+OKC,DEN,Jalen Williams,PF,9.2968,Hunter Tyson,PF,9.6302
+OKC,DEN,Jalen Williams,PF,9.2968,Michael Porter Jr.,SF,9.3423
+OKC,DEN,Tre Mann,PG,9.2379,Collin Gillespie,PG,9.6555
+OKC,DEN,Tre Mann,PG,9.2379,Hunter Tyson,PF,9.6302
+OKC,DEN,Tre Mann,PG,9.2379,Michael Porter Jr.,SF,9.3423
+OKC,HOU,Aaron Wiggins,SG,9.4649,Alperen Şengün,C,9.2451
+OKC,HOU,Kenrich Williams,PF,9.4334,Alperen Şengün,C,9.2451
+OKC,MIN,Adam Flagler,SG,9.6857,Kyle Anderson,PF,9.5977
+OKC,MIN,Cason Wallace,SG,9.8069,Kyle Anderson,PF,9.5977
+OKC,MIN,Chet Holmgren,C,9.7288,Kyle Anderson,PF,9.5977
+OKC,PHO,Aleksej Pokusevski,PF,9.3343,Bol Bol,PF,9.7734
+OKC,PHO,Aleksej Pokusevski,PF,9.3343,Isaiah Thomas,PG,9.7947
+OKC,PHO,Keyontae Johnson,SF,9.8398,Bol Bol,PF,9.7734
+OKC,PHO,Keyontae Johnson,SF,9.8398,Isaiah Thomas,PG,9.7947
+OKC,SAC,Ousmane Dieng,PF,9.8484,Chris Duarte,SF,9.5093
+OKC,SAC,Tre Mann,PG,9.2113,Chris Duarte,SF,9.5093
+OKC,SAS,Aleksej Pokusevski,PF,9.8483,Blake Wesley,SG,9.4182
+OKC,SAS,Aleksej Pokusevski,PF,9.8483,Charles Bassey,C,9.7498
+OKC,WAS,Isaiah Joe,SG,9.546,Deni Avdija,SF,8.9363
+OKC,WAS,Isaiah Joe,SG,9.546,Tristan Vukcevic,C,9.7959
+OKC,WAS,Isaiah Joe,SG,9.546,Tyus Jones,PG,9.4534
+OKC,WAS,Jalen Williams,PF,9.3884,Deni Avdija,SF,8.9363
+OKC,WAS,Jalen Williams,PF,9.3884,Tristan Vukcevic,C,9.7959
+OKC,WAS,Jalen Williams,PF,9.3884,Tyus Jones,PG,9.4534
+OKC,WAS,Keyontae Johnson,SF,9.8941,Deni Avdija,SF,8.9363
+OKC,WAS,Keyontae Johnson,SF,9.8941,Tristan Vukcevic,C,9.7959
+OKC,WAS,Keyontae Johnson,SF,9.8941,Tyus Jones,PG,9.4534
+ORL,ATL,Anthony Black,PG,8.8042,Clint Capela,C,9.28
+ORL,ATL,Anthony Black,PG,8.8042,Garrison Mathews,SG,9.697
+ORL,ATL,Joe Ingles,SF,9.0492,Clint Capela,C,9.28
+ORL,ATL,Joe Ingles,SF,9.0492,Garrison Mathews,SG,9.697
+ORL,ATL,Paolo Banchero,PF,9.7975,Clint Capela,C,9.28
+ORL,ATL,Paolo Banchero,PF,9.7975,Garrison Mathews,SG,9.697
+ORL,ATL,Wendell Carter Jr.,C,9.4093,Clint Capela,C,9.28
+ORL,ATL,Wendell Carter Jr.,C,9.4093,Garrison Mathews,SG,9.697
+ORL,BRK,Goga Bitadze,C,9.9616,Dariq Whitehead,SF,9.0384
+ORL,BRK,Goga Bitadze,C,9.9616,Spencer Dinwiddie,PG,9.6406
+ORL,BRK,Joe Ingles,SF,9.8873,Dariq Whitehead,SF,9.0384
+ORL,BRK,Joe Ingles,SF,9.8873,Spencer Dinwiddie,PG,9.6406
+ORL,CLE,Admiral Schofield,PF,9.9989,Evan Mobley,PF,9.0693
+ORL,DAL,Chuma Okeke,SF,9.9028,Brandon Williams,PG,9.2858
+ORL,DAL,Chuma Okeke,SF,9.9028,Dexter Dennis,SG,9.3554
+ORL,DAL,Chuma Okeke,SF,9.9028,Richaun Holmes,C,9.8446
+ORL,GSW,Anthony Black,PG,8.994,Stephen Curry,PG,8.9682
+ORL,LAC,Cole Anthony,PG,9.9211,Kobe Brown,PF,9.0716
+ORL,LAC,Cole Anthony,PG,9.9211,Moussa Diabaté,C,9.882
+ORL,LAC,Cole Anthony,PG,9.9211,Paul George,PF,9.135
+ORL,LAC,Cole Anthony,PG,9.9211,Robert Covington,PF,8.9704
+ORL,LAC,Cole Anthony,PG,9.9211,Xavier Moon,SG,9.6063
+ORL,LAC,Trevelin Queen,SG,9.8841,Kobe Brown,PF,9.0716
+ORL,LAC,Trevelin Queen,SG,9.8841,Moussa Diabaté,C,9.882
+ORL,LAC,Trevelin Queen,SG,9.8841,Paul George,PF,9.135
+ORL,LAC,Trevelin Queen,SG,9.8841,Robert Covington,PF,8.9704
+ORL,LAC,Trevelin Queen,SG,9.8841,Xavier Moon,SG,9.6063
+ORL,LAL,Anthony Black,PG,8.9722,Gabe Vincent,PG,9.7435
+ORL,LAL,Kevon Harris,SG,9.9644,Gabe Vincent,PG,9.7435
+ORL,LAL,Trevelin Queen,SG,9.8642,Gabe Vincent,PG,9.7435
+ORL,MEM,Admiral Schofield,PF,9.8423,GG Jackson II,PF,9.6345
+ORL,MEM,Admiral Schofield,PF,9.8423,Jacob Gilyard,PG,9.2909
+ORL,MEM,Admiral Schofield,PF,9.8423,Jaren Jackson Jr.,C,9.608
+ORL,MEM,Admiral Schofield,PF,9.8423,Mãozinha Pereira,SF,9.4317
+ORL,MEM,Admiral Schofield,PF,9.8423,Ziaire Williams,SF,9.2549
+ORL,MEM,Jalen Suggs,SG,9.6178,GG Jackson II,PF,9.6345
+ORL,MEM,Jalen Suggs,SG,9.6178,Jacob Gilyard,PG,9.2909
+ORL,MEM,Jalen Suggs,SG,9.6178,Jaren Jackson Jr.,C,9.608
+ORL,MEM,Jalen Suggs,SG,9.6178,Mãozinha Pereira,SF,9.4317
+ORL,MEM,Jalen Suggs,SG,9.6178,Ziaire Williams,SF,9.2549
+ORL,MIN,Admiral Schofield,PF,9.5383,Luka Garza,C,9.5215
+ORL,MIN,Admiral Schofield,PF,9.5383,Rudy Gobert,C,9.3
+ORL,PHI,Jonathan Isaac,PF,9.7966,Patrick Beverley,PG,9.1259
+ORL,PHO,Goga Bitadze,C,9.8624,Jordan Goodwin,PG,9.7332
+ORL,POR,Wendell Carter Jr.,C,9.9978,Matisse Thybulle,SF,9.1455
+ORL,SAC,Anthony Black,PG,9.4483,Jordan Ford,PG,9.3031
+ORL,SAC,Jett Howard,SF,9.1467,Jordan Ford,PG,9.3031
+ORL,SAC,Joe Ingles,SF,9.0149,Jordan Ford,PG,9.3031
+ORL,WAS,Anthony Black,PG,9.4379,Justin Champagnie,SF,9.3668
+ORL,WAS,Anthony Black,PG,9.4379,Patrick Baldwin Jr.,SF,9.4885
+ORL,WAS,Franz Wagner,SF,9.3761,Justin Champagnie,SF,9.3668
+ORL,WAS,Franz Wagner,SF,9.3761,Patrick Baldwin Jr.,SF,9.4885
+ORL,WAS,Joe Ingles,SF,9.5246,Justin Champagnie,SF,9.3668
+ORL,WAS,Joe Ingles,SF,9.5246,Patrick Baldwin Jr.,SF,9.4885
+ORL,WAS,Jonathan Isaac,PF,8.9937,Justin Champagnie,SF,9.3668
+ORL,WAS,Jonathan Isaac,PF,8.9937,Patrick Baldwin Jr.,SF,9.4885
+ORL,WAS,Trevelin Queen,SG,9.2713,Justin Champagnie,SF,9.3668
+ORL,WAS,Trevelin Queen,SG,9.2713,Patrick Baldwin Jr.,SF,9.4885
+PHI,BRK,D.J. Wilson,PF,9.3263,Lonnie Walker IV,SG,9.7938
+PHI,BRK,Danuel House Jr.,SF,9.8149,Lonnie Walker IV,SG,9.7938
+PHI,CHI,Jaden Springer,SG,9.8994,Adama Sanogo,PF,9.4382
+PHI,CHI,Jaden Springer,SG,9.8994,Andre Drummond,C,9.3736
+PHI,CHI,Jaden Springer,SG,9.8994,Coby White,PG,9.3329
+PHI,CHI,Javonte Smart,PG,9.6077,Adama Sanogo,PF,9.4382
+PHI,CHI,Javonte Smart,PG,9.6077,Andre Drummond,C,9.3736
+PHI,CHI,Javonte Smart,PG,9.6077,Coby White,PG,9.3329
+PHI,CHI,Paul Reed,C,9.0609,Adama Sanogo,PF,9.4382
+PHI,CHI,Paul Reed,C,9.0609,Andre Drummond,C,9.3736
+PHI,CHI,Paul Reed,C,9.0609,Coby White,PG,9.3329
+PHI,DAL,Danuel House Jr.,SF,9.6921,Markieff Morris,PF,9.7069
+PHI,DAL,De'Anthony Melton,SG,9.8201,Markieff Morris,PF,9.7069
+PHI,DAL,Jeff Dowtin Jr.,PG,9.3374,Markieff Morris,PF,9.7069
+PHI,GSW,D.J. Wilson,PF,9.8414,Dario Šarić,C,9.7204
+PHI,GSW,D.J. Wilson,PF,9.8414,Gui Santos,PF,9.5063
+PHI,GSW,D.J. Wilson,PF,9.8414,Kevon Looney,C,9.2407
+PHI,GSW,D.J. Wilson,PF,9.8414,Moses Moody,SG,9.576
+PHI,GSW,De'Anthony Melton,SG,9.6764,Dario Šarić,C,9.7204
+PHI,GSW,De'Anthony Melton,SG,9.6764,Gui Santos,PF,9.5063
+PHI,GSW,De'Anthony Melton,SG,9.6764,Kevon Looney,C,9.2407
+PHI,GSW,De'Anthony Melton,SG,9.6764,Moses Moody,SG,9.576
+PHI,HOU,De'Anthony Melton,SG,9.8884,Cam Whitmore,SF,8.9841
+PHI,HOU,De'Anthony Melton,SG,9.8884,Jock Landale,C,9.4059
+PHI,HOU,Jaden Springer,SG,9.5774,Cam Whitmore,SF,8.9841
+PHI,HOU,Jaden Springer,SG,9.5774,Jock Landale,C,9.4059
+PHI,HOU,Javonte Smart,PG,8.8878,Cam Whitmore,SF,8.9841
+PHI,HOU,Javonte Smart,PG,8.8878,Jock Landale,C,9.4059
+PHI,HOU,Marcus Morris,PF,9.5782,Cam Whitmore,SF,8.9841
+PHI,HOU,Marcus Morris,PF,9.5782,Jock Landale,C,9.4059
+PHI,IND,Jaden Springer,SG,9.8589,Ben Sheppard,SG,9.502
+PHI,IND,P.J. Tucker,PF,9.74,Ben Sheppard,SG,9.502
+PHI,IND,Tyrese Maxey,PG,8.6548,Ben Sheppard,SG,9.502
+PHI,LAL,De'Anthony Melton,SG,9.7149,Jalen Hood-Schifino,SG,9.4956
+PHI,LAL,De'Anthony Melton,SG,9.7149,Rui Hachimura,PF,9.6124
+PHI,MEM,Danny Green,SG,9.9675,Ja Morant,PG,9.8434
+PHI,MEM,Danny Green,SG,9.9675,Timmy Allen,SF,9.6493
+PHI,MEM,Danny Green,SG,9.9675,Vince Williams Jr.,SG,9.6019
+PHI,MEM,Ricky Council IV,SG,9.761,Ja Morant,PG,9.8434
+PHI,MEM,Ricky Council IV,SG,9.761,Timmy Allen,SF,9.6493
+PHI,MEM,Ricky Council IV,SG,9.761,Vince Williams Jr.,SG,9.6019
+PHI,MEM,Terquavion Smith,PG,9.3417,Ja Morant,PG,9.8434
+PHI,MEM,Terquavion Smith,PG,9.3417,Timmy Allen,SF,9.6493
+PHI,MEM,Terquavion Smith,PG,9.3417,Vince Williams Jr.,SG,9.6019
+PHI,MIN,Danuel House Jr.,SF,9.7888,Jaden McDaniels,SF,9.1226
+PHI,MIN,Danuel House Jr.,SF,9.7888,Shake Milton,SG,9.4897
+PHI,MIN,De'Anthony Melton,SG,9.0956,Jaden McDaniels,SF,9.1226
+PHI,MIN,De'Anthony Melton,SG,9.0956,Shake Milton,SG,9.4897
+PHI,MIN,Jaden Springer,SG,9.1656,Jaden McDaniels,SF,9.1226
+PHI,MIN,Jaden Springer,SG,9.1656,Shake Milton,SG,9.4897
+PHI,MIN,Joel Embiid,C,9.5188,Jaden McDaniels,SF,9.1226
+PHI,MIN,Joel Embiid,C,9.5188,Shake Milton,SG,9.4897
+PHI,OKC,Jaden Springer,SG,9.9071,Aleksej Pokusevski,PF,9.4919
+PHI,OKC,Jaden Springer,SG,9.9071,Jaylin Williams,C,9.1143
+PHI,PHO,Kelly Oubre Jr.,SF,9.8439,Isaiah Thomas,PG,9.3026
+PHI,PHO,Mo Bamba,C,9.4525,Isaiah Thomas,PG,9.3026
+PHI,POR,Danny Green,SG,9.9357,Jamaree Bouyea,PG,9.0582
+PHI,POR,Danny Green,SG,9.9357,Kris Murray,SF,9.285
+PHI,POR,Danny Green,SG,9.9357,Matisse Thybulle,SF,9.3144
+PHO,BOS,Bol Bol,PF,9.9632,Jaylen Brown,SF,9.704
+PHO,BOS,Isaiah Thomas,PG,9.6422,Jaylen Brown,SF,9.704
+PHO,BOS,Saben Lee,PG,8.9343,Jaylen Brown,SF,9.704
+PHO,LAC,Bol Bol,PF,9.8964,KJ Martin,SF,9.7216
+PHO,LAC,Bol Bol,PF,9.8964,Norman Powell,SG,9.7575
+PHO,LAC,Drew Eubanks,C,9.9414,KJ Martin,SF,9.7216
+PHO,LAC,Drew Eubanks,C,9.9414,Norman Powell,SG,9.7575
+PHO,LAC,Jusuf Nurkić,C,9.6946,KJ Martin,SF,9.7216
+PHO,LAC,Jusuf Nurkić,C,9.6946,Norman Powell,SG,9.7575
+PHO,LAC,Kevin Durant,PF,9.6629,KJ Martin,SF,9.7216
+PHO,LAC,Kevin Durant,PF,9.6629,Norman Powell,SG,9.7575
+PHO,NOP,Isaiah Thomas,PG,9.7684,Jose Alvarado,PG,9.2462
+PHO,NOP,Jusuf Nurkić,C,8.8765,Jose Alvarado,PG,9.2462
+PHO,NOP,Yuta Watanabe,SF,8.945,Jose Alvarado,PG,9.2462
+POR,CHI,Jamaree Bouyea,PG,9.7775,Alex Caruso,SG,9.4904
+POR,CHI,Jamaree Bouyea,PG,9.7775,Ayo Dosunmu,SG,9.6299
+POR,CHI,Jamaree Bouyea,PG,9.7775,Javonte Green,SF,9.6208
+POR,CHI,Jamaree Bouyea,PG,9.7775,Jevon Carter,PG,9.1425
+POR,CHI,Justin Minaya,SF,9.8167,Alex Caruso,SG,9.4904
+POR,CHI,Justin Minaya,SF,9.8167,Ayo Dosunmu,SG,9.6299
+POR,CHI,Justin Minaya,SF,9.8167,Javonte Green,SF,9.6208
+POR,CHI,Justin Minaya,SF,9.8167,Jevon Carter,PG,9.1425
+POR,CHI,Robert Williams,C,9.7914,Alex Caruso,SG,9.4904
+POR,CHI,Robert Williams,C,9.7914,Ayo Dosunmu,SG,9.6299
+POR,CHI,Robert Williams,C,9.7914,Javonte Green,SF,9.6208
+POR,CHI,Robert Williams,C,9.7914,Jevon Carter,PG,9.1425
+POR,CHI,Scoot Henderson,PG,9.2124,Alex Caruso,SG,9.4904
+POR,CHI,Scoot Henderson,PG,9.2124,Ayo Dosunmu,SG,9.6299
+POR,CHI,Scoot Henderson,PG,9.2124,Javonte Green,SF,9.6208
+POR,CHI,Scoot Henderson,PG,9.2124,Jevon Carter,PG,9.1425
+POR,CHO,Ashton Hagans,PG,9.8054,Amari Bailey,PG,9.544
+POR,CHO,Ashton Hagans,PG,9.8054,Ish Smith,PG,8.7388
+POR,CHO,Ashton Hagans,PG,9.8054,Mark Williams,C,9.9376
+POR,CHO,Jerami Grant,PF,9.9405,Amari Bailey,PG,9.544
+POR,CHO,Jerami Grant,PF,9.9405,Ish Smith,PG,8.7388
+POR,CHO,Jerami Grant,PF,9.9405,Mark Williams,C,9.9376
+POR,CHO,Kris Murray,SF,9.8606,Amari Bailey,PG,9.544
+POR,CHO,Kris Murray,SF,9.8606,Ish Smith,PG,8.7388
+POR,CHO,Kris Murray,SF,9.8606,Mark Williams,C,9.9376
+POR,CHO,Moses Brown,C,9.7745,Amari Bailey,PG,9.544
+POR,CHO,Moses Brown,C,9.7745,Ish Smith,PG,8.7388
+POR,CHO,Moses Brown,C,9.7745,Mark Williams,C,9.9376
+POR,CHO,Robert Williams,C,9.4561,Amari Bailey,PG,9.544
+POR,CHO,Robert Williams,C,9.4561,Ish Smith,PG,8.7388
+POR,CHO,Robert Williams,C,9.4561,Mark Williams,C,9.9376
+POR,CHO,Taze Moore,SG,9.7538,Amari Bailey,PG,9.544
+POR,CHO,Taze Moore,SG,9.7538,Ish Smith,PG,8.7388
+POR,CHO,Taze Moore,SG,9.7538,Mark Williams,C,9.9376
+POR,CLE,Duop Reath,C,9.9681,Evan Mobley,PF,9.6948
+POR,CLE,Duop Reath,C,9.9681,Isaac Okoro,SF,9.6372
+POR,CLE,Ish Wainright,SF,9.7121,Evan Mobley,PF,9.6948
+POR,CLE,Ish Wainright,SF,9.7121,Isaac Okoro,SF,9.6372
+POR,CLE,Malcolm Brogdon,PG,8.7654,Evan Mobley,PF,9.6948
+POR,CLE,Malcolm Brogdon,PG,8.7654,Isaac Okoro,SF,9.6372
+POR,CLE,Shaedon Sharpe,SG,9.3728,Evan Mobley,PF,9.6948
+POR,CLE,Shaedon Sharpe,SG,9.3728,Isaac Okoro,SF,9.6372
+POR,DEN,Duop Reath,C,9.8111,DeAndre Jordan,C,9.7826
+POR,DEN,Duop Reath,C,9.8111,Zeke Nnaji,PF,9.3075
+POR,DEN,Ibou Badji,C,9.7156,DeAndre Jordan,C,9.7826
+POR,DEN,Ibou Badji,C,9.7156,Zeke Nnaji,PF,9.3075
+POR,DEN,Taze Moore,SG,9.6859,DeAndre Jordan,C,9.7826
+POR,DEN,Taze Moore,SG,9.6859,Zeke Nnaji,PF,9.3075
+POR,LAL,Anfernee Simons,SG,9.8692,Taurean Prince,PF,9.6411
+POR,MEM,Anfernee Simons,SG,9.9742,DeJon Jarreau,SG,9.8464
+POR,MEM,Anfernee Simons,SG,9.9742,Xavier Tillman Sr.,C,9.3868
+POR,MEM,Ish Wainright,SF,9.506,DeJon Jarreau,SG,9.8464
+POR,MEM,Ish Wainright,SF,9.506,Xavier Tillman Sr.,C,9.3868
+POR,MEM,Scoot Henderson,PG,9.7287,DeJon Jarreau,SG,9.8464
+POR,MEM,Scoot Henderson,PG,9.7287,Xavier Tillman Sr.,C,9.3868
+POR,MIA,Anfernee Simons,SG,9.5572,Caleb Martin,SF,9.7408
+POR,MIA,Deandre Ayton,C,8.5436,Caleb Martin,SF,9.7408
+POR,MIA,Ish Wainright,SF,9.9562,Caleb Martin,SF,9.7408
+POR,MIA,Matisse Thybulle,SF,9.6273,Caleb Martin,SF,9.7408
+POR,MIL,Kris Murray,SF,9.9865,Cameron Payne,PG,9.9175
+POR,MIL,Kris Murray,SF,9.9865,Thanasis Antetokounmpo,PF,9.9818
+POR,MIL,Kris Murray,SF,9.9865,TyTy Washington Jr.,PG,9.4363
+POR,MIL,Taze Moore,SG,9.2107,Cameron Payne,PG,9.9175
+POR,MIL,Taze Moore,SG,9.2107,Thanasis Antetokounmpo,PF,9.9818
+POR,MIL,Taze Moore,SG,9.2107,TyTy Washington Jr.,PG,9.4363
+POR,MIN,Deandre Ayton,C,9.5628,Jordan McLaughlin,PG,9.3012
+POR,MIN,Deandre Ayton,C,9.5628,Shake Milton,SG,9.4339
+POR,NOP,Robert Williams,C,9.1521,Dyson Daniels,PG,9.0169
+POR,OKC,Jabari Walker,PF,9.7742,Dāvis Bertāns,PF,9.559
+POR,OKC,Jamaree Bouyea,PG,9.9297,Dāvis Bertāns,PF,9.559
+POR,OKC,Jerami Grant,PF,9.5875,Dāvis Bertāns,PF,9.559
+POR,OKC,Skylar Mays,PG,9.5868,Dāvis Bertāns,PF,9.559
+SAC,ATL,Domantas Sabonis,C,9.7958,De'Andre Hunter,SF,9.6865
+SAC,ATL,Trey Lyles,PF,9.3274,De'Andre Hunter,SF,9.6865
+SAC,BRK,De'Aaron Fox,PG,9.2302,Armoni Brooks,PG,9.254
+SAC,BRK,Keon Ellis,SG,9.5419,Armoni Brooks,PG,9.254
+SAC,BRK,Kessler Edwards,SF,9.7045,Armoni Brooks,PG,9.254
+SAC,DEN,Davion Mitchell,PG,9.822,Jay Huff,C,9.8568
+SAC,DEN,Davion Mitchell,PG,9.822,Nikola Jokić,C,9.8579
+SAC,DEN,De'Aaron Fox,PG,9.9134,Jay Huff,C,9.8568
+SAC,DEN,De'Aaron Fox,PG,9.9134,Nikola Jokić,C,9.8579
+SAC,IND,Juan Toscano-Anderson,SF,9.6804,T.J. McConnell,PG,9.6097
+SAC,IND,Kevin Huerter,SG,9.5477,T.J. McConnell,PG,9.6097
+SAC,LAC,Colby Jones,SG,9.8783,Xavier Moon,SG,9.8435
+SAC,MEM,Colby Jones,SG,9.7978,Desmond Bane,SG,9.5455
+SAC,MEM,Kessler Edwards,SF,8.9791,Desmond Bane,SG,9.5455
+SAC,MEM,Kevin Huerter,SG,9.7277,Desmond Bane,SG,9.5455
+SAC,MEM,Malik Monk,SG,9.6817,Desmond Bane,SG,9.5455
+SAC,MIL,Harrison Barnes,PF,9.3564,Khris Middleton,SF,9.4319
+SAC,MIL,Kevin Huerter,SG,9.4654,Khris Middleton,SF,9.4319
+SAC,MIL,Malik Monk,SG,9.4285,Khris Middleton,SF,9.4319
+SAC,PHI,Alex Len,C,9.0017,Jeff Dowtin Jr.,PG,9.2776
+SAC,PHI,De'Aaron Fox,PG,9.7147,Jeff Dowtin Jr.,PG,9.2776
+SAC,PHO,Domantas Sabonis,C,9.9085,Chimezie Metu,C,9.2696
+SAC,PHO,JaVale McGee,C,9.5174,Chimezie Metu,C,9.2696
+SAC,PHO,Juan Toscano-Anderson,SF,9.7889,Chimezie Metu,C,9.2696
+SAC,PHO,Malik Monk,SG,9.215,Chimezie Metu,C,9.2696
+SAC,TOR,Alex Len,C,9.3658,Jahmi'us Ramsey,SG,9.2481
+SAC,TOR,Alex Len,C,9.3658,Jontay Porter,PF,9.6249
+SAC,TOR,Alex Len,C,9.3658,Kobi Simmons,PG,9.6911
+SAC,TOR,Alex Len,C,9.3658,Malik Williams,C,9.2981
+SAC,TOR,De'Aaron Fox,PG,9.8045,Jahmi'us Ramsey,SG,9.2481
+SAC,TOR,De'Aaron Fox,PG,9.8045,Jontay Porter,PF,9.6249
+SAC,TOR,De'Aaron Fox,PG,9.8045,Kobi Simmons,PG,9.6911
+SAC,TOR,De'Aaron Fox,PG,9.8045,Malik Williams,C,9.2981
+SAC,TOR,Keon Ellis,SG,9.3638,Jahmi'us Ramsey,SG,9.2481
+SAC,TOR,Keon Ellis,SG,9.3638,Jontay Porter,PF,9.6249
+SAC,TOR,Keon Ellis,SG,9.3638,Kobi Simmons,PG,9.6911
+SAC,TOR,Keon Ellis,SG,9.3638,Malik Williams,C,9.2981
+SAC,TOR,Sasha Vezenkov,PF,8.8018,Jahmi'us Ramsey,SG,9.2481
+SAC,TOR,Sasha Vezenkov,PF,8.8018,Jontay Porter,PF,9.6249
+SAC,TOR,Sasha Vezenkov,PF,8.8018,Kobi Simmons,PG,9.6911
+SAC,TOR,Sasha Vezenkov,PF,8.8018,Malik Williams,C,9.2981
+SAS,ATL,Tre Jones,PG,9.9449,Vit Krejci,PG,9.6487
+SAS,BRK,Devonte' Graham,PG,9.8573,Trendon Watford,PF,9.8351
+SAS,BRK,RaiQuan Gray,PF,9.7237,Trendon Watford,PF,9.8351
+SAS,BRK,Zach Collins,C,9.4235,Trendon Watford,PF,9.8351
+SAS,CHI,RaiQuan Gray,PF,9.8732,Julian Phillips,SF,9.238
+SAS,DET,Blake Wesley,SG,8.8705,Isaiah Stewart,PF,9.3481
+SAS,DET,Blake Wesley,SG,8.8705,Killian Hayes,PG,9.5307
+SAS,DET,Devonte' Graham,PG,9.5083,Isaiah Stewart,PF,9.3481
+SAS,DET,Devonte' Graham,PG,9.5083,Killian Hayes,PG,9.5307
+SAS,DET,Dominick Barlow,PF,9.2545,Isaiah Stewart,PF,9.3481
+SAS,DET,Dominick Barlow,PF,9.2545,Killian Hayes,PG,9.5307
+SAS,DET,Tre Jones,PG,9.6243,Isaiah Stewart,PF,9.3481
+SAS,DET,Tre Jones,PG,9.6243,Killian Hayes,PG,9.5307
+SAS,HOU,Jeremy Sochan,PF,9.6842,Jeenathan Williams,SG,9.1459
+SAS,MEM,Devin Vassell,SG,9.863,Kenneth Lofton Jr.,PF,9.6138
+SAS,MIL,Zach Collins,C,9.8392,Bobby Portis,PF,9.5375
+SAS,MIL,Zach Collins,C,9.8392,Pat Connaughton,SF,9.2084
+SAS,PHI,Malaki Branham,PG,9.2208,Furkan Korkmaz,SG,9.2626
+SAS,PHI,Malaki Branham,PG,9.2208,Terquavion Smith,PG,9.3353
+SAS,PHI,RaiQuan Gray,PF,9.8611,Furkan Korkmaz,SG,9.2626
+SAS,PHI,RaiQuan Gray,PF,9.8611,Terquavion Smith,PG,9.3353
+SAS,POR,Jeremy Sochan,PF,9.9479,Ashton Hagans,PG,9.1997
+SAS,POR,Jeremy Sochan,PF,9.9479,Moses Brown,C,9.0169
+SAS,POR,Jeremy Sochan,PF,9.9479,Rayan Rupert,SG,9.6145
+TOR,BOS,Pascal Siakam,PF,9.465,JD Davison,SG,9.4068
+TOR,BOS,Precious Achiuwa,C,9.9424,JD Davison,SG,9.4068
+TOR,BOS,Thaddeus Young,PF,9.6066,JD Davison,SG,9.4068
+TOR,DAL,Markquis Nowell,SG,9.8436,Josh Green,SG,9.2345
+TOR,DAL,Markquis Nowell,SG,9.8436,Tim Hardaway Jr.,SF,9.0377
+TOR,GSW,Kobi Simmons,PG,9.861,Klay Thompson,SF,9.4404
+TOR,GSW,Kobi Simmons,PG,9.861,Stephen Curry,PG,9.7172
+TOR,GSW,Malik Williams,C,9.6366,Klay Thompson,SF,9.4404
+TOR,GSW,Malik Williams,C,9.6366,Stephen Curry,PG,9.7172
+TOR,GSW,Mouhamadou Gueye,PF,9.4622,Klay Thompson,SF,9.4404
+TOR,GSW,Mouhamadou Gueye,PF,9.4622,Stephen Curry,PG,9.7172
+TOR,GSW,Ron Harper Jr.,PF,8.6798,Klay Thompson,SF,9.4404
+TOR,GSW,Ron Harper Jr.,PF,8.6798,Stephen Curry,PG,9.7172
+TOR,IND,Gary Trent Jr.,SG,9.6071,James Johnson,PF,9.8469
+TOR,IND,Gary Trent Jr.,SG,9.6071,Jordan Nwora,SF,9.1036
+TOR,IND,Gary Trent Jr.,SG,9.6071,Tyrese Haliburton,PG,9.6689
+TOR,IND,Malachi Flynn,PG,8.5783,James Johnson,PF,9.8469
+TOR,IND,Malachi Flynn,PG,8.5783,Jordan Nwora,SF,9.1036
+TOR,IND,Malachi Flynn,PG,8.5783,Tyrese Haliburton,PG,9.6689
+TOR,IND,Markquis Nowell,SG,9.9885,James Johnson,PF,9.8469
+TOR,IND,Markquis Nowell,SG,9.9885,Jordan Nwora,SF,9.1036
+TOR,IND,Markquis Nowell,SG,9.9885,Tyrese Haliburton,PG,9.6689
+TOR,IND,Precious Achiuwa,C,9.4082,James Johnson,PF,9.8469
+TOR,IND,Precious Achiuwa,C,9.4082,Jordan Nwora,SF,9.1036
+TOR,IND,Precious Achiuwa,C,9.4082,Tyrese Haliburton,PG,9.6689
+TOR,LAC,Garrett Temple,SG,9.9646,Kobe Brown,PF,9.5973
+TOR,LAC,Garrett Temple,SG,9.9646,Paul George,PF,8.9462
+TOR,LAC,Garrett Temple,SG,9.9646,Terance Mann,SG,9.4071
+TOR,LAC,Gary Trent Jr.,SG,9.7458,Kobe Brown,PF,9.5973
+TOR,LAC,Gary Trent Jr.,SG,9.7458,Paul George,PF,8.9462
+TOR,LAC,Gary Trent Jr.,SG,9.7458,Terance Mann,SG,9.4071
+TOR,LAC,Kobi Simmons,PG,9.3089,Kobe Brown,PF,9.5973
+TOR,LAC,Kobi Simmons,PG,9.3089,Paul George,PF,8.9462
+TOR,LAC,Kobi Simmons,PG,9.3089,Terance Mann,SG,9.4071
+TOR,LAC,OG Anunoby,SF,9.6556,Kobe Brown,PF,9.5973
+TOR,LAC,OG Anunoby,SF,9.6556,Paul George,PF,8.9462
+TOR,LAC,OG Anunoby,SF,9.6556,Terance Mann,SG,9.4071
+TOR,LAC,Pascal Siakam,PF,9.5648,Kobe Brown,PF,9.5973
+TOR,LAC,Pascal Siakam,PF,9.5648,Paul George,PF,8.9462
+TOR,LAC,Pascal Siakam,PF,9.5648,Terance Mann,SG,9.4071
+TOR,LAL,Dennis Schröder,PG,9.1823,Christian Wood,PF,9.6526
+TOR,LAL,Garrett Temple,SG,9.703,Christian Wood,PF,9.6526
+TOR,LAL,Malik Williams,C,9.5635,Christian Wood,PF,9.6526
+TOR,LAL,Thaddeus Young,PF,8.9721,Christian Wood,PF,9.6526
+TOR,NYK,Ron Harper Jr.,PF,9.8287,Dylan Windler,SF,9.1156
+TOR,NYK,Thaddeus Young,PF,8.9805,Dylan Windler,SF,9.1156
+TOR,PHI,Jakob Poeltl,C,9.6892,Marcus Morris,PF,9.5166
+TOR,PHI,Otto Porter Jr.,SF,9.8477,Marcus Morris,PF,9.5166
+TOR,PHO,Jalen McDaniels,SF,9.8334,Keita Bates-Diop,SF,9.2978
+TOR,PHO,Markquis Nowell,SG,9.3696,Keita Bates-Diop,SF,9.2978
+TOR,POR,Jalen McDaniels,SF,9.7891,Rayan Rupert,SG,9.3559
+TOR,POR,Mouhamadou Gueye,PF,9.3523,Rayan Rupert,SG,9.3559
+TOR,POR,OG Anunoby,SF,9.6319,Rayan Rupert,SG,9.3559
+TOR,SAS,Thaddeus Young,PF,9.5203,Charles Bassey,C,9.4244
+UTA,ATL,Jason Preston,PG,9.9783,Patty Mills,PG,9.575
+UTA,ATL,Jason Preston,PG,9.9783,Trae Young,PG,9.9692
+UTA,ATL,Kris Dunn,PG,8.9326,Patty Mills,PG,9.575
+UTA,ATL,Kris Dunn,PG,8.9326,Trae Young,PG,9.9692
+UTA,ATL,Luka Šamanić,PF,9.5724,Patty Mills,PG,9.575
+UTA,ATL,Luka Šamanić,PF,9.5724,Trae Young,PG,9.9692
+UTA,ATL,Ochai Agbaji,SG,9.515,Patty Mills,PG,9.575
+UTA,ATL,Ochai Agbaji,SG,9.515,Trae Young,PG,9.9692
+UTA,HOU,Jason Preston,PG,9.6032,Boban Marjanović,C,9.2608
+UTA,HOU,Jason Preston,PG,9.6032,Tari Eason,PF,8.777
+UTA,HOU,Taylor Hendricks,PF,9.8758,Boban Marjanović,C,9.2608
+UTA,HOU,Taylor Hendricks,PF,9.8758,Tari Eason,PF,8.777
+UTA,MEM,Jason Preston,PG,9.7182,Jaylen Nowell,SG,9.5203
+UTA,MEM,Jason Preston,PG,9.7182,Matthew Hurt,PF,8.8942
+UTA,MEM,Jason Preston,PG,9.7182,Ziaire Williams,SF,9.7172
+UTA,MEM,Talen Horton-Tucker,PG,9.7145,Jaylen Nowell,SG,9.5203
+UTA,MEM,Talen Horton-Tucker,PG,9.7145,Matthew Hurt,PF,8.8942
+UTA,MEM,Talen Horton-Tucker,PG,9.7145,Ziaire Williams,SF,9.7172
+UTA,MIA,Collin Sexton,SG,9.7782,Duncan Robinson,SF,9.371
+UTA,MIA,Collin Sexton,SG,9.7782,Kevin Love,PF,8.8419
+UTA,MIA,Collin Sexton,SG,9.7782,Orlando Robinson,C,9.4776
+UTA,MIA,Kelly Olynyk,C,9.386,Duncan Robinson,SF,9.371
+UTA,MIA,Kelly Olynyk,C,9.386,Kevin Love,PF,8.8419
+UTA,MIA,Kelly Olynyk,C,9.386,Orlando Robinson,C,9.4776
+UTA,MIA,Simone Fontecchio,SF,9.8812,Duncan Robinson,SF,9.371
+UTA,MIA,Simone Fontecchio,SF,9.8812,Kevin Love,PF,8.8419
+UTA,MIA,Simone Fontecchio,SF,9.8812,Orlando Robinson,C,9.4776
+UTA,MIN,Brice Sensabaugh,SF,9.9537,Karl-Anthony Towns,PF,9.3339
+UTA,MIN,Collin Sexton,SG,9.2073,Karl-Anthony Towns,PF,9.3339
+UTA,MIN,Jordan Clarkson,SG,9.1233,Karl-Anthony Towns,PF,9.3339
+UTA,MIN,Lauri Markkanen,PF,9.7838,Karl-Anthony Towns,PF,9.3339
+UTA,MIN,Talen Horton-Tucker,PG,9.3337,Karl-Anthony Towns,PF,9.3339
+UTA,MIN,Taylor Hendricks,PF,9.7531,Karl-Anthony Towns,PF,9.3339
+UTA,OKC,Kris Dunn,PG,9.616,Jalen Williams,PF,9.7104
+UTA,OKC,Kris Dunn,PG,9.616,Tre Mann,PG,9.3196
+UTA,OKC,Micah Potter,PF,9.6742,Jalen Williams,PF,9.7104
+UTA,OKC,Micah Potter,PF,9.6742,Tre Mann,PG,9.3196
+UTA,OKC,Walker Kessler,C,9.7886,Jalen Williams,PF,9.7104
+UTA,OKC,Walker Kessler,C,9.7886,Tre Mann,PG,9.3196
+UTA,ORL,John Collins,PF,9.8136,Anthony Black,PG,9.3699
+UTA,ORL,John Collins,PF,9.8136,Franz Wagner,SF,9.7479
+UTA,ORL,John Collins,PF,9.8136,Gary Harris,SG,9.5228
+UTA,ORL,John Collins,PF,9.8136,Goga Bitadze,C,9.7121
+UTA,ORL,Johnny Juzang,SG,9.4953,Anthony Black,PG,9.3699
+UTA,ORL,Johnny Juzang,SG,9.4953,Franz Wagner,SF,9.7479
+UTA,ORL,Johnny Juzang,SG,9.4953,Gary Harris,SG,9.5228
+UTA,ORL,Johnny Juzang,SG,9.4953,Goga Bitadze,C,9.7121
+UTA,PHO,Keyonte George,PG,9.8232,Chimezie Metu,C,9.0221
+UTA,PHO,Keyonte George,PG,9.8232,Saben Lee,PG,9.7834
+UTA,PHO,Keyonte George,PG,9.8232,Udoka Azubuike,C,8.9439
+UTA,PHO,Luka Šamanić,PF,9.5188,Chimezie Metu,C,9.0221
+UTA,PHO,Luka Šamanić,PF,9.5188,Saben Lee,PG,9.7834
+UTA,PHO,Luka Šamanić,PF,9.5188,Udoka Azubuike,C,8.9439
+UTA,PHO,Walker Kessler,C,9.9165,Chimezie Metu,C,9.0221
+UTA,PHO,Walker Kessler,C,9.9165,Saben Lee,PG,9.7834
+UTA,PHO,Walker Kessler,C,9.9165,Udoka Azubuike,C,8.9439
+UTA,POR,Brice Sensabaugh,SF,9.8681,Jabari Walker,PF,8.5969
+UTA,POR,Brice Sensabaugh,SF,9.8681,Malcolm Brogdon,PG,9.8564
+UTA,POR,Collin Sexton,SG,9.9369,Jabari Walker,PF,8.5969
+UTA,POR,Collin Sexton,SG,9.9369,Malcolm Brogdon,PG,9.8564
+UTA,POR,Jordan Clarkson,SG,9.4141,Jabari Walker,PF,8.5969
+UTA,POR,Jordan Clarkson,SG,9.4141,Malcolm Brogdon,PG,9.8564
+UTA,SAS,Jason Preston,PG,9.9772,Sidy Cissoko,SF,9.4219
+UTA,SAS,Simone Fontecchio,SF,9.3267,Sidy Cissoko,SF,9.4219
+UTA,TOR,Kris Dunn,PG,9.7771,Garrett Temple,SG,9.5844
+UTA,TOR,Kris Dunn,PG,9.7771,Jakob Poeltl,C,8.9041
+WAS,BOS,Delon Wright,PG,9.1435,Al Horford,C,9.3648
+WAS,BOS,Delon Wright,PG,9.1435,Oshae Brissett,SF,9.5918
+WAS,BOS,Landry Shamet,SG,9.6051,Al Horford,C,9.3648
+WAS,BOS,Landry Shamet,SG,9.6051,Oshae Brissett,SF,9.5918
+WAS,BOS,Mike Muscala,C,9.9578,Al Horford,C,9.3648
+WAS,BOS,Mike Muscala,C,9.9578,Oshae Brissett,SF,9.5918
+WAS,BOS,Tristan Vukcevic,C,9.9882,Al Horford,C,9.3648
+WAS,BOS,Tristan Vukcevic,C,9.9882,Oshae Brissett,SF,9.5918
+WAS,CHI,Danilo Gallinari,PF,9.429,Coby White,PG,9.1827
+WAS,CHI,Danilo Gallinari,PF,9.429,Julian Phillips,SF,9.4744
+WAS,CHI,Danilo Gallinari,PF,9.429,Onuralp Bitim,SG,9.5343
+WAS,CHI,Eugene Omoruyi,SF,9.6417,Coby White,PG,9.1827
+WAS,CHI,Eugene Omoruyi,SF,9.6417,Julian Phillips,SF,9.4744
+WAS,CHI,Eugene Omoruyi,SF,9.6417,Onuralp Bitim,SG,9.5343
+WAS,CHO,Bilal Coulibaly,SF,9.5046,Amari Bailey,PG,9.6578
+WAS,CHO,Bilal Coulibaly,SF,9.5046,Bryce McGowens,SG,9.783
+WAS,CHO,Bilal Coulibaly,SF,9.5046,Gordon Hayward,SF,9.8954
+WAS,CHO,Delon Wright,PG,9.6766,Amari Bailey,PG,9.6578
+WAS,CHO,Delon Wright,PG,9.6766,Bryce McGowens,SG,9.783
+WAS,CHO,Delon Wright,PG,9.6766,Gordon Hayward,SF,9.8954
+WAS,CHO,Ryan Rollins,PG,9.9369,Amari Bailey,PG,9.6578
+WAS,CHO,Ryan Rollins,PG,9.9369,Bryce McGowens,SG,9.783
+WAS,CHO,Ryan Rollins,PG,9.9369,Gordon Hayward,SF,9.8954
+WAS,CHO,Trey Jemison,C,9.474,Amari Bailey,PG,9.6578
+WAS,CHO,Trey Jemison,C,9.474,Bryce McGowens,SG,9.783
+WAS,CHO,Trey Jemison,C,9.474,Gordon Hayward,SF,9.8954
+WAS,MIN,Ryan Rollins,PG,9.8954,Luka Garza,C,9.793
+WAS,MIN,Ryan Rollins,PG,9.8954,Naz Reid,PF,9.264
+WAS,MIN,Ryan Rollins,PG,9.8954,Rudy Gobert,C,9.2225
+WAS,NYK,Daniel Gafford,C,8.3698,Dmytro Skapintsev,C,8.9576
+WAS,NYK,Daniel Gafford,C,8.3698,Donte DiVincenzo,SG,9.0263
+WAS,NYK,Daniel Gafford,C,8.3698,Immanuel Quickley,SG,9.2393
+WAS,NYK,Daniel Gafford,C,8.3698,Ryan Arcidiacono,PG,9.2858
+WAS,NYK,Delon Wright,PG,9.1862,Dmytro Skapintsev,C,8.9576
+WAS,NYK,Delon Wright,PG,9.1862,Donte DiVincenzo,SG,9.0263
+WAS,NYK,Delon Wright,PG,9.1862,Immanuel Quickley,SG,9.2393
+WAS,NYK,Delon Wright,PG,9.1862,Ryan Arcidiacono,PG,9.2858
+WAS,NYK,Deni Avdija,SF,9.6433,Dmytro Skapintsev,C,8.9576
+WAS,NYK,Deni Avdija,SF,9.6433,Donte DiVincenzo,SG,9.0263
+WAS,NYK,Deni Avdija,SF,9.6433,Immanuel Quickley,SG,9.2393
+WAS,NYK,Deni Avdija,SF,9.6433,Ryan Arcidiacono,PG,9.2858
+WAS,NYK,Johnny Davis,SG,9.9917,Dmytro Skapintsev,C,8.9576
+WAS,NYK,Johnny Davis,SG,9.9917,Donte DiVincenzo,SG,9.0263
+WAS,NYK,Johnny Davis,SG,9.9917,Immanuel Quickley,SG,9.2393
+WAS,NYK,Johnny Davis,SG,9.9917,Ryan Arcidiacono,PG,9.2858
+WAS,POR,Corey Kispert,SF,9.25,Taze Moore,SG,9.8641
+WAS,POR,Hamidou Diallo,SG,9.8698,Taze Moore,SG,9.8641
+WAS,SAS,Corey Kispert,SF,9.7068,Devonte' Graham,PG,8.8967
+WAS,SAS,Danilo Gallinari,PF,9.8757,Devonte' Graham,PG,8.8967
+WAS,SAS,Trey Jemison,C,9.1205,Devonte' Graham,PG,8.8967
+WAS,UTA,Anthony Gill,PF,9.8967,Jordan Clarkson,SG,9.8908
+WAS,UTA,Anthony Gill,PF,9.8967,Kris Dunn,PG,9.6803
+WAS,UTA,Anthony Gill,PF,9.8967,Lauri Markkanen,PF,9.5985
+WAS,UTA,Anthony Gill,PF,9.8967,Luka Šamanić,PF,9.7675
+WAS,UTA,Anthony Gill,PF,9.8967,Talen Horton-Tucker,PG,8.9134

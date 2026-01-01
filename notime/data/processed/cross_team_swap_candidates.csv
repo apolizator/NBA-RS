@@ -1,0 +1,1312 @@
+team_a,team_b,from_a_player,from_a_position,from_a_fit_score,from_b_player,from_b_position,from_b_fit_score
+ATL,BRK,Trae Young,PG,1.4135,Armoni Brooks,PG,1.3794
+ATL,CHI,Trae Young,PG,1.4135,Nikola Vučević,C,1.2832
+ATL,MIN,Trae Young,PG,1.4135,Karl-Anthony Towns,PF,1.3651
+ATL,MIN,Trae Young,PG,1.4135,Luka Garza,C,1.2829
+ATL,NYK,Trae Young,PG,1.4135,Julius Randle,PF,1.385
+ATL,POR,Trae Young,PG,1.4135,Duop Reath,C,1.2603
+ATL,UTA,Trae Young,PG,1.4135,Lauri Markkanen,PF,1.4075
+BOS,ATL,Jaylen Brown,SF,1.3576,Trae Young,PG,1.4135
+BOS,ATL,Jayson Tatum,PF,1.5576,Trae Young,PG,1.4135
+BOS,ATL,Kristaps Porziņģis,C,1.3696,Trae Young,PG,1.4135
+BOS,ATL,Sam Hauser,SF,1.6467,Trae Young,PG,1.4135
+BOS,CHI,Jaylen Brown,SF,1.3576,Nikola Vučević,C,1.2832
+BOS,CHI,Jayson Tatum,PF,1.5576,Nikola Vučević,C,1.2832
+BOS,CHI,Kristaps Porziņģis,C,1.3696,Nikola Vučević,C,1.2832
+BOS,CHI,Sam Hauser,SF,1.6467,Nikola Vučević,C,1.2832
+BOS,CHO,Jaylen Brown,SF,1.3576,LaMelo Ball,PG,1.5702
+BOS,CHO,Jayson Tatum,PF,1.5576,LaMelo Ball,PG,1.5702
+BOS,CHO,Kristaps Porziņģis,C,1.3696,LaMelo Ball,PG,1.5702
+BOS,CHO,Sam Hauser,SF,1.6467,LaMelo Ball,PG,1.5702
+BOS,CLE,Jaylen Brown,SF,1.3576,Donovan Mitchell,SG,1.5487
+BOS,CLE,Jaylen Brown,SF,1.3576,Sam Merrill,SG,1.4809
+BOS,CLE,Jayson Tatum,PF,1.5576,Donovan Mitchell,SG,1.5487
+BOS,CLE,Jayson Tatum,PF,1.5576,Sam Merrill,SG,1.4809
+BOS,CLE,Kristaps Porziņģis,C,1.3696,Donovan Mitchell,SG,1.5487
+BOS,CLE,Kristaps Porziņģis,C,1.3696,Sam Merrill,SG,1.4809
+BOS,CLE,Sam Hauser,SF,1.6467,Donovan Mitchell,SG,1.5487
+BOS,CLE,Sam Hauser,SF,1.6467,Sam Merrill,SG,1.4809
+BOS,DEN,Jaylen Brown,SF,1.3576,Hunter Tyson,PF,1.4267
+BOS,DEN,Jaylen Brown,SF,1.3576,Michael Porter Jr.,SF,1.3439
+BOS,DEN,Jaylen Brown,SF,1.3576,Nikola Jokić,C,1.3803
+BOS,DEN,Jayson Tatum,PF,1.5576,Hunter Tyson,PF,1.4267
+BOS,DEN,Jayson Tatum,PF,1.5576,Michael Porter Jr.,SF,1.3439
+BOS,DEN,Jayson Tatum,PF,1.5576,Nikola Jokić,C,1.3803
+BOS,DEN,Kristaps Porziņģis,C,1.3696,Hunter Tyson,PF,1.4267
+BOS,DEN,Kristaps Porziņģis,C,1.3696,Michael Porter Jr.,SF,1.3439
+BOS,DEN,Kristaps Porziņģis,C,1.3696,Nikola Jokić,C,1.3803
+BOS,DEN,Sam Hauser,SF,1.6467,Hunter Tyson,PF,1.4267
+BOS,DEN,Sam Hauser,SF,1.6467,Michael Porter Jr.,SF,1.3439
+BOS,DEN,Sam Hauser,SF,1.6467,Nikola Jokić,C,1.3803
+BOS,DET,Jaylen Brown,SF,1.3576,Stanley Umude,SG,1.5849
+BOS,DET,Jayson Tatum,PF,1.5576,Stanley Umude,SG,1.5849
+BOS,DET,Kristaps Porziņģis,C,1.3696,Stanley Umude,SG,1.5849
+BOS,DET,Sam Hauser,SF,1.6467,Stanley Umude,SG,1.5849
+BOS,HOU,Jaylen Brown,SF,1.3576,Cam Whitmore,SF,1.4505
+BOS,HOU,Jaylen Brown,SF,1.3576,Nate Hinton,SG,1.5014
+BOS,HOU,Jayson Tatum,PF,1.5576,Cam Whitmore,SF,1.4505
+BOS,HOU,Jayson Tatum,PF,1.5576,Nate Hinton,SG,1.5014
+BOS,HOU,Kristaps Porziņģis,C,1.3696,Cam Whitmore,SF,1.4505
+BOS,HOU,Kristaps Porziņģis,C,1.3696,Nate Hinton,SG,1.5014
+BOS,HOU,Sam Hauser,SF,1.6467,Cam Whitmore,SF,1.4505
+BOS,HOU,Sam Hauser,SF,1.6467,Nate Hinton,SG,1.5014
+BOS,IND,Jaylen Brown,SF,1.3576,Buddy Hield,SF,1.4266
+BOS,IND,Jayson Tatum,PF,1.5576,Buddy Hield,SF,1.4266
+BOS,IND,Kristaps Porziņģis,C,1.3696,Buddy Hield,SF,1.4266
+BOS,IND,Sam Hauser,SF,1.6467,Buddy Hield,SF,1.4266
+BOS,LAC,Jaylen Brown,SF,1.3576,Bones Hyland,PG,1.4453
+BOS,LAC,Jaylen Brown,SF,1.3576,James Harden,PG,1.4185
+BOS,LAC,Jaylen Brown,SF,1.3576,Paul George,PF,1.5025
+BOS,LAC,Jayson Tatum,PF,1.5576,Bones Hyland,PG,1.4453
+BOS,LAC,Jayson Tatum,PF,1.5576,James Harden,PG,1.4185
+BOS,LAC,Jayson Tatum,PF,1.5576,Paul George,PF,1.5025
+BOS,LAC,Kristaps Porziņģis,C,1.3696,Bones Hyland,PG,1.4453
+BOS,LAC,Kristaps Porziņģis,C,1.3696,James Harden,PG,1.4185
+BOS,LAC,Kristaps Porziņģis,C,1.3696,Paul George,PF,1.5025
+BOS,LAC,Sam Hauser,SF,1.6467,Bones Hyland,PG,1.4453
+BOS,LAC,Sam Hauser,SF,1.6467,James Harden,PG,1.4185
+BOS,LAC,Sam Hauser,SF,1.6467,Paul George,PF,1.5025
+BOS,LAL,Jaylen Brown,SF,1.3576,LeBron James,PF,1.433
+BOS,LAL,Jayson Tatum,PF,1.5576,LeBron James,PF,1.433
+BOS,LAL,Kristaps Porziņģis,C,1.3696,LeBron James,PF,1.433
+BOS,LAL,Sam Hauser,SF,1.6467,LeBron James,PF,1.433
+BOS,MIA,Jaylen Brown,SF,1.3576,Cole Swider,SF,1.3083
+BOS,MIA,Jaylen Brown,SF,1.3576,Duncan Robinson,SF,1.3519
+BOS,MIA,Jaylen Brown,SF,1.3576,Kevin Love,PF,1.6032
+BOS,MIA,Jaylen Brown,SF,1.3576,Tyler Herro,SG,1.3836
+BOS,MIA,Jayson Tatum,PF,1.5576,Cole Swider,SF,1.3083
+BOS,MIA,Jayson Tatum,PF,1.5576,Duncan Robinson,SF,1.3519
+BOS,MIA,Jayson Tatum,PF,1.5576,Kevin Love,PF,1.6032
+BOS,MIA,Jayson Tatum,PF,1.5576,Tyler Herro,SG,1.3836
+BOS,MIA,Kristaps Porziņģis,C,1.3696,Cole Swider,SF,1.3083
+BOS,MIA,Kristaps Porziņģis,C,1.3696,Duncan Robinson,SF,1.3519
+BOS,MIA,Kristaps Porziņģis,C,1.3696,Kevin Love,PF,1.6032
+BOS,MIA,Kristaps Porziņģis,C,1.3696,Tyler Herro,SG,1.3836
+BOS,MIA,Sam Hauser,SF,1.6467,Cole Swider,SF,1.3083
+BOS,MIA,Sam Hauser,SF,1.6467,Duncan Robinson,SF,1.3519
+BOS,MIA,Sam Hauser,SF,1.6467,Kevin Love,PF,1.6032
+BOS,MIA,Sam Hauser,SF,1.6467,Tyler Herro,SG,1.3836
+BOS,MIL,Jaylen Brown,SF,1.3576,Damian Lillard,PG,1.5511
+BOS,MIL,Jaylen Brown,SF,1.3576,Giannis Antetokounmpo,PF,1.3567
+BOS,MIL,Jayson Tatum,PF,1.5576,Damian Lillard,PG,1.5511
+BOS,MIL,Jayson Tatum,PF,1.5576,Giannis Antetokounmpo,PF,1.3567
+BOS,MIL,Kristaps Porziņģis,C,1.3696,Damian Lillard,PG,1.5511
+BOS,MIL,Kristaps Porziņģis,C,1.3696,Giannis Antetokounmpo,PF,1.3567
+BOS,MIL,Sam Hauser,SF,1.6467,Damian Lillard,PG,1.5511
+BOS,MIL,Sam Hauser,SF,1.6467,Giannis Antetokounmpo,PF,1.3567
+BOS,MIN,Jaylen Brown,SF,1.3576,Karl-Anthony Towns,PF,1.3651
+BOS,MIN,Jaylen Brown,SF,1.3576,Luka Garza,C,1.2829
+BOS,MIN,Jayson Tatum,PF,1.5576,Karl-Anthony Towns,PF,1.3651
+BOS,MIN,Jayson Tatum,PF,1.5576,Luka Garza,C,1.2829
+BOS,MIN,Kristaps Porziņģis,C,1.3696,Karl-Anthony Towns,PF,1.3651
+BOS,MIN,Kristaps Porziņģis,C,1.3696,Luka Garza,C,1.2829
+BOS,MIN,Sam Hauser,SF,1.6467,Karl-Anthony Towns,PF,1.3651
+BOS,MIN,Sam Hauser,SF,1.6467,Luka Garza,C,1.2829
+BOS,NYK,Jaylen Brown,SF,1.3576,Julius Randle,PF,1.385
+BOS,NYK,Jayson Tatum,PF,1.5576,Julius Randle,PF,1.385
+BOS,NYK,Kristaps Porziņģis,C,1.3696,Julius Randle,PF,1.385
+BOS,NYK,Sam Hauser,SF,1.6467,Julius Randle,PF,1.385
+BOS,OKC,Jaylen Brown,SF,1.3576,Adam Flagler,SG,1.3991
+BOS,OKC,Jaylen Brown,SF,1.3576,Chet Holmgren,C,1.2327
+BOS,OKC,Jaylen Brown,SF,1.3576,Dāvis Bertāns,PF,1.3816
+BOS,OKC,Jaylen Brown,SF,1.3576,Lindy Waters III,SG,1.4594
+BOS,OKC,Jayson Tatum,PF,1.5576,Adam Flagler,SG,1.3991
+BOS,OKC,Jayson Tatum,PF,1.5576,Chet Holmgren,C,1.2327
+BOS,OKC,Jayson Tatum,PF,1.5576,Dāvis Bertāns,PF,1.3816
+BOS,OKC,Jayson Tatum,PF,1.5576,Lindy Waters III,SG,1.4594
+BOS,OKC,Kristaps Porziņģis,C,1.3696,Adam Flagler,SG,1.3991
+BOS,OKC,Kristaps Porziņģis,C,1.3696,Chet Holmgren,C,1.2327
+BOS,OKC,Kristaps Porziņģis,C,1.3696,Dāvis Bertāns,PF,1.3816
+BOS,OKC,Kristaps Porziņģis,C,1.3696,Lindy Waters III,SG,1.4594
+BOS,OKC,Sam Hauser,SF,1.6467,Adam Flagler,SG,1.3991
+BOS,OKC,Sam Hauser,SF,1.6467,Chet Holmgren,C,1.2327
+BOS,OKC,Sam Hauser,SF,1.6467,Dāvis Bertāns,PF,1.3816
+BOS,OKC,Sam Hauser,SF,1.6467,Lindy Waters III,SG,1.4594
+BOS,ORL,Jaylen Brown,SF,1.3576,Jett Howard,SF,1.5514
+BOS,ORL,Jayson Tatum,PF,1.5576,Jett Howard,SF,1.5514
+BOS,ORL,Kristaps Porziņģis,C,1.3696,Jett Howard,SF,1.5514
+BOS,ORL,Sam Hauser,SF,1.6467,Jett Howard,SF,1.5514
+BOS,PHO,Jaylen Brown,SF,1.3576,Kevin Durant,PF,1.3258
+BOS,PHO,Jayson Tatum,PF,1.5576,Kevin Durant,PF,1.3258
+BOS,PHO,Kristaps Porziņģis,C,1.3696,Kevin Durant,PF,1.3258
+BOS,PHO,Sam Hauser,SF,1.6467,Kevin Durant,PF,1.3258
+BOS,POR,Jaylen Brown,SF,1.3576,Duop Reath,C,1.2603
+BOS,POR,Jayson Tatum,PF,1.5576,Duop Reath,C,1.2603
+BOS,POR,Kristaps Porziņģis,C,1.3696,Duop Reath,C,1.2603
+BOS,POR,Sam Hauser,SF,1.6467,Duop Reath,C,1.2603
+BOS,SAS,Jaylen Brown,SF,1.3576,Victor Wembanyama,C,1.5026
+BOS,SAS,Jayson Tatum,PF,1.5576,Victor Wembanyama,C,1.5026
+BOS,SAS,Kristaps Porziņģis,C,1.3696,Victor Wembanyama,C,1.5026
+BOS,SAS,Sam Hauser,SF,1.6467,Victor Wembanyama,C,1.5026
+BOS,UTA,Jaylen Brown,SF,1.3576,Lauri Markkanen,PF,1.4075
+BOS,UTA,Jayson Tatum,PF,1.5576,Lauri Markkanen,PF,1.4075
+BOS,UTA,Kristaps Porziņģis,C,1.3696,Lauri Markkanen,PF,1.4075
+BOS,UTA,Sam Hauser,SF,1.6467,Lauri Markkanen,PF,1.4075
+BOS,WAS,Jaylen Brown,SF,1.3576,Mike Muscala,C,1.2661
+BOS,WAS,Jaylen Brown,SF,1.3576,Patrick Baldwin Jr.,SF,1.4218
+BOS,WAS,Jaylen Brown,SF,1.3576,Tristan Vukcevic,C,1.365
+BOS,WAS,Jayson Tatum,PF,1.5576,Mike Muscala,C,1.2661
+BOS,WAS,Jayson Tatum,PF,1.5576,Patrick Baldwin Jr.,SF,1.4218
+BOS,WAS,Jayson Tatum,PF,1.5576,Tristan Vukcevic,C,1.365
+BOS,WAS,Kristaps Porziņģis,C,1.3696,Mike Muscala,C,1.2661
+BOS,WAS,Kristaps Porziņģis,C,1.3696,Patrick Baldwin Jr.,SF,1.4218
+BOS,WAS,Kristaps Porziņģis,C,1.3696,Tristan Vukcevic,C,1.365
+BOS,WAS,Sam Hauser,SF,1.6467,Mike Muscala,C,1.2661
+BOS,WAS,Sam Hauser,SF,1.6467,Patrick Baldwin Jr.,SF,1.4218
+BOS,WAS,Sam Hauser,SF,1.6467,Tristan Vukcevic,C,1.365
+CHI,POR,Nikola Vučević,C,1.2832,Duop Reath,C,1.2603
+CHO,ATL,LaMelo Ball,PG,1.5702,Trae Young,PG,1.4135
+CHO,BRK,LaMelo Ball,PG,1.5702,Armoni Brooks,PG,1.3794
+CHO,CHI,LaMelo Ball,PG,1.5702,Nikola Vučević,C,1.2832
+CHO,CLE,James Bouknight,SG,1.3715,Donovan Mitchell,SG,1.5487
+CHO,CLE,James Bouknight,SG,1.3715,Sam Merrill,SG,1.4809
+CHO,CLE,LaMelo Ball,PG,1.5702,Donovan Mitchell,SG,1.5487
+CHO,CLE,LaMelo Ball,PG,1.5702,Sam Merrill,SG,1.4809
+CHO,DEN,LaMelo Ball,PG,1.5702,Hunter Tyson,PF,1.4267
+CHO,DEN,LaMelo Ball,PG,1.5702,Nikola Jokić,C,1.3803
+CHO,HOU,LaMelo Ball,PG,1.5702,Cam Whitmore,SF,1.4505
+CHO,HOU,LaMelo Ball,PG,1.5702,Nate Hinton,SG,1.5014
+CHO,IND,LaMelo Ball,PG,1.5702,Buddy Hield,SF,1.4266
+CHO,LAC,LaMelo Ball,PG,1.5702,Bones Hyland,PG,1.4453
+CHO,LAC,LaMelo Ball,PG,1.5702,James Harden,PG,1.4185
+CHO,LAC,LaMelo Ball,PG,1.5702,Paul George,PF,1.5025
+CHO,LAL,LaMelo Ball,PG,1.5702,LeBron James,PF,1.433
+CHO,MIL,LaMelo Ball,PG,1.5702,Damian Lillard,PG,1.5511
+CHO,MIL,LaMelo Ball,PG,1.5702,Giannis Antetokounmpo,PF,1.3567
+CHO,MIN,LaMelo Ball,PG,1.5702,Karl-Anthony Towns,PF,1.3651
+CHO,MIN,LaMelo Ball,PG,1.5702,Luka Garza,C,1.2829
+CHO,NYK,LaMelo Ball,PG,1.5702,Julius Randle,PF,1.385
+CHO,OKC,James Bouknight,SG,1.3715,Adam Flagler,SG,1.3991
+CHO,OKC,James Bouknight,SG,1.3715,Dāvis Bertāns,PF,1.3816
+CHO,OKC,James Bouknight,SG,1.3715,Lindy Waters III,SG,1.4594
+CHO,OKC,LaMelo Ball,PG,1.5702,Adam Flagler,SG,1.3991
+CHO,OKC,LaMelo Ball,PG,1.5702,Dāvis Bertāns,PF,1.3816
+CHO,OKC,LaMelo Ball,PG,1.5702,Lindy Waters III,SG,1.4594
+CHO,ORL,LaMelo Ball,PG,1.5702,Jett Howard,SF,1.5514
+CHO,POR,LaMelo Ball,PG,1.5702,Duop Reath,C,1.2603
+CHO,SAS,LaMelo Ball,PG,1.5702,Victor Wembanyama,C,1.5026
+CHO,UTA,LaMelo Ball,PG,1.5702,Lauri Markkanen,PF,1.4075
+CHO,WAS,LaMelo Ball,PG,1.5702,Mike Muscala,C,1.2661
+CHO,WAS,LaMelo Ball,PG,1.5702,Patrick Baldwin Jr.,SF,1.4218
+CHO,WAS,LaMelo Ball,PG,1.5702,Tristan Vukcevic,C,1.365
+CLE,ATL,Donovan Mitchell,SG,1.5487,Trae Young,PG,1.4135
+CLE,ATL,Sam Merrill,SG,1.4809,Trae Young,PG,1.4135
+CLE,CHI,Donovan Mitchell,SG,1.5487,Nikola Vučević,C,1.2832
+CLE,CHI,Sam Merrill,SG,1.4809,Nikola Vučević,C,1.2832
+CLE,DEN,Donovan Mitchell,SG,1.5487,Hunter Tyson,PF,1.4267
+CLE,DEN,Donovan Mitchell,SG,1.5487,Nikola Jokić,C,1.3803
+CLE,DEN,Sam Merrill,SG,1.4809,Hunter Tyson,PF,1.4267
+CLE,DEN,Sam Merrill,SG,1.4809,Nikola Jokić,C,1.3803
+CLE,HOU,Donovan Mitchell,SG,1.5487,Cam Whitmore,SF,1.4505
+CLE,HOU,Donovan Mitchell,SG,1.5487,Nate Hinton,SG,1.5014
+CLE,HOU,Sam Merrill,SG,1.4809,Cam Whitmore,SF,1.4505
+CLE,HOU,Sam Merrill,SG,1.4809,Nate Hinton,SG,1.5014
+CLE,IND,Donovan Mitchell,SG,1.5487,Buddy Hield,SF,1.4266
+CLE,IND,Sam Merrill,SG,1.4809,Buddy Hield,SF,1.4266
+CLE,LAC,Donovan Mitchell,SG,1.5487,Bones Hyland,PG,1.4453
+CLE,LAC,Donovan Mitchell,SG,1.5487,James Harden,PG,1.4185
+CLE,LAC,Donovan Mitchell,SG,1.5487,Paul George,PF,1.5025
+CLE,LAC,Sam Merrill,SG,1.4809,Bones Hyland,PG,1.4453
+CLE,LAC,Sam Merrill,SG,1.4809,James Harden,PG,1.4185
+CLE,LAC,Sam Merrill,SG,1.4809,Paul George,PF,1.5025
+CLE,LAL,Donovan Mitchell,SG,1.5487,LeBron James,PF,1.433
+CLE,LAL,Sam Merrill,SG,1.4809,LeBron James,PF,1.433
+CLE,MIN,Donovan Mitchell,SG,1.5487,Karl-Anthony Towns,PF,1.3651
+CLE,MIN,Donovan Mitchell,SG,1.5487,Luka Garza,C,1.2829
+CLE,MIN,Sam Merrill,SG,1.4809,Karl-Anthony Towns,PF,1.3651
+CLE,MIN,Sam Merrill,SG,1.4809,Luka Garza,C,1.2829
+CLE,NYK,Donovan Mitchell,SG,1.5487,Julius Randle,PF,1.385
+CLE,NYK,Sam Merrill,SG,1.4809,Julius Randle,PF,1.385
+CLE,OKC,Donovan Mitchell,SG,1.5487,Adam Flagler,SG,1.3991
+CLE,OKC,Donovan Mitchell,SG,1.5487,Dāvis Bertāns,PF,1.3816
+CLE,OKC,Donovan Mitchell,SG,1.5487,Lindy Waters III,SG,1.4594
+CLE,OKC,Sam Merrill,SG,1.4809,Adam Flagler,SG,1.3991
+CLE,OKC,Sam Merrill,SG,1.4809,Dāvis Bertāns,PF,1.3816
+CLE,OKC,Sam Merrill,SG,1.4809,Lindy Waters III,SG,1.4594
+CLE,POR,Donovan Mitchell,SG,1.5487,Duop Reath,C,1.2603
+CLE,POR,Sam Merrill,SG,1.4809,Duop Reath,C,1.2603
+CLE,SAS,Donovan Mitchell,SG,1.5487,Victor Wembanyama,C,1.5026
+CLE,SAS,Sam Merrill,SG,1.4809,Victor Wembanyama,C,1.5026
+CLE,UTA,Donovan Mitchell,SG,1.5487,Lauri Markkanen,PF,1.4075
+CLE,UTA,Sam Merrill,SG,1.4809,Lauri Markkanen,PF,1.4075
+CLE,WAS,Donovan Mitchell,SG,1.5487,Mike Muscala,C,1.2661
+CLE,WAS,Donovan Mitchell,SG,1.5487,Patrick Baldwin Jr.,SF,1.4218
+CLE,WAS,Donovan Mitchell,SG,1.5487,Tristan Vukcevic,C,1.365
+CLE,WAS,Sam Merrill,SG,1.4809,Mike Muscala,C,1.2661
+CLE,WAS,Sam Merrill,SG,1.4809,Patrick Baldwin Jr.,SF,1.4218
+CLE,WAS,Sam Merrill,SG,1.4809,Tristan Vukcevic,C,1.365
+DAL,ATL,Dexter Dennis,SG,1.5418,Trae Young,PG,1.4135
+DAL,ATL,Kyrie Irving,SG,1.4046,Trae Young,PG,1.4135
+DAL,ATL,Luka Dončić,PG,1.7383,Trae Young,PG,1.4135
+DAL,ATL,Tim Hardaway Jr.,SF,1.3672,Trae Young,PG,1.4135
+DAL,BOS,Dexter Dennis,SG,1.5418,Jaylen Brown,SF,1.3576
+DAL,BOS,Dexter Dennis,SG,1.5418,Jayson Tatum,PF,1.5576
+DAL,BOS,Dexter Dennis,SG,1.5418,Kristaps Porziņģis,C,1.3696
+DAL,BOS,Dexter Dennis,SG,1.5418,Sam Hauser,SF,1.6467
+DAL,BOS,Kyrie Irving,SG,1.4046,Jaylen Brown,SF,1.3576
+DAL,BOS,Kyrie Irving,SG,1.4046,Jayson Tatum,PF,1.5576
+DAL,BOS,Kyrie Irving,SG,1.4046,Kristaps Porziņģis,C,1.3696
+DAL,BOS,Kyrie Irving,SG,1.4046,Sam Hauser,SF,1.6467
+DAL,BOS,Luka Dončić,PG,1.7383,Jaylen Brown,SF,1.3576
+DAL,BOS,Luka Dončić,PG,1.7383,Jayson Tatum,PF,1.5576
+DAL,BOS,Luka Dončić,PG,1.7383,Kristaps Porziņģis,C,1.3696
+DAL,BOS,Luka Dončić,PG,1.7383,Sam Hauser,SF,1.6467
+DAL,BOS,Tim Hardaway Jr.,SF,1.3672,Jaylen Brown,SF,1.3576
+DAL,BOS,Tim Hardaway Jr.,SF,1.3672,Jayson Tatum,PF,1.5576
+DAL,BOS,Tim Hardaway Jr.,SF,1.3672,Kristaps Porziņģis,C,1.3696
+DAL,BOS,Tim Hardaway Jr.,SF,1.3672,Sam Hauser,SF,1.6467
+DAL,BRK,Dexter Dennis,SG,1.5418,Armoni Brooks,PG,1.3794
+DAL,BRK,Kyrie Irving,SG,1.4046,Armoni Brooks,PG,1.3794
+DAL,BRK,Luka Dončić,PG,1.7383,Armoni Brooks,PG,1.3794
+DAL,BRK,Tim Hardaway Jr.,SF,1.3672,Armoni Brooks,PG,1.3794
+DAL,CHI,Dexter Dennis,SG,1.5418,Nikola Vučević,C,1.2832
+DAL,CHI,Kyrie Irving,SG,1.4046,Nikola Vučević,C,1.2832
+DAL,CHI,Luka Dončić,PG,1.7383,Nikola Vučević,C,1.2832
+DAL,CHI,Tim Hardaway Jr.,SF,1.3672,Nikola Vučević,C,1.2832
+DAL,CHO,Dexter Dennis,SG,1.5418,James Bouknight,SG,1.3715
+DAL,CHO,Dexter Dennis,SG,1.5418,LaMelo Ball,PG,1.5702
+DAL,CHO,Kyrie Irving,SG,1.4046,James Bouknight,SG,1.3715
+DAL,CHO,Kyrie Irving,SG,1.4046,LaMelo Ball,PG,1.5702
+DAL,CHO,Luka Dončić,PG,1.7383,James Bouknight,SG,1.3715
+DAL,CHO,Luka Dončić,PG,1.7383,LaMelo Ball,PG,1.5702
+DAL,CHO,Tim Hardaway Jr.,SF,1.3672,James Bouknight,SG,1.3715
+DAL,CHO,Tim Hardaway Jr.,SF,1.3672,LaMelo Ball,PG,1.5702
+DAL,CLE,Dexter Dennis,SG,1.5418,Donovan Mitchell,SG,1.5487
+DAL,CLE,Dexter Dennis,SG,1.5418,Sam Merrill,SG,1.4809
+DAL,CLE,Kyrie Irving,SG,1.4046,Donovan Mitchell,SG,1.5487
+DAL,CLE,Kyrie Irving,SG,1.4046,Sam Merrill,SG,1.4809
+DAL,CLE,Luka Dončić,PG,1.7383,Donovan Mitchell,SG,1.5487
+DAL,CLE,Luka Dončić,PG,1.7383,Sam Merrill,SG,1.4809
+DAL,CLE,Tim Hardaway Jr.,SF,1.3672,Donovan Mitchell,SG,1.5487
+DAL,CLE,Tim Hardaway Jr.,SF,1.3672,Sam Merrill,SG,1.4809
+DAL,DEN,Dexter Dennis,SG,1.5418,Hunter Tyson,PF,1.4267
+DAL,DEN,Dexter Dennis,SG,1.5418,Michael Porter Jr.,SF,1.3439
+DAL,DEN,Dexter Dennis,SG,1.5418,Nikola Jokić,C,1.3803
+DAL,DEN,Kyrie Irving,SG,1.4046,Hunter Tyson,PF,1.4267
+DAL,DEN,Kyrie Irving,SG,1.4046,Michael Porter Jr.,SF,1.3439
+DAL,DEN,Kyrie Irving,SG,1.4046,Nikola Jokić,C,1.3803
+DAL,DEN,Luka Dončić,PG,1.7383,Hunter Tyson,PF,1.4267
+DAL,DEN,Luka Dončić,PG,1.7383,Michael Porter Jr.,SF,1.3439
+DAL,DEN,Luka Dončić,PG,1.7383,Nikola Jokić,C,1.3803
+DAL,DEN,Tim Hardaway Jr.,SF,1.3672,Hunter Tyson,PF,1.4267
+DAL,DEN,Tim Hardaway Jr.,SF,1.3672,Michael Porter Jr.,SF,1.3439
+DAL,DEN,Tim Hardaway Jr.,SF,1.3672,Nikola Jokić,C,1.3803
+DAL,DET,Dexter Dennis,SG,1.5418,Stanley Umude,SG,1.5849
+DAL,DET,Kyrie Irving,SG,1.4046,Stanley Umude,SG,1.5849
+DAL,DET,Luka Dončić,PG,1.7383,Stanley Umude,SG,1.5849
+DAL,DET,Tim Hardaway Jr.,SF,1.3672,Stanley Umude,SG,1.5849
+DAL,HOU,Dexter Dennis,SG,1.5418,Cam Whitmore,SF,1.4505
+DAL,HOU,Dexter Dennis,SG,1.5418,Nate Hinton,SG,1.5014
+DAL,HOU,Kyrie Irving,SG,1.4046,Cam Whitmore,SF,1.4505
+DAL,HOU,Kyrie Irving,SG,1.4046,Nate Hinton,SG,1.5014
+DAL,HOU,Luka Dončić,PG,1.7383,Cam Whitmore,SF,1.4505
+DAL,HOU,Luka Dončić,PG,1.7383,Nate Hinton,SG,1.5014
+DAL,HOU,Tim Hardaway Jr.,SF,1.3672,Cam Whitmore,SF,1.4505
+DAL,HOU,Tim Hardaway Jr.,SF,1.3672,Nate Hinton,SG,1.5014
+DAL,IND,Dexter Dennis,SG,1.5418,Buddy Hield,SF,1.4266
+DAL,IND,Kyrie Irving,SG,1.4046,Buddy Hield,SF,1.4266
+DAL,IND,Luka Dončić,PG,1.7383,Buddy Hield,SF,1.4266
+DAL,IND,Tim Hardaway Jr.,SF,1.3672,Buddy Hield,SF,1.4266
+DAL,LAC,Dexter Dennis,SG,1.5418,Bones Hyland,PG,1.4453
+DAL,LAC,Dexter Dennis,SG,1.5418,James Harden,PG,1.4185
+DAL,LAC,Dexter Dennis,SG,1.5418,Paul George,PF,1.5025
+DAL,LAC,Kyrie Irving,SG,1.4046,Bones Hyland,PG,1.4453
+DAL,LAC,Kyrie Irving,SG,1.4046,James Harden,PG,1.4185
+DAL,LAC,Kyrie Irving,SG,1.4046,Paul George,PF,1.5025
+DAL,LAC,Luka Dončić,PG,1.7383,Bones Hyland,PG,1.4453
+DAL,LAC,Luka Dončić,PG,1.7383,James Harden,PG,1.4185
+DAL,LAC,Luka Dončić,PG,1.7383,Paul George,PF,1.5025
+DAL,LAC,Tim Hardaway Jr.,SF,1.3672,Bones Hyland,PG,1.4453
+DAL,LAC,Tim Hardaway Jr.,SF,1.3672,James Harden,PG,1.4185
+DAL,LAC,Tim Hardaway Jr.,SF,1.3672,Paul George,PF,1.5025
+DAL,LAL,Dexter Dennis,SG,1.5418,LeBron James,PF,1.433
+DAL,LAL,Kyrie Irving,SG,1.4046,LeBron James,PF,1.433
+DAL,LAL,Luka Dončić,PG,1.7383,LeBron James,PF,1.433
+DAL,LAL,Tim Hardaway Jr.,SF,1.3672,LeBron James,PF,1.433
+DAL,MIA,Dexter Dennis,SG,1.5418,Duncan Robinson,SF,1.3519
+DAL,MIA,Dexter Dennis,SG,1.5418,Kevin Love,PF,1.6032
+DAL,MIA,Dexter Dennis,SG,1.5418,Tyler Herro,SG,1.3836
+DAL,MIA,Kyrie Irving,SG,1.4046,Duncan Robinson,SF,1.3519
+DAL,MIA,Kyrie Irving,SG,1.4046,Kevin Love,PF,1.6032
+DAL,MIA,Kyrie Irving,SG,1.4046,Tyler Herro,SG,1.3836
+DAL,MIA,Luka Dončić,PG,1.7383,Duncan Robinson,SF,1.3519
+DAL,MIA,Luka Dončić,PG,1.7383,Kevin Love,PF,1.6032
+DAL,MIA,Luka Dončić,PG,1.7383,Tyler Herro,SG,1.3836
+DAL,MIA,Tim Hardaway Jr.,SF,1.3672,Duncan Robinson,SF,1.3519
+DAL,MIA,Tim Hardaway Jr.,SF,1.3672,Kevin Love,PF,1.6032
+DAL,MIA,Tim Hardaway Jr.,SF,1.3672,Tyler Herro,SG,1.3836
+DAL,MIL,Dexter Dennis,SG,1.5418,Damian Lillard,PG,1.5511
+DAL,MIL,Dexter Dennis,SG,1.5418,Giannis Antetokounmpo,PF,1.3567
+DAL,MIL,Kyrie Irving,SG,1.4046,Damian Lillard,PG,1.5511
+DAL,MIL,Kyrie Irving,SG,1.4046,Giannis Antetokounmpo,PF,1.3567
+DAL,MIL,Luka Dončić,PG,1.7383,Damian Lillard,PG,1.5511
+DAL,MIL,Luka Dončić,PG,1.7383,Giannis Antetokounmpo,PF,1.3567
+DAL,MIL,Tim Hardaway Jr.,SF,1.3672,Damian Lillard,PG,1.5511
+DAL,MIL,Tim Hardaway Jr.,SF,1.3672,Giannis Antetokounmpo,PF,1.3567
+DAL,MIN,Dexter Dennis,SG,1.5418,Karl-Anthony Towns,PF,1.3651
+DAL,MIN,Dexter Dennis,SG,1.5418,Luka Garza,C,1.2829
+DAL,MIN,Kyrie Irving,SG,1.4046,Karl-Anthony Towns,PF,1.3651
+DAL,MIN,Kyrie Irving,SG,1.4046,Luka Garza,C,1.2829
+DAL,MIN,Luka Dončić,PG,1.7383,Karl-Anthony Towns,PF,1.3651
+DAL,MIN,Luka Dončić,PG,1.7383,Luka Garza,C,1.2829
+DAL,MIN,Tim Hardaway Jr.,SF,1.3672,Karl-Anthony Towns,PF,1.3651
+DAL,MIN,Tim Hardaway Jr.,SF,1.3672,Luka Garza,C,1.2829
+DAL,NYK,Dexter Dennis,SG,1.5418,Julius Randle,PF,1.385
+DAL,NYK,Kyrie Irving,SG,1.4046,Julius Randle,PF,1.385
+DAL,NYK,Luka Dončić,PG,1.7383,Julius Randle,PF,1.385
+DAL,NYK,Tim Hardaway Jr.,SF,1.3672,Julius Randle,PF,1.385
+DAL,OKC,Dexter Dennis,SG,1.5418,Adam Flagler,SG,1.3991
+DAL,OKC,Dexter Dennis,SG,1.5418,Dāvis Bertāns,PF,1.3816
+DAL,OKC,Dexter Dennis,SG,1.5418,Lindy Waters III,SG,1.4594
+DAL,OKC,Kyrie Irving,SG,1.4046,Adam Flagler,SG,1.3991
+DAL,OKC,Kyrie Irving,SG,1.4046,Dāvis Bertāns,PF,1.3816
+DAL,OKC,Kyrie Irving,SG,1.4046,Lindy Waters III,SG,1.4594
+DAL,OKC,Luka Dončić,PG,1.7383,Adam Flagler,SG,1.3991
+DAL,OKC,Luka Dončić,PG,1.7383,Dāvis Bertāns,PF,1.3816
+DAL,OKC,Luka Dončić,PG,1.7383,Lindy Waters III,SG,1.4594
+DAL,OKC,Tim Hardaway Jr.,SF,1.3672,Adam Flagler,SG,1.3991
+DAL,OKC,Tim Hardaway Jr.,SF,1.3672,Dāvis Bertāns,PF,1.3816
+DAL,OKC,Tim Hardaway Jr.,SF,1.3672,Lindy Waters III,SG,1.4594
+DAL,ORL,Dexter Dennis,SG,1.5418,Jett Howard,SF,1.5514
+DAL,ORL,Kyrie Irving,SG,1.4046,Jett Howard,SF,1.5514
+DAL,ORL,Luka Dončić,PG,1.7383,Jett Howard,SF,1.5514
+DAL,ORL,Tim Hardaway Jr.,SF,1.3672,Jett Howard,SF,1.5514
+DAL,POR,Dexter Dennis,SG,1.5418,Duop Reath,C,1.2603
+DAL,POR,Kyrie Irving,SG,1.4046,Duop Reath,C,1.2603
+DAL,POR,Luka Dončić,PG,1.7383,Duop Reath,C,1.2603
+DAL,POR,Tim Hardaway Jr.,SF,1.3672,Duop Reath,C,1.2603
+DAL,SAS,Dexter Dennis,SG,1.5418,Victor Wembanyama,C,1.5026
+DAL,SAS,Kyrie Irving,SG,1.4046,Victor Wembanyama,C,1.5026
+DAL,SAS,Luka Dončić,PG,1.7383,Victor Wembanyama,C,1.5026
+DAL,SAS,Tim Hardaway Jr.,SF,1.3672,Victor Wembanyama,C,1.5026
+DAL,UTA,Dexter Dennis,SG,1.5418,Lauri Markkanen,PF,1.4075
+DAL,UTA,Kyrie Irving,SG,1.4046,Lauri Markkanen,PF,1.4075
+DAL,UTA,Luka Dončić,PG,1.7383,Lauri Markkanen,PF,1.4075
+DAL,UTA,Tim Hardaway Jr.,SF,1.3672,Lauri Markkanen,PF,1.4075
+DAL,WAS,Dexter Dennis,SG,1.5418,Mike Muscala,C,1.2661
+DAL,WAS,Dexter Dennis,SG,1.5418,Patrick Baldwin Jr.,SF,1.4218
+DAL,WAS,Dexter Dennis,SG,1.5418,Tristan Vukcevic,C,1.365
+DAL,WAS,Kyrie Irving,SG,1.4046,Mike Muscala,C,1.2661
+DAL,WAS,Kyrie Irving,SG,1.4046,Patrick Baldwin Jr.,SF,1.4218
+DAL,WAS,Kyrie Irving,SG,1.4046,Tristan Vukcevic,C,1.365
+DAL,WAS,Luka Dončić,PG,1.7383,Mike Muscala,C,1.2661
+DAL,WAS,Luka Dončić,PG,1.7383,Patrick Baldwin Jr.,SF,1.4218
+DAL,WAS,Luka Dončić,PG,1.7383,Tristan Vukcevic,C,1.365
+DAL,WAS,Tim Hardaway Jr.,SF,1.3672,Mike Muscala,C,1.2661
+DAL,WAS,Tim Hardaway Jr.,SF,1.3672,Patrick Baldwin Jr.,SF,1.4218
+DAL,WAS,Tim Hardaway Jr.,SF,1.3672,Tristan Vukcevic,C,1.365
+DEN,ATL,Hunter Tyson,PF,1.4267,Trae Young,PG,1.4135
+DEN,ATL,Nikola Jokić,C,1.3803,Trae Young,PG,1.4135
+DEN,CHI,Hunter Tyson,PF,1.4267,Nikola Vučević,C,1.2832
+DEN,CHI,Nikola Jokić,C,1.3803,Nikola Vučević,C,1.2832
+DEN,IND,Hunter Tyson,PF,1.4267,Buddy Hield,SF,1.4266
+DEN,IND,Michael Porter Jr.,SF,1.3439,Buddy Hield,SF,1.4266
+DEN,IND,Nikola Jokić,C,1.3803,Buddy Hield,SF,1.4266
+DEN,MIN,Hunter Tyson,PF,1.4267,Karl-Anthony Towns,PF,1.3651
+DEN,MIN,Hunter Tyson,PF,1.4267,Luka Garza,C,1.2829
+DEN,MIN,Nikola Jokić,C,1.3803,Karl-Anthony Towns,PF,1.3651
+DEN,MIN,Nikola Jokić,C,1.3803,Luka Garza,C,1.2829
+DEN,NYK,Hunter Tyson,PF,1.4267,Julius Randle,PF,1.385
+DEN,NYK,Nikola Jokić,C,1.3803,Julius Randle,PF,1.385
+DEN,PHO,Hunter Tyson,PF,1.4267,Kevin Durant,PF,1.3258
+DEN,PHO,Nikola Jokić,C,1.3803,Kevin Durant,PF,1.3258
+DEN,POR,Hunter Tyson,PF,1.4267,Duop Reath,C,1.2603
+DEN,POR,Nikola Jokić,C,1.3803,Duop Reath,C,1.2603
+DEN,UTA,Hunter Tyson,PF,1.4267,Lauri Markkanen,PF,1.4075
+DEN,UTA,Nikola Jokić,C,1.3803,Lauri Markkanen,PF,1.4075
+DEN,WAS,Hunter Tyson,PF,1.4267,Mike Muscala,C,1.2661
+DEN,WAS,Hunter Tyson,PF,1.4267,Patrick Baldwin Jr.,SF,1.4218
+DEN,WAS,Hunter Tyson,PF,1.4267,Tristan Vukcevic,C,1.365
+DEN,WAS,Michael Porter Jr.,SF,1.3439,Mike Muscala,C,1.2661
+DEN,WAS,Michael Porter Jr.,SF,1.3439,Patrick Baldwin Jr.,SF,1.4218
+DEN,WAS,Michael Porter Jr.,SF,1.3439,Tristan Vukcevic,C,1.365
+DEN,WAS,Nikola Jokić,C,1.3803,Mike Muscala,C,1.2661
+DEN,WAS,Nikola Jokić,C,1.3803,Patrick Baldwin Jr.,SF,1.4218
+DEN,WAS,Nikola Jokić,C,1.3803,Tristan Vukcevic,C,1.365
+DET,ATL,Stanley Umude,SG,1.5849,Trae Young,PG,1.4135
+DET,CHI,Stanley Umude,SG,1.5849,Nikola Vučević,C,1.2832
+DET,CHO,Stanley Umude,SG,1.5849,LaMelo Ball,PG,1.5702
+DET,CLE,Stanley Umude,SG,1.5849,Donovan Mitchell,SG,1.5487
+DET,CLE,Stanley Umude,SG,1.5849,Sam Merrill,SG,1.4809
+DET,DEN,Stanley Umude,SG,1.5849,Hunter Tyson,PF,1.4267
+DET,DEN,Stanley Umude,SG,1.5849,Nikola Jokić,C,1.3803
+DET,HOU,Stanley Umude,SG,1.5849,Cam Whitmore,SF,1.4505
+DET,HOU,Stanley Umude,SG,1.5849,Nate Hinton,SG,1.5014
+DET,IND,Stanley Umude,SG,1.5849,Buddy Hield,SF,1.4266
+DET,LAC,Stanley Umude,SG,1.5849,Bones Hyland,PG,1.4453
+DET,LAC,Stanley Umude,SG,1.5849,James Harden,PG,1.4185
+DET,LAC,Stanley Umude,SG,1.5849,Paul George,PF,1.5025
+DET,LAL,Stanley Umude,SG,1.5849,LeBron James,PF,1.433
+DET,MIL,Stanley Umude,SG,1.5849,Damian Lillard,PG,1.5511
+DET,MIL,Stanley Umude,SG,1.5849,Giannis Antetokounmpo,PF,1.3567
+DET,MIN,Stanley Umude,SG,1.5849,Karl-Anthony Towns,PF,1.3651
+DET,MIN,Stanley Umude,SG,1.5849,Luka Garza,C,1.2829
+DET,NYK,Stanley Umude,SG,1.5849,Julius Randle,PF,1.385
+DET,OKC,Stanley Umude,SG,1.5849,Adam Flagler,SG,1.3991
+DET,OKC,Stanley Umude,SG,1.5849,Dāvis Bertāns,PF,1.3816
+DET,OKC,Stanley Umude,SG,1.5849,Lindy Waters III,SG,1.4594
+DET,ORL,Stanley Umude,SG,1.5849,Jett Howard,SF,1.5514
+DET,POR,Stanley Umude,SG,1.5849,Duop Reath,C,1.2603
+DET,SAS,Stanley Umude,SG,1.5849,Victor Wembanyama,C,1.5026
+DET,UTA,Stanley Umude,SG,1.5849,Lauri Markkanen,PF,1.4075
+DET,WAS,Stanley Umude,SG,1.5849,Mike Muscala,C,1.2661
+DET,WAS,Stanley Umude,SG,1.5849,Patrick Baldwin Jr.,SF,1.4218
+DET,WAS,Stanley Umude,SG,1.5849,Tristan Vukcevic,C,1.365
+GSW,ATL,Klay Thompson,SF,1.5375,Trae Young,PG,1.4135
+GSW,ATL,Stephen Curry,PG,1.7955,Trae Young,PG,1.4135
+GSW,BOS,Klay Thompson,SF,1.5375,Jaylen Brown,SF,1.3576
+GSW,BOS,Klay Thompson,SF,1.5375,Jayson Tatum,PF,1.5576
+GSW,BOS,Klay Thompson,SF,1.5375,Kristaps Porziņģis,C,1.3696
+GSW,BOS,Klay Thompson,SF,1.5375,Sam Hauser,SF,1.6467
+GSW,BOS,Stephen Curry,PG,1.7955,Jaylen Brown,SF,1.3576
+GSW,BOS,Stephen Curry,PG,1.7955,Jayson Tatum,PF,1.5576
+GSW,BOS,Stephen Curry,PG,1.7955,Kristaps Porziņģis,C,1.3696
+GSW,BOS,Stephen Curry,PG,1.7955,Sam Hauser,SF,1.6467
+GSW,BRK,Klay Thompson,SF,1.5375,Armoni Brooks,PG,1.3794
+GSW,BRK,Stephen Curry,PG,1.7955,Armoni Brooks,PG,1.3794
+GSW,CHI,Klay Thompson,SF,1.5375,Nikola Vučević,C,1.2832
+GSW,CHI,Stephen Curry,PG,1.7955,Nikola Vučević,C,1.2832
+GSW,CHO,Klay Thompson,SF,1.5375,LaMelo Ball,PG,1.5702
+GSW,CHO,Stephen Curry,PG,1.7955,LaMelo Ball,PG,1.5702
+GSW,CLE,Klay Thompson,SF,1.5375,Donovan Mitchell,SG,1.5487
+GSW,CLE,Klay Thompson,SF,1.5375,Sam Merrill,SG,1.4809
+GSW,CLE,Stephen Curry,PG,1.7955,Donovan Mitchell,SG,1.5487
+GSW,CLE,Stephen Curry,PG,1.7955,Sam Merrill,SG,1.4809
+GSW,DAL,Klay Thompson,SF,1.5375,Dexter Dennis,SG,1.5418
+GSW,DAL,Klay Thompson,SF,1.5375,Kyrie Irving,SG,1.4046
+GSW,DAL,Klay Thompson,SF,1.5375,Luka Dončić,PG,1.7383
+GSW,DAL,Klay Thompson,SF,1.5375,Tim Hardaway Jr.,SF,1.3672
+GSW,DAL,Stephen Curry,PG,1.7955,Dexter Dennis,SG,1.5418
+GSW,DAL,Stephen Curry,PG,1.7955,Kyrie Irving,SG,1.4046
+GSW,DAL,Stephen Curry,PG,1.7955,Luka Dončić,PG,1.7383
+GSW,DAL,Stephen Curry,PG,1.7955,Tim Hardaway Jr.,SF,1.3672
+GSW,DEN,Klay Thompson,SF,1.5375,Hunter Tyson,PF,1.4267
+GSW,DEN,Klay Thompson,SF,1.5375,Michael Porter Jr.,SF,1.3439
+GSW,DEN,Klay Thompson,SF,1.5375,Nikola Jokić,C,1.3803
+GSW,DEN,Stephen Curry,PG,1.7955,Hunter Tyson,PF,1.4267
+GSW,DEN,Stephen Curry,PG,1.7955,Michael Porter Jr.,SF,1.3439
+GSW,DEN,Stephen Curry,PG,1.7955,Nikola Jokić,C,1.3803
+GSW,DET,Klay Thompson,SF,1.5375,Stanley Umude,SG,1.5849
+GSW,DET,Stephen Curry,PG,1.7955,Stanley Umude,SG,1.5849
+GSW,HOU,Klay Thompson,SF,1.5375,Cam Whitmore,SF,1.4505
+GSW,HOU,Klay Thompson,SF,1.5375,Nate Hinton,SG,1.5014
+GSW,HOU,Stephen Curry,PG,1.7955,Cam Whitmore,SF,1.4505
+GSW,HOU,Stephen Curry,PG,1.7955,Nate Hinton,SG,1.5014
+GSW,IND,Klay Thompson,SF,1.5375,Buddy Hield,SF,1.4266
+GSW,IND,Stephen Curry,PG,1.7955,Buddy Hield,SF,1.4266
+GSW,LAC,Klay Thompson,SF,1.5375,Bones Hyland,PG,1.4453
+GSW,LAC,Klay Thompson,SF,1.5375,James Harden,PG,1.4185
+GSW,LAC,Klay Thompson,SF,1.5375,Paul George,PF,1.5025
+GSW,LAC,Stephen Curry,PG,1.7955,Bones Hyland,PG,1.4453
+GSW,LAC,Stephen Curry,PG,1.7955,James Harden,PG,1.4185
+GSW,LAC,Stephen Curry,PG,1.7955,Paul George,PF,1.5025
+GSW,LAL,Klay Thompson,SF,1.5375,LeBron James,PF,1.433
+GSW,LAL,Stephen Curry,PG,1.7955,LeBron James,PF,1.433
+GSW,MEM,Klay Thompson,SF,1.5375,DeJon Jarreau,SG,1.7504
+GSW,MEM,Klay Thompson,SF,1.5375,Jaren Jackson Jr.,C,1.2731
+GSW,MEM,Stephen Curry,PG,1.7955,DeJon Jarreau,SG,1.7504
+GSW,MEM,Stephen Curry,PG,1.7955,Jaren Jackson Jr.,C,1.2731
+GSW,MIA,Klay Thompson,SF,1.5375,Duncan Robinson,SF,1.3519
+GSW,MIA,Klay Thompson,SF,1.5375,Kevin Love,PF,1.6032
+GSW,MIA,Klay Thompson,SF,1.5375,Tyler Herro,SG,1.3836
+GSW,MIA,Stephen Curry,PG,1.7955,Duncan Robinson,SF,1.3519
+GSW,MIA,Stephen Curry,PG,1.7955,Kevin Love,PF,1.6032
+GSW,MIA,Stephen Curry,PG,1.7955,Tyler Herro,SG,1.3836
+GSW,MIL,Klay Thompson,SF,1.5375,Damian Lillard,PG,1.5511
+GSW,MIL,Klay Thompson,SF,1.5375,Giannis Antetokounmpo,PF,1.3567
+GSW,MIL,Stephen Curry,PG,1.7955,Damian Lillard,PG,1.5511
+GSW,MIL,Stephen Curry,PG,1.7955,Giannis Antetokounmpo,PF,1.3567
+GSW,MIN,Klay Thompson,SF,1.5375,Karl-Anthony Towns,PF,1.3651
+GSW,MIN,Klay Thompson,SF,1.5375,Luka Garza,C,1.2829
+GSW,MIN,Stephen Curry,PG,1.7955,Karl-Anthony Towns,PF,1.3651
+GSW,MIN,Stephen Curry,PG,1.7955,Luka Garza,C,1.2829
+GSW,NYK,Klay Thompson,SF,1.5375,Julius Randle,PF,1.385
+GSW,NYK,Stephen Curry,PG,1.7955,Julius Randle,PF,1.385
+GSW,OKC,Klay Thompson,SF,1.5375,Adam Flagler,SG,1.3991
+GSW,OKC,Klay Thompson,SF,1.5375,Dāvis Bertāns,PF,1.3816
+GSW,OKC,Klay Thompson,SF,1.5375,Lindy Waters III,SG,1.4594
+GSW,OKC,Stephen Curry,PG,1.7955,Adam Flagler,SG,1.3991
+GSW,OKC,Stephen Curry,PG,1.7955,Dāvis Bertāns,PF,1.3816
+GSW,OKC,Stephen Curry,PG,1.7955,Lindy Waters III,SG,1.4594
+GSW,ORL,Klay Thompson,SF,1.5375,Jett Howard,SF,1.5514
+GSW,ORL,Stephen Curry,PG,1.7955,Jett Howard,SF,1.5514
+GSW,POR,Klay Thompson,SF,1.5375,Duop Reath,C,1.2603
+GSW,POR,Stephen Curry,PG,1.7955,Duop Reath,C,1.2603
+GSW,SAS,Klay Thompson,SF,1.5375,Victor Wembanyama,C,1.5026
+GSW,SAS,Stephen Curry,PG,1.7955,Victor Wembanyama,C,1.5026
+GSW,UTA,Klay Thompson,SF,1.5375,Lauri Markkanen,PF,1.4075
+GSW,UTA,Stephen Curry,PG,1.7955,Lauri Markkanen,PF,1.4075
+GSW,WAS,Dario Šarić,C,1.2169,Mike Muscala,C,1.2661
+GSW,WAS,Dario Šarić,C,1.2169,Patrick Baldwin Jr.,SF,1.4218
+GSW,WAS,Dario Šarić,C,1.2169,Tristan Vukcevic,C,1.365
+GSW,WAS,Klay Thompson,SF,1.5375,Mike Muscala,C,1.2661
+GSW,WAS,Klay Thompson,SF,1.5375,Patrick Baldwin Jr.,SF,1.4218
+GSW,WAS,Klay Thompson,SF,1.5375,Tristan Vukcevic,C,1.365
+GSW,WAS,Stephen Curry,PG,1.7955,Mike Muscala,C,1.2661
+GSW,WAS,Stephen Curry,PG,1.7955,Patrick Baldwin Jr.,SF,1.4218
+GSW,WAS,Stephen Curry,PG,1.7955,Tristan Vukcevic,C,1.365
+HOU,ATL,Cam Whitmore,SF,1.4505,Trae Young,PG,1.4135
+HOU,ATL,Nate Hinton,SG,1.5014,Trae Young,PG,1.4135
+HOU,CHI,Cam Whitmore,SF,1.4505,Nikola Vučević,C,1.2832
+HOU,CHI,Nate Hinton,SG,1.5014,Nikola Vučević,C,1.2832
+HOU,DEN,Cam Whitmore,SF,1.4505,Hunter Tyson,PF,1.4267
+HOU,DEN,Cam Whitmore,SF,1.4505,Michael Porter Jr.,SF,1.3439
+HOU,DEN,Cam Whitmore,SF,1.4505,Nikola Jokić,C,1.3803
+HOU,DEN,Nate Hinton,SG,1.5014,Hunter Tyson,PF,1.4267
+HOU,DEN,Nate Hinton,SG,1.5014,Michael Porter Jr.,SF,1.3439
+HOU,DEN,Nate Hinton,SG,1.5014,Nikola Jokić,C,1.3803
+HOU,IND,Cam Whitmore,SF,1.4505,Buddy Hield,SF,1.4266
+HOU,IND,Nate Hinton,SG,1.5014,Buddy Hield,SF,1.4266
+HOU,LAL,Cam Whitmore,SF,1.4505,LeBron James,PF,1.433
+HOU,LAL,Nate Hinton,SG,1.5014,LeBron James,PF,1.433
+HOU,MIN,Cam Whitmore,SF,1.4505,Karl-Anthony Towns,PF,1.3651
+HOU,MIN,Cam Whitmore,SF,1.4505,Luka Garza,C,1.2829
+HOU,MIN,Nate Hinton,SG,1.5014,Karl-Anthony Towns,PF,1.3651
+HOU,MIN,Nate Hinton,SG,1.5014,Luka Garza,C,1.2829
+HOU,NYK,Cam Whitmore,SF,1.4505,Julius Randle,PF,1.385
+HOU,NYK,Nate Hinton,SG,1.5014,Julius Randle,PF,1.385
+HOU,OKC,Cam Whitmore,SF,1.4505,Adam Flagler,SG,1.3991
+HOU,OKC,Cam Whitmore,SF,1.4505,Dāvis Bertāns,PF,1.3816
+HOU,OKC,Cam Whitmore,SF,1.4505,Lindy Waters III,SG,1.4594
+HOU,OKC,Nate Hinton,SG,1.5014,Adam Flagler,SG,1.3991
+HOU,OKC,Nate Hinton,SG,1.5014,Dāvis Bertāns,PF,1.3816
+HOU,OKC,Nate Hinton,SG,1.5014,Lindy Waters III,SG,1.4594
+HOU,POR,Cam Whitmore,SF,1.4505,Duop Reath,C,1.2603
+HOU,POR,Nate Hinton,SG,1.5014,Duop Reath,C,1.2603
+HOU,UTA,Cam Whitmore,SF,1.4505,Lauri Markkanen,PF,1.4075
+HOU,UTA,Nate Hinton,SG,1.5014,Lauri Markkanen,PF,1.4075
+HOU,WAS,Cam Whitmore,SF,1.4505,Mike Muscala,C,1.2661
+HOU,WAS,Cam Whitmore,SF,1.4505,Patrick Baldwin Jr.,SF,1.4218
+HOU,WAS,Cam Whitmore,SF,1.4505,Tristan Vukcevic,C,1.365
+HOU,WAS,Nate Hinton,SG,1.5014,Mike Muscala,C,1.2661
+HOU,WAS,Nate Hinton,SG,1.5014,Patrick Baldwin Jr.,SF,1.4218
+HOU,WAS,Nate Hinton,SG,1.5014,Tristan Vukcevic,C,1.365
+IND,ATL,Buddy Hield,SF,1.4266,Trae Young,PG,1.4135
+IND,CHI,Buddy Hield,SF,1.4266,Nikola Vučević,C,1.2832
+IND,MIN,Buddy Hield,SF,1.4266,Karl-Anthony Towns,PF,1.3651
+IND,MIN,Buddy Hield,SF,1.4266,Luka Garza,C,1.2829
+IND,NYK,Buddy Hield,SF,1.4266,Julius Randle,PF,1.385
+IND,POR,Buddy Hield,SF,1.4266,Duop Reath,C,1.2603
+IND,UTA,Buddy Hield,SF,1.4266,Lauri Markkanen,PF,1.4075
+IND,WAS,Buddy Hield,SF,1.4266,Mike Muscala,C,1.2661
+IND,WAS,Buddy Hield,SF,1.4266,Patrick Baldwin Jr.,SF,1.4218
+IND,WAS,Buddy Hield,SF,1.4266,Tristan Vukcevic,C,1.365
+LAC,ATL,Bones Hyland,PG,1.4453,Trae Young,PG,1.4135
+LAC,ATL,James Harden,PG,1.4185,Trae Young,PG,1.4135
+LAC,ATL,Paul George,PF,1.5025,Trae Young,PG,1.4135
+LAC,BRK,Bones Hyland,PG,1.4453,Armoni Brooks,PG,1.3794
+LAC,BRK,James Harden,PG,1.4185,Armoni Brooks,PG,1.3794
+LAC,BRK,Paul George,PF,1.5025,Armoni Brooks,PG,1.3794
+LAC,CHI,Bones Hyland,PG,1.4453,Nikola Vučević,C,1.2832
+LAC,CHI,James Harden,PG,1.4185,Nikola Vučević,C,1.2832
+LAC,CHI,Paul George,PF,1.5025,Nikola Vučević,C,1.2832
+LAC,DEN,Bones Hyland,PG,1.4453,Hunter Tyson,PF,1.4267
+LAC,DEN,Bones Hyland,PG,1.4453,Nikola Jokić,C,1.3803
+LAC,DEN,James Harden,PG,1.4185,Hunter Tyson,PF,1.4267
+LAC,DEN,James Harden,PG,1.4185,Nikola Jokić,C,1.3803
+LAC,DEN,Paul George,PF,1.5025,Hunter Tyson,PF,1.4267
+LAC,DEN,Paul George,PF,1.5025,Nikola Jokić,C,1.3803
+LAC,HOU,Bones Hyland,PG,1.4453,Cam Whitmore,SF,1.4505
+LAC,HOU,Bones Hyland,PG,1.4453,Fred VanVleet,PG,1.3617
+LAC,HOU,Bones Hyland,PG,1.4453,Nate Hinton,SG,1.5014
+LAC,HOU,James Harden,PG,1.4185,Cam Whitmore,SF,1.4505
+LAC,HOU,James Harden,PG,1.4185,Fred VanVleet,PG,1.3617
+LAC,HOU,James Harden,PG,1.4185,Nate Hinton,SG,1.5014
+LAC,HOU,Paul George,PF,1.5025,Cam Whitmore,SF,1.4505
+LAC,HOU,Paul George,PF,1.5025,Fred VanVleet,PG,1.3617
+LAC,HOU,Paul George,PF,1.5025,Nate Hinton,SG,1.5014
+LAC,IND,Bones Hyland,PG,1.4453,Buddy Hield,SF,1.4266
+LAC,IND,James Harden,PG,1.4185,Buddy Hield,SF,1.4266
+LAC,IND,Paul George,PF,1.5025,Buddy Hield,SF,1.4266
+LAC,LAL,Bones Hyland,PG,1.4453,LeBron James,PF,1.433
+LAC,LAL,James Harden,PG,1.4185,LeBron James,PF,1.433
+LAC,LAL,Paul George,PF,1.5025,LeBron James,PF,1.433
+LAC,MIN,Bones Hyland,PG,1.4453,Karl-Anthony Towns,PF,1.3651
+LAC,MIN,Bones Hyland,PG,1.4453,Luka Garza,C,1.2829
+LAC,MIN,James Harden,PG,1.4185,Karl-Anthony Towns,PF,1.3651
+LAC,MIN,James Harden,PG,1.4185,Luka Garza,C,1.2829
+LAC,MIN,Paul George,PF,1.5025,Karl-Anthony Towns,PF,1.3651
+LAC,MIN,Paul George,PF,1.5025,Luka Garza,C,1.2829
+LAC,NYK,Bones Hyland,PG,1.4453,Julius Randle,PF,1.385
+LAC,NYK,James Harden,PG,1.4185,Julius Randle,PF,1.385
+LAC,NYK,Paul George,PF,1.5025,Julius Randle,PF,1.385
+LAC,OKC,Bones Hyland,PG,1.4453,Adam Flagler,SG,1.3991
+LAC,OKC,Bones Hyland,PG,1.4453,Dāvis Bertāns,PF,1.3816
+LAC,OKC,Bones Hyland,PG,1.4453,Lindy Waters III,SG,1.4594
+LAC,OKC,James Harden,PG,1.4185,Adam Flagler,SG,1.3991
+LAC,OKC,James Harden,PG,1.4185,Dāvis Bertāns,PF,1.3816
+LAC,OKC,James Harden,PG,1.4185,Lindy Waters III,SG,1.4594
+LAC,OKC,Paul George,PF,1.5025,Adam Flagler,SG,1.3991
+LAC,OKC,Paul George,PF,1.5025,Dāvis Bertāns,PF,1.3816
+LAC,OKC,Paul George,PF,1.5025,Lindy Waters III,SG,1.4594
+LAC,PHO,Bones Hyland,PG,1.4453,Kevin Durant,PF,1.3258
+LAC,PHO,James Harden,PG,1.4185,Kevin Durant,PF,1.3258
+LAC,PHO,Paul George,PF,1.5025,Kevin Durant,PF,1.3258
+LAC,POR,Bones Hyland,PG,1.4453,Duop Reath,C,1.2603
+LAC,POR,James Harden,PG,1.4185,Duop Reath,C,1.2603
+LAC,POR,Paul George,PF,1.5025,Duop Reath,C,1.2603
+LAC,UTA,Bones Hyland,PG,1.4453,Lauri Markkanen,PF,1.4075
+LAC,UTA,James Harden,PG,1.4185,Lauri Markkanen,PF,1.4075
+LAC,UTA,Paul George,PF,1.5025,Lauri Markkanen,PF,1.4075
+LAC,WAS,Bones Hyland,PG,1.4453,Mike Muscala,C,1.2661
+LAC,WAS,Bones Hyland,PG,1.4453,Patrick Baldwin Jr.,SF,1.4218
+LAC,WAS,Bones Hyland,PG,1.4453,Tristan Vukcevic,C,1.365
+LAC,WAS,James Harden,PG,1.4185,Mike Muscala,C,1.2661
+LAC,WAS,James Harden,PG,1.4185,Patrick Baldwin Jr.,SF,1.4218
+LAC,WAS,James Harden,PG,1.4185,Tristan Vukcevic,C,1.365
+LAC,WAS,Paul George,PF,1.5025,Mike Muscala,C,1.2661
+LAC,WAS,Paul George,PF,1.5025,Patrick Baldwin Jr.,SF,1.4218
+LAC,WAS,Paul George,PF,1.5025,Tristan Vukcevic,C,1.365
+LAL,ATL,LeBron James,PF,1.433,Trae Young,PG,1.4135
+LAL,CHI,LeBron James,PF,1.433,Nikola Vučević,C,1.2832
+LAL,DEN,LeBron James,PF,1.433,Hunter Tyson,PF,1.4267
+LAL,DEN,LeBron James,PF,1.433,Nikola Jokić,C,1.3803
+LAL,IND,LeBron James,PF,1.433,Buddy Hield,SF,1.4266
+LAL,MIN,LeBron James,PF,1.433,Karl-Anthony Towns,PF,1.3651
+LAL,MIN,LeBron James,PF,1.433,Luka Garza,C,1.2829
+LAL,NYK,LeBron James,PF,1.433,Julius Randle,PF,1.385
+LAL,PHO,LeBron James,PF,1.433,Kevin Durant,PF,1.3258
+LAL,POR,LeBron James,PF,1.433,Duop Reath,C,1.2603
+LAL,UTA,LeBron James,PF,1.433,Lauri Markkanen,PF,1.4075
+LAL,WAS,LeBron James,PF,1.433,Mike Muscala,C,1.2661
+LAL,WAS,LeBron James,PF,1.433,Patrick Baldwin Jr.,SF,1.4218
+LAL,WAS,LeBron James,PF,1.433,Tristan Vukcevic,C,1.365
+MEM,ATL,DeJon Jarreau,SG,1.7504,Trae Young,PG,1.4135
+MEM,ATL,Jaren Jackson Jr.,C,1.2731,Trae Young,PG,1.4135
+MEM,BOS,DeJon Jarreau,SG,1.7504,Jaylen Brown,SF,1.3576
+MEM,BOS,DeJon Jarreau,SG,1.7504,Jayson Tatum,PF,1.5576
+MEM,BOS,DeJon Jarreau,SG,1.7504,Kristaps Porziņģis,C,1.3696
+MEM,BOS,DeJon Jarreau,SG,1.7504,Sam Hauser,SF,1.6467
+MEM,BOS,Jaren Jackson Jr.,C,1.2731,Jaylen Brown,SF,1.3576
+MEM,BOS,Jaren Jackson Jr.,C,1.2731,Jayson Tatum,PF,1.5576
+MEM,BOS,Jaren Jackson Jr.,C,1.2731,Kristaps Porziņģis,C,1.3696
+MEM,BOS,Jaren Jackson Jr.,C,1.2731,Sam Hauser,SF,1.6467
+MEM,CHI,DeJon Jarreau,SG,1.7504,Nikola Vučević,C,1.2832
+MEM,CHI,Jaren Jackson Jr.,C,1.2731,Nikola Vučević,C,1.2832
+MEM,CHO,DeJon Jarreau,SG,1.7504,James Bouknight,SG,1.3715
+MEM,CHO,DeJon Jarreau,SG,1.7504,LaMelo Ball,PG,1.5702
+MEM,CHO,Jaren Jackson Jr.,C,1.2731,James Bouknight,SG,1.3715
+MEM,CHO,Jaren Jackson Jr.,C,1.2731,LaMelo Ball,PG,1.5702
+MEM,CLE,DeJon Jarreau,SG,1.7504,Donovan Mitchell,SG,1.5487
+MEM,CLE,DeJon Jarreau,SG,1.7504,Sam Merrill,SG,1.4809
+MEM,CLE,Desmond Bane,SG,1.3797,Donovan Mitchell,SG,1.5487
+MEM,CLE,Desmond Bane,SG,1.3797,Sam Merrill,SG,1.4809
+MEM,CLE,Jaren Jackson Jr.,C,1.2731,Donovan Mitchell,SG,1.5487
+MEM,CLE,Jaren Jackson Jr.,C,1.2731,Sam Merrill,SG,1.4809
+MEM,DAL,DeJon Jarreau,SG,1.7504,Dexter Dennis,SG,1.5418
+MEM,DAL,DeJon Jarreau,SG,1.7504,Kyrie Irving,SG,1.4046
+MEM,DAL,DeJon Jarreau,SG,1.7504,Luka Dončić,PG,1.7383
+MEM,DAL,DeJon Jarreau,SG,1.7504,Tim Hardaway Jr.,SF,1.3672
+MEM,DAL,Desmond Bane,SG,1.3797,Dexter Dennis,SG,1.5418
+MEM,DAL,Desmond Bane,SG,1.3797,Kyrie Irving,SG,1.4046
+MEM,DAL,Desmond Bane,SG,1.3797,Luka Dončić,PG,1.7383
+MEM,DAL,Desmond Bane,SG,1.3797,Tim Hardaway Jr.,SF,1.3672
+MEM,DAL,Jaren Jackson Jr.,C,1.2731,Dexter Dennis,SG,1.5418
+MEM,DAL,Jaren Jackson Jr.,C,1.2731,Kyrie Irving,SG,1.4046
+MEM,DAL,Jaren Jackson Jr.,C,1.2731,Luka Dončić,PG,1.7383
+MEM,DAL,Jaren Jackson Jr.,C,1.2731,Tim Hardaway Jr.,SF,1.3672
+MEM,DEN,DeJon Jarreau,SG,1.7504,Hunter Tyson,PF,1.4267
+MEM,DEN,DeJon Jarreau,SG,1.7504,Nikola Jokić,C,1.3803
+MEM,DEN,Jaren Jackson Jr.,C,1.2731,Hunter Tyson,PF,1.4267
+MEM,DEN,Jaren Jackson Jr.,C,1.2731,Nikola Jokić,C,1.3803
+MEM,DET,DeJon Jarreau,SG,1.7504,Stanley Umude,SG,1.5849
+MEM,DET,Desmond Bane,SG,1.3797,Stanley Umude,SG,1.5849
+MEM,DET,Jaren Jackson Jr.,C,1.2731,Stanley Umude,SG,1.5849
+MEM,HOU,DeJon Jarreau,SG,1.7504,Cam Whitmore,SF,1.4505
+MEM,HOU,DeJon Jarreau,SG,1.7504,Nate Hinton,SG,1.5014
+MEM,HOU,Desmond Bane,SG,1.3797,Cam Whitmore,SF,1.4505
+MEM,HOU,Desmond Bane,SG,1.3797,Nate Hinton,SG,1.5014
+MEM,HOU,Jaren Jackson Jr.,C,1.2731,Cam Whitmore,SF,1.4505
+MEM,HOU,Jaren Jackson Jr.,C,1.2731,Nate Hinton,SG,1.5014
+MEM,IND,DeJon Jarreau,SG,1.7504,Buddy Hield,SF,1.4266
+MEM,IND,Jaren Jackson Jr.,C,1.2731,Buddy Hield,SF,1.4266
+MEM,LAC,DeJon Jarreau,SG,1.7504,Bones Hyland,PG,1.4453
+MEM,LAC,DeJon Jarreau,SG,1.7504,James Harden,PG,1.4185
+MEM,LAC,DeJon Jarreau,SG,1.7504,Paul George,PF,1.5025
+MEM,LAC,Jaren Jackson Jr.,C,1.2731,Bones Hyland,PG,1.4453
+MEM,LAC,Jaren Jackson Jr.,C,1.2731,James Harden,PG,1.4185
+MEM,LAC,Jaren Jackson Jr.,C,1.2731,Paul George,PF,1.5025
+MEM,LAL,DeJon Jarreau,SG,1.7504,LeBron James,PF,1.433
+MEM,LAL,Jaren Jackson Jr.,C,1.2731,LeBron James,PF,1.433
+MEM,MIA,DeJon Jarreau,SG,1.7504,Duncan Robinson,SF,1.3519
+MEM,MIA,DeJon Jarreau,SG,1.7504,Kevin Love,PF,1.6032
+MEM,MIA,DeJon Jarreau,SG,1.7504,Tyler Herro,SG,1.3836
+MEM,MIA,Desmond Bane,SG,1.3797,Duncan Robinson,SF,1.3519
+MEM,MIA,Desmond Bane,SG,1.3797,Kevin Love,PF,1.6032
+MEM,MIA,Desmond Bane,SG,1.3797,Tyler Herro,SG,1.3836
+MEM,MIA,Jaren Jackson Jr.,C,1.2731,Duncan Robinson,SF,1.3519
+MEM,MIA,Jaren Jackson Jr.,C,1.2731,Kevin Love,PF,1.6032
+MEM,MIA,Jaren Jackson Jr.,C,1.2731,Tyler Herro,SG,1.3836
+MEM,MIL,DeJon Jarreau,SG,1.7504,Damian Lillard,PG,1.5511
+MEM,MIL,DeJon Jarreau,SG,1.7504,Giannis Antetokounmpo,PF,1.3567
+MEM,MIL,Jaren Jackson Jr.,C,1.2731,Damian Lillard,PG,1.5511
+MEM,MIL,Jaren Jackson Jr.,C,1.2731,Giannis Antetokounmpo,PF,1.3567
+MEM,MIN,DeJon Jarreau,SG,1.7504,Karl-Anthony Towns,PF,1.3651
+MEM,MIN,DeJon Jarreau,SG,1.7504,Luka Garza,C,1.2829
+MEM,MIN,Jaren Jackson Jr.,C,1.2731,Karl-Anthony Towns,PF,1.3651
+MEM,MIN,Jaren Jackson Jr.,C,1.2731,Luka Garza,C,1.2829
+MEM,NYK,DeJon Jarreau,SG,1.7504,Julius Randle,PF,1.385
+MEM,NYK,Jaren Jackson Jr.,C,1.2731,Julius Randle,PF,1.385
+MEM,OKC,DeJon Jarreau,SG,1.7504,Adam Flagler,SG,1.3991
+MEM,OKC,DeJon Jarreau,SG,1.7504,Chet Holmgren,C,1.2327
+MEM,OKC,DeJon Jarreau,SG,1.7504,Dāvis Bertāns,PF,1.3816
+MEM,OKC,DeJon Jarreau,SG,1.7504,Lindy Waters III,SG,1.4594
+MEM,OKC,Desmond Bane,SG,1.3797,Adam Flagler,SG,1.3991
+MEM,OKC,Desmond Bane,SG,1.3797,Chet Holmgren,C,1.2327
+MEM,OKC,Desmond Bane,SG,1.3797,Dāvis Bertāns,PF,1.3816
+MEM,OKC,Desmond Bane,SG,1.3797,Lindy Waters III,SG,1.4594
+MEM,OKC,Jaren Jackson Jr.,C,1.2731,Adam Flagler,SG,1.3991
+MEM,OKC,Jaren Jackson Jr.,C,1.2731,Chet Holmgren,C,1.2327
+MEM,OKC,Jaren Jackson Jr.,C,1.2731,Dāvis Bertāns,PF,1.3816
+MEM,OKC,Jaren Jackson Jr.,C,1.2731,Lindy Waters III,SG,1.4594
+MEM,ORL,DeJon Jarreau,SG,1.7504,Jett Howard,SF,1.5514
+MEM,ORL,Jaren Jackson Jr.,C,1.2731,Jett Howard,SF,1.5514
+MEM,POR,DeJon Jarreau,SG,1.7504,Duop Reath,C,1.2603
+MEM,POR,Jaren Jackson Jr.,C,1.2731,Duop Reath,C,1.2603
+MEM,SAS,DeJon Jarreau,SG,1.7504,Victor Wembanyama,C,1.5026
+MEM,SAS,Jaren Jackson Jr.,C,1.2731,Victor Wembanyama,C,1.5026
+MEM,UTA,DeJon Jarreau,SG,1.7504,Lauri Markkanen,PF,1.4075
+MEM,UTA,Jaren Jackson Jr.,C,1.2731,Lauri Markkanen,PF,1.4075
+MEM,WAS,DeJon Jarreau,SG,1.7504,Mike Muscala,C,1.2661
+MEM,WAS,DeJon Jarreau,SG,1.7504,Patrick Baldwin Jr.,SF,1.4218
+MEM,WAS,DeJon Jarreau,SG,1.7504,Tristan Vukcevic,C,1.365
+MEM,WAS,Jaren Jackson Jr.,C,1.2731,Mike Muscala,C,1.2661
+MEM,WAS,Jaren Jackson Jr.,C,1.2731,Patrick Baldwin Jr.,SF,1.4218
+MEM,WAS,Jaren Jackson Jr.,C,1.2731,Tristan Vukcevic,C,1.365
+MIA,ATL,Duncan Robinson,SF,1.3519,Trae Young,PG,1.4135
+MIA,ATL,Kevin Love,PF,1.6032,Trae Young,PG,1.4135
+MIA,ATL,Tyler Herro,SG,1.3836,Trae Young,PG,1.4135
+MIA,CHI,Duncan Robinson,SF,1.3519,Nikola Vučević,C,1.2832
+MIA,CHI,Kevin Love,PF,1.6032,Nikola Vučević,C,1.2832
+MIA,CHI,Tyler Herro,SG,1.3836,Nikola Vučević,C,1.2832
+MIA,CHO,Duncan Robinson,SF,1.3519,LaMelo Ball,PG,1.5702
+MIA,CHO,Kevin Love,PF,1.6032,LaMelo Ball,PG,1.5702
+MIA,CHO,Tyler Herro,SG,1.3836,LaMelo Ball,PG,1.5702
+MIA,CLE,Duncan Robinson,SF,1.3519,Donovan Mitchell,SG,1.5487
+MIA,CLE,Duncan Robinson,SF,1.3519,Sam Merrill,SG,1.4809
+MIA,CLE,Kevin Love,PF,1.6032,Donovan Mitchell,SG,1.5487
+MIA,CLE,Kevin Love,PF,1.6032,Sam Merrill,SG,1.4809
+MIA,CLE,Tyler Herro,SG,1.3836,Donovan Mitchell,SG,1.5487
+MIA,CLE,Tyler Herro,SG,1.3836,Sam Merrill,SG,1.4809
+MIA,DEN,Duncan Robinson,SF,1.3519,Hunter Tyson,PF,1.4267
+MIA,DEN,Duncan Robinson,SF,1.3519,Michael Porter Jr.,SF,1.3439
+MIA,DEN,Duncan Robinson,SF,1.3519,Nikola Jokić,C,1.3803
+MIA,DEN,Kevin Love,PF,1.6032,Hunter Tyson,PF,1.4267
+MIA,DEN,Kevin Love,PF,1.6032,Michael Porter Jr.,SF,1.3439
+MIA,DEN,Kevin Love,PF,1.6032,Nikola Jokić,C,1.3803
+MIA,DEN,Tyler Herro,SG,1.3836,Hunter Tyson,PF,1.4267
+MIA,DEN,Tyler Herro,SG,1.3836,Michael Porter Jr.,SF,1.3439
+MIA,DEN,Tyler Herro,SG,1.3836,Nikola Jokić,C,1.3803
+MIA,DET,Duncan Robinson,SF,1.3519,Stanley Umude,SG,1.5849
+MIA,DET,Kevin Love,PF,1.6032,Stanley Umude,SG,1.5849
+MIA,DET,Tyler Herro,SG,1.3836,Stanley Umude,SG,1.5849
+MIA,HOU,Duncan Robinson,SF,1.3519,Cam Whitmore,SF,1.4505
+MIA,HOU,Duncan Robinson,SF,1.3519,Nate Hinton,SG,1.5014
+MIA,HOU,Kevin Love,PF,1.6032,Cam Whitmore,SF,1.4505
+MIA,HOU,Kevin Love,PF,1.6032,Nate Hinton,SG,1.5014
+MIA,HOU,Tyler Herro,SG,1.3836,Cam Whitmore,SF,1.4505
+MIA,HOU,Tyler Herro,SG,1.3836,Nate Hinton,SG,1.5014
+MIA,IND,Duncan Robinson,SF,1.3519,Buddy Hield,SF,1.4266
+MIA,IND,Kevin Love,PF,1.6032,Buddy Hield,SF,1.4266
+MIA,IND,Tyler Herro,SG,1.3836,Buddy Hield,SF,1.4266
+MIA,LAC,Duncan Robinson,SF,1.3519,Bones Hyland,PG,1.4453
+MIA,LAC,Duncan Robinson,SF,1.3519,James Harden,PG,1.4185
+MIA,LAC,Duncan Robinson,SF,1.3519,Paul George,PF,1.5025
+MIA,LAC,Kevin Love,PF,1.6032,Bones Hyland,PG,1.4453
+MIA,LAC,Kevin Love,PF,1.6032,James Harden,PG,1.4185
+MIA,LAC,Kevin Love,PF,1.6032,Paul George,PF,1.5025
+MIA,LAC,Tyler Herro,SG,1.3836,Bones Hyland,PG,1.4453
+MIA,LAC,Tyler Herro,SG,1.3836,James Harden,PG,1.4185
+MIA,LAC,Tyler Herro,SG,1.3836,Paul George,PF,1.5025
+MIA,LAL,Duncan Robinson,SF,1.3519,LeBron James,PF,1.433
+MIA,LAL,Kevin Love,PF,1.6032,LeBron James,PF,1.433
+MIA,LAL,Tyler Herro,SG,1.3836,LeBron James,PF,1.433
+MIA,MIL,Duncan Robinson,SF,1.3519,Damian Lillard,PG,1.5511
+MIA,MIL,Duncan Robinson,SF,1.3519,Giannis Antetokounmpo,PF,1.3567
+MIA,MIL,Kevin Love,PF,1.6032,Damian Lillard,PG,1.5511
+MIA,MIL,Kevin Love,PF,1.6032,Giannis Antetokounmpo,PF,1.3567
+MIA,MIL,Tyler Herro,SG,1.3836,Damian Lillard,PG,1.5511
+MIA,MIL,Tyler Herro,SG,1.3836,Giannis Antetokounmpo,PF,1.3567
+MIA,MIN,Duncan Robinson,SF,1.3519,Karl-Anthony Towns,PF,1.3651
+MIA,MIN,Duncan Robinson,SF,1.3519,Luka Garza,C,1.2829
+MIA,MIN,Kevin Love,PF,1.6032,Karl-Anthony Towns,PF,1.3651
+MIA,MIN,Kevin Love,PF,1.6032,Luka Garza,C,1.2829
+MIA,MIN,Tyler Herro,SG,1.3836,Karl-Anthony Towns,PF,1.3651
+MIA,MIN,Tyler Herro,SG,1.3836,Luka Garza,C,1.2829
+MIA,NYK,Duncan Robinson,SF,1.3519,Julius Randle,PF,1.385
+MIA,NYK,Kevin Love,PF,1.6032,Julius Randle,PF,1.385
+MIA,NYK,Tyler Herro,SG,1.3836,Julius Randle,PF,1.385
+MIA,OKC,Duncan Robinson,SF,1.3519,Adam Flagler,SG,1.3991
+MIA,OKC,Duncan Robinson,SF,1.3519,Dāvis Bertāns,PF,1.3816
+MIA,OKC,Duncan Robinson,SF,1.3519,Lindy Waters III,SG,1.4594
+MIA,OKC,Kevin Love,PF,1.6032,Adam Flagler,SG,1.3991
+MIA,OKC,Kevin Love,PF,1.6032,Dāvis Bertāns,PF,1.3816
+MIA,OKC,Kevin Love,PF,1.6032,Lindy Waters III,SG,1.4594
+MIA,OKC,Tyler Herro,SG,1.3836,Adam Flagler,SG,1.3991
+MIA,OKC,Tyler Herro,SG,1.3836,Dāvis Bertāns,PF,1.3816
+MIA,OKC,Tyler Herro,SG,1.3836,Lindy Waters III,SG,1.4594
+MIA,ORL,Duncan Robinson,SF,1.3519,Jett Howard,SF,1.5514
+MIA,ORL,Kevin Love,PF,1.6032,Jett Howard,SF,1.5514
+MIA,ORL,Tyler Herro,SG,1.3836,Jett Howard,SF,1.5514
+MIA,PHO,Duncan Robinson,SF,1.3519,Kevin Durant,PF,1.3258
+MIA,PHO,Kevin Love,PF,1.6032,Kevin Durant,PF,1.3258
+MIA,PHO,Tyler Herro,SG,1.3836,Kevin Durant,PF,1.3258
+MIA,POR,Duncan Robinson,SF,1.3519,Duop Reath,C,1.2603
+MIA,POR,Kevin Love,PF,1.6032,Duop Reath,C,1.2603
+MIA,POR,Tyler Herro,SG,1.3836,Duop Reath,C,1.2603
+MIA,SAS,Duncan Robinson,SF,1.3519,Victor Wembanyama,C,1.5026
+MIA,SAS,Kevin Love,PF,1.6032,Victor Wembanyama,C,1.5026
+MIA,SAS,Tyler Herro,SG,1.3836,Victor Wembanyama,C,1.5026
+MIA,UTA,Duncan Robinson,SF,1.3519,Lauri Markkanen,PF,1.4075
+MIA,UTA,Kevin Love,PF,1.6032,Lauri Markkanen,PF,1.4075
+MIA,UTA,Tyler Herro,SG,1.3836,Lauri Markkanen,PF,1.4075
+MIA,WAS,Duncan Robinson,SF,1.3519,Mike Muscala,C,1.2661
+MIA,WAS,Duncan Robinson,SF,1.3519,Patrick Baldwin Jr.,SF,1.4218
+MIA,WAS,Duncan Robinson,SF,1.3519,Tristan Vukcevic,C,1.365
+MIA,WAS,Kevin Love,PF,1.6032,Mike Muscala,C,1.2661
+MIA,WAS,Kevin Love,PF,1.6032,Patrick Baldwin Jr.,SF,1.4218
+MIA,WAS,Kevin Love,PF,1.6032,Tristan Vukcevic,C,1.365
+MIA,WAS,Tyler Herro,SG,1.3836,Mike Muscala,C,1.2661
+MIA,WAS,Tyler Herro,SG,1.3836,Patrick Baldwin Jr.,SF,1.4218
+MIA,WAS,Tyler Herro,SG,1.3836,Tristan Vukcevic,C,1.365
+MIL,ATL,Damian Lillard,PG,1.5511,Trae Young,PG,1.4135
+MIL,ATL,Giannis Antetokounmpo,PF,1.3567,Trae Young,PG,1.4135
+MIL,BRK,Damian Lillard,PG,1.5511,Armoni Brooks,PG,1.3794
+MIL,BRK,Giannis Antetokounmpo,PF,1.3567,Armoni Brooks,PG,1.3794
+MIL,CHI,Damian Lillard,PG,1.5511,Nikola Vučević,C,1.2832
+MIL,CHI,Giannis Antetokounmpo,PF,1.3567,Nikola Vučević,C,1.2832
+MIL,CLE,Damian Lillard,PG,1.5511,Donovan Mitchell,SG,1.5487
+MIL,CLE,Damian Lillard,PG,1.5511,Sam Merrill,SG,1.4809
+MIL,CLE,Giannis Antetokounmpo,PF,1.3567,Donovan Mitchell,SG,1.5487
+MIL,CLE,Giannis Antetokounmpo,PF,1.3567,Sam Merrill,SG,1.4809
+MIL,DEN,Damian Lillard,PG,1.5511,Hunter Tyson,PF,1.4267
+MIL,DEN,Damian Lillard,PG,1.5511,Nikola Jokić,C,1.3803
+MIL,DEN,Giannis Antetokounmpo,PF,1.3567,Hunter Tyson,PF,1.4267
+MIL,DEN,Giannis Antetokounmpo,PF,1.3567,Nikola Jokić,C,1.3803
+MIL,HOU,Damian Lillard,PG,1.5511,Cam Whitmore,SF,1.4505
+MIL,HOU,Damian Lillard,PG,1.5511,Nate Hinton,SG,1.5014
+MIL,HOU,Giannis Antetokounmpo,PF,1.3567,Cam Whitmore,SF,1.4505
+MIL,HOU,Giannis Antetokounmpo,PF,1.3567,Nate Hinton,SG,1.5014
+MIL,IND,Damian Lillard,PG,1.5511,Buddy Hield,SF,1.4266
+MIL,IND,Giannis Antetokounmpo,PF,1.3567,Buddy Hield,SF,1.4266
+MIL,LAC,Damian Lillard,PG,1.5511,Bones Hyland,PG,1.4453
+MIL,LAC,Damian Lillard,PG,1.5511,James Harden,PG,1.4185
+MIL,LAC,Damian Lillard,PG,1.5511,Paul George,PF,1.5025
+MIL,LAC,Giannis Antetokounmpo,PF,1.3567,Bones Hyland,PG,1.4453
+MIL,LAC,Giannis Antetokounmpo,PF,1.3567,James Harden,PG,1.4185
+MIL,LAC,Giannis Antetokounmpo,PF,1.3567,Paul George,PF,1.5025
+MIL,LAL,Damian Lillard,PG,1.5511,LeBron James,PF,1.433
+MIL,LAL,Giannis Antetokounmpo,PF,1.3567,LeBron James,PF,1.433
+MIL,MIN,Damian Lillard,PG,1.5511,Karl-Anthony Towns,PF,1.3651
+MIL,MIN,Damian Lillard,PG,1.5511,Luka Garza,C,1.2829
+MIL,MIN,Giannis Antetokounmpo,PF,1.3567,Karl-Anthony Towns,PF,1.3651
+MIL,MIN,Giannis Antetokounmpo,PF,1.3567,Luka Garza,C,1.2829
+MIL,NYK,Damian Lillard,PG,1.5511,Julius Randle,PF,1.385
+MIL,NYK,Giannis Antetokounmpo,PF,1.3567,Julius Randle,PF,1.385
+MIL,OKC,Damian Lillard,PG,1.5511,Adam Flagler,SG,1.3991
+MIL,OKC,Damian Lillard,PG,1.5511,Dāvis Bertāns,PF,1.3816
+MIL,OKC,Damian Lillard,PG,1.5511,Lindy Waters III,SG,1.4594
+MIL,OKC,Giannis Antetokounmpo,PF,1.3567,Adam Flagler,SG,1.3991
+MIL,OKC,Giannis Antetokounmpo,PF,1.3567,Dāvis Bertāns,PF,1.3816
+MIL,OKC,Giannis Antetokounmpo,PF,1.3567,Lindy Waters III,SG,1.4594
+MIL,PHO,Damian Lillard,PG,1.5511,Kevin Durant,PF,1.3258
+MIL,PHO,Giannis Antetokounmpo,PF,1.3567,Kevin Durant,PF,1.3258
+MIL,POR,Damian Lillard,PG,1.5511,Duop Reath,C,1.2603
+MIL,POR,Giannis Antetokounmpo,PF,1.3567,Duop Reath,C,1.2603
+MIL,SAS,Damian Lillard,PG,1.5511,Victor Wembanyama,C,1.5026
+MIL,SAS,Giannis Antetokounmpo,PF,1.3567,Victor Wembanyama,C,1.5026
+MIL,UTA,Damian Lillard,PG,1.5511,Lauri Markkanen,PF,1.4075
+MIL,UTA,Giannis Antetokounmpo,PF,1.3567,Lauri Markkanen,PF,1.4075
+MIL,WAS,Damian Lillard,PG,1.5511,Mike Muscala,C,1.2661
+MIL,WAS,Damian Lillard,PG,1.5511,Patrick Baldwin Jr.,SF,1.4218
+MIL,WAS,Damian Lillard,PG,1.5511,Tristan Vukcevic,C,1.365
+MIL,WAS,Giannis Antetokounmpo,PF,1.3567,Mike Muscala,C,1.2661
+MIL,WAS,Giannis Antetokounmpo,PF,1.3567,Patrick Baldwin Jr.,SF,1.4218
+MIL,WAS,Giannis Antetokounmpo,PF,1.3567,Tristan Vukcevic,C,1.365
+MIN,CHI,Karl-Anthony Towns,PF,1.3651,Nikola Vučević,C,1.2832
+MIN,CHI,Luka Garza,C,1.2829,Nikola Vučević,C,1.2832
+MIN,PHO,Karl-Anthony Towns,PF,1.3651,Kevin Durant,PF,1.3258
+MIN,PHO,Luka Garza,C,1.2829,Kevin Durant,PF,1.3258
+MIN,POR,Karl-Anthony Towns,PF,1.3651,Duop Reath,C,1.2603
+MIN,POR,Luka Garza,C,1.2829,Duop Reath,C,1.2603
+NOP,ATL,CJ McCollum,PG,1.3898,Trae Young,PG,1.4135
+NOP,ATL,Izaiah Brockington,PG,1.9867,Trae Young,PG,1.4135
+NOP,ATL,Matt Ryan,SF,1.7787,Trae Young,PG,1.4135
+NOP,BOS,CJ McCollum,PG,1.3898,Jaylen Brown,SF,1.3576
+NOP,BOS,CJ McCollum,PG,1.3898,Jayson Tatum,PF,1.5576
+NOP,BOS,CJ McCollum,PG,1.3898,Kristaps Porziņģis,C,1.3696
+NOP,BOS,CJ McCollum,PG,1.3898,Sam Hauser,SF,1.6467
+NOP,BOS,Izaiah Brockington,PG,1.9867,Jaylen Brown,SF,1.3576
+NOP,BOS,Izaiah Brockington,PG,1.9867,Jayson Tatum,PF,1.5576
+NOP,BOS,Izaiah Brockington,PG,1.9867,Kristaps Porziņģis,C,1.3696
+NOP,BOS,Izaiah Brockington,PG,1.9867,Sam Hauser,SF,1.6467
+NOP,BOS,Matt Ryan,SF,1.7787,Jaylen Brown,SF,1.3576
+NOP,BOS,Matt Ryan,SF,1.7787,Jayson Tatum,PF,1.5576
+NOP,BOS,Matt Ryan,SF,1.7787,Kristaps Porziņģis,C,1.3696
+NOP,BOS,Matt Ryan,SF,1.7787,Sam Hauser,SF,1.6467
+NOP,BRK,CJ McCollum,PG,1.3898,Armoni Brooks,PG,1.3794
+NOP,BRK,Izaiah Brockington,PG,1.9867,Armoni Brooks,PG,1.3794
+NOP,BRK,Matt Ryan,SF,1.7787,Armoni Brooks,PG,1.3794
+NOP,CHI,CJ McCollum,PG,1.3898,Nikola Vučević,C,1.2832
+NOP,CHI,Izaiah Brockington,PG,1.9867,Nikola Vučević,C,1.2832
+NOP,CHI,Matt Ryan,SF,1.7787,Nikola Vučević,C,1.2832
+NOP,CHO,CJ McCollum,PG,1.3898,LaMelo Ball,PG,1.5702
+NOP,CHO,Izaiah Brockington,PG,1.9867,LaMelo Ball,PG,1.5702
+NOP,CHO,Matt Ryan,SF,1.7787,LaMelo Ball,PG,1.5702
+NOP,CLE,CJ McCollum,PG,1.3898,Donovan Mitchell,SG,1.5487
+NOP,CLE,CJ McCollum,PG,1.3898,Sam Merrill,SG,1.4809
+NOP,CLE,Izaiah Brockington,PG,1.9867,Donovan Mitchell,SG,1.5487
+NOP,CLE,Izaiah Brockington,PG,1.9867,Sam Merrill,SG,1.4809
+NOP,CLE,Matt Ryan,SF,1.7787,Donovan Mitchell,SG,1.5487
+NOP,CLE,Matt Ryan,SF,1.7787,Sam Merrill,SG,1.4809
+NOP,DAL,CJ McCollum,PG,1.3898,Dexter Dennis,SG,1.5418
+NOP,DAL,CJ McCollum,PG,1.3898,Kyrie Irving,SG,1.4046
+NOP,DAL,CJ McCollum,PG,1.3898,Luka Dončić,PG,1.7383
+NOP,DAL,CJ McCollum,PG,1.3898,Tim Hardaway Jr.,SF,1.3672
+NOP,DAL,Izaiah Brockington,PG,1.9867,Dexter Dennis,SG,1.5418
+NOP,DAL,Izaiah Brockington,PG,1.9867,Kyrie Irving,SG,1.4046
+NOP,DAL,Izaiah Brockington,PG,1.9867,Luka Dončić,PG,1.7383
+NOP,DAL,Izaiah Brockington,PG,1.9867,Tim Hardaway Jr.,SF,1.3672
+NOP,DAL,Matt Ryan,SF,1.7787,Dexter Dennis,SG,1.5418
+NOP,DAL,Matt Ryan,SF,1.7787,Kyrie Irving,SG,1.4046
+NOP,DAL,Matt Ryan,SF,1.7787,Luka Dončić,PG,1.7383
+NOP,DAL,Matt Ryan,SF,1.7787,Tim Hardaway Jr.,SF,1.3672
+NOP,DEN,CJ McCollum,PG,1.3898,Hunter Tyson,PF,1.4267
+NOP,DEN,CJ McCollum,PG,1.3898,Michael Porter Jr.,SF,1.3439
+NOP,DEN,CJ McCollum,PG,1.3898,Nikola Jokić,C,1.3803
+NOP,DEN,Izaiah Brockington,PG,1.9867,Hunter Tyson,PF,1.4267
+NOP,DEN,Izaiah Brockington,PG,1.9867,Michael Porter Jr.,SF,1.3439
+NOP,DEN,Izaiah Brockington,PG,1.9867,Nikola Jokić,C,1.3803
+NOP,DEN,Matt Ryan,SF,1.7787,Hunter Tyson,PF,1.4267
+NOP,DEN,Matt Ryan,SF,1.7787,Michael Porter Jr.,SF,1.3439
+NOP,DEN,Matt Ryan,SF,1.7787,Nikola Jokić,C,1.3803
+NOP,DET,CJ McCollum,PG,1.3898,Stanley Umude,SG,1.5849
+NOP,DET,Izaiah Brockington,PG,1.9867,Stanley Umude,SG,1.5849
+NOP,DET,Matt Ryan,SF,1.7787,Stanley Umude,SG,1.5849
+NOP,GSW,CJ McCollum,PG,1.3898,Klay Thompson,SF,1.5375
+NOP,GSW,CJ McCollum,PG,1.3898,Stephen Curry,PG,1.7955
+NOP,GSW,Izaiah Brockington,PG,1.9867,Klay Thompson,SF,1.5375
+NOP,GSW,Izaiah Brockington,PG,1.9867,Stephen Curry,PG,1.7955
+NOP,GSW,Matt Ryan,SF,1.7787,Klay Thompson,SF,1.5375
+NOP,GSW,Matt Ryan,SF,1.7787,Stephen Curry,PG,1.7955
+NOP,HOU,CJ McCollum,PG,1.3898,Cam Whitmore,SF,1.4505
+NOP,HOU,CJ McCollum,PG,1.3898,Fred VanVleet,PG,1.3617
+NOP,HOU,CJ McCollum,PG,1.3898,Nate Hinton,SG,1.5014
+NOP,HOU,Izaiah Brockington,PG,1.9867,Cam Whitmore,SF,1.4505
+NOP,HOU,Izaiah Brockington,PG,1.9867,Fred VanVleet,PG,1.3617
+NOP,HOU,Izaiah Brockington,PG,1.9867,Nate Hinton,SG,1.5014
+NOP,HOU,Matt Ryan,SF,1.7787,Cam Whitmore,SF,1.4505
+NOP,HOU,Matt Ryan,SF,1.7787,Fred VanVleet,PG,1.3617
+NOP,HOU,Matt Ryan,SF,1.7787,Nate Hinton,SG,1.5014
+NOP,IND,CJ McCollum,PG,1.3898,Buddy Hield,SF,1.4266
+NOP,IND,Izaiah Brockington,PG,1.9867,Buddy Hield,SF,1.4266
+NOP,IND,Matt Ryan,SF,1.7787,Buddy Hield,SF,1.4266
+NOP,LAC,CJ McCollum,PG,1.3898,Bones Hyland,PG,1.4453
+NOP,LAC,CJ McCollum,PG,1.3898,James Harden,PG,1.4185
+NOP,LAC,CJ McCollum,PG,1.3898,Paul George,PF,1.5025
+NOP,LAC,Izaiah Brockington,PG,1.9867,Bones Hyland,PG,1.4453
+NOP,LAC,Izaiah Brockington,PG,1.9867,James Harden,PG,1.4185
+NOP,LAC,Izaiah Brockington,PG,1.9867,Paul George,PF,1.5025
+NOP,LAC,Matt Ryan,SF,1.7787,Bones Hyland,PG,1.4453
+NOP,LAC,Matt Ryan,SF,1.7787,James Harden,PG,1.4185
+NOP,LAC,Matt Ryan,SF,1.7787,Paul George,PF,1.5025
+NOP,LAL,CJ McCollum,PG,1.3898,LeBron James,PF,1.433
+NOP,LAL,Izaiah Brockington,PG,1.9867,LeBron James,PF,1.433
+NOP,LAL,Matt Ryan,SF,1.7787,LeBron James,PF,1.433
+NOP,MEM,CJ McCollum,PG,1.3898,DeJon Jarreau,SG,1.7504
+NOP,MEM,CJ McCollum,PG,1.3898,Jaren Jackson Jr.,C,1.2731
+NOP,MEM,Izaiah Brockington,PG,1.9867,DeJon Jarreau,SG,1.7504
+NOP,MEM,Izaiah Brockington,PG,1.9867,Jaren Jackson Jr.,C,1.2731
+NOP,MEM,Matt Ryan,SF,1.7787,DeJon Jarreau,SG,1.7504
+NOP,MEM,Matt Ryan,SF,1.7787,Jaren Jackson Jr.,C,1.2731
+NOP,MIA,CJ McCollum,PG,1.3898,Duncan Robinson,SF,1.3519
+NOP,MIA,CJ McCollum,PG,1.3898,Kevin Love,PF,1.6032
+NOP,MIA,CJ McCollum,PG,1.3898,Tyler Herro,SG,1.3836
+NOP,MIA,Izaiah Brockington,PG,1.9867,Duncan Robinson,SF,1.3519
+NOP,MIA,Izaiah Brockington,PG,1.9867,Kevin Love,PF,1.6032
+NOP,MIA,Izaiah Brockington,PG,1.9867,Tyler Herro,SG,1.3836
+NOP,MIA,Matt Ryan,SF,1.7787,Duncan Robinson,SF,1.3519
+NOP,MIA,Matt Ryan,SF,1.7787,Kevin Love,PF,1.6032
+NOP,MIA,Matt Ryan,SF,1.7787,Tyler Herro,SG,1.3836
+NOP,MIL,CJ McCollum,PG,1.3898,Damian Lillard,PG,1.5511
+NOP,MIL,CJ McCollum,PG,1.3898,Giannis Antetokounmpo,PF,1.3567
+NOP,MIL,Izaiah Brockington,PG,1.9867,Damian Lillard,PG,1.5511
+NOP,MIL,Izaiah Brockington,PG,1.9867,Giannis Antetokounmpo,PF,1.3567
+NOP,MIL,Matt Ryan,SF,1.7787,Damian Lillard,PG,1.5511
+NOP,MIL,Matt Ryan,SF,1.7787,Giannis Antetokounmpo,PF,1.3567
+NOP,MIN,CJ McCollum,PG,1.3898,Karl-Anthony Towns,PF,1.3651
+NOP,MIN,CJ McCollum,PG,1.3898,Luka Garza,C,1.2829
+NOP,MIN,Izaiah Brockington,PG,1.9867,Karl-Anthony Towns,PF,1.3651
+NOP,MIN,Izaiah Brockington,PG,1.9867,Luka Garza,C,1.2829
+NOP,MIN,Matt Ryan,SF,1.7787,Karl-Anthony Towns,PF,1.3651
+NOP,MIN,Matt Ryan,SF,1.7787,Luka Garza,C,1.2829
+NOP,NYK,CJ McCollum,PG,1.3898,Julius Randle,PF,1.385
+NOP,NYK,Izaiah Brockington,PG,1.9867,Julius Randle,PF,1.385
+NOP,NYK,Matt Ryan,SF,1.7787,Julius Randle,PF,1.385
+NOP,OKC,CJ McCollum,PG,1.3898,Adam Flagler,SG,1.3991
+NOP,OKC,CJ McCollum,PG,1.3898,Dāvis Bertāns,PF,1.3816
+NOP,OKC,CJ McCollum,PG,1.3898,Lindy Waters III,SG,1.4594
+NOP,OKC,Izaiah Brockington,PG,1.9867,Adam Flagler,SG,1.3991
+NOP,OKC,Izaiah Brockington,PG,1.9867,Dāvis Bertāns,PF,1.3816
+NOP,OKC,Izaiah Brockington,PG,1.9867,Lindy Waters III,SG,1.4594
+NOP,OKC,Matt Ryan,SF,1.7787,Adam Flagler,SG,1.3991
+NOP,OKC,Matt Ryan,SF,1.7787,Dāvis Bertāns,PF,1.3816
+NOP,OKC,Matt Ryan,SF,1.7787,Lindy Waters III,SG,1.4594
+NOP,ORL,CJ McCollum,PG,1.3898,Jett Howard,SF,1.5514
+NOP,ORL,Izaiah Brockington,PG,1.9867,Jett Howard,SF,1.5514
+NOP,ORL,Matt Ryan,SF,1.7787,Jett Howard,SF,1.5514
+NOP,PHI,CJ McCollum,PG,1.3898,Joel Embiid,C,1.4156
+NOP,PHI,CJ McCollum,PG,1.3898,Terquavion Smith,PG,1.8295
+NOP,PHI,Izaiah Brockington,PG,1.9867,Joel Embiid,C,1.4156
+NOP,PHI,Izaiah Brockington,PG,1.9867,Terquavion Smith,PG,1.8295
+NOP,PHI,Matt Ryan,SF,1.7787,Joel Embiid,C,1.4156
+NOP,PHI,Matt Ryan,SF,1.7787,Terquavion Smith,PG,1.8295
+NOP,POR,CJ McCollum,PG,1.3898,Duop Reath,C,1.2603
+NOP,POR,Izaiah Brockington,PG,1.9867,Duop Reath,C,1.2603
+NOP,POR,Matt Ryan,SF,1.7787,Duop Reath,C,1.2603
+NOP,SAS,CJ McCollum,PG,1.3898,Victor Wembanyama,C,1.5026
+NOP,SAS,Izaiah Brockington,PG,1.9867,Victor Wembanyama,C,1.5026
+NOP,SAS,Matt Ryan,SF,1.7787,Victor Wembanyama,C,1.5026
+NOP,UTA,CJ McCollum,PG,1.3898,Lauri Markkanen,PF,1.4075
+NOP,UTA,Izaiah Brockington,PG,1.9867,Lauri Markkanen,PF,1.4075
+NOP,UTA,Matt Ryan,SF,1.7787,Lauri Markkanen,PF,1.4075
+NOP,WAS,CJ McCollum,PG,1.3898,Mike Muscala,C,1.2661
+NOP,WAS,CJ McCollum,PG,1.3898,Patrick Baldwin Jr.,SF,1.4218
+NOP,WAS,CJ McCollum,PG,1.3898,Tristan Vukcevic,C,1.365
+NOP,WAS,Izaiah Brockington,PG,1.9867,Mike Muscala,C,1.2661
+NOP,WAS,Izaiah Brockington,PG,1.9867,Patrick Baldwin Jr.,SF,1.4218
+NOP,WAS,Izaiah Brockington,PG,1.9867,Tristan Vukcevic,C,1.365
+NOP,WAS,Matt Ryan,SF,1.7787,Mike Muscala,C,1.2661
+NOP,WAS,Matt Ryan,SF,1.7787,Patrick Baldwin Jr.,SF,1.4218
+NOP,WAS,Matt Ryan,SF,1.7787,Tristan Vukcevic,C,1.365
+NYK,CHI,Julius Randle,PF,1.385,Nikola Vučević,C,1.2832
+NYK,MIN,Julius Randle,PF,1.385,Karl-Anthony Towns,PF,1.3651
+NYK,MIN,Julius Randle,PF,1.385,Luka Garza,C,1.2829
+NYK,PHO,Julius Randle,PF,1.385,Kevin Durant,PF,1.3258
+NYK,POR,Julius Randle,PF,1.385,Duop Reath,C,1.2603
+OKC,ATL,Adam Flagler,SG,1.3991,Trae Young,PG,1.4135
+OKC,ATL,Dāvis Bertāns,PF,1.3816,Trae Young,PG,1.4135
+OKC,ATL,Lindy Waters III,SG,1.4594,Trae Young,PG,1.4135
+OKC,CHI,Adam Flagler,SG,1.3991,Nikola Vučević,C,1.2832
+OKC,CHI,Chet Holmgren,C,1.2327,Nikola Vučević,C,1.2832
+OKC,CHI,Dāvis Bertāns,PF,1.3816,Nikola Vučević,C,1.2832
+OKC,CHI,Lindy Waters III,SG,1.4594,Nikola Vučević,C,1.2832
+OKC,DEN,Adam Flagler,SG,1.3991,Hunter Tyson,PF,1.4267
+OKC,DEN,Adam Flagler,SG,1.3991,Nikola Jokić,C,1.3803
+OKC,DEN,Chet Holmgren,C,1.2327,Hunter Tyson,PF,1.4267
+OKC,DEN,Chet Holmgren,C,1.2327,Nikola Jokić,C,1.3803
+OKC,DEN,Dāvis Bertāns,PF,1.3816,Hunter Tyson,PF,1.4267
+OKC,DEN,Dāvis Bertāns,PF,1.3816,Nikola Jokić,C,1.3803
+OKC,DEN,Lindy Waters III,SG,1.4594,Hunter Tyson,PF,1.4267
+OKC,DEN,Lindy Waters III,SG,1.4594,Nikola Jokić,C,1.3803
+OKC,IND,Adam Flagler,SG,1.3991,Buddy Hield,SF,1.4266
+OKC,IND,Dāvis Bertāns,PF,1.3816,Buddy Hield,SF,1.4266
+OKC,IND,Lindy Waters III,SG,1.4594,Buddy Hield,SF,1.4266
+OKC,LAL,Adam Flagler,SG,1.3991,LeBron James,PF,1.433
+OKC,LAL,Dāvis Bertāns,PF,1.3816,LeBron James,PF,1.433
+OKC,LAL,Lindy Waters III,SG,1.4594,LeBron James,PF,1.433
+OKC,MIN,Adam Flagler,SG,1.3991,Karl-Anthony Towns,PF,1.3651
+OKC,MIN,Adam Flagler,SG,1.3991,Luka Garza,C,1.2829
+OKC,MIN,Chet Holmgren,C,1.2327,Karl-Anthony Towns,PF,1.3651
+OKC,MIN,Chet Holmgren,C,1.2327,Luka Garza,C,1.2829
+OKC,MIN,Dāvis Bertāns,PF,1.3816,Karl-Anthony Towns,PF,1.3651
+OKC,MIN,Dāvis Bertāns,PF,1.3816,Luka Garza,C,1.2829
+OKC,MIN,Lindy Waters III,SG,1.4594,Karl-Anthony Towns,PF,1.3651
+OKC,MIN,Lindy Waters III,SG,1.4594,Luka Garza,C,1.2829
+OKC,NYK,Adam Flagler,SG,1.3991,Julius Randle,PF,1.385
+OKC,NYK,Dāvis Bertāns,PF,1.3816,Julius Randle,PF,1.385
+OKC,NYK,Lindy Waters III,SG,1.4594,Julius Randle,PF,1.385
+OKC,PHO,Adam Flagler,SG,1.3991,Kevin Durant,PF,1.3258
+OKC,PHO,Dāvis Bertāns,PF,1.3816,Kevin Durant,PF,1.3258
+OKC,PHO,Lindy Waters III,SG,1.4594,Kevin Durant,PF,1.3258
+OKC,POR,Adam Flagler,SG,1.3991,Duop Reath,C,1.2603
+OKC,POR,Chet Holmgren,C,1.2327,Duop Reath,C,1.2603
+OKC,POR,Dāvis Bertāns,PF,1.3816,Duop Reath,C,1.2603
+OKC,POR,Lindy Waters III,SG,1.4594,Duop Reath,C,1.2603
+OKC,UTA,Adam Flagler,SG,1.3991,Lauri Markkanen,PF,1.4075
+OKC,UTA,Dāvis Bertāns,PF,1.3816,Lauri Markkanen,PF,1.4075
+OKC,UTA,Lindy Waters III,SG,1.4594,Lauri Markkanen,PF,1.4075
+OKC,WAS,Adam Flagler,SG,1.3991,Mike Muscala,C,1.2661
+OKC,WAS,Adam Flagler,SG,1.3991,Patrick Baldwin Jr.,SF,1.4218
+OKC,WAS,Adam Flagler,SG,1.3991,Tristan Vukcevic,C,1.365
+OKC,WAS,Chet Holmgren,C,1.2327,Mike Muscala,C,1.2661
+OKC,WAS,Chet Holmgren,C,1.2327,Patrick Baldwin Jr.,SF,1.4218
+OKC,WAS,Chet Holmgren,C,1.2327,Tristan Vukcevic,C,1.365
+OKC,WAS,Dāvis Bertāns,PF,1.3816,Mike Muscala,C,1.2661
+OKC,WAS,Dāvis Bertāns,PF,1.3816,Patrick Baldwin Jr.,SF,1.4218
+OKC,WAS,Dāvis Bertāns,PF,1.3816,Tristan Vukcevic,C,1.365
+OKC,WAS,Lindy Waters III,SG,1.4594,Mike Muscala,C,1.2661
+OKC,WAS,Lindy Waters III,SG,1.4594,Patrick Baldwin Jr.,SF,1.4218
+OKC,WAS,Lindy Waters III,SG,1.4594,Tristan Vukcevic,C,1.365
+ORL,ATL,Jett Howard,SF,1.5514,Trae Young,PG,1.4135
+ORL,CHI,Jett Howard,SF,1.5514,Nikola Vučević,C,1.2832
+ORL,CLE,Jett Howard,SF,1.5514,Donovan Mitchell,SG,1.5487
+ORL,CLE,Jett Howard,SF,1.5514,Sam Merrill,SG,1.4809
+ORL,DEN,Jett Howard,SF,1.5514,Hunter Tyson,PF,1.4267
+ORL,DEN,Jett Howard,SF,1.5514,Michael Porter Jr.,SF,1.3439
+ORL,DEN,Jett Howard,SF,1.5514,Nikola Jokić,C,1.3803
+ORL,HOU,Jett Howard,SF,1.5514,Cam Whitmore,SF,1.4505
+ORL,HOU,Jett Howard,SF,1.5514,Nate Hinton,SG,1.5014
+ORL,IND,Jett Howard,SF,1.5514,Buddy Hield,SF,1.4266
+ORL,LAC,Jett Howard,SF,1.5514,Bones Hyland,PG,1.4453
+ORL,LAC,Jett Howard,SF,1.5514,James Harden,PG,1.4185
+ORL,LAC,Jett Howard,SF,1.5514,Paul George,PF,1.5025
+ORL,LAL,Jett Howard,SF,1.5514,LeBron James,PF,1.433
+ORL,MIL,Jett Howard,SF,1.5514,Damian Lillard,PG,1.5511
+ORL,MIL,Jett Howard,SF,1.5514,Giannis Antetokounmpo,PF,1.3567
+ORL,MIN,Jett Howard,SF,1.5514,Karl-Anthony Towns,PF,1.3651
+ORL,MIN,Jett Howard,SF,1.5514,Luka Garza,C,1.2829
+ORL,NYK,Jett Howard,SF,1.5514,Julius Randle,PF,1.385
+ORL,OKC,Jett Howard,SF,1.5514,Adam Flagler,SG,1.3991
+ORL,OKC,Jett Howard,SF,1.5514,Dāvis Bertāns,PF,1.3816
+ORL,OKC,Jett Howard,SF,1.5514,Lindy Waters III,SG,1.4594
+ORL,POR,Jett Howard,SF,1.5514,Duop Reath,C,1.2603
+ORL,SAS,Jett Howard,SF,1.5514,Victor Wembanyama,C,1.5026
+ORL,UTA,Jett Howard,SF,1.5514,Lauri Markkanen,PF,1.4075
+ORL,WAS,Jett Howard,SF,1.5514,Mike Muscala,C,1.2661
+ORL,WAS,Jett Howard,SF,1.5514,Patrick Baldwin Jr.,SF,1.4218
+ORL,WAS,Jett Howard,SF,1.5514,Tristan Vukcevic,C,1.365
+PHI,ATL,Joel Embiid,C,1.4156,Trae Young,PG,1.4135
+PHI,ATL,Terquavion Smith,PG,1.8295,Trae Young,PG,1.4135
+PHI,BOS,Joel Embiid,C,1.4156,Jaylen Brown,SF,1.3576
+PHI,BOS,Joel Embiid,C,1.4156,Jayson Tatum,PF,1.5576
+PHI,BOS,Joel Embiid,C,1.4156,Kristaps Porziņģis,C,1.3696
+PHI,BOS,Joel Embiid,C,1.4156,Sam Hauser,SF,1.6467
+PHI,BOS,Terquavion Smith,PG,1.8295,Jaylen Brown,SF,1.3576
+PHI,BOS,Terquavion Smith,PG,1.8295,Jayson Tatum,PF,1.5576
+PHI,BOS,Terquavion Smith,PG,1.8295,Kristaps Porziņģis,C,1.3696
+PHI,BOS,Terquavion Smith,PG,1.8295,Sam Hauser,SF,1.6467
+PHI,BRK,Joel Embiid,C,1.4156,Armoni Brooks,PG,1.3794
+PHI,BRK,Terquavion Smith,PG,1.8295,Armoni Brooks,PG,1.3794
+PHI,CHI,Joel Embiid,C,1.4156,Nikola Vučević,C,1.2832
+PHI,CHI,Terquavion Smith,PG,1.8295,Nikola Vučević,C,1.2832
+PHI,CHO,Joel Embiid,C,1.4156,LaMelo Ball,PG,1.5702
+PHI,CHO,Terquavion Smith,PG,1.8295,LaMelo Ball,PG,1.5702
+PHI,CLE,Joel Embiid,C,1.4156,Donovan Mitchell,SG,1.5487
+PHI,CLE,Joel Embiid,C,1.4156,Sam Merrill,SG,1.4809
+PHI,CLE,Terquavion Smith,PG,1.8295,Donovan Mitchell,SG,1.5487
+PHI,CLE,Terquavion Smith,PG,1.8295,Sam Merrill,SG,1.4809
+PHI,DAL,Joel Embiid,C,1.4156,Dexter Dennis,SG,1.5418
+PHI,DAL,Joel Embiid,C,1.4156,Kyrie Irving,SG,1.4046
+PHI,DAL,Joel Embiid,C,1.4156,Luka Dončić,PG,1.7383
+PHI,DAL,Joel Embiid,C,1.4156,Tim Hardaway Jr.,SF,1.3672
+PHI,DAL,Terquavion Smith,PG,1.8295,Dexter Dennis,SG,1.5418
+PHI,DAL,Terquavion Smith,PG,1.8295,Kyrie Irving,SG,1.4046
+PHI,DAL,Terquavion Smith,PG,1.8295,Luka Dončić,PG,1.7383
+PHI,DAL,Terquavion Smith,PG,1.8295,Tim Hardaway Jr.,SF,1.3672
+PHI,DEN,Joel Embiid,C,1.4156,Hunter Tyson,PF,1.4267
+PHI,DEN,Joel Embiid,C,1.4156,Nikola Jokić,C,1.3803
+PHI,DEN,Terquavion Smith,PG,1.8295,Hunter Tyson,PF,1.4267
+PHI,DEN,Terquavion Smith,PG,1.8295,Nikola Jokić,C,1.3803
+PHI,DET,Joel Embiid,C,1.4156,Stanley Umude,SG,1.5849
+PHI,DET,Terquavion Smith,PG,1.8295,Stanley Umude,SG,1.5849
+PHI,GSW,Joel Embiid,C,1.4156,Klay Thompson,SF,1.5375
+PHI,GSW,Joel Embiid,C,1.4156,Stephen Curry,PG,1.7955
+PHI,GSW,Terquavion Smith,PG,1.8295,Klay Thompson,SF,1.5375
+PHI,GSW,Terquavion Smith,PG,1.8295,Stephen Curry,PG,1.7955
+PHI,HOU,Joel Embiid,C,1.4156,Cam Whitmore,SF,1.4505
+PHI,HOU,Joel Embiid,C,1.4156,Nate Hinton,SG,1.5014
+PHI,HOU,Terquavion Smith,PG,1.8295,Cam Whitmore,SF,1.4505
+PHI,HOU,Terquavion Smith,PG,1.8295,Nate Hinton,SG,1.5014
+PHI,IND,Joel Embiid,C,1.4156,Buddy Hield,SF,1.4266
+PHI,IND,Terquavion Smith,PG,1.8295,Buddy Hield,SF,1.4266
+PHI,LAC,Joel Embiid,C,1.4156,Bones Hyland,PG,1.4453
+PHI,LAC,Joel Embiid,C,1.4156,James Harden,PG,1.4185
+PHI,LAC,Joel Embiid,C,1.4156,Paul George,PF,1.5025
+PHI,LAC,Terquavion Smith,PG,1.8295,Bones Hyland,PG,1.4453
+PHI,LAC,Terquavion Smith,PG,1.8295,James Harden,PG,1.4185
+PHI,LAC,Terquavion Smith,PG,1.8295,Paul George,PF,1.5025
+PHI,LAL,Joel Embiid,C,1.4156,LeBron James,PF,1.433
+PHI,LAL,Terquavion Smith,PG,1.8295,LeBron James,PF,1.433
+PHI,MEM,Joel Embiid,C,1.4156,DeJon Jarreau,SG,1.7504
+PHI,MEM,Joel Embiid,C,1.4156,Jaren Jackson Jr.,C,1.2731
+PHI,MEM,Terquavion Smith,PG,1.8295,DeJon Jarreau,SG,1.7504
+PHI,MEM,Terquavion Smith,PG,1.8295,Jaren Jackson Jr.,C,1.2731
+PHI,MIA,Joel Embiid,C,1.4156,Duncan Robinson,SF,1.3519
+PHI,MIA,Joel Embiid,C,1.4156,Kevin Love,PF,1.6032
+PHI,MIA,Joel Embiid,C,1.4156,Tyler Herro,SG,1.3836
+PHI,MIA,Terquavion Smith,PG,1.8295,Duncan Robinson,SF,1.3519
+PHI,MIA,Terquavion Smith,PG,1.8295,Kevin Love,PF,1.6032
+PHI,MIA,Terquavion Smith,PG,1.8295,Tyler Herro,SG,1.3836
+PHI,MIL,Joel Embiid,C,1.4156,Damian Lillard,PG,1.5511
+PHI,MIL,Joel Embiid,C,1.4156,Giannis Antetokounmpo,PF,1.3567
+PHI,MIL,Terquavion Smith,PG,1.8295,Damian Lillard,PG,1.5511
+PHI,MIL,Terquavion Smith,PG,1.8295,Giannis Antetokounmpo,PF,1.3567
+PHI,MIN,Joel Embiid,C,1.4156,Karl-Anthony Towns,PF,1.3651
+PHI,MIN,Joel Embiid,C,1.4156,Luka Garza,C,1.2829
+PHI,MIN,Terquavion Smith,PG,1.8295,Karl-Anthony Towns,PF,1.3651
+PHI,MIN,Terquavion Smith,PG,1.8295,Luka Garza,C,1.2829
+PHI,NYK,Joel Embiid,C,1.4156,Julius Randle,PF,1.385
+PHI,NYK,Terquavion Smith,PG,1.8295,Julius Randle,PF,1.385
+PHI,OKC,Joel Embiid,C,1.4156,Adam Flagler,SG,1.3991
+PHI,OKC,Joel Embiid,C,1.4156,Chet Holmgren,C,1.2327
+PHI,OKC,Joel Embiid,C,1.4156,Dāvis Bertāns,PF,1.3816
+PHI,OKC,Joel Embiid,C,1.4156,Lindy Waters III,SG,1.4594
+PHI,OKC,Terquavion Smith,PG,1.8295,Adam Flagler,SG,1.3991
+PHI,OKC,Terquavion Smith,PG,1.8295,Chet Holmgren,C,1.2327
+PHI,OKC,Terquavion Smith,PG,1.8295,Dāvis Bertāns,PF,1.3816
+PHI,OKC,Terquavion Smith,PG,1.8295,Lindy Waters III,SG,1.4594
+PHI,ORL,Joel Embiid,C,1.4156,Jett Howard,SF,1.5514
+PHI,ORL,Terquavion Smith,PG,1.8295,Jett Howard,SF,1.5514
+PHI,POR,Joel Embiid,C,1.4156,Duop Reath,C,1.2603
+PHI,POR,Terquavion Smith,PG,1.8295,Duop Reath,C,1.2603
+PHI,SAS,Joel Embiid,C,1.4156,Victor Wembanyama,C,1.5026
+PHI,SAS,Terquavion Smith,PG,1.8295,Victor Wembanyama,C,1.5026
+PHI,UTA,Joel Embiid,C,1.4156,Lauri Markkanen,PF,1.4075
+PHI,UTA,Terquavion Smith,PG,1.8295,Lauri Markkanen,PF,1.4075
+PHI,WAS,Joel Embiid,C,1.4156,Mike Muscala,C,1.2661
+PHI,WAS,Joel Embiid,C,1.4156,Patrick Baldwin Jr.,SF,1.4218
+PHI,WAS,Joel Embiid,C,1.4156,Tristan Vukcevic,C,1.365
+PHI,WAS,Terquavion Smith,PG,1.8295,Mike Muscala,C,1.2661
+PHI,WAS,Terquavion Smith,PG,1.8295,Patrick Baldwin Jr.,SF,1.4218
+PHI,WAS,Terquavion Smith,PG,1.8295,Tristan Vukcevic,C,1.365
+SAS,ATL,Victor Wembanyama,C,1.5026,Trae Young,PG,1.4135
+SAS,CHI,Victor Wembanyama,C,1.5026,Nikola Vučević,C,1.2832
+SAS,DEN,Victor Wembanyama,C,1.5026,Hunter Tyson,PF,1.4267
+SAS,DEN,Victor Wembanyama,C,1.5026,Nikola Jokić,C,1.3803
+SAS,HOU,Victor Wembanyama,C,1.5026,Cam Whitmore,SF,1.4505
+SAS,HOU,Victor Wembanyama,C,1.5026,Nate Hinton,SG,1.5014
+SAS,IND,Victor Wembanyama,C,1.5026,Buddy Hield,SF,1.4266
+SAS,LAC,Victor Wembanyama,C,1.5026,Bones Hyland,PG,1.4453
+SAS,LAC,Victor Wembanyama,C,1.5026,James Harden,PG,1.4185
+SAS,LAC,Victor Wembanyama,C,1.5026,Paul George,PF,1.5025
+SAS,LAL,Victor Wembanyama,C,1.5026,LeBron James,PF,1.433
+SAS,MIN,Victor Wembanyama,C,1.5026,Karl-Anthony Towns,PF,1.3651
+SAS,MIN,Victor Wembanyama,C,1.5026,Luka Garza,C,1.2829
+SAS,NYK,Victor Wembanyama,C,1.5026,Julius Randle,PF,1.385
+SAS,OKC,Victor Wembanyama,C,1.5026,Adam Flagler,SG,1.3991
+SAS,OKC,Victor Wembanyama,C,1.5026,Chet Holmgren,C,1.2327
+SAS,OKC,Victor Wembanyama,C,1.5026,Dāvis Bertāns,PF,1.3816
+SAS,OKC,Victor Wembanyama,C,1.5026,Lindy Waters III,SG,1.4594
+SAS,POR,Victor Wembanyama,C,1.5026,Duop Reath,C,1.2603
+SAS,UTA,Victor Wembanyama,C,1.5026,Lauri Markkanen,PF,1.4075
+SAS,WAS,Victor Wembanyama,C,1.5026,Mike Muscala,C,1.2661
+SAS,WAS,Victor Wembanyama,C,1.5026,Patrick Baldwin Jr.,SF,1.4218
+SAS,WAS,Victor Wembanyama,C,1.5026,Tristan Vukcevic,C,1.365
+UTA,CHI,Lauri Markkanen,PF,1.4075,Nikola Vučević,C,1.2832
+UTA,MIN,Lauri Markkanen,PF,1.4075,Karl-Anthony Towns,PF,1.3651
+UTA,MIN,Lauri Markkanen,PF,1.4075,Luka Garza,C,1.2829
+UTA,NYK,Lauri Markkanen,PF,1.4075,Julius Randle,PF,1.385
+UTA,PHO,Lauri Markkanen,PF,1.4075,Kevin Durant,PF,1.3258
+UTA,POR,Lauri Markkanen,PF,1.4075,Duop Reath,C,1.2603
+WAS,ATL,Mike Muscala,C,1.2661,Trae Young,PG,1.4135
+WAS,ATL,Patrick Baldwin Jr.,SF,1.4218,Trae Young,PG,1.4135
+WAS,ATL,Tristan Vukcevic,C,1.365,Trae Young,PG,1.4135
+WAS,CHI,Mike Muscala,C,1.2661,Nikola Vučević,C,1.2832
+WAS,CHI,Patrick Baldwin Jr.,SF,1.4218,Nikola Vučević,C,1.2832
+WAS,CHI,Tristan Vukcevic,C,1.365,Nikola Vučević,C,1.2832
+WAS,MIN,Mike Muscala,C,1.2661,Karl-Anthony Towns,PF,1.3651
+WAS,MIN,Mike Muscala,C,1.2661,Luka Garza,C,1.2829
+WAS,MIN,Patrick Baldwin Jr.,SF,1.4218,Karl-Anthony Towns,PF,1.3651
+WAS,MIN,Patrick Baldwin Jr.,SF,1.4218,Luka Garza,C,1.2829
+WAS,MIN,Tristan Vukcevic,C,1.365,Karl-Anthony Towns,PF,1.3651
+WAS,MIN,Tristan Vukcevic,C,1.365,Luka Garza,C,1.2829
+WAS,NYK,Mike Muscala,C,1.2661,Julius Randle,PF,1.385
+WAS,NYK,Patrick Baldwin Jr.,SF,1.4218,Julius Randle,PF,1.385
+WAS,NYK,Tristan Vukcevic,C,1.365,Julius Randle,PF,1.385
+WAS,POR,Mike Muscala,C,1.2661,Duop Reath,C,1.2603
+WAS,POR,Patrick Baldwin Jr.,SF,1.4218,Duop Reath,C,1.2603
+WAS,POR,Tristan Vukcevic,C,1.365,Duop Reath,C,1.2603
+WAS,UTA,Mike Muscala,C,1.2661,Lauri Markkanen,PF,1.4075
+WAS,UTA,Patrick Baldwin Jr.,SF,1.4218,Lauri Markkanen,PF,1.4075
+WAS,UTA,Tristan Vukcevic,C,1.365,Lauri Markkanen,PF,1.4075

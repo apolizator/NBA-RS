@@ -1,0 +1,1501 @@
+team,team_abbr,target_position,Rank,player_name,last_team,fit_score
+Portland Trail Blazers,POR,PG,1,Luka Dončić,DAL,4.273362446554802
+Detroit Pistons,DET,PG,1,Luka Dončić,DAL,4.071259232198104
+Charlotte Hornets,CHO,PG,1,Luka Dončić,DAL,4.058052247064437
+Washington Wizards,WAS,PG,1,Luka Dončić,DAL,3.9515012165178636
+Memphis Grizzlies,MEM,PG,1,Luka Dončić,DAL,3.852758262324737
+Toronto Raptors,TOR,PG,1,Luka Dončić,DAL,3.8035446495674337
+San Antonio Spurs,SAS,PG,1,Luka Dončić,DAL,3.724202663643887
+Brooklyn Nets,BRK,PG,1,Luka Dončić,DAL,3.66799426714724
+Utah Jazz,UTA,PG,1,Luka Dončić,DAL,3.659524559723484
+Atlanta Hawks,ATL,PG,1,Luka Dončić,DAL,3.6369826973017823
+Houston Rockets,HOU,PG,1,Luka Dončić,DAL,3.5885111636554097
+Miami Heat,MIA,PG,1,Luka Dončić,DAL,3.5645747940092547
+Portland Trail Blazers,POR,PG,2,Damian Lillard,MIL,3.5160800842972826
+Portland Trail Blazers,POR,PF,1,Paul George,LAC,3.4390699391541135
+Sacramento Kings,SAC,PG,1,Luka Dončić,DAL,3.434663319571571
+Chicago Bulls,CHI,PG,1,Luka Dončić,DAL,3.421968323235938
+Orlando Magic,ORL,PG,1,Luka Dončić,DAL,3.4086669611326386
+Memphis Grizzlies,MEM,PG,2,Damian Lillard,MIL,3.3476932587355415
+Cleveland Cavaliers,CLE,PG,1,Luka Dončić,DAL,3.3345188872594065
+New York Knicks,NYK,PG,1,Luka Dončić,DAL,3.3331113087439275
+Detroit Pistons,DET,PG,2,Damian Lillard,MIL,3.284541286887735
+Charlotte Hornets,CHO,PG,2,Damian Lillard,MIL,3.263407039769111
+Detroit Pistons,DET,PF,1,Paul George,LAC,3.2525736787581514
+Golden State Warriors,GSW,PG,1,Luka Dončić,DAL,3.240241977414226
+Charlotte Hornets,CHO,PF,1,Paul George,LAC,3.240136746448627
+Portland Trail Blazers,POR,SF,1,Klay Thompson,GSW,3.2165776498969736
+Milwaukee Bucks,MIL,PG,1,Luka Dončić,DAL,3.1924014590337295
+Washington Wizards,WAS,PG,2,Damian Lillard,MIL,3.1855991908549646
+Philadelphia 76ers,PHI,PG,1,Luka Dončić,DAL,3.151532240784493
+Washington Wizards,WAS,PF,1,Paul George,LAC,3.143655697980613
+San Antonio Spurs,SAS,PG,2,Damian Lillard,MIL,3.1239649943465233
+Portland Trail Blazers,POR,PF,2,Julius Randle,NYK,3.0986066734658992
+Portland Trail Blazers,POR,PF,3,Kevin Durant,PHO,3.0967469594718837
+Portland Trail Blazers,POR,PG,3,CJ McCollum,NOP,3.0927713038996396
+Memphis Grizzlies,MEM,SF,1,Klay Thompson,GSW,3.0883979092322416
+Toronto Raptors,TOR,PG,2,Damian Lillard,MIL,3.0847979574354443
+Portland Trail Blazers,POR,SF,2,Buddy Hield,IND,3.0713174400834107
+Memphis Grizzlies,MEM,PF,1,Paul George,LAC,3.0639903156415262
+Los Angeles Lakers,LAL,PG,1,Luka Dončić,DAL,3.05214926462344
+Indiana Pacers,IND,PG,1,Luka Dončić,DAL,3.01576410495426
+Toronto Raptors,TOR,PF,1,Paul George,LAC,3.009983668516298
+Brooklyn Nets,BRK,PG,2,Damian Lillard,MIL,2.992439706726044
+Portland Trail Blazers,POR,PG,4,De'Aaron Fox,SAC,2.980213727120262
+Houston Rockets,HOU,PG,2,Damian Lillard,MIL,2.9684698603725463
+Detroit Pistons,DET,PF,2,Kevin Durant,PHO,2.9629853216553883
+Detroit Pistons,DET,PF,3,Julius Randle,NYK,2.959368095244801
+Charlotte Hornets,CHO,PF,2,Kevin Durant,PHO,2.954392396055148
+Detroit Pistons,DET,SF,1,Klay Thompson,GSW,2.9524023008259133
+Charlotte Hornets,CHO,PF,3,Julius Randle,NYK,2.9512518754800423
+Utah Jazz,UTA,PG,2,Damian Lillard,MIL,2.9425209430473163
+San Antonio Spurs,SAS,PF,1,Paul George,LAC,2.942180935028857
+Portland Trail Blazers,POR,PG,5,D'Angelo Russell,LAL,2.9282848297348636
+Charlotte Hornets,CHO,SF,1,Klay Thompson,GSW,2.9270644564910073
+Portland Trail Blazers,POR,SG,1,Terry Rozier,CHO,2.926405406506722
+Los Angeles Clippers,LAC,PG,1,Luka Dončić,DAL,2.9113601168076118
+New Orleans Pelicans,NOP,PG,1,Luka Dončić,DAL,2.899766813631377
+Memphis Grizzlies,MEM,PG,3,CJ McCollum,NOP,2.8974321380069794
+Denver Nuggets,DEN,PG,1,Luka Dončić,DAL,2.8880978259141488
+Brooklyn Nets,BRK,PF,1,Paul George,LAC,2.88751967895847
+Portland Trail Blazers,POR,SG,2,Dejounte Murray,ATL,2.8854169875685103
+Washington Wizards,WAS,PF,2,Kevin Durant,PHO,2.8827799888414667
+Detroit Pistons,DET,PG,3,CJ McCollum,NOP,2.882457019444876
+Utah Jazz,UTA,PF,1,Paul George,LAC,2.8780305816755396
+Portland Trail Blazers,POR,PF,4,Lauri Markkanen,UTA,2.8739578876814265
+Washington Wizards,WAS,PF,3,Julius Randle,NYK,2.870598852944563
+Charlotte Hornets,CHO,PG,3,CJ McCollum,NOP,2.864071903217276
+Atlanta Hawks,ATL,PG,2,Damian Lillard,MIL,2.861454008099093
+Portland Trail Blazers,POR,SG,3,Jordan Poole,WAS,2.859999285398836
+Atlanta Hawks,ATL,PF,1,Paul George,LAC,2.854930739124398
+Miami Heat,MIA,PG,2,Damian Lillard,MIL,2.854303305592583
+Washington Wizards,WAS,SF,1,Klay Thompson,GSW,2.8473176196753807
+Memphis Grizzlies,MEM,SF,2,Buddy Hield,IND,2.8472955861747717
+Detroit Pistons,DET,PG,4,De'Aaron Fox,SAC,2.8447634947821303
+Charlotte Hornets,CHO,PG,4,De'Aaron Fox,SAC,2.8360935242368894
+Phoenix Suns,PHO,PG,1,Luka Dončić,DAL,2.835283445387054
+Orlando Magic,ORL,PG,2,Damian Lillard,MIL,2.834204774772177
+Detroit Pistons,DET,SF,2,Buddy Hield,IND,2.832793990153288
+Portland Trail Blazers,POR,SG,4,Zach LaVine,CHI,2.83108695397652
+San Antonio Spurs,SAS,SF,1,Klay Thompson,GSW,2.8175401867040395
+Houston Rockets,HOU,PF,1,Paul George,LAC,2.816966205356636
+Charlotte Hornets,CHO,SF,2,Buddy Hield,IND,2.81199044109924
+Memphis Grizzlies,MEM,PF,2,Kevin Durant,PHO,2.810638357509423
+Chicago Bulls,CHI,PG,2,Damian Lillard,MIL,2.8091568235584554
+Portland Trail Blazers,POR,SG,5,Immanuel Quickley,NYK,2.799993524369325
+Miami Heat,MIA,PF,1,Paul George,LAC,2.7912686838909333
+Washington Wizards,WAS,PG,3,CJ McCollum,NOP,2.787411444445641
+Toronto Raptors,TOR,PF,2,Kevin Durant,PHO,2.7831604779972974
+Portland Trail Blazers,POR,SG,6,Bogdan Bogdanović,ATL,2.7808140531024543
+Portland Trail Blazers,POR,PF,5,Kyle Kuzma,WAS,2.7693520830537928
+Detroit Pistons,DET,SG,1,Dejounte Murray,ATL,2.768487095080775
+Portland Trail Blazers,POR,SG,7,Jalen Green,HOU,2.76382593366146
+Charlotte Hornets,CHO,SG,1,Dejounte Murray,ATL,2.7637586348719703
+Washington Wizards,WAS,PG,4,De'Aaron Fox,SAC,2.7633453632674074
+Memphis Grizzlies,MEM,PF,3,Julius Randle,NYK,2.757521568801776
+Toronto Raptors,TOR,PF,3,Julius Randle,NYK,2.7574187233070546
+Memphis Grizzlies,MEM,PG,4,D'Angelo Russell,LAL,2.7568530239278184
+Portland Trail Blazers,POR,SG,8,Malik Beasley,MIL,2.754379954256832
+Toronto Raptors,TOR,SF,1,Klay Thompson,GSW,2.7463221168919225
+Detroit Pistons,DET,SG,2,Terry Rozier,CHO,2.739426682727833
+San Antonio Spurs,SAS,PF,2,Kevin Durant,PHO,2.727439833482774
+Detroit Pistons,DET,PG,5,D'Angelo Russell,LAL,2.725934597006457
+Washington Wizards,WAS,SF,2,Buddy Hield,IND,2.724697153696796
+Portland Trail Blazers,POR,SF,3,Tim Hardaway Jr.,DAL,2.7213555383827734
+Minnesota Timberwolves,MIN,PG,1,Luka Dončić,DAL,2.7202362176201724
+Portland Trail Blazers,POR,PG,6,Darius Garland,CLE,2.7187075812092805
+Sacramento Kings,SAC,PG,2,Damian Lillard,MIL,2.7129234149337105
+Charlotte Hornets,CHO,PG,5,D'Angelo Russell,LAL,2.7079294699761656
+San Antonio Spurs,SAS,PG,3,CJ McCollum,NOP,2.704549745188745
+Portland Trail Blazers,POR,SG,9,Desmond Bane,MEM,2.7036961109034388
+Portland Trail Blazers,POR,SG,10,Gary Trent Jr.,TOR,2.700700178139538
+Memphis Grizzlies,MEM,SG,1,Terry Rozier,CHO,2.699075057647434
+Memphis Grizzlies,MEM,SG,2,Jordan Poole,WAS,2.6980750173747827
+Detroit Pistons,DET,PF,4,Lauri Markkanen,UTA,2.6944946199886988
+Brooklyn Nets,BRK,PF,2,Kevin Durant,PHO,2.6918943083034375
+Portland Trail Blazers,POR,PG,7,Russell Westbrook,LAC,2.6918059690836986
+Memphis Grizzlies,MEM,PG,5,De'Aaron Fox,SAC,2.688852165875888
+Portland Trail Blazers,POR,PF,6,Karl-Anthony Towns,MIN,2.6873457644109147
+Utah Jazz,UTA,PF,2,Kevin Durant,PHO,2.6872806394229096
+Toronto Raptors,TOR,PG,3,CJ McCollum,NOP,2.686560231033271
+Portland Trail Blazers,POR,PG,8,Jalen Brunson,NYK,2.6827888436940075
+Cleveland Cavaliers,CLE,PG,2,Damian Lillard,MIL,2.6825167286686415
+San Antonio Spurs,SAS,PF,3,Julius Randle,NYK,2.6814668505612387
+Washington Wizards,WAS,SG,1,Dejounte Murray,ATL,2.6806386700817275
+Charlotte Hornets,CHO,PF,4,Lauri Markkanen,UTA,2.6805652641820106
+New York Knicks,NYK,PG,2,Damian Lillard,MIL,2.675825308655917
+Portland Trail Blazers,POR,SF,4,Brandon Miller,CHO,2.6739495712773724
+Atlanta Hawks,ATL,PF,2,Kevin Durant,PHO,2.673723997073414
+Sacramento Kings,SAC,PF,1,Paul George,LAC,2.6716994445742372
+Chicago Bulls,CHI,PF,1,Paul George,LAC,2.6645944505725305
+Toronto Raptors,TOR,PG,4,De'Aaron Fox,SAC,2.662108574196121
+Portland Trail Blazers,POR,C,1,Kristaps Porziņģis,BOS,2.6610991058659486
+Detroit Pistons,DET,SG,3,Zach LaVine,CHI,2.658219391955325
+Detroit Pistons,DET,SG,4,Jordan Poole,WAS,2.6568437158578204
+Dallas Mavericks,DAL,PG,1,Damian Lillard,MIL,2.6550841389634408
+Utah Jazz,UTA,PF,3,Julius Randle,NYK,2.6544776700106514
+Orlando Magic,ORL,PF,1,Paul George,LAC,2.653996658853112
+Brooklyn Nets,BRK,SF,1,Klay Thompson,GSW,2.6537827065175943
+Brooklyn Nets,BRK,PF,3,Julius Randle,NYK,2.6537302766689868
+Washington Wizards,WAS,SG,2,Terry Rozier,CHO,2.6483773946223828
+Atlanta Hawks,ATL,PF,3,Julius Randle,NYK,2.647989654607296
+Philadelphia 76ers,PHI,PG,2,Damian Lillard,MIL,2.645961351078213
+Portland Trail Blazers,POR,PG,9,Jrue Holiday,BOS,2.6459191374392956
+Portland Trail Blazers,POR,PG,10,Mike Conley,MIN,2.644302956881044
+Charlotte Hornets,CHO,SG,2,Zach LaVine,CHI,2.643827072904006
+Dallas Mavericks,DAL,PF,1,Paul George,LAC,2.6418365596219733
+Houston Rockets,HOU,SF,1,Klay Thompson,GSW,2.640118939929175
+Charlotte Hornets,CHO,SG,3,Jordan Poole,WAS,2.6385717742811234
+Houston Rockets,HOU,PF,2,Kevin Durant,PHO,2.6376336689431934
+Washington Wizards,WAS,PG,5,D'Angelo Russell,LAL,2.6365031558258267
+Memphis Grizzlies,MEM,SG,3,Zach LaVine,CHI,2.632970557658614
+San Antonio Spurs,SAS,SF,2,Buddy Hield,IND,2.6291474681437603
+Portland Trail Blazers,POR,C,2,Anthony Davis,LAL,2.6246955902006346
+Miami Heat,MIA,PF,2,Kevin Durant,PHO,2.6239311315920695
+Detroit Pistons,DET,SG,5,Immanuel Quickley,NYK,2.6160494226080577
+Memphis Grizzlies,MEM,PF,4,Lauri Markkanen,UTA,2.615436952050856
+Detroit Pistons,DET,PF,5,Kyle Kuzma,WAS,2.609785533853425
+Toronto Raptors,TOR,SF,2,Buddy Hield,IND,2.6097749012048004
+Detroit Pistons,DET,PG,6,Russell Westbrook,LAC,2.6071903086330663
+Charlotte Hornets,CHO,PG,6,Russell Westbrook,LAC,2.605834089703525
+San Antonio Spurs,SAS,PG,4,De'Aaron Fox,SAC,2.6050035863412497
+Portland Trail Blazers,POR,PF,7,Paolo Banchero,ORL,2.6026980041740524
+Washington Wizards,WAS,PF,4,Lauri Markkanen,UTA,2.6021831651917484
+Charlotte Hornets,CHO,SG,4,Immanuel Quickley,NYK,2.6008648926507822
+Charlotte Hornets,CHO,PF,5,Kyle Kuzma,WAS,2.597875103849142
+Brooklyn Nets,BRK,PG,3,CJ McCollum,NOP,2.594158282752568
+Charlotte Hornets,CHO,C,1,Anthony Davis,LAL,2.5929537701173007
+Utah Jazz,UTA,SF,1,Klay Thompson,GSW,2.588624612317503
+Houston Rockets,HOU,PF,3,Julius Randle,NYK,2.5879891383071834
+Detroit Pistons,DET,C,1,Anthony Davis,LAL,2.5879432128980104
+Miami Heat,MIA,PF,3,Julius Randle,NYK,2.5856967159342403
+Cleveland Cavaliers,CLE,PF,1,Paul George,LAC,2.582797294487048
+Memphis Grizzlies,MEM,SG,4,Immanuel Quickley,NYK,2.5823959495729447
+Memphis Grizzlies,MEM,SG,5,Jalen Green,HOU,2.581368959249995
+New York Knicks,NYK,PF,1,Paul George,LAC,2.5812870729406674
+Detroit Pistons,DET,SG,6,Jalen Green,HOU,2.58095548815555
+Memphis Grizzlies,MEM,SG,6,Malik Beasley,MIL,2.578050597673441
+Detroit Pistons,DET,SG,7,Bogdan Bogdanović,ATL,2.5771426139076063
+Washington Wizards,WAS,SG,3,Zach LaVine,CHI,2.575513087363747
+Brooklyn Nets,BRK,PG,4,De'Aaron Fox,SAC,2.5693607864763868
+San Antonio Spurs,SAS,PG,5,D'Angelo Russell,LAL,2.567248121589331
+Memphis Grizzlies,MEM,SG,7,Bogdan Bogdanović,ATL,2.566312302607191
+Portland Trail Blazers,POR,SF,5,Miles Bridges,CHO,2.5661036032415097
+Charlotte Hornets,CHO,SG,5,Jalen Green,HOU,2.5652108994748968
+Utah Jazz,UTA,PG,3,De'Aaron Fox,SAC,2.5648994158772043
+Houston Rockets,HOU,PG,3,CJ McCollum,NOP,2.563313913987897
+Memphis Grizzlies,MEM,SF,3,Tim Hardaway Jr.,DAL,2.5626585799063912
+Toronto Raptors,TOR,SG,1,Dejounte Murray,ATL,2.5617047608679893
+Detroit Pistons,DET,PF,6,Karl-Anthony Towns,MIN,2.560533602157131
+Charlotte Hornets,CHO,SG,6,Bogdan Bogdanović,ATL,2.5598233648682576
+Detroit Pistons,DET,PG,7,Darius Garland,CLE,2.556745888180748
+Utah Jazz,UTA,PG,4,CJ McCollum,NOP,2.55425331190372
+Oklahoma City Thunder,OKC,PG,1,Luka Dončić,DAL,2.5528872597285495
+Charlotte Hornets,CHO,PF,6,Karl-Anthony Towns,MIN,2.552733041887944
+Atlanta Hawks,ATL,PG,3,De'Aaron Fox,SAC,2.5514608448365514
+Toronto Raptors,TOR,SG,2,Terry Rozier,CHO,2.5469544079498094
+Charlotte Hornets,CHO,PG,7,Darius Garland,CLE,2.5434419109017643
+Toronto Raptors,TOR,PG,5,D'Angelo Russell,LAL,2.543089490628601
+Detroit Pistons,DET,PG,8,Jalen Brunson,NYK,2.542630772041214
+San Antonio Spurs,SAS,SG,1,Terry Rozier,CHO,2.5406816286920657
+Portland Trail Blazers,POR,PF,8,Pascal Siakam,TOR,2.539949326441395
+Sacramento Kings,SAC,PF,2,Kevin Durant,PHO,2.537765627797585
+Golden State Warriors,GSW,PG,2,Damian Lillard,MIL,2.53711032991918
+Detroit Pistons,DET,C,2,Kristaps Porziņģis,BOS,2.5325225823567714
+Charlotte Hornets,CHO,PG,8,Jalen Brunson,NYK,2.531393146852121
+Washington Wizards,WAS,PG,6,Russell Westbrook,LAC,2.530457009434116
+Portland Trail Blazers,POR,PF,9,Jimmy Butler,MIA,2.5290719122685292
+Detroit Pistons,DET,SG,8,Desmond Bane,MEM,2.528590191536849
+Washington Wizards,WAS,SG,4,Immanuel Quickley,NYK,2.5272153917732973
+Chicago Bulls,CHI,PF,2,Kevin Durant,PHO,2.5266309328431023
+Portland Trail Blazers,POR,C,3,Domantas Sabonis,SAC,2.525230028406562
+Charlotte Hornets,CHO,C,2,Kristaps Porziņģis,BOS,2.524544019139136
+Memphis Grizzlies,MEM,PG,6,Darius Garland,CLE,2.5236727140871063
+Detroit Pistons,DET,SG,9,Malik Beasley,MIL,2.5213496771587676
+Washington Wizards,WAS,C,1,Anthony Davis,LAL,2.5189313007507983
+Dallas Mavericks,DAL,PF,2,Kevin Durant,PHO,2.517540475541528
+Orlando Magic,ORL,PF,2,Kevin Durant,PHO,2.5168337050911704
+Portland Trail Blazers,POR,SF,6,Brandon Ingram,NOP,2.5159165421357996
+Memphis Grizzlies,MEM,PF,5,Kyle Kuzma,WAS,2.5147117743664054
+Charlotte Hornets,CHO,SG,7,Desmond Bane,MEM,2.514100616562239
+Houston Rockets,HOU,PG,4,De'Aaron Fox,SAC,2.5140639300255705
+Boston Celtics,BOS,PG,1,Luka Dončić,DAL,2.5115299166882794
+Detroit Pistons,DET,SG,10,Donte DiVincenzo,NYK,2.5083968957229694
+San Antonio Spurs,SAS,SG,2,Jordan Poole,WAS,2.5052304651065445
+Portland Trail Blazers,POR,PF,10,Bobby Portis,MIL,2.505172760830857
+Detroit Pistons,DET,PG,9,Jrue Holiday,BOS,2.504527276139849
+Brooklyn Nets,BRK,SF,2,Buddy Hield,IND,2.504480890026559
+Detroit Pistons,DET,SF,3,Tim Hardaway Jr.,DAL,2.5024447089801214
+Orlando Magic,ORL,SF,1,Klay Thompson,GSW,2.5015685092122206
+Miami Heat,MIA,PG,3,De'Aaron Fox,SAC,2.500642545255171
+Detroit Pistons,DET,PF,7,Paolo Banchero,ORL,2.500308393937344
+Charlotte Hornets,CHO,SG,8,Malik Beasley,MIL,2.500210633423126
+Memphis Grizzlies,MEM,SG,8,Jordan Clarkson,UTA,2.499723925001156
+Memphis Grizzlies,MEM,PG,7,Jalen Brunson,NYK,2.499633275144855
+Washington Wizards,WAS,SG,5,Jalen Green,HOU,2.496773691154578
+Charlotte Hornets,CHO,C,3,Domantas Sabonis,SAC,2.4964522999765313
+Toronto Raptors,TOR,PF,4,Lauri Markkanen,UTA,2.495998123357214
+Charlotte Hornets,CHO,SG,9,Donte DiVincenzo,NYK,2.495612446192433
+Charlotte Hornets,CHO,PF,7,Paolo Banchero,ORL,2.495329431209613
+Charlotte Hornets,CHO,PG,9,Jrue Holiday,BOS,2.495055726068278
+Sacramento Kings,SAC,PF,3,Julius Randle,NYK,2.494974603021144
+Golden State Warriors,GSW,PF,1,Paul George,LAC,2.4942444814411036
+Miami Heat,MIA,SF,1,Klay Thompson,GSW,2.4921662709503702
+Detroit Pistons,DET,SF,4,Brandon Miller,CHO,2.4915060996848775
+Detroit Pistons,DET,C,3,Domantas Sabonis,SAC,2.4911685001300437
+Memphis Grizzlies,MEM,SG,9,Dejounte Murray,ATL,2.4899898697197616
+Charlotte Hornets,CHO,SG,10,Gary Trent Jr.,TOR,2.489593098360565
+Atlanta Hawks,ATL,PG,4,CJ McCollum,NOP,2.488087291932153
+Atlanta Hawks,ATL,SF,1,Klay Thompson,GSW,2.484862804555995
+Toronto Raptors,TOR,SG,3,Zach LaVine,CHI,2.4843870629719618
+San Antonio Spurs,SAS,SG,3,Zach LaVine,CHI,2.483590464190476
+Charlotte Hornets,CHO,SF,3,Tim Hardaway Jr.,DAL,2.482453415204452
+Washington Wizards,WAS,PF,5,Karl-Anthony Towns,MIN,2.482290876701212
+Washington Wizards,WAS,SG,6,Bogdan Bogdanović,ATL,2.4820073909363107
+Washington Wizards,WAS,PG,7,Darius Garland,CLE,2.4781080335692156
+Dallas Mavericks,DAL,PF,3,Julius Randle,NYK,2.4769429674766834
+Charlotte Hornets,CHO,PF,8,Jimmy Butler,MIA,2.476893804620966
+Toronto Raptors,TOR,SG,4,Jordan Poole,WAS,2.4767478183441995
+Detroit Pistons,DET,PF,8,Jimmy Butler,MIA,2.475196935134692
+San Antonio Spurs,SAS,PF,4,Lauri Markkanen,UTA,2.4732449766829516
+Washington Wizards,WAS,PG,8,Jalen Brunson,NYK,2.472824707077606
+Detroit Pistons,DET,PG,10,Mike Conley,MIN,2.472392339134186
+Miami Heat,MIA,PG,4,CJ McCollum,NOP,2.471342080534737
+Cleveland Cavaliers,CLE,PF,2,Kevin Durant,PHO,2.4694052233633705
+Houston Rockets,HOU,SF,2,Buddy Hield,IND,2.468968191346509
+New York Knicks,NYK,PF,2,Kevin Durant,PHO,2.4685988992186023
+Chicago Bulls,CHI,PF,3,Julius Randle,NYK,2.468096063634096
+Utah Jazz,UTA,SG,1,Dejounte Murray,ATL,2.4673578143888446
+Portland Trail Blazers,POR,SF,7,Keldon Johnson,SAS,2.467040008296408
+Chicago Bulls,CHI,SF,1,Klay Thompson,GSW,2.464772383499464
+Portland Trail Blazers,POR,SF,8,Kelly Oubre Jr.,PHI,2.464313371275895
+Memphis Grizzlies,MEM,SG,10,Gary Trent Jr.,TOR,2.463798799910256
+Memphis Grizzlies,MEM,SF,4,Brandon Miller,CHO,2.463420821644898
+Utah Jazz,UTA,SF,2,Buddy Hield,IND,2.4595419471767324
+Charlotte Hornets,CHO,PG,10,Mike Conley,MIN,2.4589133752414996
+Brooklyn Nets,BRK,PG,5,D'Angelo Russell,LAL,2.4575012351678467
+Brooklyn Nets,BRK,SG,1,Terry Rozier,CHO,2.4540309986706874
+Portland Trail Blazers,POR,SF,9,Saddiq Bey,ATL,2.4538874322741293
+Washington Wizards,WAS,C,2,Kristaps Porziņģis,BOS,2.453633958468454
+Brooklyn Nets,BRK,SG,2,Dejounte Murray,ATL,2.4527479535136347
+San Antonio Spurs,SAS,SG,4,Dejounte Murray,ATL,2.4527005547762872
+Orlando Magic,ORL,PF,3,Julius Randle,NYK,2.4523378952335637
+Milwaukee Bucks,MIL,PF,1,Paul George,LAC,2.4507363380502927
+Detroit Pistons,DET,PF,9,Pascal Siakam,TOR,2.449589269765166
+Charlotte Hornets,CHO,PF,9,Pascal Siakam,TOR,2.445881304498645
+Washington Wizards,WAS,SG,7,Desmond Bane,MEM,2.444245180265702
+Orlando Magic,ORL,PG,3,CJ McCollum,NOP,2.4316515219555295
+Houston Rockets,HOU,PG,5,D'Angelo Russell,LAL,2.4313583797490144
+Portland Trail Blazers,POR,SF,10,Michael Porter Jr.,DEN,2.429069789259531
+Toronto Raptors,TOR,SG,5,Immanuel Quickley,NYK,2.428762976103599
+Washington Wizards,WAS,PF,6,Paolo Banchero,ORL,2.4287271659332266
+Detroit Pistons,DET,SF,5,Miles Bridges,CHO,2.425839331770013
+Utah Jazz,UTA,SG,2,Terry Rozier,CHO,2.425438335525719
+San Antonio Spurs,SAS,SG,5,Immanuel Quickley,NYK,2.4250994137445447
+Toronto Raptors,TOR,PF,5,Kyle Kuzma,WAS,2.424840271667786
+Washington Wizards,WAS,C,3,Domantas Sabonis,SAC,2.4231303882492794
+Washington Wizards,WAS,PG,9,Jrue Holiday,BOS,2.422222153469461
+Philadelphia 76ers,PHI,PF,1,Paul George,LAC,2.4211436696911623
+Memphis Grizzlies,MEM,PG,8,Tyrese Maxey,PHI,2.4210411808974976
+Washington Wizards,WAS,SG,8,Malik Beasley,MIL,2.420933270571858
+Toronto Raptors,TOR,PG,6,Russell Westbrook,LAC,2.420754150151325
+Atlanta Hawks,ATL,C,1,Anthony Davis,LAL,2.4170658707249064
+Utah Jazz,UTA,PG,5,D'Angelo Russell,LAL,2.416989269321111
+San Antonio Spurs,SAS,SG,6,Jalen Green,HOU,2.4167303845270762
+Houston Rockets,HOU,SG,1,Terry Rozier,CHO,2.4151236751974863
+Chicago Bulls,CHI,PG,3,CJ McCollum,NOP,2.4143471443035973
+Cleveland Cavaliers,CLE,PF,3,Julius Randle,NYK,2.412178020868257
+Washington Wizards,WAS,SG,9,Gary Trent Jr.,TOR,2.410610681927418
+Washington Wizards,WAS,PF,7,Jimmy Butler,MIA,2.4100248573881604
+Washington Wizards,WAS,SG,10,Donte DiVincenzo,NYK,2.4094694371780583
+Washington Wizards,WAS,SF,3,Tim Hardaway Jr.,DAL,2.408960622122379
+Golden State Warriors,GSW,PF,2,Kevin Durant,PHO,2.407930728261764
+Los Angeles Lakers,LAL,PG,2,Damian Lillard,MIL,2.407428269159325
+Toronto Raptors,TOR,C,1,Anthony Davis,LAL,2.407202047588457
+Toronto Raptors,TOR,SG,6,Jalen Green,HOU,2.406319323504573
+Detroit Pistons,DET,SF,6,Brandon Ingram,NOP,2.4059417097694
+Washington Wizards,WAS,SF,4,Brandon Miller,CHO,2.4040428461486423
+Memphis Grizzlies,MEM,PG,9,Mike Conley,MIN,2.4037534788769044
+Miami Heat,MIA,SG,1,Dejounte Murray,ATL,2.402448114543021
+Chicago Bulls,CHI,PG,4,De'Aaron Fox,SAC,2.4014950656531653
+Brooklyn Nets,BRK,SG,3,Zach LaVine,CHI,2.4008972183575574
+Detroit Pistons,DET,PF,10,Bobby Portis,MIL,2.399799810983378
+Brooklyn Nets,BRK,PF,4,Lauri Markkanen,UTA,2.3987133352998797
+Charlotte Hornets,CHO,SF,4,Brandon Ingram,NOP,2.398614124507898
+Memphis Grizzlies,MEM,PF,6,Karl-Anthony Towns,MIN,2.3980395318258703
+Charlotte Hornets,CHO,PF,10,Bobby Portis,MIL,2.396029840480862
+San Antonio Spurs,SAS,PF,5,Kyle Kuzma,WAS,2.394327795068688
+Toronto Raptors,TOR,PG,7,Jalen Brunson,NYK,2.394004222765645
+Dallas Mavericks,DAL,PG,2,De'Aaron Fox,SAC,2.392984433712487
+Brooklyn Nets,BRK,SG,4,Jordan Poole,WAS,2.3928646680609713
+Orlando Magic,ORL,PG,4,De'Aaron Fox,SAC,2.3913632453946376
+Toronto Raptors,TOR,PG,8,Darius Garland,CLE,2.390666993354036
+Portland Trail Blazers,POR,C,4,Jonas Valančiūnas,NOP,2.3896351552707014
+San Antonio Spurs,SAS,PG,6,Darius Garland,CLE,2.386013337126414
+San Antonio Spurs,SAS,SG,7,Bogdan Bogdanović,ATL,2.3857001000359497
+Atlanta Hawks,ATL,SF,2,Buddy Hield,IND,2.3849385765912867
+Washington Wizards,WAS,PG,10,Mike Conley,MIN,2.384831284817191
+San Antonio Spurs,SAS,PG,7,Jalen Brunson,NYK,2.384012003210997
+Toronto Raptors,TOR,PF,6,Karl-Anthony Towns,MIN,2.383888333174837
+Washington Wizards,WAS,PF,8,Pascal Siakam,TOR,2.3820463094662756
+Toronto Raptors,TOR,SG,7,Bogdan Bogdanović,ATL,2.378789490161718
+Atlanta Hawks,ATL,SG,1,Terry Rozier,CHO,2.376070866493154
+Milwaukee Bucks,MIL,PF,2,Kevin Durant,PHO,2.375889372500065
+Houston Rockets,HOU,SG,2,Dejounte Murray,ATL,2.3742139019752386
+Atlanta Hawks,ATL,PG,5,Russell Westbrook,LAC,2.3736256093540646
+Utah Jazz,UTA,SG,3,Zach LaVine,CHI,2.372915588471244
+Memphis Grizzlies,MEM,PF,7,Bojan Bogdanović,DET,2.371675279960974
+Memphis Grizzlies,MEM,C,1,Kristaps Porziņģis,BOS,2.3713951155613024
+Houston Rockets,HOU,SG,3,Jordan Poole,WAS,2.3687985715538176
+Houston Rockets,HOU,SG,4,Zach LaVine,CHI,2.3675067228252433
+Miami Heat,MIA,SF,2,Buddy Hield,IND,2.3653471424695547
+Memphis Grizzlies,MEM,PG,10,Jrue Holiday,BOS,2.3637726075718852
+Toronto Raptors,TOR,C,2,Kristaps Porziņģis,BOS,2.3546573417048218
+San Antonio Spurs,SAS,SG,8,Malik Beasley,MIL,2.3545536213625144
+Golden State Warriors,GSW,PF,3,Julius Randle,NYK,2.3533476197537126
+Utah Jazz,UTA,C,1,Anthony Davis,LAL,2.3529628856478046
+Houston Rockets,HOU,PF,4,Lauri Markkanen,UTA,2.352738954075174
+San Antonio Spurs,SAS,SF,3,Tim Hardaway Jr.,DAL,2.351008861725426
+Toronto Raptors,TOR,SG,8,Desmond Bane,MEM,2.3509195699539975
+Utah Jazz,UTA,SG,4,Jordan Poole,WAS,2.350884230834464
+Atlanta Hawks,ATL,PG,6,D'Angelo Russell,LAL,2.3504192693532455
+Miami Heat,MIA,SG,2,Terry Rozier,CHO,2.3482066307067653
+San Antonio Spurs,SAS,SG,9,Desmond Bane,MEM,2.3481823551648695
+Charlotte Hornets,CHO,C,4,Jonas Valančiūnas,NOP,2.344874617269505
+Utah Jazz,UTA,PG,6,Russell Westbrook,LAC,2.34466429272961
+Washington Wizards,WAS,SF,5,Miles Bridges,CHO,2.344392643191152
+Philadelphia 76ers,PHI,PF,2,Kevin Durant,PHO,2.344026438719202
+Cleveland Cavaliers,CLE,PG,3,De'Aaron Fox,SAC,2.343685439088171
+New York Knicks,NYK,PG,3,De'Aaron Fox,SAC,2.342895525288817
+Sacramento Kings,SAC,PG,3,CJ McCollum,NOP,2.3419143437976366
+Detroit Pistons,DET,C,4,Jonas Valančiūnas,NOP,2.3417850530638673
+Washington Wizards,WAS,SF,6,Brandon Ingram,NOP,2.341673553649082
+Brooklyn Nets,BRK,SG,5,Immanuel Quickley,NYK,2.338560954422876
+Miami Heat,MIA,PG,5,D'Angelo Russell,LAL,2.338300599008851
+Atlanta Hawks,ATL,PF,4,Lauri Markkanen,UTA,2.3361670843533497
+Charlotte Hornets,CHO,C,5,Ivica Zubac,LAC,2.3343476896251563
+Toronto Raptors,TOR,PF,7,Paolo Banchero,ORL,2.3341781455163364
+Portland Trail Blazers,POR,C,5,Ivica Zubac,LAC,2.3338666122318146
+Brooklyn Nets,BRK,PF,5,Kyle Kuzma,WAS,2.3333661273249
+Sacramento Kings,SAC,SF,1,Klay Thompson,GSW,2.332378358353712
+New Orleans Pelicans,NOP,PG,2,Damian Lillard,MIL,2.332227748248802
+Detroit Pistons,DET,SF,7,Keldon Johnson,SAS,2.3285165463930633
+Detroit Pistons,DET,C,5,Ivica Zubac,LAC,2.3275959520042147
+Atlanta Hawks,ATL,SG,2,Zach LaVine,CHI,2.325149040343379
+Atlanta Hawks,ATL,C,2,Domantas Sabonis,SAC,2.324865532245612
+San Antonio Spurs,SAS,SG,10,Jordan Clarkson,UTA,2.3244648707138116
+Los Angeles Lakers,LAL,PF,1,Paul George,LAC,2.3242473328537474
+Sacramento Kings,SAC,SG,1,Dejounte Murray,ATL,2.3236702452258573
+San Antonio Spurs,SAS,PF,6,Karl-Anthony Towns,MIN,2.32356842176049
+Brooklyn Nets,BRK,SG,6,Jalen Green,HOU,2.3234437443891256
+Brooklyn Nets,BRK,PG,6,Jalen Brunson,NYK,2.321789658414076
+Toronto Raptors,TOR,PG,9,Jrue Holiday,BOS,2.321365357230815
+Brooklyn Nets,BRK,PG,7,Russell Westbrook,LAC,2.3202563031627603
+Orlando Magic,ORL,SF,2,Buddy Hield,IND,2.3190778059969075
+Detroit Pistons,DET,SF,8,Kelly Oubre Jr.,PHI,2.318725926629613
+Charlotte Hornets,CHO,SF,5,Keldon Johnson,SAS,2.318630906939111
+Toronto Raptors,TOR,SG,9,Malik Beasley,MIL,2.317979682139417
+Milwaukee Bucks,MIL,PF,3,Julius Randle,NYK,2.317878383562924
+Washington Wizards,WAS,PF,9,Bobby Portis,MIL,2.3175042306539178
+Utah Jazz,UTA,PF,4,Kyle Kuzma,WAS,2.3167444647718662
+Dallas Mavericks,DAL,SG,1,Dejounte Murray,ATL,2.316140149480629
+Cleveland Cavaliers,CLE,SF,1,Klay Thompson,GSW,2.3148857322361427
+Toronto Raptors,TOR,SF,3,Tim Hardaway Jr.,DAL,2.313767955182826
+Toronto Raptors,TOR,C,3,Domantas Sabonis,SAC,2.312256427138911
+Toronto Raptors,TOR,PF,8,Jimmy Butler,MIA,2.3108766353008177
+Denver Nuggets,DEN,PG,2,Damian Lillard,MIL,2.310768826219346
+Los Angeles Clippers,LAC,PG,2,Damian Lillard,MIL,2.3107149240538853
+Brooklyn Nets,BRK,PG,8,Darius Garland,CLE,2.310553723173398
+Miami Heat,MIA,C,1,Anthony Davis,LAL,2.310311251315557
+Utah Jazz,UTA,SG,5,Immanuel Quickley,NYK,2.309657063506652
+Charlotte Hornets,CHO,SF,6,Kelly Oubre Jr.,PHI,2.308594471624637
+Philadelphia 76ers,PHI,SF,1,Klay Thompson,GSW,2.308482556232587
+Orlando Magic,ORL,PG,5,D'Angelo Russell,LAL,2.308461867075495
+Toronto Raptors,TOR,SF,4,Brandon Miller,CHO,2.307553820707099
+New York Knicks,NYK,SF,1,Klay Thompson,GSW,2.306215158104664
+San Antonio Spurs,SAS,SF,4,Brandon Miller,CHO,2.3061165370979655
+Brooklyn Nets,BRK,C,1,Anthony Davis,LAL,2.3048526937176983
+Cleveland Cavaliers,CLE,PG,4,CJ McCollum,NOP,2.3028928609748327
+Miami Heat,MIA,SG,3,Zach LaVine,CHI,2.302303370159596
+Utah Jazz,UTA,PG,7,Jalen Brunson,NYK,2.3019924794025766
+Houston Rockets,HOU,SG,5,Immanuel Quickley,NYK,2.301578453127443
+Memphis Grizzlies,MEM,PF,8,Paolo Banchero,ORL,2.300223105807123
+Chicago Bulls,CHI,SF,2,Buddy Hield,IND,2.299771406028289
+Miami Heat,MIA,PF,4,Lauri Markkanen,UTA,2.299670958989583
+Dallas Mavericks,DAL,C,1,Anthony Davis,LAL,2.298812108096959
+New York Knicks,NYK,PG,4,CJ McCollum,NOP,2.297501577289999
+San Antonio Spurs,SAS,PG,8,Russell Westbrook,LAC,2.2971266227319984
+Toronto Raptors,TOR,SG,10,Jordan Clarkson,UTA,2.296757247831957
+San Antonio Spurs,SAS,C,1,Kristaps Porziņģis,BOS,2.295003241060003
+Atlanta Hawks,ATL,PF,5,Jimmy Butler,MIA,2.294739672211237
+Memphis Grizzlies,MEM,SF,5,Brandon Ingram,NOP,2.2944051248872523
+Brooklyn Nets,BRK,PF,6,Karl-Anthony Towns,MIN,2.2937376072281848
+Dallas Mavericks,DAL,PG,3,CJ McCollum,NOP,2.2923376507958855
+Utah Jazz,UTA,PF,5,Karl-Anthony Towns,MIN,2.2916808064140795
+Miami Heat,MIA,PG,6,Russell Westbrook,LAC,2.290618918386971
+Utah Jazz,UTA,SG,6,Jalen Green,HOU,2.2903633633882414
+Houston Rockets,HOU,PG,6,Jalen Brunson,NYK,2.2898962076595084
+Chicago Bulls,CHI,PG,5,D'Angelo Russell,LAL,2.2896909226397955
+Memphis Grizzlies,MEM,SF,6,Miles Bridges,CHO,2.2878627653406145
+Indiana Pacers,IND,PF,1,Paul George,LAC,2.2872241613551134
+Houston Rockets,HOU,PF,5,Kyle Kuzma,WAS,2.2871852391621568
+Detroit Pistons,DET,SF,9,Saddiq Bey,ATL,2.2863321797836242
+Orlando Magic,ORL,SG,1,Terry Rozier,CHO,2.28578294619618
+Utah Jazz,UTA,PG,8,Darius Garland,CLE,2.2855455219687975
+Atlanta Hawks,ATL,PF,6,Kyle Kuzma,WAS,2.2853003731292065
+Toronto Raptors,TOR,PG,10,Mike Conley,MIN,2.284669289148827
+Brooklyn Nets,BRK,SG,7,Bogdan Bogdanović,ATL,2.284220271761691
+Indiana Pacers,IND,PG,2,Damian Lillard,MIL,2.282888375151967
+Atlanta Hawks,ATL,SG,3,Jordan Poole,WAS,2.282253603265767
+Atlanta Hawks,ATL,PF,7,Karl-Anthony Towns,MIN,2.28201146397208
+Golden State Warriors,GSW,PG,3,De'Aaron Fox,SAC,2.2816306882192796
+Los Angeles Lakers,LAL,PF,2,Kevin Durant,PHO,2.281325354972361
+Portland Trail Blazers,POR,C,6,Alperen Şengün,HOU,2.2791508502949256
+Washington Wizards,WAS,C,4,Ivica Zubac,LAC,2.2782440077369452
+Sacramento Kings,SAC,C,1,Anthony Davis,LAL,2.277485725586665
+Chicago Bulls,CHI,SG,1,Terry Rozier,CHO,2.277295389889427
+Houston Rockets,HOU,PG,7,Darius Garland,CLE,2.2772543087948005
+Phoenix Suns,PHO,PG,2,Damian Lillard,MIL,2.2748444722543133
+San Antonio Spurs,SAS,PG,9,Tyrese Maxey,PHI,2.274742221224953
+Washington Wizards,WAS,C,5,Jonas Valančiūnas,NOP,2.273817121432509
+Charlotte Hornets,CHO,SF,7,Saddiq Bey,ATL,2.2731281158375216
+Miami Heat,MIA,SG,4,Jordan Poole,WAS,2.272550745336029
+Detroit Pistons,DET,SF,10,Michael Porter Jr.,DEN,2.2718919256997063
+San Antonio Spurs,SAS,PG,10,Jrue Holiday,BOS,2.2708817214876484
+Atlanta Hawks,ATL,PG,7,Jalen Brunson,NYK,2.267233814449067
+Brooklyn Nets,BRK,SG,8,Desmond Bane,MEM,2.265414650354833
+Brooklyn Nets,BRK,C,2,Kristaps Porziņģis,BOS,2.2639805823793644
+Minnesota Timberwolves,MIN,PG,2,Damian Lillard,MIL,2.2635270086799397
+Toronto Raptors,TOR,SF,5,Brandon Ingram,NOP,2.262776052732046
+Chicago Bulls,CHI,SG,2,Dejounte Murray,ATL,2.26258281162613
+Dallas Mavericks,DAL,SF,1,Klay Thompson,GSW,2.261920259619972
+Utah Jazz,UTA,C,2,Kristaps Porziņģis,BOS,2.2614298093549756
+Atlanta Hawks,ATL,SG,4,Immanuel Quickley,NYK,2.2600258546487093
+Charlotte Hornets,CHO,SF,8,Michael Porter Jr.,DEN,2.260020544598983
+Utah Jazz,UTA,C,3,Domantas Sabonis,SAC,2.259566197298465
+Indiana Pacers,IND,PF,2,Kevin Durant,PHO,2.259287690012528
+Atlanta Hawks,ATL,PF,8,Paolo Banchero,ORL,2.2590683934440254
+Philadelphia 76ers,PHI,PF,3,Julius Randle,NYK,2.2577791232435223
+San Antonio Spurs,SAS,PF,7,Paolo Banchero,ORL,2.2568937366128052
+Utah Jazz,UTA,PF,6,Paolo Banchero,ORL,2.2547362647415676
+Utah Jazz,UTA,PF,7,Jimmy Butler,MIA,2.2527411561855892
+Washington Wizards,WAS,SF,7,Keldon Johnson,SAS,2.2517443426173283
+Atlanta Hawks,ATL,C,3,Kristaps Porziņģis,BOS,2.2509867005015827
+Charlotte Hornets,CHO,SF,9,Franz Wagner,ORL,2.2507374332209897
+Orlando Magic,ORL,SG,2,Zach LaVine,CHI,2.250687900295103
+Milwaukee Bucks,MIL,PG,2,De'Aaron Fox,SAC,2.249104576525296
+Houston Rockets,HOU,SG,6,Bogdan Bogdanović,ATL,2.248928535265009
+Utah Jazz,UTA,SG,7,Bogdan Bogdanović,ATL,2.2488255731722337
+Orlando Magic,ORL,SG,3,Jordan Poole,WAS,2.247745973841688
+Brooklyn Nets,BRK,PF,7,Paolo Banchero,ORL,2.2475597060462587
+Miami Heat,MIA,PF,5,Kyle Kuzma,WAS,2.2468580870610935
+Philadelphia 76ers,PHI,PG,3,CJ McCollum,NOP,2.246284428886298
+Toronto Raptors,TOR,SF,6,Miles Bridges,CHO,2.244703028818949
+Miami Heat,MIA,PG,7,Jalen Brunson,NYK,2.2432637860510622
+Atlanta Hawks,ATL,PG,8,Darius Garland,CLE,2.242452007253287
+Charlotte Hornets,CHO,C,6,Alperen Şengün,HOU,2.2423269154722982
+Houston Rockets,HOU,PG,8,Russell Westbrook,LAC,2.2403441891643903
+Detroit Pistons,DET,C,6,Alperen Şengün,HOU,2.2388991062564516
+Washington Wizards,WAS,PF,10,Bojan Bogdanović,DET,2.2384623568657878
+Houston Rockets,HOU,PF,6,Karl-Anthony Towns,MIN,2.2384304058198783
+Utah Jazz,UTA,SG,8,Desmond Bane,MEM,2.237667543727441
+Memphis Grizzlies,MEM,PF,9,Pascal Siakam,TOR,2.237191419147231
+Washington Wizards,WAS,SF,8,Kelly Oubre Jr.,PHI,2.2363927308919695
+Orlando Magic,ORL,SG,4,Dejounte Murray,ATL,2.2353424576812992
+Atlanta Hawks,ATL,SG,5,Jalen Green,HOU,2.2350530693932136
+Miami Heat,MIA,SG,5,Immanuel Quickley,NYK,2.2340751938170955
+Dallas Mavericks,DAL,PG,4,Russell Westbrook,LAC,2.233131358536342
+San Antonio Spurs,SAS,C,2,Anthony Davis,LAL,2.232194405887624
+Sacramento Kings,SAC,SG,2,Terry Rozier,CHO,2.2318637795377576
+Sacramento Kings,SAC,PG,4,Russell Westbrook,LAC,2.2310477417481467
+Houston Rockets,HOU,SG,7,Desmond Bane,MEM,2.2305961193464503
+Miami Heat,MIA,PF,6,Karl-Anthony Towns,MIN,2.2304378571407555
+Charlotte Hornets,CHO,SF,10,Keegan Murray,SAC,2.2299291352795128
+Brooklyn Nets,BRK,PG,9,Jrue Holiday,BOS,2.228965065243797
+Atlanta Hawks,ATL,PF,9,Pascal Siakam,TOR,2.22818601145448
+Chicago Bulls,CHI,SG,3,Jordan Poole,WAS,2.227590773231003
+Brooklyn Nets,BRK,SF,3,Tim Hardaway Jr.,DAL,2.226548479549587
+New York Knicks,NYK,SG,1,Dejounte Murray,ATL,2.226471061074749
+Atlanta Hawks,ATL,C,4,Ivica Zubac,LAC,2.225326099087025
+Cleveland Cavaliers,CLE,SG,1,Dejounte Murray,ATL,2.224821491602375
+Brooklyn Nets,BRK,SG,9,Malik Beasley,MIL,2.2236496940606982
+Memphis Grizzlies,MEM,SF,7,Saddiq Bey,ATL,2.2229092261838295
+San Antonio Spurs,SAS,SF,5,Brandon Ingram,NOP,2.22265617258428
+Memphis Grizzlies,MEM,SF,8,Keldon Johnson,SAS,2.222271326868685
+Brooklyn Nets,BRK,SG,10,Jordan Clarkson,UTA,2.221999191580196
+Utah Jazz,UTA,PG,9,Jrue Holiday,BOS,2.2214861805316035
+Brooklyn Nets,BRK,PF,8,Jimmy Butler,MIA,2.220050020747591
+Orlando Magic,ORL,PF,4,Lauri Markkanen,UTA,2.219363597943331
+Brooklyn Nets,BRK,SF,4,Brandon Miller,CHO,2.2191504425957134
+Miami Heat,MIA,PG,8,Darius Garland,CLE,2.218770402730293
+Sacramento Kings,SAC,SF,2,Buddy Hield,IND,2.2185004308949243
+Utah Jazz,UTA,PF,8,Pascal Siakam,TOR,2.2180505020599948
+Miami Heat,MIA,C,2,Domantas Sabonis,SAC,2.2178451695928785
+Miami Heat,MIA,SG,6,Jalen Green,HOU,2.217444250338686
+Chicago Bulls,CHI,PF,4,Lauri Markkanen,UTA,2.21639995520729
+Philadelphia 76ers,PHI,PG,4,De'Aaron Fox,SAC,2.2158177418142007
+Sacramento Kings,SAC,PG,5,D'Angelo Russell,LAL,2.214166475572068
+Brooklyn Nets,BRK,C,3,Domantas Sabonis,SAC,2.2106907984892583
+Los Angeles Lakers,LAL,PF,3,Julius Randle,NYK,2.209716639229471
+Dallas Mavericks,DAL,C,2,Domantas Sabonis,SAC,2.2087277335289714
+Houston Rockets,HOU,C,1,Kristaps Porziņģis,BOS,2.208680213408566
+San Antonio Spurs,SAS,PF,8,Pascal Siakam,TOR,2.207688365386785
+Memphis Grizzlies,MEM,SF,9,Sam Hauser,BOS,2.207608337295539
+Houston Rockets,HOU,C,2,Anthony Davis,LAL,2.207569180891182
+Brooklyn Nets,BRK,PF,9,Pascal Siakam,TOR,2.207121784051999
+Toronto Raptors,TOR,PF,9,Bobby Portis,MIL,2.204704819034632
+Houston Rockets,HOU,SF,3,Tim Hardaway Jr.,DAL,2.203994260577295
+Atlanta Hawks,ATL,PG,9,Jrue Holiday,BOS,2.2035819369783374
+Washington Wizards,WAS,SF,9,Saddiq Bey,ATL,2.201413832046718
+Houston Rockets,HOU,SG,8,Jordan Clarkson,UTA,2.2013033975981187
+Miami Heat,MIA,PF,7,Paolo Banchero,ORL,2.200769726377552
+Miami Heat,MIA,C,3,Kristaps Porziņģis,BOS,2.1995727006631487
+Indiana Pacers,IND,PF,3,Julius Randle,NYK,2.1982111574991317
+Houston Rockets,HOU,SG,9,Malik Beasley,MIL,2.1980577400969374
+Memphis Grizzlies,MEM,SF,10,Keegan Murray,SAC,2.1975039604223237
+San Antonio Spurs,SAS,SF,6,Miles Bridges,CHO,2.195308920079383
+Sacramento Kings,SAC,SG,3,Zach LaVine,CHI,2.1950274965107153
+San Antonio Spurs,SAS,PF,9,Bojan Bogdanović,DET,2.194709282418664
+Brooklyn Nets,BRK,PG,10,Mike Conley,MIN,2.1929024474954373
+Toronto Raptors,TOR,C,4,Ivica Zubac,LAC,2.1916992198995175
+Dallas Mavericks,DAL,SG,2,Terry Rozier,CHO,2.1915361912537774
+Brooklyn Nets,BRK,SF,5,Brandon Ingram,NOP,2.190493904865162
+Atlanta Hawks,ATL,SG,6,Desmond Bane,MEM,2.190102344578175
+Orlando Magic,ORL,PG,6,Jalen Brunson,NYK,2.1900239697526627
+Utah Jazz,UTA,SF,3,Brandon Miller,CHO,2.1898032376569074
+Washington Wizards,WAS,SF,10,Franz Wagner,ORL,2.1891792711846225
+Golden State Warriors,GSW,SG,1,Dejounte Murray,ATL,2.1884196161837117
+Houston Rockets,HOU,PF,7,Paolo Banchero,ORL,2.1881612526009016
+New Orleans Pelicans,NOP,PF,1,Paul George,LAC,2.187767486217801
+Sacramento Kings,SAC,PF,4,Lauri Markkanen,UTA,2.1870456423408275
+Los Angeles Clippers,LAC,PF,1,Kevin Durant,PHO,2.1865512996690892
+Chicago Bulls,CHI,PG,6,Jalen Brunson,NYK,2.1853003451827466
+Utah Jazz,UTA,SF,4,Brandon Ingram,NOP,2.1849407514452093
+Golden State Warriors,GSW,C,1,Anthony Davis,LAL,2.184196240846632
+Houston Rockets,HOU,SF,4,Brandon Miller,CHO,2.1836025832035695
+Cleveland Cavaliers,CLE,SG,2,Terry Rozier,CHO,2.182736336870525
+Cleveland Cavaliers,CLE,PG,5,D'Angelo Russell,LAL,2.1810638283034796
+Utah Jazz,UTA,SF,5,Tim Hardaway Jr.,DAL,2.1792873160780797
+Dallas Mavericks,DAL,PF,4,Jimmy Butler,MIA,2.179118408391494
+New York Knicks,NYK,SG,2,Terry Rozier,CHO,2.1788127094845415
+Utah Jazz,UTA,SG,9,Gary Trent Jr.,TOR,2.178062679683548
+New Orleans Pelicans,NOP,PF,2,Kevin Durant,PHO,2.1780200171655366
+San Antonio Spurs,SAS,PF,10,Jimmy Butler,MIA,2.1766945217207914
+Denver Nuggets,DEN,PF,1,Paul George,LAC,2.1766629524166268
+Orlando Magic,ORL,SG,5,Jalen Green,HOU,2.176557603976113
+Washington Wizards,WAS,C,6,Alperen Şengün,HOU,2.1764423419145835
+Houston Rockets,HOU,PG,9,Jrue Holiday,BOS,2.175950073224015
+Golden State Warriors,GSW,PG,4,CJ McCollum,NOP,2.175872419139064
+Orlando Magic,ORL,SG,6,Immanuel Quickley,NYK,2.175720541008171
+New York Knicks,NYK,PG,5,D'Angelo Russell,LAL,2.1756092035232104
+Utah Jazz,UTA,SG,10,Malik Beasley,MIL,2.1742891573623466
+Cleveland Cavaliers,CLE,SF,2,Buddy Hield,IND,2.173577376100635
+Atlanta Hawks,ATL,SF,3,Brandon Ingram,NOP,2.1713773553447306
+Utah Jazz,UTA,PG,10,Mike Conley,MIN,2.1706600889148326
+Denver Nuggets,DEN,PF,2,Kevin Durant,PHO,2.1704964841409646
+Sacramento Kings,SAC,PF,5,Jimmy Butler,MIA,2.1684542775567905
+Miami Heat,MIA,PF,8,Pascal Siakam,TOR,2.1680749093664673
+Toronto Raptors,TOR,C,5,Jonas Valančiūnas,NOP,2.167647561432649
+New York Knicks,NYK,SF,2,Buddy Hield,IND,2.167503181241159
+Houston Rockets,HOU,SG,10,Gary Trent Jr.,TOR,2.1674097641008485
+Miami Heat,MIA,SG,7,Bogdan Bogdanović,ATL,2.166871544111595
+Houston Rockets,HOU,PG,10,Tyrese Maxey,PHI,2.166643910228096
+Chicago Bulls,CHI,SG,4,Immanuel Quickley,NYK,2.1665940843302067
+Miami Heat,MIA,SG,8,Desmond Bane,MEM,2.1658358603530248
+Orlando Magic,ORL,PG,7,Darius Garland,CLE,2.1656492081581025
+Dallas Mavericks,DAL,PG,5,D'Angelo Russell,LAL,2.165313940753265
+Chicago Bulls,CHI,PF,5,Kyle Kuzma,WAS,2.163472809523153
+Chicago Bulls,CHI,SG,5,Jalen Green,HOU,2.1631315333461814
+Orlando Magic,ORL,PF,5,Kyle Kuzma,WAS,2.1629231318558837
+Dallas Mavericks,DAL,SF,2,Buddy Hield,IND,2.162447449731315
+Atlanta Hawks,ATL,C,5,Jonas Valančiūnas,NOP,2.1618875718820028
+Memphis Grizzlies,MEM,C,2,Anthony Davis,LAL,2.161187502081667
+New York Knicks,NYK,C,1,Anthony Davis,LAL,2.161182435601122
+Toronto Raptors,TOR,PF,10,Bojan Bogdanović,DET,2.1610754687789617
+Utah Jazz,UTA,C,4,Ivica Zubac,LAC,2.160130337910672
+Toronto Raptors,TOR,SF,7,Keldon Johnson,SAS,2.1598712126789628
+Chicago Bulls,CHI,PG,7,Darius Garland,CLE,2.1580557016835678
+Dallas Mavericks,DAL,SG,3,Zach LaVine,CHI,2.1569012398201775
+Milwaukee Bucks,MIL,C,1,Anthony Davis,LAL,2.1565672141863548
+Miami Heat,MIA,PG,9,Jrue Holiday,BOS,2.15585335792937
+Sacramento Kings,SAC,PG,6,Jalen Brunson,NYK,2.1557507917342558
+Cleveland Cavaliers,CLE,C,1,Anthony Davis,LAL,2.1551680281150634
+Brooklyn Nets,BRK,SF,6,Miles Bridges,CHO,2.153372004443047
+Milwaukee Bucks,MIL,SG,1,Dejounte Murray,ATL,2.15330250199702
+Los Angeles Lakers,LAL,PG,3,De'Aaron Fox,SAC,2.1529778405023885
+Cleveland Cavaliers,CLE,SG,3,Zach LaVine,CHI,2.152851060829838
+Dallas Mavericks,DAL,PF,5,Lauri Markkanen,UTA,2.1511557282006004
+New York Knicks,NYK,SG,3,Zach LaVine,CHI,2.1490281962839273
+Houston Rockets,HOU,SF,5,Brandon Ingram,NOP,2.148818440572397
+Chicago Bulls,CHI,PG,8,Russell Westbrook,LAC,2.1487305495338083
+Sacramento Kings,SAC,PF,6,Karl-Anthony Towns,MIN,2.1483195946990077
+Sacramento Kings,SAC,SG,4,Jordan Poole,WAS,2.1481648350030955
+Houston Rockets,HOU,PF,8,Pascal Siakam,TOR,2.1470357728220018
+Sacramento Kings,SAC,PF,7,Kyle Kuzma,WAS,2.146130151133794
+Utah Jazz,UTA,SF,6,Miles Bridges,CHO,2.145740369602854
+Dallas Mavericks,DAL,C,3,Ivica Zubac,LAC,2.144881239350988
+Memphis Grizzlies,MEM,PF,10,Jimmy Butler,MIA,2.1445264179074206
+Houston Rockets,HOU,PF,9,Jimmy Butler,MIA,2.1405583659935394
+Indiana Pacers,IND,C,1,Anthony Davis,LAL,2.139732590459667
+Atlanta Hawks,ATL,SF,4,Brandon Miller,CHO,2.139644059711791
+Chicago Bulls,CHI,C,1,Anthony Davis,LAL,2.138410343487627
+Milwaukee Bucks,MIL,PG,3,CJ McCollum,NOP,2.1379417552453686
+Atlanta Hawks,ATL,SG,7,Donte DiVincenzo,NYK,2.1378673978803184
+Toronto Raptors,TOR,SF,8,Kelly Oubre Jr.,PHI,2.136878625906914
+San Antonio Spurs,SAS,C,3,Domantas Sabonis,SAC,2.136195044059653
+Philadelphia 76ers,PHI,PG,5,D'Angelo Russell,LAL,2.135715023464576
+Atlanta Hawks,ATL,PF,10,Bobby Portis,MIL,2.1347417230709564
+Miami Heat,MIA,SF,3,Brandon Ingram,NOP,2.133756485262672
+New York Knicks,NYK,PG,6,Russell Westbrook,LAC,2.133446962912244
+Sacramento Kings,SAC,PF,8,Paolo Banchero,ORL,2.132828776381073
+Miami Heat,MIA,C,4,Ivica Zubac,LAC,2.132657955686393
+Chicago Bulls,CHI,PF,6,Karl-Anthony Towns,MIN,2.1313805301038786
+Indiana Pacers,IND,PG,3,De'Aaron Fox,SAC,2.131095748338628
+Atlanta Hawks,ATL,PG,10,Mike Conley,MIN,2.130828929290694
+Cleveland Cavaliers,CLE,PG,6,Russell Westbrook,LAC,2.1305059504346096
+Dallas Mavericks,DAL,PF,6,Karl-Anthony Towns,MIN,2.130406791140491
+Cleveland Cavaliers,CLE,PF,4,Lauri Markkanen,UTA,2.129044857780665
+Phoenix Suns,PHO,PF,1,Paul George,LAC,2.1289499550669055
+Atlanta Hawks,ATL,SF,5,Miles Bridges,CHO,2.1276871567790203
+Atlanta Hawks,ATL,SG,8,Gary Trent Jr.,TOR,2.12648955068389
+Dallas Mavericks,DAL,PG,6,Jalen Brunson,NYK,2.1264120328159732
+New York Knicks,NYK,PF,3,Lauri Markkanen,UTA,2.1259323155082055
+Atlanta Hawks,ATL,SG,9,Josh Giddey,OKC,2.125317710407046
+Dallas Mavericks,DAL,PF,7,Paolo Banchero,ORL,2.1231771514645885
+Atlanta Hawks,ATL,SG,10,Jordan Clarkson,UTA,2.120682943760715
+Portland Trail Blazers,POR,C,7,Myles Turner,IND,2.1201894504074126
+Orlando Magic,ORL,PF,6,Karl-Anthony Towns,MIN,2.1197710419600235
+Sacramento Kings,SAC,SG,5,Immanuel Quickley,NYK,2.1197642350321813
+Sacramento Kings,SAC,C,2,Ivica Zubac,LAC,2.119737250691759
+Sacramento Kings,SAC,PG,7,Darius Garland,CLE,2.118038460804827
+Utah Jazz,UTA,PF,9,Bobby Portis,MIL,2.1178242191709438
+Cleveland Cavaliers,CLE,SG,4,Jordan Poole,WAS,2.117671444027786
+Golden State Warriors,GSW,PG,5,Russell Westbrook,LAC,2.1170304053237787
+Sacramento Kings,SAC,C,3,Kristaps Porziņģis,BOS,2.116398150941388
+Dallas Mavericks,DAL,PF,8,Kyle Kuzma,WAS,2.1159501307649418
+Orlando Magic,ORL,SG,7,Bogdan Bogdanović,ATL,2.11562470022285
+Cleveland Cavaliers,CLE,PG,7,Jalen Brunson,NYK,2.115495449186189
+Miami Heat,MIA,SF,4,Brandon Miller,CHO,2.115185185514016
+Orlando Magic,ORL,PG,8,Russell Westbrook,LAC,2.1151581022589934
+Houston Rockets,HOU,C,3,Domantas Sabonis,SAC,2.1133771069593212
+Miami Heat,MIA,SG,9,Jordan Clarkson,UTA,2.1130869313234197
+Brooklyn Nets,BRK,C,4,Ivica Zubac,LAC,2.112422224447774
+New York Knicks,NYK,SG,4,Jordan Poole,WAS,2.112030018648956
+Orlando Magic,ORL,SG,8,Desmond Bane,MEM,2.1111994965609036
+Utah Jazz,UTA,C,5,Jonas Valančiūnas,NOP,2.1100251281627496
+Philadelphia 76ers,PHI,SF,2,Buddy Hield,IND,2.108005662025292
+Sacramento Kings,SAC,PF,9,Pascal Siakam,TOR,2.107264605923689
+Sacramento Kings,SAC,SG,6,Jalen Green,HOU,2.1046057583188915
+Toronto Raptors,TOR,SF,9,Saddiq Bey,ATL,2.104551485988729
+Toronto Raptors,TOR,SF,10,Franz Wagner,ORL,2.1034692976897675
+Philadelphia 76ers,PHI,SG,1,Terry Rozier,CHO,2.10277832702854
+Atlanta Hawks,ATL,SF,6,Tim Hardaway Jr.,DAL,2.1025525184283076
+Chicago Bulls,CHI,SG,6,Desmond Bane,MEM,2.102279143769761
+Los Angeles Clippers,LAC,PF,2,Julius Randle,NYK,2.1021494235839127
+Chicago Bulls,CHI,SG,7,Bogdan Bogdanović,ATL,2.102122496029295
+Brooklyn Nets,BRK,PF,10,Bobby Portis,MIL,2.1013684426776558
+Dallas Mavericks,DAL,PF,9,Pascal Siakam,TOR,2.10124882329637
+Houston Rockets,HOU,SF,6,Miles Bridges,CHO,2.101134130020441
+Chicago Bulls,CHI,C,2,Kristaps Porziņģis,BOS,2.10050527651585
+Milwaukee Bucks,MIL,SF,1,Klay Thompson,GSW,2.0994420772107305
+Dallas Mavericks,DAL,SG,4,Jordan Poole,WAS,2.098406154353625
+Dallas Mavericks,DAL,C,4,Kristaps Porziņģis,BOS,2.0979827633681754
+Miami Heat,MIA,PG,10,Tyrese Maxey,PHI,2.097758836105905
+Miami Heat,MIA,SG,10,Gary Trent Jr.,TOR,2.0974907350406875
+Miami Heat,MIA,SF,5,Tim Hardaway Jr.,DAL,2.095914208130796
+Golden State Warriors,GSW,C,2,Domantas Sabonis,SAC,2.095166199887257
+Chicago Bulls,CHI,PF,7,Paolo Banchero,ORL,2.0948089439900013
+Orlando Magic,ORL,SG,9,Jordan Clarkson,UTA,2.093127053896424
+San Antonio Spurs,SAS,SF,7,Kelly Oubre Jr.,PHI,2.0931044318472183
+Orlando Magic,ORL,C,1,Kristaps Porziņģis,BOS,2.089200442070152
+New Orleans Pelicans,NOP,PF,3,Julius Randle,NYK,2.0884669576818817
+Cleveland Cavaliers,CLE,PF,5,Kyle Kuzma,WAS,2.0878938361644237
+San Antonio Spurs,SAS,SF,8,Saddiq Bey,ATL,2.0876185818821846
+Milwaukee Bucks,MIL,PG,4,Russell Westbrook,LAC,2.0863432534403588
+Orlando Magic,ORL,C,2,Anthony Davis,LAL,2.0862532716018922
+Philadelphia 76ers,PHI,SG,2,Zach LaVine,CHI,2.085584828033258
+New York Knicks,NYK,PF,4,Kyle Kuzma,WAS,2.0855278682061105
+Dallas Mavericks,DAL,PG,7,Darius Garland,CLE,2.0829752685582466
+Denver Nuggets,DEN,PF,3,Julius Randle,NYK,2.08175189084724
+Miami Heat,MIA,SF,6,Miles Bridges,CHO,2.080739555803305
+Dallas Mavericks,DAL,SG,5,Immanuel Quickley,NYK,2.079669058002722
+Cleveland Cavaliers,CLE,PF,6,Karl-Anthony Towns,MIN,2.0786521822051136
+Charlotte Hornets,CHO,C,7,Nic Claxton,BRK,2.078256840923487
+New York Knicks,NYK,PF,5,Karl-Anthony Towns,MIN,2.0781803863888064
+Philadelphia 76ers,PHI,SG,3,Jordan Poole,WAS,2.0777683472988056
+Toronto Raptors,TOR,C,6,Alperen Şengün,HOU,2.0776468466308793
+Portland Trail Blazers,POR,C,8,Nic Claxton,BRK,2.0775449313984065
+Atlanta Hawks,ATL,C,6,Alperen Şengün,HOU,2.0772915119819393
+Orlando Magic,ORL,SF,3,Tim Hardaway Jr.,DAL,2.077167791115373
+Golden State Warriors,GSW,SG,2,Terry Rozier,CHO,2.0762118939698806
+Golden State Warriors,GSW,PF,4,Jimmy Butler,MIA,2.075847290762389
+Brooklyn Nets,BRK,SF,7,Keldon Johnson,SAS,2.075700381317955
+Chicago Bulls,CHI,SG,8,Jordan Clarkson,UTA,2.074314290050514
+Cleveland Cavaliers,CLE,SG,5,Immanuel Quickley,NYK,2.0730597193603417
+Houston Rockets,HOU,PF,10,Bojan Bogdanović,DET,2.0729220371499832
+New York Knicks,NYK,PG,7,Darius Garland,CLE,2.0725605574402266
+New York Knicks,NYK,PF,6,Jimmy Butler,MIA,2.0725165640233616
+Detroit Pistons,DET,C,7,Nic Claxton,BRK,2.071937749026826
+New York Knicks,NYK,C,2,Domantas Sabonis,SAC,2.0703915714428227
+Brooklyn Nets,BRK,C,5,Jonas Valančiūnas,NOP,2.0703898833398027
+Chicago Bulls,CHI,PF,8,Jimmy Butler,MIA,2.0688000016043935
+Cleveland Cavaliers,CLE,PF,7,Jimmy Butler,MIA,2.0684780676123884
+San Antonio Spurs,SAS,SF,9,Sam Hauser,BOS,2.0684350113249086
+Milwaukee Bucks,MIL,C,2,Domantas Sabonis,SAC,2.067925390075825
+Cleveland Cavaliers,CLE,SG,6,Jalen Green,HOU,2.06728481894587
+Miami Heat,MIA,C,5,Jonas Valančiūnas,NOP,2.066254943089997
+Sacramento Kings,SAC,PG,8,Jrue Holiday,BOS,2.065254885516402
+San Antonio Spurs,SAS,SF,10,Michael Porter Jr.,DEN,2.06515710546026
+Orlando Magic,ORL,PG,9,Tyrese Maxey,PHI,2.0646242356256432
+Utah Jazz,UTA,SF,7,Keldon Johnson,SAS,2.064312378006994
+Cleveland Cavaliers,CLE,C,2,Domantas Sabonis,SAC,2.0642760262454862
+Sacramento Kings,SAC,SF,3,Brandon Ingram,NOP,2.063239925488492
+New York Knicks,NYK,SG,5,Jalen Green,HOU,2.0628013047856286
+Dallas Mavericks,DAL,SG,6,Jalen Green,HOU,2.062378896138598
+Memphis Grizzlies,MEM,C,3,Domantas Sabonis,SAC,2.0622362439417135
+Orlando Magic,ORL,SG,10,Malik Beasley,MIL,2.061357618811634
+Chicago Bulls,CHI,PF,9,Pascal Siakam,TOR,2.061053401469775
+Chicago Bulls,CHI,PG,9,Jrue Holiday,BOS,2.060652587965679
+Orlando Magic,ORL,SF,4,Brandon Miller,CHO,2.0599834481110992
+Chicago Bulls,CHI,SF,3,Brandon Ingram,NOP,2.058933213672807
+New York Knicks,NYK,PF,7,Paolo Banchero,ORL,2.0587837812582093
+Cleveland Cavaliers,CLE,PF,8,Paolo Banchero,ORL,2.0580486546602565
+Golden State Warriors,GSW,C,3,Ivica Zubac,LAC,2.0577305918992415
+Miami Heat,MIA,PF,9,Bobby Portis,MIL,2.0576479188350154
+Indiana Pacers,IND,SG,1,Dejounte Murray,ATL,2.0571132221732236
+Sacramento Kings,SAC,SG,7,Desmond Bane,MEM,2.057060330284975
+Golden State Warriors,GSW,PG,6,D'Angelo Russell,LAL,2.0568835974026527
+Los Angeles Clippers,LAC,PG,3,De'Aaron Fox,SAC,2.0566692630683194
+Minnesota Timberwolves,MIN,PF,1,Kevin Durant,PHO,2.0558192061137417
+Indiana Pacers,IND,C,2,Domantas Sabonis,SAC,2.0536434356783486
+Chicago Bulls,CHI,SF,4,Tim Hardaway Jr.,DAL,2.0534208881128224
+Golden State Warriors,GSW,SG,3,Zach LaVine,CHI,2.052927466416011
+Orlando Magic,ORL,PG,10,Jrue Holiday,BOS,2.0529031314226613
+Orlando Magic,ORL,SF,5,Brandon Ingram,NOP,2.0526412702845747
+Chicago Bulls,CHI,PG,10,Tyrese Maxey,PHI,2.052080314571808
+Chicago Bulls,CHI,SF,5,Brandon Miller,CHO,2.0502511303696216
+Utah Jazz,UTA,PF,10,Bojan Bogdanović,DET,2.050158404896007
+Milwaukee Bucks,MIL,PF,4,Jimmy Butler,MIA,2.049770068299625
+Oklahoma City Thunder,OKC,PG,2,Damian Lillard,MIL,2.049649942150112
+Philadelphia 76ers,PHI,PG,6,Jalen Brunson,NYK,2.0485195684658315
+New Orleans Pelicans,NOP,PG,3,De'Aaron Fox,SAC,2.047848121383753
+Indiana Pacers,IND,C,3,Ivica Zubac,LAC,2.0472464725351425
+Portland Trail Blazers,POR,C,9,Al Horford,BOS,2.0470326421729195
+Cleveland Cavaliers,CLE,C,3,Kristaps Porziņģis,BOS,2.046737195691457
+Los Angeles Lakers,LAL,PG,4,CJ McCollum,NOP,2.0464754300145183
+New York Knicks,NYK,C,3,Kristaps Porziņģis,BOS,2.0462000657003454
+Chicago Bulls,CHI,C,3,Domantas Sabonis,SAC,2.0459248412441946
+Brooklyn Nets,BRK,SF,8,Kelly Oubre Jr.,PHI,2.0457078479798225
+Dallas Mavericks,DAL,SF,3,Brandon Ingram,NOP,2.045653224185247
+Dallas Mavericks,DAL,C,5,Jonas Valančiūnas,NOP,2.0430228546076075
+Dallas Mavericks,DAL,PG,8,Jrue Holiday,BOS,2.042459359147524
+Phoenix Suns,PHO,PF,2,Julius Randle,NYK,2.041341846201512
+Atlanta Hawks,ATL,SF,7,Keldon Johnson,SAS,2.041193185644573
+Sacramento Kings,SAC,SG,8,Bogdan Bogdanović,ATL,2.040929562388406
+Orlando Magic,ORL,PF,7,Pascal Siakam,TOR,2.0403648409866806
+Denver Nuggets,DEN,PG,3,De'Aaron Fox,SAC,2.0402719677396433
+Milwaukee Bucks,MIL,SG,2,Terry Rozier,CHO,2.0398650839737584
+Portland Trail Blazers,POR,C,10,Kelly Olynyk,UTA,2.0395447891232323
+Los Angeles Lakers,LAL,SG,1,Dejounte Murray,ATL,2.0379679482737494
+Milwaukee Bucks,MIL,C,3,Ivica Zubac,LAC,2.0379573039520467
+Golden State Warriors,GSW,PG,7,Jalen Brunson,NYK,2.0371665199742424
+Chicago Bulls,CHI,SG,9,Malik Beasley,MIL,2.037029658484382
+Utah Jazz,UTA,SF,8,Kelly Oubre Jr.,PHI,2.035469327989604
+Philadelphia 76ers,PHI,SG,4,Dejounte Murray,ATL,2.0349824748769576
+San Antonio Spurs,SAS,C,4,Ivica Zubac,LAC,2.0340899793851213
+New York Knicks,NYK,PF,8,Pascal Siakam,TOR,2.0328639369112267
+Cleveland Cavaliers,CLE,PF,9,Pascal Siakam,TOR,2.0316348336919057
+Golden State Warriors,GSW,PF,5,Lauri Markkanen,UTA,2.0316132813251513
+Houston Rockets,HOU,SF,7,Keldon Johnson,SAS,2.0305354185567825
+Orlando Magic,ORL,PF,8,Jimmy Butler,MIA,2.0302435002095036
+Philadelphia 76ers,PHI,PF,4,Lauri Markkanen,UTA,2.03003408607699
+Houston Rockets,HOU,C,4,Ivica Zubac,LAC,2.029928390511321
+Golden State Warriors,GSW,SF,1,Buddy Hield,IND,2.0298159784639376
+Minnesota Timberwolves,MIN,PF,2,Paul George,LAC,2.0278006371302864
+Sacramento Kings,SAC,C,4,Jonas Valančiūnas,NOP,2.027780209208781
+Utah Jazz,UTA,C,6,Alperen Şengün,HOU,2.0260380513874767
+Washington Wizards,WAS,C,7,Nic Claxton,BRK,2.02601224572971
+Brooklyn Nets,BRK,SF,9,Franz Wagner,ORL,2.024946414051411
+Chicago Bulls,CHI,SG,10,Gary Trent Jr.,TOR,2.023615090084551
+Golden State Warriors,GSW,PF,6,Karl-Anthony Towns,MIN,2.0225263963323266
+New York Knicks,NYK,C,4,Ivica Zubac,LAC,2.0220597477237443
+Utah Jazz,UTA,SF,9,Franz Wagner,ORL,2.021444557738066
+Milwaukee Bucks,MIL,PG,5,D'Angelo Russell,LAL,2.021196792463475
+Indiana Pacers,IND,PG,4,Russell Westbrook,LAC,2.0209962599361786
+Golden State Warriors,GSW,PF,7,Paolo Banchero,ORL,2.020950244697547
+Milwaukee Bucks,MIL,SG,3,Zach LaVine,CHI,2.019913458734535
+Dallas Mavericks,DAL,SG,7,Desmond Bane,MEM,2.018765345726451
+Boston Celtics,BOS,PG,2,Damian Lillard,MIL,2.018274476139512
+Cleveland Cavaliers,CLE,C,4,Ivica Zubac,LAC,2.016045150749413
+Brooklyn Nets,BRK,SF,10,Saddiq Bey,ATL,2.0158076028226186
+San Antonio Spurs,SAS,C,5,Jonas Valančiūnas,NOP,2.0141886651581027
+Detroit Pistons,DET,C,8,Myles Turner,IND,2.0140149254131696
+Atlanta Hawks,ATL,SF,8,Kelly Oubre Jr.,PHI,2.01354788049093
+Indiana Pacers,IND,PF,4,Jimmy Butler,MIA,2.0134439435167204
+Cleveland Cavaliers,CLE,SG,7,Desmond Bane,MEM,2.013086328350988
+Atlanta Hawks,ATL,SF,9,DeMar DeRozan,CHI,2.011763193608366
+Philadelphia 76ers,PHI,SG,5,Jalen Green,HOU,2.011102088923444
+Los Angeles Lakers,LAL,SF,1,Klay Thompson,GSW,2.010896143131341
+Cleveland Cavaliers,CLE,SF,3,Brandon Ingram,NOP,2.010726246990857
+Atlanta Hawks,ATL,SF,10,Franz Wagner,ORL,2.010476779564224
+New York Knicks,NYK,SF,3,Brandon Ingram,NOP,2.009841048549378
+Milwaukee Bucks,MIL,PG,6,Jalen Brunson,NYK,2.0092975684537397
+New York Knicks,NYK,SG,6,Desmond Bane,MEM,2.009289339131932
+Charlotte Hornets,CHO,C,8,Myles Turner,IND,2.007823220809156
+Philadelphia 76ers,PHI,PG,7,Darius Garland,CLE,2.007767510536601
+Golden State Warriors,GSW,PF,8,Kyle Kuzma,WAS,2.004220724272125
+Phoenix Suns,PHO,PG,3,De'Aaron Fox,SAC,2.0041328794378113
+Golden State Warriors,GSW,PF,9,Pascal Siakam,TOR,2.0031684627543913
+Miami Heat,MIA,SF,7,Keldon Johnson,SAS,2.002087251625422
+Sacramento Kings,SAC,SF,4,Brandon Miller,CHO,2.001932637385281
+Sacramento Kings,SAC,SG,9,Jordan Clarkson,UTA,2.0009146696868547
+Sacramento Kings,SAC,PG,9,Tyrese Maxey,PHI,1.9985679057974883
+Cleveland Cavaliers,CLE,PG,8,Jrue Holiday,BOS,1.998450892756336
+Philadelphia 76ers,PHI,SG,6,Immanuel Quickley,NYK,1.9977361229148827
+New York Knicks,NYK,PG,8,Jrue Holiday,BOS,1.9972699606139002
+Cleveland Cavaliers,CLE,SG,8,Bogdan Bogdanović,ATL,1.996326309876181
+Utah Jazz,UTA,SF,10,DeMar DeRozan,CHI,1.9960174097874983
+Houston Rockets,HOU,SF,8,Kelly Oubre Jr.,PHI,1.9953532682900934
+Milwaukee Bucks,MIL,PF,5,Lauri Markkanen,UTA,1.9947549583220476
+Dallas Mavericks,DAL,SG,8,Bogdan Bogdanović,ATL,1.9946881311757583
+Sacramento Kings,SAC,SG,10,Josh Giddey,OKC,1.9942688590043638
+Orlando Magic,ORL,C,3,Domantas Sabonis,SAC,1.99329127351889
+Milwaukee Bucks,MIL,PF,6,Paolo Banchero,ORL,1.9923412759013999
+Golden State Warriors,GSW,SG,4,Jordan Poole,WAS,1.9917813202444905
+New York Knicks,NYK,SG,7,Bogdan Bogdanović,ATL,1.9915157382222812
+Milwaukee Bucks,MIL,PF,7,Karl-Anthony Towns,MIN,1.9912663006454958
+Sacramento Kings,SAC,SF,5,Miles Bridges,CHO,1.9909029603021557
+Dallas Mavericks,DAL,SG,9,Josh Giddey,OKC,1.9900137858260984
+Sacramento Kings,SAC,PG,10,Mike Conley,MIN,1.9898666844192792
+Golden State Warriors,GSW,C,4,Kristaps Porziņģis,BOS,1.9893977635937252
+Chicago Bulls,CHI,C,4,Ivica Zubac,LAC,1.9872029069940347
+Brooklyn Nets,BRK,C,6,Alperen Şengün,HOU,1.9871446735577512
+Chicago Bulls,CHI,SF,6,Miles Bridges,CHO,1.9869224245402657
+Milwaukee Bucks,MIL,SF,2,Buddy Hield,IND,1.9866763263975018
+Miami Heat,MIA,C,6,Alperen Şengün,HOU,1.9863797428051386
+Philadelphia 76ers,PHI,PF,5,Kyle Kuzma,WAS,1.9861776114490834
+Sacramento Kings,SAC,PF,10,Bobby Portis,MIL,1.9860464963677527
+Golden State Warriors,GSW,PG,8,Darius Garland,CLE,1.9834935513106042
+Houston Rockets,HOU,C,5,Jonas Valančiūnas,NOP,1.9821043599826973
+Miami Heat,MIA,PF,10,Bojan Bogdanović,DET,1.9815324574904136
+Dallas Mavericks,DAL,PF,10,Bobby Portis,MIL,1.9810518157008803
+Orlando Magic,ORL,SF,6,Miles Bridges,CHO,1.979447538719889
+Los Angeles Lakers,LAL,PG,5,Russell Westbrook,LAC,1.9786365057527482
+Houston Rockets,HOU,SF,9,Franz Wagner,ORL,1.9779423258143571
+Atlanta Hawks,ATL,C,7,Nic Claxton,BRK,1.9769955209954895
+Milwaukee Bucks,MIL,PF,8,Pascal Siakam,TOR,1.97616873683627
+Houston Rockets,HOU,SF,10,Saddiq Bey,ATL,1.9751072072857287
+Cleveland Cavaliers,CLE,SG,9,Jordan Clarkson,UTA,1.974681191281401
+Dallas Mavericks,DAL,PG,9,Chris Paul,GSW,1.9710135441168277
+Milwaukee Bucks,MIL,PF,9,Kyle Kuzma,WAS,1.970236763432046
+New York Knicks,NYK,SG,8,Jordan Clarkson,UTA,1.9695105972440214
+Orlando Magic,ORL,PF,9,Bojan Bogdanović,DET,1.969395480905049
+Miami Heat,MIA,SF,8,Kelly Oubre Jr.,PHI,1.9691864244352184
+Dallas Mavericks,DAL,C,6,Alperen Şengün,HOU,1.9688306562947304
+Dallas Mavericks,DAL,SF,4,Miles Bridges,CHO,1.9681735902225586
+Golden State Warriors,GSW,SG,5,Immanuel Quickley,NYK,1.9675431715621117
+Cleveland Cavaliers,CLE,PG,9,Tyrese Maxey,PHI,1.9672354610337888
+Miami Heat,MIA,SF,9,Franz Wagner,ORL,1.9671895524437266
+Memphis Grizzlies,MEM,C,4,Jonas Valančiūnas,NOP,1.9654675355993418
+New York Knicks,NYK,PG,9,Tyrese Maxey,PHI,1.963197392488023
+Sacramento Kings,SAC,SF,6,Tim Hardaway Jr.,DAL,1.962257113963633
+Dallas Mavericks,DAL,SF,5,Brandon Miller,CHO,1.9617948205485003
+Dallas Mavericks,DAL,PG,10,Tyrese Maxey,PHI,1.961003625466909
+Miami Heat,MIA,SF,10,DeMar DeRozan,CHI,1.9606683308970805
+Charlotte Hornets,CHO,C,9,Rudy Gobert,MIN,1.9600398724344648
+Golden State Warriors,GSW,SF,2,Brandon Ingram,NOP,1.9585470988874176
+Golden State Warriors,GSW,SG,6,Jalen Green,HOU,1.958343336840244
+Milwaukee Bucks,MIL,C,4,Kristaps Porziņģis,BOS,1.9578801574884046
+Cleveland Cavaliers,CLE,SF,4,Brandon Miller,CHO,1.9570331006979094
+Milwaukee Bucks,MIL,SG,4,Jordan Poole,WAS,1.9564508698991259
+Los Angeles Lakers,LAL,C,1,Domantas Sabonis,SAC,1.9561373865643477
+Dallas Mavericks,DAL,SG,10,Jordan Clarkson,UTA,1.9556602008266732
+New York Knicks,NYK,SF,4,Brandon Miller,CHO,1.9530217651935644
+Sacramento Kings,SAC,C,5,Alperen Şengün,HOU,1.9529857095582244
+Milwaukee Bucks,MIL,PG,7,Darius Garland,CLE,1.9521017334613076
+Detroit Pistons,DET,C,9,Kelly Olynyk,UTA,1.951621321425558
+Los Angeles Lakers,LAL,PF,4,Jimmy Butler,MIA,1.9511384331053812
+Detroit Pistons,DET,C,10,Rudy Gobert,MIN,1.9510416652188722
+Los Angeles Clippers,LAC,PG,4,CJ McCollum,NOP,1.949894945207844
+Philadelphia 76ers,PHI,PF,6,Karl-Anthony Towns,MIN,1.9498145318706162
+Los Angeles Lakers,LAL,C,2,Ivica Zubac,LAC,1.949541625777567
+Chicago Bulls,CHI,PF,10,Bojan Bogdanović,DET,1.9488614383369878
+Charlotte Hornets,CHO,C,10,Kelly Olynyk,UTA,1.9482449362077412
+Memphis Grizzlies,MEM,C,5,Ivica Zubac,LAC,1.9468867022777148
+Los Angeles Lakers,LAL,SG,2,Terry Rozier,CHO,1.9464828682504738
+Washington Wizards,WAS,C,8,Myles Turner,IND,1.9463428950635924
+Denver Nuggets,DEN,PG,4,CJ McCollum,NOP,1.9463329941438925
+Oklahoma City Thunder,OKC,PF,1,Kevin Durant,PHO,1.9456060878573522
+Toronto Raptors,TOR,C,7,Nic Claxton,BRK,1.9454004061523713
+New Orleans Pelicans,NOP,SF,1,Klay Thompson,GSW,1.9453661221457366
+Indiana Pacers,IND,PG,5,CJ McCollum,NOP,1.9445553452331295
+Philadelphia 76ers,PHI,SG,7,Desmond Bane,MEM,1.942380375990765
+Minnesota Timberwolves,MIN,PF,3,Julius Randle,NYK,1.9423588278581905
+Philadelphia 76ers,PHI,SG,8,Jordan Clarkson,UTA,1.9413151178911805
+Orlando Magic,ORL,C,4,Ivica Zubac,LAC,1.9387344519274754
+Los Angeles Clippers,LAC,C,1,Anthony Davis,LAL,1.938720168239317
+Los Angeles Lakers,LAL,PG,6,Jalen Brunson,NYK,1.9364324512657862
+Los Angeles Lakers,LAL,SG,3,Zach LaVine,CHI,1.9362894090394882
+Cleveland Cavaliers,CLE,PG,10,Mike Conley,MIN,1.9362144665384051
+Cleveland Cavaliers,CLE,SF,5,Tim Hardaway Jr.,DAL,1.9336449428925733
+Philadelphia 76ers,PHI,PG,8,Russell Westbrook,LAC,1.9335830465577026
+Golden State Warriors,GSW,C,5,Jonas Valančiūnas,NOP,1.9331610475751617
+New York Knicks,NYK,PG,10,Mike Conley,MIN,1.933118017602505
+Milwaukee Bucks,MIL,SF,3,Brandon Ingram,NOP,1.9328746264498458
+Milwaukee Bucks,MIL,SG,5,Immanuel Quickley,NYK,1.9320818380862848
+Golden State Warriors,GSW,PG,9,Jrue Holiday,BOS,1.9310499158514582
+San Antonio Spurs,SAS,C,6,Alperen Şengün,HOU,1.9306001401519626
+Philadelphia 76ers,PHI,SG,9,Bogdan Bogdanović,ATL,1.9275188615465417
+New York Knicks,NYK,SF,5,Tim Hardaway Jr.,DAL,1.9273102676741711
+Los Angeles Clippers,LAC,SG,1,Dejounte Murray,ATL,1.9251813040330303
+Cleveland Cavaliers,CLE,SF,6,Miles Bridges,CHO,1.9250770695294936
+Cleveland Cavaliers,CLE,SG,10,Gary Trent Jr.,TOR,1.9249131435241007
+Milwaukee Bucks,MIL,SG,6,Jalen Green,HOU,1.9247455959690365
+New York Knicks,NYK,SF,6,Miles Bridges,CHO,1.9238787319271844
+Minnesota Timberwolves,MIN,PG,3,De'Aaron Fox,SAC,1.9233875361257868
+New York Knicks,NYK,C,5,Jonas Valančiūnas,NOP,1.9216840160269881
+New York Knicks,NYK,SG,9,Gary Trent Jr.,TOR,1.920813504733138
+Chicago Bulls,CHI,SF,7,Keldon Johnson,SAS,1.9207563392559774
+Sacramento Kings,SAC,SF,7,DeMar DeRozan,CHI,1.9206055112148905
+Dallas Mavericks,DAL,SF,6,DeMar DeRozan,CHI,1.9204429320857535
+Denver Nuggets,DEN,SF,1,Klay Thompson,GSW,1.919232204491034
+Philadelphia 76ers,PHI,C,1,Kristaps Porziņģis,BOS,1.9181098377809738
+Boston Celtics,BOS,PF,1,Kevin Durant,PHO,1.9178390028424144
+Orlando Magic,ORL,SF,7,Keldon Johnson,SAS,1.9172321195647897
+Cleveland Cavaliers,CLE,C,5,Jonas Valančiūnas,NOP,1.9167584703501286
+Utah Jazz,UTA,C,7,Nic Claxton,BRK,1.916105596759017
+Philadelphia 76ers,PHI,PF,7,Paolo Banchero,ORL,1.9159892024591918
+Philadelphia 76ers,PHI,SF,3,Brandon Ingram,NOP,1.9152180851123393
+Sacramento Kings,SAC,SF,8,Keldon Johnson,SAS,1.9140792921298337
+Los Angeles Clippers,LAC,SF,1,Klay Thompson,GSW,1.9137236503724009
+Golden State Warriors,GSW,SG,7,Desmond Bane,MEM,1.9124239159915535
+New York Knicks,NYK,SG,10,Josh Giddey,OKC,1.911200050540898
+Phoenix Suns,PHO,PG,4,CJ McCollum,NOP,1.9103777486785534
+Chicago Bulls,CHI,C,5,Jonas Valančiūnas,NOP,1.9100716730863556
+Philadelphia 76ers,PHI,C,2,Anthony Davis,LAL,1.9082025865588834
+Indiana Pacers,IND,PF,5,Paolo Banchero,ORL,1.9063838989777797
+Milwaukee Bucks,MIL,C,5,Jonas Valančiūnas,NOP,1.9059588084991899
+Dallas Mavericks,DAL,C,7,Nic Claxton,BRK,1.9021828181867246
+Indiana Pacers,IND,PF,6,Pascal Siakam,TOR,1.9017251695731643
+New Orleans Pelicans,NOP,SG,1,Dejounte Murray,ATL,1.9015935427828217
+Denver Nuggets,DEN,C,1,Anthony Davis,LAL,1.9015206008376329
+Los Angeles Lakers,LAL,PF,5,Paolo Banchero,ORL,1.901191066213418
+Philadelphia 76ers,PHI,SF,4,Tim Hardaway Jr.,DAL,1.8993627435511882
+Denver Nuggets,DEN,SG,1,Dejounte Murray,ATL,1.898767244557239
+Milwaukee Bucks,MIL,PG,8,Jrue Holiday,BOS,1.8981728391492507
+Los Angeles Lakers,LAL,PF,6,Karl-Anthony Towns,MIN,1.8975546789790607
+Los Angeles Lakers,LAL,PF,7,Lauri Markkanen,UTA,1.8960599410576835
+Minnesota Timberwolves,MIN,SF,1,Klay Thompson,GSW,1.894921991979169
+Orlando Magic,ORL,PF,10,Bobby Portis,MIL,1.8940906424631794
+New Orleans Pelicans,NOP,C,1,Anthony Davis,LAL,1.8936541296973233
+Sacramento Kings,SAC,SF,9,Franz Wagner,ORL,1.893615076097747
+New York Knicks,NYK,PF,9,Bobby Portis,MIL,1.891971387266164
+Miami Heat,MIA,C,7,Nic Claxton,BRK,1.890575110754892
+Washington Wizards,WAS,C,9,Rudy Gobert,MIN,1.8903726981313
+Cleveland Cavaliers,CLE,PF,10,Bobby Portis,MIL,1.890069371913102
+Dallas Mavericks,DAL,SF,7,Keldon Johnson,SAS,1.889535316613287
+Los Angeles Lakers,LAL,PF,8,Pascal Siakam,TOR,1.8876747619981706
+Philadelphia 76ers,PHI,PF,8,Pascal Siakam,TOR,1.8864879629009406
+Philadelphia 76ers,PHI,SF,5,Brandon Miller,CHO,1.8852468262466442
+Washington Wizards,WAS,C,10,Kelly Olynyk,UTA,1.88442386650562
+Minnesota Timberwolves,MIN,PG,4,CJ McCollum,NOP,1.883805783459409
+Golden State Warriors,GSW,SG,8,Josh Giddey,OKC,1.8836067254043922
+Phoenix Suns,PHO,SF,1,Klay Thompson,GSW,1.8832583452398854
+Chicago Bulls,CHI,SF,8,Franz Wagner,ORL,1.8829241642150296
+Indiana Pacers,IND,PG,6,Jalen Brunson,NYK,1.8825131315018009
+Los Angeles Lakers,LAL,SF,2,Buddy Hield,IND,1.8823837386562177
+Indiana Pacers,IND,PF,7,Karl-Anthony Towns,MIN,1.8814359924583184
+Orlando Magic,ORL,SF,8,Sam Hauser,BOS,1.881120051823382
+Memphis Grizzlies,MEM,C,6,Alperen Şengün,HOU,1.8790613899590858
+Milwaukee Bucks,MIL,SG,7,Desmond Bane,MEM,1.8787548841039419
+Sacramento Kings,SAC,C,6,Nic Claxton,BRK,1.8786717733091551
+Chicago Bulls,CHI,SF,9,Kelly Oubre Jr.,PHI,1.878621375434804
+Philadelphia 76ers,PHI,PG,9,Jrue Holiday,BOS,1.8771189244949524
+Indiana Pacers,IND,C,4,Jonas Valančiūnas,NOP,1.8769586730783083
+Los Angeles Lakers,LAL,PF,9,Kyle Kuzma,WAS,1.8769127688792415
+Dallas Mavericks,DAL,SF,8,Franz Wagner,ORL,1.876600122369996
+Sacramento Kings,SAC,SF,10,Kelly Oubre Jr.,PHI,1.8763698705044556
+Golden State Warriors,GSW,SG,9,Bogdan Bogdanović,ATL,1.876340060224714
+Los Angeles Lakers,LAL,SG,4,Jordan Poole,WAS,1.8741152006514168
+Orlando Magic,ORL,SF,9,Kelly Oubre Jr.,PHI,1.8731841655180503
+Oklahoma City Thunder,OKC,PF,2,Paul George,LAC,1.8724529306187305
+Los Angeles Lakers,LAL,PG,7,Darius Garland,CLE,1.8716362457027271
+Golden State Warriors,GSW,PG,10,Tyrese Maxey,PHI,1.870666887701663
+Indiana Pacers,IND,SG,2,Terry Rozier,CHO,1.8700556894445024
+Philadelphia 76ers,PHI,SG,10,Malik Beasley,MIL,1.869575190016736
+Philadelphia 76ers,PHI,PF,9,Jimmy Butler,MIA,1.8692830566681926
+Golden State Warriors,GSW,C,6,Alperen Şengün,HOU,1.8669132923995861
+Chicago Bulls,CHI,SF,10,Sam Hauser,BOS,1.8668515295053114
+Orlando Magic,ORL,C,5,Jonas Valančiūnas,NOP,1.865208241037374
+New Orleans Pelicans,NOP,PG,4,Jalen Brunson,NYK,1.8651616569444533
+Los Angeles Lakers,LAL,C,3,Kristaps Porziņģis,BOS,1.8636801962777554
+New Orleans Pelicans,NOP,PG,5,D'Angelo Russell,LAL,1.863490669891531
+Indiana Pacers,IND,SG,3,Zach LaVine,CHI,1.8624432145186511
+Phoenix Suns,PHO,C,1,Anthony Davis,LAL,1.8615668583160359
+Los Angeles Clippers,LAC,PG,5,Jalen Brunson,NYK,1.8611549313462945
+Golden State Warriors,GSW,SG,10,Jordan Clarkson,UTA,1.8604628965474925
+Golden State Warriors,GSW,PF,10,Bobby Portis,MIL,1.8603247785727912
+Memphis Grizzlies,MEM,C,7,Myles Turner,IND,1.8602451786350092
+Toronto Raptors,TOR,C,8,Myles Turner,IND,1.8600708123027938
+New York Knicks,NYK,SF,7,DeMar DeRozan,CHI,1.8598126161573927
+Los Angeles Lakers,LAL,SF,3,Brandon Ingram,NOP,1.858211009676909
+Cleveland Cavaliers,CLE,SF,7,DeMar DeRozan,CHI,1.8581752555162063
+Golden State Warriors,GSW,SF,3,Miles Bridges,CHO,1.8580160948712954
+Los Angeles Clippers,LAC,PF,3,Jimmy Butler,MIA,1.8574842810954055
+New Orleans Pelicans,NOP,SG,2,Zach LaVine,CHI,1.8571933573363069
+Cleveland Cavaliers,CLE,SF,8,Keldon Johnson,SAS,1.8571452768717522
+New Orleans Pelicans,NOP,SG,3,Terry Rozier,CHO,1.8567958301334695
+Phoenix Suns,PHO,SG,1,Dejounte Murray,ATL,1.8562848477987337
+New York Knicks,NYK,SF,8,Keldon Johnson,SAS,1.8554754563621338
+Milwaukee Bucks,MIL,SG,8,Josh Giddey,OKC,1.8546290251796829
+Denver Nuggets,DEN,PG,5,Jalen Brunson,NYK,1.8542681772253684
+Orlando Magic,ORL,SF,10,Saddiq Bey,ATL,1.8529603994795465
+New York Knicks,NYK,C,6,Alperen Şengün,HOU,1.852796825080075
+Indiana Pacers,IND,SF,1,Klay Thompson,GSW,1.851901139811883
+Golden State Warriors,GSW,SF,4,Brandon Miller,CHO,1.8517458223491015
+Los Angeles Clippers,LAC,C,2,Domantas Sabonis,SAC,1.8516291220782437
+Dallas Mavericks,DAL,SF,9,Kelly Oubre Jr.,PHI,1.8515162819437927
+Los Angeles Clippers,LAC,SG,2,Terry Rozier,CHO,1.8495626543154344
+Los Angeles Clippers,LAC,SG,3,Zach LaVine,CHI,1.8491677333295624
+Cleveland Cavaliers,CLE,C,6,Alperen Şengün,HOU,1.8479522650246762
+Los Angeles Clippers,LAC,PG,6,D'Angelo Russell,LAL,1.8473839620682564
+Denver Nuggets,DEN,PG,6,Russell Westbrook,LAC,1.8464990372695365
+Indiana Pacers,IND,C,5,Kristaps Porziņģis,BOS,1.8463784820294296
+Golden State Warriors,GSW,SF,5,DeMar DeRozan,CHI,1.8462874503741014
+New Orleans Pelicans,NOP,PG,6,Russell Westbrook,LAC,1.8457608718374858
+Memphis Grizzlies,MEM,C,8,Brook Lopez,MIL,1.8455598110928417
+Denver Nuggets,DEN,PG,7,D'Angelo Russell,LAL,1.8453633681226638
+Philadelphia 76ers,PHI,PG,10,Mike Conley,MIN,1.8452861255027517
+New York Knicks,NYK,PF,10,Bojan Bogdanović,DET,1.8437169989546638
+Denver Nuggets,DEN,SG,2,Zach LaVine,CHI,1.8430405582881546
+Los Angeles Lakers,LAL,SG,5,Jalen Green,HOU,1.842380346376435
+Milwaukee Bucks,MIL,C,6,Alperen Şengün,HOU,1.8419139249611558
+Denver Nuggets,DEN,SG,3,Terry Rozier,CHO,1.8418243280153683
+Los Angeles Lakers,LAL,SG,6,Immanuel Quickley,NYK,1.8415737931177836
+Milwaukee Bucks,MIL,PG,9,Tyrese Maxey,PHI,1.8413689399244766
+Chicago Bulls,CHI,C,6,Alperen Şengün,HOU,1.8386751516700157
+Milwaukee Bucks,MIL,SG,9,Bogdan Bogdanović,ATL,1.8383684371150377
+Indiana Pacers,IND,SF,2,Brandon Ingram,NOP,1.8364663346811336
+Denver Nuggets,DEN,C,2,Ivica Zubac,LAC,1.8355620009159639
+Boston Celtics,BOS,PF,2,Paul George,LAC,1.8349553292897018
+Indiana Pacers,IND,PG,7,D'Angelo Russell,LAL,1.8344812833126474
+Cleveland Cavaliers,CLE,SF,9,Franz Wagner,ORL,1.834399007750022
+New York Knicks,NYK,SF,9,Franz Wagner,ORL,1.8337659862185705
+Indiana Pacers,IND,PF,8,Lauri Markkanen,UTA,1.8333638095492013
+Oklahoma City Thunder,OKC,PF,3,Julius Randle,NYK,1.8306904064329792
+Atlanta Hawks,ATL,C,8,Rudy Gobert,MIN,1.8297113443767992
+Milwaukee Bucks,MIL,SG,10,Jordan Clarkson,UTA,1.8288043577087076
+Denver Nuggets,DEN,PF,4,Jimmy Butler,MIA,1.828076103808397
+Indiana Pacers,IND,PF,9,Kyle Kuzma,WAS,1.8277175314465897
+Milwaukee Bucks,MIL,PG,10,Chris Paul,GSW,1.827254028323866
+Milwaukee Bucks,MIL,SF,4,DeMar DeRozan,CHI,1.826480501066575
+New Orleans Pelicans,NOP,C,2,Ivica Zubac,LAC,1.8262734589540754
+Phoenix Suns,PHO,PG,5,Jalen Brunson,NYK,1.8261524363711135
+Milwaukee Bucks,MIL,SF,5,Miles Bridges,CHO,1.8254821857068109
+Philadelphia 76ers,PHI,PF,10,Bojan Bogdanović,DET,1.8243782837108173
+New Orleans Pelicans,NOP,PF,4,Jimmy Butler,MIA,1.8241558397777153
+Golden State Warriors,GSW,C,7,Nic Claxton,BRK,1.8210238075778402
+Indiana Pacers,IND,C,6,Alperen Şengün,HOU,1.8192282687409749
+Philadelphia 76ers,PHI,C,3,Domantas Sabonis,SAC,1.8169388908625896
+Milwaukee Bucks,MIL,SF,6,Brandon Miller,CHO,1.8168326979121843
+Denver Nuggets,DEN,C,3,Domantas Sabonis,SAC,1.814306035347087
+Cleveland Cavaliers,CLE,SF,10,Kelly Oubre Jr.,PHI,1.812904620701853
+Phoenix Suns,PHO,PG,6,D'Angelo Russell,LAL,1.8120643656114552
+Oklahoma City Thunder,OKC,PG,3,De'Aaron Fox,SAC,1.811899082771117
+Indiana Pacers,IND,C,7,Nic Claxton,BRK,1.811510531606552
+Los Angeles Clippers,LAC,PF,4,Paolo Banchero,ORL,1.8114490094511353
+New York Knicks,NYK,SF,10,Kelly Oubre Jr.,PHI,1.8113681574124443
+Phoenix Suns,PHO,SG,2,Zach LaVine,CHI,1.8105419938488316
+Phoenix Suns,PHO,PG,7,Russell Westbrook,LAC,1.8072996663871816
+New Orleans Pelicans,NOP,C,3,Domantas Sabonis,SAC,1.8061529454660206
+Phoenix Suns,PHO,SG,3,Terry Rozier,CHO,1.8056502016611504
+Philadelphia 76ers,PHI,SF,6,Miles Bridges,CHO,1.8056268319526882
+Indiana Pacers,IND,PG,8,Darius Garland,CLE,1.8049379398297478
+Phoenix Suns,PHO,C,2,Ivica Zubac,LAC,1.8046004740668369
+Los Angeles Clippers,LAC,PF,5,Karl-Anthony Towns,MIN,1.8039834370778776
+Philadelphia 76ers,PHI,C,4,Ivica Zubac,LAC,1.8039065892519095
+New Orleans Pelicans,NOP,SG,4,Jordan Poole,WAS,1.803638183496266
+Los Angeles Lakers,LAL,PG,8,Jrue Holiday,BOS,1.8027743659184745
+Milwaukee Bucks,MIL,C,7,Nic Claxton,BRK,1.8026231803524286
+San Antonio Spurs,SAS,C,7,Myles Turner,IND,1.8022151483686362
+Los Angeles Clippers,LAC,PF,6,Pascal Siakam,TOR,1.8010967925133528
+Los Angeles Lakers,LAL,C,4,Jonas Valančiūnas,NOP,1.7997818395789391
+Boston Celtics,BOS,PF,3,Julius Randle,NYK,1.7995775416833784
+San Antonio Spurs,SAS,C,8,Nic Claxton,BRK,1.7983637874013352
+New Orleans Pelicans,NOP,PF,5,Lauri Markkanen,UTA,1.7971933626318477
+Golden State Warriors,GSW,SF,6,Tim Hardaway Jr.,DAL,1.7961085234671326
+New Orleans Pelicans,NOP,PF,6,Paolo Banchero,ORL,1.7956538746370643
+Orlando Magic,ORL,C,6,Alperen Şengün,HOU,1.7953739764171426
+Los Angeles Clippers,LAC,PF,7,Lauri Markkanen,UTA,1.7947271559786828
+Houston Rockets,HOU,C,6,Nic Claxton,BRK,1.794644431038
+New Orleans Pelicans,NOP,PG,7,Darius Garland,CLE,1.7945448294122934
+New Orleans Pelicans,NOP,PF,7,Karl-Anthony Towns,MIN,1.7938905632715212
+Los Angeles Lakers,LAL,SG,7,Desmond Bane,MEM,1.7930021358112411
+Toronto Raptors,TOR,C,9,Kelly Olynyk,UTA,1.792943935432995
+Minnesota Timberwolves,MIN,PG,5,D'Angelo Russell,LAL,1.7928444356090434
+Phoenix Suns,PHO,PF,3,Jimmy Butler,MIA,1.7926342973532328
+Denver Nuggets,DEN,PF,5,Paolo Banchero,ORL,1.792049110621612
+New Orleans Pelicans,NOP,SF,2,Buddy Hield,IND,1.7888880288423927
+Dallas Mavericks,DAL,SF,10,Michael Porter Jr.,DEN,1.78859888252789
+Minnesota Timberwolves,MIN,PG,6,Jalen Brunson,NYK,1.7880822931878126
+Los Angeles Clippers,LAC,PG,7,Darius Garland,CLE,1.7880708011160555
+New York Knicks,NYK,C,7,Nic Claxton,BRK,1.7876105327625846
+Golden State Warriors,GSW,SF,7,Keldon Johnson,SAS,1.7873352728564897
+Denver Nuggets,DEN,PF,6,Karl-Anthony Towns,MIN,1.7872240680003384
+Los Angeles Clippers,LAC,SG,4,Jordan Poole,WAS,1.78633634357211
+Denver Nuggets,DEN,SG,4,Jordan Poole,WAS,1.7851757518130684
+Denver Nuggets,DEN,PF,7,Lauri Markkanen,UTA,1.7838644344986954
+Boston Celtics,BOS,PG,3,De'Aaron Fox,SAC,1.7836976751772922
+Memphis Grizzlies,MEM,C,9,Al Horford,BOS,1.7832689912592823
+New Orleans Pelicans,NOP,PF,8,Pascal Siakam,TOR,1.783181501765495
+Los Angeles Clippers,LAC,SF,2,Brandon Ingram,NOP,1.7831168456434887
+Toronto Raptors,TOR,C,10,Rudy Gobert,MIN,1.7825179022205109
+Golden State Warriors,GSW,SF,8,Franz Wagner,ORL,1.7823678138544465
+Cleveland Cavaliers,CLE,C,7,Nic Claxton,BRK,1.7819939885205407
+Los Angeles Clippers,LAC,PF,8,Kyle Kuzma,WAS,1.781709246905889
+Utah Jazz,UTA,C,8,Myles Turner,IND,1.7815850368280404
+Denver Nuggets,DEN,PG,8,Darius Garland,CLE,1.781527947674891
+New Orleans Pelicans,NOP,PF,9,Kyle Kuzma,WAS,1.7811514346007367
+Indiana Pacers,IND,SF,3,DeMar DeRozan,CHI,1.7810473401111384
+Brooklyn Nets,BRK,C,7,Myles Turner,IND,1.7810338054101726
+Denver Nuggets,DEN,PF,8,Pascal Siakam,TOR,1.7809247224146898
+Indiana Pacers,IND,SG,4,Josh Giddey,OKC,1.779485426995818
+Atlanta Hawks,ATL,C,9,Myles Turner,IND,1.7766120225492212
+Phoenix Suns,PHO,C,3,Domantas Sabonis,SAC,1.774656663547891
+Minnesota Timberwolves,MIN,SG,1,Zach LaVine,CHI,1.7742657925291987
+Indiana Pacers,IND,PG,9,Jrue Holiday,BOS,1.7741186584218185
+Los Angeles Clippers,LAC,SF,3,Buddy Hield,IND,1.7723376911773945
+Denver Nuggets,DEN,SF,2,Brandon Ingram,NOP,1.7710857016740442
+Atlanta Hawks,ATL,C,10,Deandre Ayton,POR,1.770463148130516
+Los Angeles Lakers,LAL,PG,9,Tyrese Maxey,PHI,1.7701371047764765
+Denver Nuggets,DEN,PF,9,Kyle Kuzma,WAS,1.7699398205620964
+Los Angeles Clippers,LAC,C,3,Kristaps Porziņģis,BOS,1.7695543853427
+Indiana Pacers,IND,SG,5,Jordan Poole,WAS,1.7685897652552907
+Denver Nuggets,DEN,SF,3,Buddy Hield,IND,1.7680865357428324
+New Orleans Pelicans,NOP,SG,5,Jalen Green,HOU,1.7673058594955007
+Indiana Pacers,IND,SG,6,Immanuel Quickley,NYK,1.7647897112748059
+Minnesota Timberwolves,MIN,SG,2,Terry Rozier,CHO,1.761400140147933
+New Orleans Pelicans,NOP,C,4,Kristaps Porziņģis,BOS,1.7597237156768983
+Milwaukee Bucks,MIL,SF,7,Tim Hardaway Jr.,DAL,1.7588101461355135
+Phoenix Suns,PHO,PF,4,Paolo Banchero,ORL,1.7582826151078494
+Los Angeles Lakers,LAL,SF,4,DeMar DeRozan,CHI,1.7581657222905154
+Los Angeles Lakers,LAL,SG,8,Josh Giddey,OKC,1.757893368484912
+Indiana Pacers,IND,SG,7,Jalen Green,HOU,1.757092092743455
+Philadelphia 76ers,PHI,SF,7,Sam Hauser,BOS,1.7569583114340208
+Milwaukee Bucks,MIL,SF,8,Keldon Johnson,SAS,1.756673368076219
+Los Angeles Clippers,LAC,SG,5,Jalen Green,HOU,1.7558052597169693
+Philadelphia 76ers,PHI,SF,8,Keldon Johnson,SAS,1.755752133018606
+Los Angeles Lakers,LAL,SG,9,Jordan Clarkson,UTA,1.7555589232516084
+New Orleans Pelicans,NOP,SG,6,Immanuel Quickley,NYK,1.7552581385892965
+Chicago Bulls,CHI,C,7,Nic Claxton,BRK,1.7549620546516156
+Milwaukee Bucks,MIL,SF,9,Franz Wagner,ORL,1.754873188724769
+Denver Nuggets,DEN,C,4,Kristaps Porziņģis,BOS,1.7528708498306884
+Phoenix Suns,PHO,SG,4,Jordan Poole,WAS,1.752543288241569
+Phoenix Suns,PHO,PF,5,Karl-Anthony Towns,MIN,1.752093766714104
+Denver Nuggets,DEN,SG,5,Jalen Green,HOU,1.7516341026351805
+Phoenix Suns,PHO,PG,8,Darius Garland,CLE,1.750341171073049
+Phoenix Suns,PHO,PF,6,Pascal Siakam,TOR,1.7483164358973928
+Los Angeles Clippers,LAC,SG,6,Immanuel Quickley,NYK,1.7474715789177513
+Phoenix Suns,PHO,PF,7,Lauri Markkanen,UTA,1.7459818579821502
+Utah Jazz,UTA,C,9,Rudy Gobert,MIN,1.7453005617778514
+Indiana Pacers,IND,PG,10,Chris Paul,GSW,1.745259379278544
+Los Angeles Lakers,LAL,SG,10,Bogdan Bogdanović,ATL,1.7440960591236165
+Phoenix Suns,PHO,SF,2,Brandon Ingram,NOP,1.7429239047752445
+Los Angeles Lakers,LAL,C,5,Alperen Şengün,HOU,1.7428679996321814
+Indiana Pacers,IND,PF,10,Bobby Portis,MIL,1.7417548966546172
+Golden State Warriors,GSW,SF,9,Kelly Oubre Jr.,PHI,1.7411436787371473
+Denver Nuggets,DEN,SG,6,Immanuel Quickley,NYK,1.740373652747534
+San Antonio Spurs,SAS,C,9,Brook Lopez,MIL,1.737353543309851
+Minnesota Timberwolves,MIN,SG,3,Jordan Poole,WAS,1.7371633602532395
+Philadelphia 76ers,PHI,SF,9,DeMar DeRozan,CHI,1.7364711534367494
+Phoenix Suns,PHO,PF,8,Kyle Kuzma,WAS,1.734313924237188
+Memphis Grizzlies,MEM,C,10,Kelly Olynyk,UTA,1.7328584674559893
+Dallas Mavericks,DAL,C,8,Rudy Gobert,MIN,1.7317275508739511
+Minnesota Timberwolves,MIN,SG,4,Dejounte Murray,ATL,1.731269949706428
+Los Angeles Lakers,LAL,SF,5,Miles Bridges,CHO,1.731216706456482
+Houston Rockets,HOU,C,7,Myles Turner,IND,1.7309349438892379
+Miami Heat,MIA,C,8,Myles Turner,IND,1.7291465879456118
+Los Angeles Lakers,LAL,SF,6,Brandon Miller,CHO,1.7282531022845782
+Phoenix Suns,PHO,SF,3,Buddy Hield,IND,1.7271140200636603
+Philadelphia 76ers,PHI,SF,10,Franz Wagner,ORL,1.725593162109246
+Los Angeles Lakers,LAL,PG,10,Chris Paul,GSW,1.724920039371065
+Los Angeles Lakers,LAL,C,6,Nic Claxton,BRK,1.720255398509723
+Indiana Pacers,IND,SG,8,Desmond Bane,MEM,1.7194294135100063
+Phoenix Suns,PHO,SG,5,Jalen Green,HOU,1.7193819851610417
+Los Angeles Lakers,LAL,PF,10,Bobby Portis,MIL,1.7177237338535083
+Phoenix Suns,PHO,C,4,Kristaps Porziņģis,BOS,1.7175362289008633
+Milwaukee Bucks,MIL,PF,10,Jalen Williams,OKC,1.7162124023341732
+Minnesota Timberwolves,MIN,PG,7,Darius Garland,CLE,1.7127340124384838
+Miami Heat,MIA,C,9,Rudy Gobert,MIN,1.712195814301344
+New Orleans Pelicans,NOP,SG,7,Desmond Bane,MEM,1.7114070736255058
+Orlando Magic,ORL,C,7,Nic Claxton,BRK,1.7097313768117852
+Brooklyn Nets,BRK,C,8,Kelly Olynyk,UTA,1.7091382508214614
+Milwaukee Bucks,MIL,SF,10,Kelly Oubre Jr.,PHI,1.7082585300122455
+San Antonio Spurs,SAS,C,10,Al Horford,BOS,1.7079772209723143
+Los Angeles Clippers,LAC,PG,8,Jrue Holiday,BOS,1.7067726304151412
+Utah Jazz,UTA,C,10,Deandre Ayton,POR,1.7066301366748065
+New Orleans Pelicans,NOP,PG,8,Tyrese Maxey,PHI,1.7058435576098414
+Phoenix Suns,PHO,SG,6,Immanuel Quickley,NYK,1.7052605245471304
+Los Angeles Clippers,LAC,SG,7,Desmond Bane,MEM,1.7037939202860786
+Indiana Pacers,IND,SF,4,Miles Bridges,CHO,1.7023519344460856
+New Orleans Pelicans,NOP,PG,9,Jrue Holiday,BOS,1.700005990294994
+Los Angeles Clippers,LAC,C,4,Jonas Valančiūnas,NOP,1.6995787986924134
+Sacramento Kings,SAC,C,7,Rudy Gobert,MIN,1.698637754581187
+Denver Nuggets,DEN,SG,7,Desmond Bane,MEM,1.6971910885446515
+Golden State Warriors,GSW,SF,10,Sam Hauser,BOS,1.696416690921594
+Minnesota Timberwolves,MIN,SF,2,Buddy Hield,IND,1.6960239838104125
+Los Angeles Clippers,LAC,PG,9,Tyrese Maxey,PHI,1.6950934499447703
+Philadelphia 76ers,PHI,C,5,Jonas Valančiūnas,NOP,1.694218520517815
+New Orleans Pelicans,NOP,SG,8,Jordan Clarkson,UTA,1.6934620636454718
+Oklahoma City Thunder,OKC,PG,4,CJ McCollum,NOP,1.6925299088965973
+Los Angeles Clippers,LAC,SF,4,DeMar DeRozan,CHI,1.6920633106095153
+Denver Nuggets,DEN,PG,9,Tyrese Maxey,PHI,1.6919028768194988
+Minnesota Timberwolves,MIN,C,1,Anthony Davis,LAL,1.691892462946217
+Denver Nuggets,DEN,PG,10,Jrue Holiday,BOS,1.69152982175933
+Minnesota Timberwolves,MIN,SG,5,Jalen Green,HOU,1.6914316283679236
+Oklahoma City Thunder,OKC,C,1,Anthony Davis,LAL,1.6888121057077954
+Minnesota Timberwolves,MIN,PF,4,Lauri Markkanen,UTA,1.6880101972233617
+Dallas Mavericks,DAL,C,9,Deandre Ayton,POR,1.685101932035101
+Brooklyn Nets,BRK,C,9,Rudy Gobert,MIN,1.6837208979346296
+Minnesota Timberwolves,MIN,SF,3,Brandon Ingram,NOP,1.6831500183069699
+Brooklyn Nets,BRK,C,10,Brook Lopez,MIL,1.679669123682817
+Oklahoma City Thunder,OKC,C,2,Ivica Zubac,LAC,1.678544006904526
+Los Angeles Clippers,LAC,SG,8,Jordan Clarkson,UTA,1.6773093690843062
+Miami Heat,MIA,C,10,Deandre Ayton,POR,1.67709676017201
+Denver Nuggets,DEN,SG,8,Jordan Clarkson,UTA,1.6766713866478238
+Minnesota Timberwolves,MIN,PG,8,Russell Westbrook,LAC,1.675381603586121
+New Orleans Pelicans,NOP,SF,3,DeMar DeRozan,CHI,1.674785973235085
+Denver Nuggets,DEN,SF,4,DeMar DeRozan,CHI,1.674704261561594
+Los Angeles Lakers,LAL,SF,7,Tim Hardaway Jr.,DAL,1.673637782433041
+Los Angeles Lakers,LAL,SF,8,Franz Wagner,ORL,1.6734561977880111
+Minnesota Timberwolves,MIN,PF,5,Kyle Kuzma,WAS,1.673244772338665
+Los Angeles Lakers,LAL,SF,9,Keldon Johnson,SAS,1.6703264393437924
+Indiana Pacers,IND,SG,9,Scottie Barnes,TOR,1.6681339891241878
+Denver Nuggets,DEN,C,5,Jonas Valančiūnas,NOP,1.6664206581250716
+Minnesota Timberwolves,MIN,PF,6,Paolo Banchero,ORL,1.6656406424326682
+Oklahoma City Thunder,OKC,PG,5,Jalen Brunson,NYK,1.6643558995411876
+Minnesota Timberwolves,MIN,SG,6,Immanuel Quickley,NYK,1.6640513785977238
+Phoenix Suns,PHO,PG,9,Tyrese Maxey,PHI,1.6639560354996177
+Phoenix Suns,PHO,SG,7,Desmond Bane,MEM,1.6639068932089385
+Los Angeles Clippers,LAC,SG,9,Josh Giddey,OKC,1.6636319256304615
+Boston Celtics,BOS,PG,4,CJ McCollum,NOP,1.6618663136451342
+Boston Celtics,BOS,C,1,Anthony Davis,LAL,1.6615308486413178
+Sacramento Kings,SAC,C,8,Deandre Ayton,POR,1.6610557529532244
+Sacramento Kings,SAC,C,9,Myles Turner,IND,1.6599711103721881
+Indiana Pacers,IND,SG,10,Jordan Clarkson,UTA,1.659026963447575
+Boston Celtics,BOS,C,2,Ivica Zubac,LAC,1.658168796052004
+Minnesota Timberwolves,MIN,C,2,Ivica Zubac,LAC,1.6573095942888143
+Minnesota Timberwolves,MIN,PF,7,Jimmy Butler,MIA,1.6572586622428653
+New Orleans Pelicans,NOP,SG,9,Bogdan Bogdanović,ATL,1.6569027406039947
+Indiana Pacers,IND,SF,5,Franz Wagner,ORL,1.6555521439440875
+Phoenix Suns,PHO,PG,10,Jrue Holiday,BOS,1.6555303350601092
+Minnesota Timberwolves,MIN,PF,8,Pascal Siakam,TOR,1.6527911640733155
+Indiana Pacers,IND,SF,6,Brandon Miller,CHO,1.6506962615865353
+Phoenix Suns,PHO,SF,4,DeMar DeRozan,CHI,1.6497643403654287
+Los Angeles Clippers,LAC,C,5,Alperen Şengün,HOU,1.649660837954014
+Houston Rockets,HOU,C,8,Kelly Olynyk,UTA,1.6480844914875337
+Houston Rockets,HOU,C,9,Brook Lopez,MIL,1.6479634666867677
+Phoenix Suns,PHO,SG,8,Jordan Clarkson,UTA,1.6475903163725865
+Dallas Mavericks,DAL,C,10,Jarrett Allen,CLE,1.6474612190633713
+Oklahoma City Thunder,OKC,SF,1,Klay Thompson,GSW,1.6463789048758135
+Los Angeles Clippers,LAC,SG,10,Bogdan Bogdanović,ATL,1.6453472146340975
+Oklahoma City Thunder,OKC,SG,1,Dejounte Murray,ATL,1.6451956268971903
+Los Angeles Clippers,LAC,C,6,Nic Claxton,BRK,1.644434118471277
+New Orleans Pelicans,NOP,SF,4,Brandon Miller,CHO,1.644319766622099
+New Orleans Pelicans,NOP,SG,10,Josh Giddey,OKC,1.6422627704353099
+Minnesota Timberwolves,MIN,PG,9,Tyrese Maxey,PHI,1.6415234093871347
+Boston Celtics,BOS,PG,5,Jalen Brunson,NYK,1.6412161051805145
+Denver Nuggets,DEN,SG,9,Josh Giddey,OKC,1.6406557773626584
+Denver Nuggets,DEN,SG,10,Bogdan Bogdanović,ATL,1.6397397657335686
+Chicago Bulls,CHI,C,8,Myles Turner,IND,1.6395267031304182
+Philadelphia 76ers,PHI,C,6,Alperen Şengün,HOU,1.6368553533071943
+Los Angeles Clippers,LAC,SF,5,Miles Bridges,CHO,1.6363216565655885
+Los Angeles Clippers,LAC,SF,6,Brandon Miller,CHO,1.6360091569867228
+Minnesota Timberwolves,MIN,C,3,Kristaps Porziņģis,BOS,1.6358426112539104
+Minnesota Timberwolves,MIN,SG,7,Jordan Clarkson,UTA,1.6355550114498083
+Indiana Pacers,IND,SF,7,Keldon Johnson,SAS,1.6338855720271352
+Oklahoma City Thunder,OKC,PF,4,Jimmy Butler,MIA,1.6319012372128618
+New Orleans Pelicans,NOP,SF,5,Miles Bridges,CHO,1.629792744092869
+Denver Nuggets,DEN,SF,5,Brandon Miller,CHO,1.629420088066426
+Phoenix Suns,PHO,C,5,Jonas Valančiūnas,NOP,1.6284629530052517
+Orlando Magic,ORL,C,8,Myles Turner,IND,1.6275292379846649
+Houston Rockets,HOU,C,10,Al Horford,BOS,1.6260123948301095
+Minnesota Timberwolves,MIN,SG,8,Desmond Bane,MEM,1.6253728334047537
+Los Angeles Clippers,LAC,PG,10,Chris Paul,GSW,1.6250509945341045
+Golden State Warriors,GSW,C,8,Rudy Gobert,MIN,1.6234493343018292
+Sacramento Kings,SAC,C,10,Jarrett Allen,CLE,1.6232297368607096
+New Orleans Pelicans,NOP,PG,10,Mike Conley,MIN,1.621672081327376
+Denver Nuggets,DEN,SF,6,Miles Bridges,CHO,1.621341443866413
+Oklahoma City Thunder,OKC,PG,6,Russell Westbrook,LAC,1.6207163394348436
+Oklahoma City Thunder,OKC,SG,2,Zach LaVine,CHI,1.6197011378837252
+Denver Nuggets,DEN,C,6,Alperen Şengün,HOU,1.6180813452382217
+Indiana Pacers,IND,C,8,Rudy Gobert,MIN,1.615257455319894
+Los Angeles Lakers,LAL,SF,10,Kelly Oubre Jr.,PHI,1.6144763329928742
+Denver Nuggets,DEN,C,7,Nic Claxton,BRK,1.6140518722773922
+Boston Celtics,BOS,SF,1,Klay Thompson,GSW,1.6138456473298013
+Boston Celtics,BOS,SG,1,Dejounte Murray,ATL,1.6135028350795622
+New Orleans Pelicans,NOP,C,5,Alperen Şengün,HOU,1.6122416191380031
+Los Angeles Clippers,LAC,PF,9,Bobby Portis,MIL,1.6108013387271838
+Oklahoma City Thunder,OKC,PG,7,D'Angelo Russell,LAL,1.6076448396893135
+Boston Celtics,BOS,PF,4,Jimmy Butler,MIA,1.6069671685127465
+New Orleans Pelicans,NOP,C,6,Nic Claxton,BRK,1.6053664665070115
+Phoenix Suns,PHO,SG,9,Josh Giddey,OKC,1.6051311260352341
+Minnesota Timberwolves,MIN,C,4,Domantas Sabonis,SAC,1.6045593191432628
+Oklahoma City Thunder,OKC,C,3,Domantas Sabonis,SAC,1.6040665077853302
+Phoenix Suns,PHO,SG,10,Bogdan Bogdanović,ATL,1.6029336577212894
+New Orleans Pelicans,NOP,SF,6,Tim Hardaway Jr.,DAL,1.6026991067836551
+Milwaukee Bucks,MIL,C,8,Rudy Gobert,MIN,1.5991384416209555
+Cleveland Cavaliers,CLE,C,8,Myles Turner,IND,1.5968748536444315
+New York Knicks,NYK,C,8,Myles Turner,IND,1.5967669355478302
+Oklahoma City Thunder,OKC,SG,3,Terry Rozier,CHO,1.5951400868402166
+Phoenix Suns,PHO,SF,5,Brandon Miller,CHO,1.5950085330778259
+Golden State Warriors,GSW,C,9,Deandre Ayton,POR,1.5948990272230568
+Boston Celtics,BOS,SG,2,Zach LaVine,CHI,1.5925796269209294
+Boston Celtics,BOS,PG,6,Russell Westbrook,LAC,1.59227555793411
+Los Angeles Clippers,LAC,SF,7,Franz Wagner,ORL,1.591923547927582
+Oklahoma City Thunder,OKC,SF,2,Brandon Ingram,NOP,1.5915665455758405
+Oklahoma City Thunder,OKC,PF,5,Paolo Banchero,ORL,1.587175584835081
+New Orleans Pelicans,NOP,PF,10,Bobby Portis,MIL,1.586698467165602
+Oklahoma City Thunder,OKC,PF,6,Pascal Siakam,TOR,1.5860763326430152
+Phoenix Suns,PHO,SF,6,Miles Bridges,CHO,1.585758878934484
+Phoenix Suns,PHO,C,6,Nic Claxton,BRK,1.5852127233330222
+Denver Nuggets,DEN,PF,10,Bobby Portis,MIL,1.5848133600806624
+New Orleans Pelicans,NOP,SF,7,Franz Wagner,ORL,1.5842719352968477
+Philadelphia 76ers,PHI,C,7,Nic Claxton,BRK,1.5841789452818853
+Los Angeles Clippers,LAC,SF,8,Keldon Johnson,SAS,1.5827935032446432
+Phoenix Suns,PHO,C,7,Alperen Şengün,HOU,1.5827573930766663
+Denver Nuggets,DEN,SF,7,Tim Hardaway Jr.,DAL,1.5823974763325626
+Los Angeles Clippers,LAC,SF,9,Tim Hardaway Jr.,DAL,1.5823033951367975
+Indiana Pacers,IND,SF,8,Kelly Oubre Jr.,PHI,1.579741902066303
+Minnesota Timberwolves,MIN,PG,10,Jrue Holiday,BOS,1.5796972139587457
+New Orleans Pelicans,NOP,SF,8,Keldon Johnson,SAS,1.5796775996960062
+Boston Celtics,BOS,PG,7,D'Angelo Russell,LAL,1.5789853772971036
+Indiana Pacers,IND,C,9,Deandre Ayton,POR,1.5788790224485318
+Denver Nuggets,DEN,SF,8,Franz Wagner,ORL,1.577941975214454
+Boston Celtics,BOS,C,3,Domantas Sabonis,SAC,1.577076226643401
+New York Knicks,NYK,C,9,Rudy Gobert,MIN,1.5753650042722758
+Milwaukee Bucks,MIL,C,9,Deandre Ayton,POR,1.5741595429523725
+Denver Nuggets,DEN,SF,9,Keldon Johnson,SAS,1.5705564421196854
+Boston Celtics,BOS,SF,2,Brandon Ingram,NOP,1.5694377140350402
+Oklahoma City Thunder,OKC,PG,8,Darius Garland,CLE,1.5685860776729466
+Minnesota Timberwolves,MIN,SF,4,DeMar DeRozan,CHI,1.56856319206446
+Cleveland Cavaliers,CLE,C,9,Rudy Gobert,MIN,1.5675935930633822
+Minnesota Timberwolves,MIN,SG,9,Bogdan Bogdanović,ATL,1.567464361307605
+Oklahoma City Thunder,OKC,PF,7,Karl-Anthony Towns,MIN,1.566935513830503
+Boston Celtics,BOS,SG,3,Terry Rozier,CHO,1.5651387681915607
+Golden State Warriors,GSW,C,10,Onyeka Okongwu,ATL,1.5643212296613935
+Chicago Bulls,CHI,C,9,Kelly Olynyk,UTA,1.5632060836652144
+New York Knicks,NYK,C,10,Deandre Ayton,POR,1.562005709255806
+Boston Celtics,BOS,PF,5,Pascal Siakam,TOR,1.5617288740595154
+Boston Celtics,BOS,PF,6,Paolo Banchero,ORL,1.5616591487667222
+Los Angeles Clippers,LAC,PF,10,Bojan Bogdanović,DET,1.5604413404944988
+New Orleans Pelicans,NOP,SF,9,Sam Hauser,BOS,1.5584066183668375
+Minnesota Timberwolves,MIN,SF,5,Brandon Miller,CHO,1.556170207456292
+Cleveland Cavaliers,CLE,C,10,Deandre Ayton,POR,1.556099877220283
+Indiana Pacers,IND,SF,9,Tim Hardaway Jr.,DAL,1.5557564243970394
+Indiana Pacers,IND,SF,10,Khris Middleton,MIL,1.5547249764813376
+Orlando Magic,ORL,C,9,Brook Lopez,MIL,1.5515930817097652
+Oklahoma City Thunder,OKC,SG,4,Jordan Poole,WAS,1.55050654005163
+Milwaukee Bucks,MIL,C,10,Onyeka Okongwu,ATL,1.549015388386925
+Phoenix Suns,PHO,SF,7,Tim Hardaway Jr.,DAL,1.5484721045625314
+Chicago Bulls,CHI,C,10,Brook Lopez,MIL,1.5479552917665023
+Phoenix Suns,PHO,SF,8,Franz Wagner,ORL,1.547345226372625
+Los Angeles Clippers,LAC,SF,10,Sam Hauser,BOS,1.546159897414907
+Indiana Pacers,IND,C,10,Onyeka Okongwu,ATL,1.5461463943913885
+Denver Nuggets,DEN,SF,10,Sam Hauser,BOS,1.5450891500696795
+Phoenix Suns,PHO,PF,9,Bobby Portis,MIL,1.5445187779631373
+Boston Celtics,BOS,PG,8,Darius Garland,CLE,1.5426947856147448
+Orlando Magic,ORL,C,10,Kelly Olynyk,UTA,1.54152133934335
+Boston Celtics,BOS,PF,7,Karl-Anthony Towns,MIN,1.5396888311697192
+Minnesota Timberwolves,MIN,SF,6,Tim Hardaway Jr.,DAL,1.537966433935975
+Phoenix Suns,PHO,SF,9,Keldon Johnson,SAS,1.5377695162978624
+Oklahoma City Thunder,OKC,PF,8,Kyle Kuzma,WAS,1.5356448805766252
+Phoenix Suns,PHO,PF,10,Bojan Bogdanović,DET,1.533513225311506
+Oklahoma City Thunder,OKC,PF,9,Lauri Markkanen,UTA,1.5312829278858273
+Oklahoma City Thunder,OKC,C,4,Kristaps Porziņģis,BOS,1.5309396843277931
+Oklahoma City Thunder,OKC,SF,3,DeMar DeRozan,CHI,1.5297039005232242
+Minnesota Timberwolves,MIN,PF,9,Bojan Bogdanović,DET,1.5273889406101069
+Oklahoma City Thunder,OKC,SG,5,Jalen Green,HOU,1.5260062908412682
+Minnesota Timberwolves,MIN,SG,10,RJ Barrett,NYK,1.5239898368994316
+Boston Celtics,BOS,SG,4,Jordan Poole,WAS,1.5222532848204695
+Phoenix Suns,PHO,SF,10,Sam Hauser,BOS,1.5212166992802592
+New Orleans Pelicans,NOP,SF,10,Kelly Oubre Jr.,PHI,1.5149293662106684
+Boston Celtics,BOS,SF,3,DeMar DeRozan,CHI,1.511476661184973
+Minnesota Timberwolves,MIN,SF,7,Miles Bridges,CHO,1.511166855095392
+Minnesota Timberwolves,MIN,SF,8,Sam Hauser,BOS,1.5090306927327735
+Boston Celtics,BOS,PF,8,Kyle Kuzma,WAS,1.5069458949149963
+Boston Celtics,BOS,PF,9,Lauri Markkanen,UTA,1.500428433452727
+Oklahoma City Thunder,OKC,SG,6,Immanuel Quickley,NYK,1.5000625929358633
+Boston Celtics,BOS,SG,5,Jalen Green,HOU,1.4987002645036356
+Oklahoma City Thunder,OKC,PG,9,Tyrese Maxey,PHI,1.495509980607971
+Los Angeles Lakers,LAL,C,7,Rudy Gobert,MIN,1.488694826079625
+Los Angeles Lakers,LAL,C,8,Onyeka Okongwu,ATL,1.4842974439116245
+Los Angeles Lakers,LAL,C,9,Deandre Ayton,POR,1.4832821195727397
+Oklahoma City Thunder,OKC,SF,4,Buddy Hield,IND,1.4792679580345987
+Philadelphia 76ers,PHI,C,8,Myles Turner,IND,1.4792204400710824
+Minnesota Timberwolves,MIN,SF,9,Franz Wagner,ORL,1.4785657576975941
+Minnesota Timberwolves,MIN,C,5,Jonas Valančiūnas,NOP,1.4764688166710667
+Minnesota Timberwolves,MIN,SF,10,Keldon Johnson,SAS,1.4756411352700252
+Boston Celtics,BOS,PG,9,Tyrese Maxey,PHI,1.471762392390195
+Boston Celtics,BOS,SG,6,Immanuel Quickley,NYK,1.4708567438254814
+Oklahoma City Thunder,OKC,SG,7,Desmond Bane,MEM,1.469135608860157
+Oklahoma City Thunder,OKC,C,5,Nic Claxton,BRK,1.4678795151664334
+Oklahoma City Thunder,OKC,SG,8,Jordan Clarkson,UTA,1.466714821966277
+Oklahoma City Thunder,OKC,PG,10,Jrue Holiday,BOS,1.461763721609874
+Oklahoma City Thunder,OKC,C,6,Jonas Valančiūnas,NOP,1.459786566573253
+Boston Celtics,BOS,C,4,Nic Claxton,BRK,1.4489090595372993
+Minnesota Timberwolves,MIN,C,6,Nic Claxton,BRK,1.4478522190708072
+Los Angeles Lakers,LAL,C,10,Jarrett Allen,CLE,1.4466372745720162
+Boston Celtics,BOS,SF,4,Buddy Hield,IND,1.4443647657700969
+Boston Celtics,BOS,SG,7,Jordan Clarkson,UTA,1.4414553925626747
+Boston Celtics,BOS,SG,8,Desmond Bane,MEM,1.441425380410649
+Minnesota Timberwolves,MIN,PF,10,Jerami Grant,POR,1.4391619362578811
+Minnesota Timberwolves,MIN,C,7,Alperen Şengün,HOU,1.4382652836771983
+Boston Celtics,BOS,C,5,Jonas Valančiūnas,NOP,1.4334221882915195
+Oklahoma City Thunder,OKC,C,7,Alperen Şengün,HOU,1.4272906472294506
+Los Angeles Clippers,LAC,C,7,Onyeka Okongwu,ATL,1.4241229584415787
+Oklahoma City Thunder,OKC,SG,9,Bradley Beal,PHO,1.4217981492414662
+Philadelphia 76ers,PHI,C,9,Brook Lopez,MIL,1.4149523263564032
+Oklahoma City Thunder,OKC,SG,10,RJ Barrett,NYK,1.411350153149796
+Boston Celtics,BOS,SG,9,Josh Giddey,OKC,1.4041454374199764
+Boston Celtics,BOS,C,6,Alperen Şengün,HOU,1.4029031467223754
+Denver Nuggets,DEN,C,8,Onyeka Okongwu,ATL,1.4017137193318572
+Boston Celtics,BOS,SG,10,Bradley Beal,PHO,1.4014787987134052
+Los Angeles Clippers,LAC,C,8,Deandre Ayton,POR,1.399317655960255
+New Orleans Pelicans,NOP,C,7,Onyeka Okongwu,ATL,1.3962486811963373
+Philadelphia 76ers,PHI,C,10,Onyeka Okongwu,ATL,1.3943887852986339
+Oklahoma City Thunder,OKC,SF,5,Miles Bridges,CHO,1.3940568679550664
+Oklahoma City Thunder,OKC,SF,6,Brandon Miller,CHO,1.3931451368736973
+Los Angeles Clippers,LAC,C,9,Rudy Gobert,MIN,1.3872851853428572
+Oklahoma City Thunder,OKC,SF,7,Franz Wagner,ORL,1.384799088802553
+Phoenix Suns,PHO,C,8,Onyeka Okongwu,ATL,1.3788637351135884
+Oklahoma City Thunder,OKC,PF,10,Zion Williamson,NOP,1.375495516394894
+Oklahoma City Thunder,OKC,SF,8,Sam Hauser,BOS,1.37387798955708
+Denver Nuggets,DEN,C,9,Deandre Ayton,POR,1.366551638388651
+Boston Celtics,BOS,SF,5,Miles Bridges,CHO,1.3660517859145016
+Boston Celtics,BOS,SF,6,Brandon Miller,CHO,1.364447833066996
+Los Angeles Clippers,LAC,C,10,Jarrett Allen,CLE,1.363065133595745
+Boston Celtics,BOS,SF,7,Franz Wagner,ORL,1.3609429139759888
+Boston Celtics,BOS,PF,10,Zion Williamson,NOP,1.3607975244530082
+Oklahoma City Thunder,OKC,SF,9,Keldon Johnson,SAS,1.3578630629432633
+New Orleans Pelicans,NOP,C,8,Deandre Ayton,POR,1.3576706298502697
+New Orleans Pelicans,NOP,C,9,Myles Turner,IND,1.3501019475268676
+Boston Celtics,BOS,PG,10,Chris Paul,GSW,1.3496744543693378
+Denver Nuggets,DEN,C,10,Rudy Gobert,MIN,1.345922964999884
+Oklahoma City Thunder,OKC,SF,10,Tim Hardaway Jr.,DAL,1.3357183044841798
+Phoenix Suns,PHO,C,9,Deandre Ayton,POR,1.3346346863316512
+New Orleans Pelicans,NOP,C,10,Rudy Gobert,MIN,1.333697271848471
+Boston Celtics,BOS,SF,8,Keldon Johnson,SAS,1.3317382489937881
+Phoenix Suns,PHO,C,10,Myles Turner,IND,1.3141749826918796
+Boston Celtics,BOS,SF,9,Tim Hardaway Jr.,DAL,1.3060798786018417
+Oklahoma City Thunder,OKC,C,8,Onyeka Okongwu,ATL,1.282428985983011
+Boston Celtics,BOS,SF,10,Khris Middleton,MIL,1.279547519427908
+Minnesota Timberwolves,MIN,C,8,Onyeka Okongwu,ATL,1.2770424200865798
+Boston Celtics,BOS,C,7,Onyeka Okongwu,ATL,1.267058331276776
+Minnesota Timberwolves,MIN,C,9,Myles Turner,IND,1.2387527749491154
+Oklahoma City Thunder,OKC,C,9,Deandre Ayton,POR,1.2029886114849597
+Minnesota Timberwolves,MIN,C,10,Deandre Ayton,POR,1.1862350230427954
+Boston Celtics,BOS,C,8,Deandre Ayton,POR,1.1818181054894006
+Oklahoma City Thunder,OKC,C,10,Jarrett Allen,CLE,1.1677749724229851
+Boston Celtics,BOS,C,9,Jarrett Allen,CLE,1.1467277115214451
+Boston Celtics,BOS,C,10,Myles Turner,IND,1.129873948456588

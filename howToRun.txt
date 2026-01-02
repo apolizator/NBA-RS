@@ -1,0 +1,23 @@
+1. The baselines (random, notime, all1, final) are located in the project folder (RS-NBA-DRAFT).
+2. Open the desired folder in the terminal.
+3. Start the pipeline with the command "python3 run.py" and create weighted statistics and necessary files based on recent years.
+4. Enter how many recommendations you want for each position (PG, SG, SF, PF, C).
+5. When the code finishes running in the terminal, we can see the output of the results.
+6. If we want to see all the suggested players and the correct prediction results, we can look at all the tables we created in the processed folder within the data folder in the baseline we ran.
+7. With the command "python3 src/report_filtred_recs.py", we can see the list of players who should normally be suggested based on their fit_score but were not suggested because they were caught by the filters we set.
+8. With the command "python3 src/visualize_player_radar.py", we can draw polygon graphs indicating the strengths of players and teams. (When the command is run, reference team names and player names are given as a list)
+9. You can open the terminal in the main folder (RS-NBA-DRAFT) and plot the ROC table, etc., with the code "plot_roc_auc.py".
+10. With the command "python3 graf.py", we can analyze the baseline outputs with each other.
+
+
+
+1. proje klasörünün(RS-NBA-DRAFT) içinde baselinelar mevcut (random,notime,all1,final).
+2. istediğiniz klasörü terminalde açıyoruz.
+3. "python3 run.py" komutu ile pipeline başlatılıyor ve son yıllara göre ağırlıklı istatistikler ve gerekli dosyalar oluşturuluyor.
+4. pozisyonlara göre kaçar tane öneri istediğimizi yazıyoruz.(PG,SG,SF,PF,C)
+5. terminalde kod çalışmayı bitirdiğinde sonuçların çıktısını görebiliyoruz.
+6. eğer önerilen bütün oyuncuları ve doğru tahmin sonuçlarını görmek için çalıştırdığımız baseline içinde data klasöründeki processed klasörünün içinde oluşturduğumuz bütün tablolara bakabiliriz.
+7. "python3 src/report_filtred_recs.py" komutu ile oluşan dosyada normalde fit_scoruna göre önerilmesi gerektiği halde koyduğumuz filtrelere takılıp önerilmeyen oyuncuların listesini görebiliyoruz 
+8. "python3 src/visualize_player_radar.py" komutu ile oyuncu ve takımların güçlü yönlerini belirten çokgen grafikleri çizebiliyoruz.(komut çalıştırıldığında referans takım isimleri ve oyuncu isimleri liste olarak verilmektedir)
+9. ana klasörde (RS-NBA-DRAFT) terminali açıp "plot_roc_auc.py" kodu ile roc tablosunu vs.. çizdirebilirsiniz.
+10. "python3 graf.py" komutu ile baseline çıktılarını birbirleri ile analiz edebiliyorsuz.
